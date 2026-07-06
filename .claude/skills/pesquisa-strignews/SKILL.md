@@ -28,7 +28,7 @@ description: >
 | MERCADO & CAMPANHAS | Regulações, tendências de mercado, economia |
 | MARKETING | Estratégias, tendências, cases de marca |
 | PLATAFORMAS | Redes sociais, algoritmos, atualizações |
-| CREATORS | Criadores de conteúdo, regulações, CONAR |
+| CREATORS | Movimentos de influenciadores e criadores de conteúdo: contratos, brand deals, reconhecimento de plataforma, regulações, CONAR, impacto gerado. Figuras públicas digitais conhecidas no Brasil (influencers brasileiros, nomes globais como Elon Musk, Trump, celebridades). Fontes prioritárias: Exame, Meio & Mensagem, CNN Brasil. **Não inclui** robôs, saúde digital ou tecnologia em geral — só movimentos do universo creator. |
 | EDUCAÇÃO & CARREIRAS | IA no trabalho, habilidades, tendências de carreira |
 
 ---
