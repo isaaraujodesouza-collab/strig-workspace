@@ -157,13 +157,16 @@ Alternativa Shutterstock: "[termo de busca sugerido]"
 
 Escrever todos os elementos da edição na ordem:
 
-1. **Assunto do e-mail:** 3 notícias principais separadas por vírgula + "e muito mais!" (sem ponto final)
+1. **Título da edição:** versão concisa do assunto do e-mail, sem "e muito mais!" — é o título do post no Beehiiv (aparece na URL e no topo da versão web)
+2. **Assunto do e-mail:** 3 notícias principais separadas por vírgula + "e muito mais!" (sem ponto final)
 2. **Preview text:** "Chegou mais uma Strig News: [2-3 notícias] e muito mais nessa edição!" (~200 caracteres)
 3. **Saudação:** Abre com "Alôôô! Nova edição da Strig News chegou! 🙌" + lista todas as notícias em frase corrida + convite para avaliar
 4. **Sumário:** Bloco "NOTÍCIAS DE HOJE - Sumário" com editoria + título de cada notícia + data no formato `DD/MM/AAAA - HH:MM`
 5. **Corpo da edição:** 7 notícias no formato padrão (ver abaixo)
 6. **Meta title:** ~200 caracteres, palavras-chave SEO
 7. **Meta descrição:** ~500 caracteres, cobre notícias 4-7
+
+> **Ordem de apresentação no arquivo:** Título da edição → Assunto do e-mail → Preview text → Saudação → Sumário → Corpo → Meta title → Meta descrição → Links WhatsApp
 
 **Formato de cada notícia:**
 ```
