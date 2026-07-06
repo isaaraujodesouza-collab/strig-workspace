@@ -90,6 +90,8 @@ Resumo em 2-3 linhas com dados concretos (números, empresas, impacto).
 
 Indicar com ⚠️ pautas relevantes que foram descobertas apenas na varredura direta das fontes (não apareceriam em buscas por palavra-chave).
 
+**Regra de mínimo por editoria:** cada editoria deve ter **pelo menos 2 notícias** no banco — uma para virar principal e pelo menos uma para o "O que mais foi destaque". Se alguma editoria tiver apenas 1 notícia após a varredura, fazer uma busca adicional antes de apresentar o banco. Não apresentar o banco com editorias tendo apenas 1 opção.
+
 **Não sugerir nenhuma pauta ainda.** Apenas apresentar o banco completo.
 
 ---
