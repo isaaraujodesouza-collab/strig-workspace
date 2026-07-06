@@ -1,14 +1,64 @@
-# Claude Code OS — Kit Ratos de IA
+# Strig Lab — Claude Code OS
 
-Este repositório é o kit de boas-vindas do curso Claude Code OS.
+Workspace central da Agência Strig Lab para produção de conteúdo, entregas de clientes, desenvolvimento web e operação interna.
 
-Se você acabou de clonar esse repositório:
-1. Rode `/setup` pra configurar o sistema pro seu negócio (uns 5 minutos)
-2. Depois rode `/mapear` pra criar skills personalizadas pro que você faz no dia a dia
+## Sobre o negócio
+
+Agência Strig Lab (Santo André/SP) — marketing digital e consultoria. Ajuda negócios locais, PMEs e autônomos a construir estrutura digital estratégica e gerar clientes de forma previsível. Conceito central: "we are dreammakers".
+
+**Fundadores:** Isabelle Araujo de Souza (Isa) e Cristhyan Correa Nunes (Chrys). Equipe: Marina (estagiária), Ryan (estagiário), Tati (SDR).
+
+## O que mais fazemos aqui
+
+- PPD (Pacote de Posicionamento Digital): GMB + Landing Page + Instagram otimizados em 30 dias
+- Social media (planejamento, edição, postagem) e tráfego pago (Meta Ads, Google Ads)
+- Copywriting com framework N3 e planejamento editorial com método CRESCER
+- Sites e landing pages em HTML + Tailwind CSS
+- Consultoria estratégica e documentos de posicionamento
+- Strig News — newsletter semanal de marketing e tecnologia (strignews.beehiiv.com)
+
+## Clientes ativos
+
+Quatá (M&A/valuation, LinkedIn), IBR (contratos financeiros, tráfego + social), Saturno (manutenção de site), Kit Lanches Express (social media).
+
+## Tom de voz
+
+Direto, provocativo, educativo. Frases curtas. Anti-guru, anti-clichê. Sem travessões. Entrega o pedido antes de explicar.
+
+## Estrutura de pastas
+
+```
+clientes/           — pasta por cliente com briefing e entregas
+ppd/                — templates e projetos do Pacote de Posicionamento Digital
+propostas/          — propostas comerciais
+conteudo/           — produção interna (Strig News, redes sociais da agência)
+dados/              — drop zone pra arquivos a analisar (CSV, PDF, XLSX)
+marca/              — identidade visual da Strig Lab
+_contexto/          — empresa, preferências e estratégia (lido em toda sessão)
+templates/skills/   — templates de skills prontos pra personalizar com /mapear
+templates/ferramentas/catalogo.md — APIs e ferramentas disponíveis pra usar em skills
+```
+
+## Comandos disponíveis
+
+| Comando | Quando usar |
+|---|---|
+| `/iniciar` | Início de cada sessão — carrega contexto e pergunta o que fazer |
+| `/mapear` | Entrevista sobre processos repetitivos e cria skills personalizadas |
+| `/syncar` | Salvar trabalho no GitHub (commit + push) |
+| `/atualizar` | Varre o projeto e atualiza arquivos de contexto desatualizados |
+| `/novo-projeto` | Cria pasta de projeto/cliente com CLAUDE.md dedicado |
+| `/setup` | Refaz a configuração do sistema |
+
+Skills disponíveis: `/carrossel`, `/proposta-comercial`, `/publicar-site`, `/slide`, `/analisar-dados`, `/roteiro-post`, `/email-profissional`.
+
+**Skills de social media (Strig Lab):** `/pesquisa-social`, `/planejamento-editorial`, `/copy-post`. Em construção: `/relatorio-social`, `/apresentacao-aprovacao`.
+
+**Segredos:** chaves de API ficam em `.env` (já no `.gitignore`). Skills referenciam via `--env-file=.env`.
+
+**Auto-sync:** `.claude/settings.json` tem um hook `Stop` que faz `git add -A && git commit && git push` ao final de toda sessão.
 
 ---
-
-<!-- Este arquivo será atualizado pelo /setup com o contexto do seu negócio. -->
 
 ## Contexto do negócio
 
