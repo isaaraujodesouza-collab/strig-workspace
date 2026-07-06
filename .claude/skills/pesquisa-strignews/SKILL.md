@@ -179,7 +179,12 @@ O que mais foi destaque:
 - [Outra notícia da mesma editoria que não virou artigo principal - Fonte](URL)
 ```
 
-**Regra do "O que mais foi destaque":** os links são outras notícias do banco que pertencem à **mesma editoria** da notícia principal mas que não foram selecionadas para a edição. Não são links aprofundando o mesmo assunto — são notícias diferentes da mesma categoria. Ex: na notícia de MARKETING, os links apontam para outros acontecimentos de marketing da semana que ficaram de fora.
+**Regra do "O que mais foi destaque":** os links são **outras notícias do banco** (Passo 4) que pertencem à mesma editoria da notícia principal mas que **não foram selecionadas para a edição**. Regras obrigatórias:
+- **Nunca** usar links que aprofundam ou complementam o mesmo assunto da notícia principal — são notícias *diferentes* da mesma categoria.
+- **Nunca** inventar ou buscar links novos nesse momento: usar apenas notícias que estavam no banco montado no Passo 4.
+- Se uma notícia mudou de editoria (ex: uma pauta de TECH virou MARKETING), as notícias de destaque devem refletir a editoria *final* atribuída, não a original.
+- Se não houver 2 notícias do banco na mesma editoria, usar 1 link ou buscar uma notícia relacionada à editoria que esteve na varredura mas não entrou no banco principal.
+- Ex: na notícia de MARKETING, os links apontam para outros acontecimentos de marketing da semana que ficaram de fora — não para artigos relacionados à mesma empresa ou tema da notícia principal.
 
 **Extensão por notícia:** 1.500 a 2.000 caracteres.
 
