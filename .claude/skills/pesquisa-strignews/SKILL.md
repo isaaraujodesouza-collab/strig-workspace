@@ -92,6 +92,8 @@ Indicar com ⚠️ pautas relevantes que foram descobertas apenas na varredura d
 
 **Regra de mínimo por editoria:** cada editoria deve ter **pelo menos 2 notícias** no banco — uma para virar principal e pelo menos uma para o "O que mais foi destaque". Se alguma editoria tiver apenas 1 notícia após a varredura, fazer uma busca adicional antes de apresentar o banco. Não apresentar o banco com editorias tendo apenas 1 opção.
 
+**Regra de temporalidade:** todas as notícias do banco — tanto as principais quanto as de destaque — devem ser da **mesma semana da edição**. Não usar notícias de semanas ou meses anteriores, mesmo que sejam relevantes para o tema. Se uma notícia encontrada for antiga, descartá-la e buscar uma alternativa da semana corrente.
+
 **Não sugerir nenhuma pauta ainda.** Apenas apresentar o banco completo.
 
 ---
