@@ -129,12 +129,13 @@ Fazer todos os fetches em paralelo.
 
 ### Passo 7.5 — Buscar imagens para cada notícia
 
-Para cada uma das 7 notícias, buscar uma imagem com crédito adequado. Fazer as 7 buscas em paralelo.
+Para cada uma das 7 notícias, buscar 2-3 opções de imagem com crédito adequado. Fazer as 7 buscas em paralelo.
 
 **Abordagem:**
-1. Usar WebSearch buscando pelo título da notícia + "imagem" ou "foto" para encontrar a imagem usada na matéria original
-2. Identificar a URL da imagem e a fonte (agência, fotógrafo, veículo)
-3. Sugerir também um termo de busca no Shutterstock como alternativa
+1. Usar WebSearch buscando pelo título da notícia + "imagem" ou "foto" para encontrar imagens usadas na matéria original
+2. Identificar a URL direta da imagem e a fonte (agência, fotógrafo, veículo)
+3. Incluir link para a matéria original como segunda opção quando a imagem direta não estiver disponível
+4. Sempre oferecer um termo de busca no Shutterstock como terceira opção
 
 **Formatos de crédito aceitos:**
 - `Foto: Reuters` / `Foto: AP` / `Foto: AFP`
@@ -143,13 +144,16 @@ Para cada uma das 7 notícias, buscar uma imagem com crédito adequado. Fazer as
 - `Foto: Divulgação [Empresa]`
 - `Foto: Shutterstock`
 
-**Entregar por notícia:**
+**Posicionamento:** As imagens de cada notícia devem ser inseridas **logo abaixo da linha fina (subtítulo em itálico)**, antes do primeiro parágrafo do texto. Usar o bloco abaixo para cada artigo:
+
 ```
-[EDITORIA]
-Imagem sugerida: [URL da imagem ou descrição]
-Crédito: Foto: [crédito formatado]
-Alternativa Shutterstock: "[termo de busca sugerido]"
+> 📷 **Imagens sugeridas:**
+> **Opção 1:** [Descrição — Crédito](URL direta da imagem)
+> **Opção 2:** [Descrição — fonte do artigo](URL do artigo)
+> **Opção 3 (Shutterstock):** "termo de busca sugerido"
 ```
+
+**Não criar tabela de imagens separada no final do arquivo.** As imagens ficam embutidas em cada notícia.
 
 ---
 
