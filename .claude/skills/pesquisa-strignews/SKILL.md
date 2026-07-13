@@ -161,7 +161,11 @@ Escrever todos os elementos da edição na ordem:
 2. **Assunto do e-mail:** 3 notícias principais separadas por vírgula + "e muito mais!" (sem ponto final)
 2. **Preview text:** "Chegou mais uma Strig News: [2-3 notícias] e muito mais nessa edição!" (~200 caracteres)
 3. **Saudação:** Abre com "Alôôô! Nova edição da Strig News chegou! 🙌" + lista todas as notícias em frase corrida + convite para avaliar
-4. **Sumário:** Bloco "NOTÍCIAS DE HOJE - Sumário" com editoria + título de cada notícia + data no formato `DD/MM/AAAA - HH:MM`
+4. **Sumário:** Bloco "NOTÍCIAS DE HOJE - Sumário" com uma linha por notícia no formato exato: `EDITORIA: Título da notícia` — sem emoji, sem data, sem prefixo. Exemplo:
+   ```
+   EVENTOS & MUNDO: Apple processa OpenAI e ex-funcionários por roubo sistemático de segredos de hardware
+   TECH & IA: Câmara vai votar regulação das big techs antes do recesso de 18 de julho
+   ```
 5. **Corpo da edição:** 7 notícias no formato padrão (ver abaixo)
 6. **Meta title:** ~200 caracteres, palavras-chave SEO
 7. **Meta descrição:** ~500 caracteres, cobre notícias 4-7
