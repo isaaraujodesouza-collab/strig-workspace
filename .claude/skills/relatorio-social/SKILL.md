@@ -1,189 +1,153 @@
 ---
 name: relatorio-social
 description: >
-  Gera o relatório de performance de social media orgânico para um cliente da Strig Lab.
-  Foco em conteúdo orgânico (alcance, seguidores, engajamento, melhores posts) — nunca tráfego pago.
-  A usuária traz os dados (prints/PDF/export dos insights) e a skill produz um documento .md
-  com resumo executivo, números comparados ao período anterior, destaques e recomendações.
+  Gera o relatório de social media ORGÂNICO de um cliente da Strig Lab como dashboard visual
+  (HTML + PDF) no padrão premium da agência — mesmo visual do relatório de tráfego, com métricas
+  de orgânico: alcance, seguidores, engajamento, audiência, melhores posts e stories. Nunca tráfego pago.
+  Serve Instagram e LinkedIn (a plataforma é definida no config). A usuária traz os dados (export do
+  Metricool / prints dos insights) e a skill monta o config e roda o gerador.
   Use quando o usuário pedir "relatório do cliente X", "relatório de social", "fecha o mês do cliente X",
   "monta o relatório de [mês]", "analisa os insights do cliente X".
 ---
 
 # /relatorio-social — Relatório de Social Media (Orgânico)
 
-Este relatório é **só de orgânico**. Se o cliente também tem tráfego pago, os números de anúncios não entram aqui — este documento cobre alcance, seguidores, engajamento e conteúdo.
+Este relatório é **só de orgânico**. Nenhum número de tráfego pago entra aqui. O entregável é um
+dashboard de slides (paisagem 1920x1080) em HTML + PDF, no visual da Strig (roxo #7F00FF, header
+preto, cards brancos, fonte Poppins). O relatório de tráfego é a skill irmã; este segue o mesmo motor.
+
+## Como funciona (visão geral)
+
+Um script Python (`scripts/build_relatorio_social.py`) lê um `config.json` com os dados do período e
+gera o HTML + PDF. A skill preenche o config a partir dos dados que a usuária trouxer.
+
+```
+dados do Metricool  →  config.json  →  build_relatorio_social.py  →  relatório.html + .pdf
+```
 
 ## Dependências
 
-- `_contexto/empresa.md` — contexto da Strig
-- `_contexto/preferencias.md` — tom de voz
-- `clientes/[nome-do-cliente]/briefing.md` — objetivo do cliente no social (se existir)
-- `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` — o que foi planejado no período (pra cruzar com o resultado)
-- Relatórios anteriores salvos em `clientes/[nome-do-cliente]/` — pra comparar a evolução
+- `_contexto/preferencias.md` — tom de voz (para o resumo e os insights)
+- Python 3.12 + `playwright` + `pillow` + o chromium do playwright (já instalados nesta máquina)
+- Logo em `marca/logo-strig/logo branco.png` (se não existir, o script usa o texto "strig lab")
+
+**Rodar o gerador nesta máquina** (Python está fora do PATH, use o caminho completo):
+
+```
+"C:\Users\isaar\AppData\Local\Programs\Python\Python312\python.exe" ^
+  .claude\skills\relatorio-social\scripts\build_relatorio_social.py ^
+  --config <config.json> --out-dir <pasta de saída>
+```
+
+Adicionar `--no-pdf` para gerar só o HTML (mais rápido, útil pra revisar antes de renderizar o PDF).
+No outro computador da agência, onde o Python está no PATH, basta trocar por `python`.
 
 ---
 
 ## Workflow
 
-### Passo 1 — Identificar cliente, período e plataformas
+### Passo 1 — Identificar cliente, período e plataforma
 
 Se não informado, perguntar em bloco único:
-> "Para qual cliente é o relatório, qual o período (ex: junho/26, ou 01/06 a 15/06) e quais plataformas (Instagram, LinkedIn, Facebook, TikTok)?"
+> "Para qual cliente é o relatório, qual o período e qual plataforma (Instagram, LinkedIn ou os dois)?"
 
-O período **varia por cliente** — sempre confirmar. Não assumir mensal.
+O período **varia por cliente** — sempre confirmar, não assumir mensal. Perguntar também o período
+anterior de comparação (o Metricool já traz "comparado com").
 
-### Passo 2 — Receber e ler os dados
+### Passo 2 — Receber os dados
 
-A usuária vai enviar os dados dos insights (prints, PDF ou export da ferramenta). Ler os documentos e extrair os números de cada plataforma.
+A usuária traz o export do Metricool (PDF/print) ou os prints dos insights nativos. Ler e extrair.
 
-**Se ela ainda não mandou os dados**, pedir exatamente o que precisa, pra ela não ficar perdida:
+Se ela ainda não mandou, pedir de forma objetiva pra ela não ficar perdida:
 
-> "Me manda os insights do período. Do Instagram, o ideal é ter:
-> - Contas alcançadas (e quantas eram seguidores vs. não seguidores)
-> - Contas com engajamento
-> - Crescimento de seguidores (novos, deixaram de seguir, saldo)
-> - Visitas ao perfil e cliques no link
-> - Os posts com melhor desempenho do período (alcance, salvamentos, compartilhamentos)
->
-> Pode ser print da aba Insights do próprio Instagram ou export do Metricool. Manda o que tiver que eu trabalho com isso."
+> "Me manda o relatório do Metricool (ou os prints dos insights) do período. Preciso de:
+> - Os KPIs do topo com a variação vs. período anterior (alcance, seguidores, interações, curtidas, taxa de engajamento...)
+> - Alcance por dia (pro gráfico de evolução)
+> - Audiência: gênero, idade e principais cidades
+> - As melhores publicações (alcance, visualizações, curtidas, comentários, salvos, compart.)
+> - Os stories, se houver (alcance, saídas, respostas, toques)
+> Manda o que tiver que eu trabalho com isso."
 
-Adaptar a lista à plataforma:
-- **LinkedIn (Quatá):** impressões, visualizações da página, novos seguidores, taxa de engajamento, principais publicações.
-- **TikTok:** visualizações, alcance, seguidores, tempo médio de exibição, vídeos com melhor desempenho.
+**Nunca inventar número.** Se um dado não veio, deixar de fora e registrar (ver Regras).
 
-**Nunca inventar número.** Se um dado não veio, trabalhar com o que tem e sinalizar no relatório o que ficou de fora (ver Regras).
+### Passo 3 — Montar o config.json
 
-### Passo 3 — Buscar o período anterior
+Usar `exemplos/config-exemplo-social.json` como base. Preencher com os dados do cliente.
+Salvar o config em `clientes/[cliente]/relatorio-[periodo]-config.json`.
 
-Procurar em `clientes/[nome-do-cliente]/` um relatório anterior (`relatorio-*.md`). Se existir, usar os números dele como base de comparação.
+Ver **Schema do config** abaixo. Pontos de atenção:
+- `plataforma` define o texto do header ("Instagram", "LinkedIn", "Instagram + Facebook").
+- Cada KPI tem `delta` com `dir` (up/down) e `good` (true/false). A **cor segue `good`, não a direção**:
+  taxa de engajamento caindo é ruim (bad/vermelho) mesmo sendo uma queda; alcance subindo é bom (verde).
+- `audiencia` é flexível: para LinkedIn troca gênero/idade/cidade por função/setor/senioridade
+  (mesmos blocos `tipo: "pie"` ou `tipo: "bar"`). É isso que faz a skill servir qualquer cliente.
+- Slides são condicionais: só aparece o slide de audiência se houver `audiencia`, o de posts se houver
+  `posts`, etc. Cliente sem stories não gera slide de stories.
 
-Se não existir relatório anterior, perguntar:
-> "Tem os números do período anterior pra eu comparar a evolução? Se não tiver, faço o relatório só com o período atual e a comparação entra a partir do próximo."
+### Passo 4 — Escrever o resumo e os insights
 
-### Passo 4 — Calcular variações
+Esta é a parte que dá valor. Não é só listar número.
 
-Para cada métrica que tenha período anterior, calcular a variação:
-- Variação absoluta (ex: +312 seguidores)
-- Variação percentual (ex: +8,4%)
+- **Resumo do período:** 2-3 frases factuais do que aconteceu, com os números principais em negrito.
+- **Insights (3 a 5):** leitura estratégica. Cruzar métricas (ex: alcance subiu mas taxa caiu = chegou
+  gente nova, foco agora é converter em salvamento). Ligar audiência ao perfil do cliente. Sugerir ação.
 
-Marcar visualmente a direção: ▲ subiu / ▼ caiu / ▬ estável.
+Tom: direto, embasado no dado, sem clichê. Dado é resposta, não decoração. Nada de "seu perfil está
+bombando". Adaptar a linguagem ao cliente (não usar a voz combativa da Strig no relatório de outro negócio).
 
-Calcular a **taxa de engajamento** quando houver dados:
-`interações totais ÷ alcance × 100` (ou ÷ seguidores, deixar explícito qual base foi usada).
+### Passo 5 — Rodar o gerador
 
-### Passo 5 — Analisar (esta é a parte que dá valor)
+Rodar o comando do bloco Dependências apontando pro config. Salvar a saída em
+`clientes/[cliente]/`. Conferir o PDF antes de entregar.
 
-Não é só listar número. Cruzar os dados com o conteúdo do período:
+### Passo 6 — Entregar
 
-1. **O que funcionou:** quais posts/formatos/temas puxaram alcance e engajamento. Se houver `planejamento-[mes].md`, cruzar com as editorias CRESCER — qual letra performou melhor.
-2. **O que não funcionou:** onde o alcance ou engajamento caiu, formato que não engajou.
-3. **Leitura estratégica:** o que os números dizem sobre a fase do cliente (topo/meio/fundo de funil), e o que isso sugere pro próximo período.
-
-Tom: direto, embasado no dado, sem enrolação. Dado é resposta, não decoração. Nada de "seu perfil está bombando" — falar o que aconteceu e por quê.
-
-### Passo 6 — Montar o relatório
-
-Gerar o documento seguindo a **Estrutura do relatório** abaixo.
-
-### Passo 7 — Salvar e informar
-
-Salvar em `clientes/[nome-do-cliente]/relatorio-[periodo]-[ano].md`
-(ex: `relatorio-junho-26.md` ou `relatorio-01a15-junho-26.md`).
-
-Ao salvar, informar o caminho e um resumo de 2 linhas do que os números mostraram. Se ela quiser, oferecer levar pro Canva depois (a skill entrega o .md; o Canva é passo separado).
+Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números mostraram.
 
 ---
 
-## Métricas de referência por plataforma
+## Schema do config
 
-Use como checklist do que buscar nos dados. Nem todo cliente terá tudo.
-
-**Instagram (orgânico)**
-- Contas alcançadas (seguidores vs. não seguidores)
-- Impressões / visualizações
-- Contas com engajamento
-- Interações: curtidas, comentários, salvamentos, compartilhamentos
-- Crescimento de seguidores (novos − deixaram de seguir = saldo)
-- Visitas ao perfil
-- Cliques no link / toques no botão
-- Desempenho por formato: Reels, Carrossel, Estático, Stories
-- Top posts do período
-
-**LinkedIn**
-- Impressões
-- Visualizações da página / do perfil
-- Novos seguidores
-- Taxa de engajamento
-- Principais publicações
-
-**TikTok**
-- Visualizações de vídeo
-- Alcance
-- Seguidores (saldo)
-- Tempo médio de exibição / taxa de conclusão
-- Top vídeos
-
----
-
-## Estrutura do relatório
-
-```
-# Relatório de Social Media — [Cliente] — [Período]
-
-**Plataformas:** [Instagram / LinkedIn / ...]
-**Período:** [data inicial a data final]
-**Comparado com:** [período anterior, ou "primeiro relatório — sem base de comparação"]
-
-## Resumo executivo
-
-[3 a 4 frases diretas. O que aconteceu no período, o número que mais importa,
-e a leitura principal. Sem clichê, sem "bombando". Entrega a conclusão primeiro.]
-
-## Números do período
-
-| Métrica | [Período atual] | [Período anterior] | Variação |
-|---|---|---|---|
-| Contas alcançadas | ... | ... | ▲ +X (+Y%) |
-| Contas com engajamento | ... | ... | ... |
-| Saldo de seguidores | ... | ... | ... |
-| Visitas ao perfil | ... | ... | ... |
-| Cliques no link | ... | ... | ... |
-| Taxa de engajamento | ...% | ...% | ... |
-
-## Destaques do período
-
-**Melhores posts:**
-1. [Data] — [Tema] — [formato] — [número que justifica: X salvamentos / Y alcance]
-2. ...
-
-[Por que performaram: tema, formato, timing.]
-
-## Leitura estratégica
-
-**O que funcionou:** [...]
-**O que não funcionou:** [...]
-**Editoria que mais performou:** [letra CRESCER, se houver planejamento cruzado]
-
-## Recomendações para o próximo período
-
-- [Ação concreta 1 — ligada ao que o dado mostrou]
-- [Ação concreta 2]
-- [Ação concreta 3]
-
----
-*Dados extraídos dos insights nativos / [ferramenta]. Métricas não fornecidas neste ciclo: [se houver].*
+```jsonc
+{
+  "cliente": "IBR",                    // nome exibido no header
+  "cliente_slug": "ibr",               // usado no nome do arquivo
+  "plataforma": "Instagram",           // "LinkedIn", "Instagram + Facebook"...
+  "periodo": "01/06/2026 - 30/06/2026",
+  "periodo_slug": "junho-2026",
+  "comparado": "02/05/2026 - 31/05/2026",   // opcional
+  "kpi_note": "texto do aviso amarelo (opcional)",
+  "kpis": [                            // grid da visão geral
+    { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true } }
+  ],
+  "daily": [ ["01/06", 3200, 12] ],    // [data, alcance, novos_seguidores(opcional)]
+  "resumo": "texto com <strong>negritos</strong>",   // opcional
+  "audiencia": [                       // opcional; cada bloco vira um card
+    { "titulo": "Gênero", "tipo": "pie", "items": [["Masculino", 53.4]] },
+    { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo", 164]] }
+  ],
+  "posts": [                           // opcional; slide de melhores publicações
+    { "titulo": "...", "taxa": "—", "alcance": 136, "visualizacoes": 179,
+      "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
+  ],
+  "stories": [                         // opcional
+    { "titulo": "Story 1", "alcance": 62, "saidas": 9, "respostas": 0, "avancar": 38, "voltar": 2 }
+  ],
+  "insights": [ "<strong>...</strong> ..." ],   // opcional
+  "rodape": [ { "strong": "+289", "text": "começaram a seguir" } ]   // opcional
+}
 ```
 
 ---
 
 ## Regras
 
-- **Só orgânico.** Nenhum número de tráfego pago entra neste relatório. Se a usuária mandar dados de anúncios junto, separar e avisar que ficam de fora deste documento.
-- **Nunca inventar número.** Se um dado não veio, não estimar. Registrar no rodapé quais métricas ficaram de fora.
-- **Sem travessões (—)** no texto do relatório. Sem clichê, sem framing aspiracional vago, sem "leve seu perfil ao próximo nível".
-- Dado é a resposta, não o argumento de abertura. Toda seção entrega a conclusão antes de detalhar.
-- Variações sempre com número absoluto **e** percentual, e a direção (▲▼▬).
-- Deixar explícita a base de cálculo da taxa de engajamento (sobre alcance ou sobre seguidores).
-- Adaptar tom e nível de linguagem ao cliente — não usar a voz combativa da Strig no relatório de outro negócio; usar linguagem clara e profissional.
-- Se não houver período anterior, fazer o relatório mesmo assim e marcar como base zero para os próximos.
-- O entregável é o `.md`. Canva é passo opcional posterior, nunca parte obrigatória desta skill.
+- **Só orgânico.** Nenhum número de tráfego pago entra. Se a usuária mandar dados de anúncios junto,
+  separar e avisar que ficam de fora deste relatório.
+- **Nunca inventar número.** Se um dado não veio, não estimar. Deixar o campo de fora do config.
+- **Sem travessões (—)** no texto do resumo/insights. Sem clichê, sem framing aspiracional vago.
+  Dado é a resposta, não a decoração. Entregar a conclusão antes de detalhar.
+- A cor do delta segue `good`, não a direção da seta.
+- Adaptar tom e linguagem ao cliente — não usar a voz da Strig no relatório de outro negócio.
+- Conferir o PDF renderizado antes de entregar (não confiar só no HTML).
+- Nunca sobrescrever o config/relatório de um mês anterior — salvar com o período no nome.

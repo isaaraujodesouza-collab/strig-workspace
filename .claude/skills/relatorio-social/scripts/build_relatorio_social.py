@@ -55,9 +55,15 @@ def svg_line(labels, series, W=1600, H=460):
     for i, lbl in enumerate(labels):
         if i % step == 0 or i == n - 1:
             parts.append(f'<text x="{px(i):.1f}" y="{mt+ch+20}" text-anchor="end" font-size="9" fill="#9CA3AF" font-family="Poppins,sans-serif" transform="rotate(-40 {px(i):.1f} {mt+ch+20})">{lbl}</text>')
-    # séries
+    # séries — a principal (não pontilhada) usa o eixo Y; as secundárias (pontilhadas,
+    # ex: novos seguidores em unidades) são escaladas pro próprio máximo, só pra mostrar o formato.
     for s in series:
-        pts = [(px(i), py(v)) for i, v in enumerate(s["values"])]
+        if s.get("dashed"):
+            smax = max(s["values"]) if s["values"] and max(s["values"]) > 0 else 1
+            spy = lambda v: mt + ch - (v / smax * ch * 0.85)
+            pts = [(px(i), spy(v)) for i, v in enumerate(s["values"])]
+        else:
+            pts = [(px(i), py(v)) for i, v in enumerate(s["values"])]
         poly = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
         dash = ' stroke-dasharray="6,3"' if s.get("dashed") else ''
         if not s.get("dashed") and pts:
