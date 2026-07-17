@@ -28,6 +28,12 @@
     ["29/06", 8500, 9], ["30/06", 12000, 13]
   ],
   "resumo": "Foram feitas <strong>9 publicações</strong> no período, que somaram <strong>1.422 curtidas</strong> e alcançaram <strong>157.130 contas</strong>. O total de interações foi <strong>1.825</strong>, com média de <strong>669,56 interações por post</strong>. O alcance cresceu <strong>98,91%</strong> vs. o mês anterior, puxado pelos posts de meio de junho. A taxa de engajamento caiu levemente (-6,32%), reflexo do salto de alcance ser maior que o de interações.",
+  "acoes": [
+    "<strong>9 publicações</strong> no feed, com foco em financiamento e revisão de contrato",
+    "Sequência de <strong>stories diários</strong> reforçando os posts de maior alcance",
+    "Ajuste de horário de postagem para o meio da semana, onde o público responde mais",
+    "Testes de gancho nas legendas para elevar salvamento e comentário"
+  ],
   "audiencia": [
     { "titulo": "Gênero", "tipo": "pie", "items": [["Masculino", 53.4], ["Feminino", 38.8], ["Não identificado", 7.8]] },
     { "titulo": "Idade", "tipo": "pie", "items": [["45-54", 31.9], ["35-44", 29.2], ["55-64", 17.4], ["25-34", 13.8], ["65+", 6.6], ["18-24", 1.1]] },

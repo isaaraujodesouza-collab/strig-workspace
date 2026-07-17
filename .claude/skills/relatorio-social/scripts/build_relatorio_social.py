@@ -17,6 +17,15 @@ Renderiza via Playwright (mesmo motor do resto do workspace).
 import asyncio, base64, io, json, os, argparse, math
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..", ".."))
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+def load_poppins():
+    """Poppins embutida em base64 (funciona offline e no PDF, sem depender de CDN)."""
+    p = os.path.join(SCRIPT_DIR, "poppins-embed.css")
+    if os.path.exists(p):
+        with open(p, encoding="utf-8") as f:
+            return f.read()
+    return ""
 
 # ── Formatação ───────────────────────────────────────────────────────────────
 def fmt_num(n):
@@ -161,7 +170,12 @@ def kpi_grid_html(kpis):
     return "".join(out)
 
 def rodape_html(items):
-    return "".join(f'<div class="fh-item"><strong>{it["strong"]}</strong> {it["text"]}</div>' for it in items)
+    return "".join(
+        f'<div class="fh-item"><div class="fh-num">{it["strong"]}</div>'
+        f'<div class="fh-lbl">{it["text"]}</div></div>' for it in items)
+
+def acoes_html(items):
+    return "".join(f'<li>{it}</li>' for it in items)
 
 def posts_rows(posts):
     rows = []
@@ -236,7 +250,7 @@ CSS = """
   .hdr-period-lbl { font-size:9px; text-transform:uppercase; letter-spacing:.1em; color:#6B7280; }
   .hdr-period-val { font-size:16px; font-weight:600; color:#fff; margin-top:3px; }
   .hdr-right { width:240px; display:flex; justify-content:flex-end; align-items:center; }
-  .hdr-logo-txt { color:#fff; font-weight:700; font-size:20px; letter-spacing:.02em; }
+  .hdr-right img { height:56px; width:auto; max-width:200px; object-fit:contain; display:block; }
   .body { flex:1; min-height:0; padding:26px 48px 24px; display:flex; flex-direction:column; gap:16px; overflow:hidden; }
   .body-row { display:flex; gap:18px; flex:1; min-height:0; }
   .slide-h { font-size:22px; font-weight:700; color:#1C1C1C; flex-shrink:0; }
@@ -260,9 +274,11 @@ CSS = """
   .lg-item { font-size:12px; color:#4A5568; display:flex; align-items:center; gap:7px; }
   .lg-dot { width:11px; height:11px; border-radius:50%; display:inline-block; }
   /* Rodapé destaques */
-  .footer-h { display:flex; justify-content:center; align-items:center; flex-shrink:0; background:#fff; border-radius:10px; border:1px solid #E2E8F0; padding:15px 0; }
-  .fh-item { font-size:14px; color:#4A5568; padding:0 36px; border-right:1px solid #E2E8F0; }
-  .fh-item:last-child { border-right:none; } .fh-item strong { color:#7F00FF; font-weight:700; }
+  .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex-shrink:0; gap:14px; }
+  .fh-item { background:#fff; border:1px solid #E2E8F0; border-radius:12px; padding:18px 22px;
+    display:flex; flex-direction:column; gap:5px; border-left:4px solid #7F00FF; }
+  .fh-num { font-size:30px; font-weight:700; color:#0D0D0D; line-height:1; }
+  .fh-lbl { font-size:12.5px; font-weight:500; color:#718096; }
   /* Tabelas */
   .tbl-wrap { background:#fff; border-radius:12px; border:1px solid #E2E8F0; overflow:hidden; flex-shrink:0; }
   table { width:100%; border-collapse:collapse; }
@@ -279,7 +295,18 @@ CSS = """
   .ins:first-child { border-top:none; }
   .ins-num { width:30px; height:30px; border-radius:50%; background:#7F00FF; color:#fff; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; margin-top:2px; }
   .ins-text { font-size:15px; line-height:1.55; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
-  .resumo { font-size:15px; line-height:1.7; color:#2D3748; } .resumo strong { color:#0D0D0D; }
+  .resumo { font-size:17px; line-height:1.75; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
+  /* Slide evolução: gráfico menor à esquerda, resumo + ações em destaque à direita */
+  .evo-row { display:flex; gap:18px; flex:1; min-height:0; }
+  .evo-chart { flex:0 0 40%; display:flex; flex-direction:column; min-height:0; }
+  .evo-side { flex:1; display:flex; flex-direction:column; gap:16px; min-height:0; }
+  .evo-side .card { flex:0 0 auto; }
+  .evo-side .card.grow { flex:1 1 auto; }
+  .acoes { list-style:none; display:flex; flex-direction:column; gap:12px; }
+  .acoes li { position:relative; padding-left:26px; font-size:15px; line-height:1.5; color:#2D3748; }
+  .acoes li::before { content:""; position:absolute; left:0; top:7px; width:10px; height:10px;
+    border-radius:3px; background:#7F00FF; }
+  .acoes li strong { color:#0D0D0D; font-weight:600; }
 """
 
 # ── Slides ───────────────────────────────────────────────────────────────────
@@ -315,12 +342,17 @@ def build_html(cfg, logo_tag):
         series = [{"name": "Alcance", "values": alcance, "color": "#7F00FF"}]
         if len(cfg["daily"][0]) > 2:
             series.append({"name": "Novos seguidores", "values": [d[2] for d in cfg["daily"]], "color": "#0369A1", "dashed": True})
-        chart = svg_line(labels, series)
-        resumo = f'<div class="card" style="flex:0 0 auto"><div class="card-title">Resumo do período</div><div class="resumo">{cfg["resumo"]}</div></div>' if cfg.get("resumo") else ""
+        chart = svg_line(labels, series, W=760, H=900)
+        resumo = (f'<div class="card grow"><div class="card-title">Resumo do período</div>'
+                  f'<div class="resumo">{cfg["resumo"]}</div></div>') if cfg.get("resumo") else ""
+        acoes = (f'<div class="card"><div class="card-title">Ações realizadas no período</div>'
+                 f'<ul class="acoes">{acoes_html(cfg["acoes"])}</ul></div>') if cfg.get("acoes") else ""
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
-          <div class="slide-h">Evolução diária</div>
-          <div class="card"><div class="card-title">Alcance e crescimento ao longo do período</div><div class="chart-box">{chart}</div></div>
-          {resumo}
+          <div class="slide-h">Evolução e leitura do período</div>
+          <div class="evo-row">
+            <div class="evo-chart card"><div class="card-title">Alcance diário</div><div class="chart-box">{chart}</div></div>
+            <div class="evo-side">{resumo}{acoes}</div>
+          </div>
         </div></div>""")
 
     # ── Slide 3: Audiência ──
@@ -355,23 +387,28 @@ def build_html(cfg, logo_tag):
         </div></div>""")
 
     html = ('<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">'
-            '<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">'
+            f'<style>{load_poppins()}</style>'
             f'<style>{CSS}</style></head><body>{"".join(slides)}</body></html>')
     return html, len(slides)
 
 # ── Logo ─────────────────────────────────────────────────────────────────────
+# Header é escuro (#1C1C1C), então usa a versão CLARA/branca do logotipo.
+LOGO_DIR = os.path.join(BASE, "marca", "logo-strig")
+
 def resolve_logo():
-    candidates = [
-        os.path.join(BASE, "marca", "logo-strig", "logo branco.png"),
-        os.path.join(BASE, "marca", "logo-strig", "logo-branco.png"),
-        os.path.join(BASE, "marca", "logo-branco.png"),
-    ]
-    for p in candidates:
-        if os.path.exists(p):
-            with open(p, "rb") as f:
-                b64 = base64.b64encode(f.read()).decode()
-            return f'<img src="data:image/png;base64,{b64}" height="40" alt="Strig Lab">'
-    return '<span class="hdr-logo-txt">strig lab</span>'
+    mimes = {".png": "image/png", ".svg": "image/svg+xml"}
+    # ordem de preferência: variações de nome da versão clara/branca
+    names = ["logo-branco", "logo branco", "logo-claro", "logo claro", "strig-branco", "logo"]
+    for name in names:
+        for ext, mime in mimes.items():
+            p = os.path.join(LOGO_DIR, name + ext)
+            if os.path.exists(p):
+                with open(p, "rb") as f:
+                    b64 = base64.b64encode(f.read()).decode()
+                return f'<img src="data:{mime};base64,{b64}" alt="Strig Lab">'
+    # sem arquivo: não usa texto, deixa o slot vazio e avisa no console
+    print("AVISO: logotipo não encontrado em marca/logo-strig/ (esperado logo-branco.png). Header sem logo.")
+    return ''
 
 # ── Render PDF ───────────────────────────────────────────────────────────────
 async def render_pdf(html_path, pdf_path, n_slides):
