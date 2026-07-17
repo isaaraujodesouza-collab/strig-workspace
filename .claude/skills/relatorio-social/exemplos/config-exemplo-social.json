@@ -1,0 +1,65 @@
+{
+  "cliente": "IBR",
+  "cliente_slug": "ibr",
+  "plataforma": "Instagram",
+  "periodo": "01/06/2026 - 30/06/2026",
+  "periodo_slug": "junho-2026",
+  "comparado": "02/05/2026 - 31/05/2026",
+  "kpi_note": "Dados de alcance, engajamento, taxa de engajamento e frequência são fornecidos pelo Instagram com janela máxima de 30 dias.",
+  "kpis": [
+    { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true } },
+    { "lbl": "Visualizações", "val": "350.977", "delta": { "txt": "63,92%", "dir": "up", "good": true } },
+    { "lbl": "Seguidores", "val": "703", "delta": { "txt": "49,89%", "dir": "up", "good": true } },
+    { "lbl": "Começaram a seguir", "val": "289", "delta": { "txt": "66,09%", "dir": "up", "good": true } },
+    { "lbl": "Total de interações", "val": "1.825", "delta": { "txt": "81,95%", "dir": "up", "good": true } },
+    { "lbl": "Curtidas", "val": "1.422", "delta": { "txt": "69,69%", "dir": "up", "good": true } },
+    { "lbl": "Publicações", "val": "9", "delta": { "txt": "12,50%", "dir": "up", "good": true } },
+    { "lbl": "Taxa de engajamento", "val": "0,89%", "delta": { "txt": "6,32%", "dir": "down", "good": false } },
+    { "lbl": "Média de engaj. por post", "val": "9,33", "delta": { "txt": "157,47%", "dir": "up", "good": true } }
+  ],
+  "daily": [
+    ["01/06", 3200, 12], ["02/06", 11800, 9], ["03/06", 9600, 7], ["04/06", 9500, 11],
+    ["05/06", 5800, 6], ["06/06", 5700, 5], ["07/06", 4700, 8], ["08/06", 10500, 14],
+    ["09/06", 10400, 10], ["10/06", 8100, 7], ["11/06", 7600, 9], ["12/06", 7900, 6],
+    ["13/06", 7400, 5], ["14/06", 12100, 13], ["15/06", 11900, 11], ["16/06", 9400, 9],
+    ["17/06", 9100, 8], ["18/06", 8800, 7], ["19/06", 9200, 10], ["20/06", 7100, 6],
+    ["21/06", 6700, 5], ["22/06", 5700, 8], ["23/06", 6500, 9], ["24/06", 9600, 12],
+    ["25/06", 10100, 10], ["26/06", 600, 4], ["27/06", 11900, 15], ["28/06", 9700, 11],
+    ["29/06", 8500, 9], ["30/06", 12000, 13]
+  ],
+  "resumo": "Foram feitas <strong>9 publicações</strong> no período, que somaram <strong>1.422 curtidas</strong> e alcançaram <strong>157.130 contas</strong>. O total de interações foi <strong>1.825</strong>, com média de <strong>669,56 interações por post</strong>. O alcance cresceu <strong>98,91%</strong> vs. o mês anterior, puxado pelos posts de meio de junho. A taxa de engajamento caiu levemente (-6,32%), reflexo do salto de alcance ser maior que o de interações.",
+  "audiencia": [
+    { "titulo": "Gênero", "tipo": "pie", "items": [["Masculino", 53.4], ["Feminino", 38.8], ["Não identificado", 7.8]] },
+    { "titulo": "Idade", "tipo": "pie", "items": [["45-54", 31.9], ["35-44", 29.2], ["55-64", 17.4], ["25-34", 13.8], ["65+", 6.6], ["18-24", 1.1]] },
+    { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo, SP", 164], ["Rio de Janeiro, RJ", 66], ["Santo André, SP", 53], ["São Bernardo, SP", 29], ["Belo Horizonte, MG", 27], ["Salvador, BA", 19], ["Goiânia, GO", 16], ["Fortaleza, CE", 15]] }
+  ],
+  "posts": [
+    { "titulo": "Ao abrir as letras miúdas do financiamento, é muito comum...", "taxa": "—", "alcance": 136, "visualizacoes": 179, "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Basta uma parcela do financiamento atrasar para o banco...", "taxa": "—", "alcance": 101, "visualizacoes": 138, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Quando você vai financiar um carro ou uma casa, o banco...", "taxa": "—", "alcance": 86, "visualizacoes": 124, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "O orçamento apertou, o boleto do financiamento virou peso...", "taxa": "—", "alcance": 87, "visualizacoes": 118, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "A conta parece não fechar: você comprou apenas um carro...", "taxa": "—", "alcance": 90, "visualizacoes": 117, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "O banco faz você acreditar que, se a parcela atrasa...", "taxa": "—", "alcance": 87, "visualizacoes": 114, "curtidas": 1, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Muitos brasileiros carregam um peso enorme nas costas...", "taxa": "—", "alcance": 78, "visualizacoes": 111, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
+  ],
+  "stories": [
+    { "titulo": "Story 1", "alcance": 62, "saidas": 9, "respostas": 0, "avancar": 38, "voltar": 2 },
+    { "titulo": "Story 2", "alcance": 52, "saidas": 11, "respostas": 1, "avancar": 40, "voltar": 1 },
+    { "titulo": "Story 3", "alcance": 48, "saidas": 2, "respostas": 0, "avancar": 39, "voltar": 0 },
+    { "titulo": "Story 4", "alcance": 48, "saidas": 8, "respostas": 0, "avancar": 38, "voltar": 1 },
+    { "titulo": "Story 5", "alcance": 48, "saidas": 5, "respostas": 0, "avancar": 46, "voltar": 0 },
+    { "titulo": "Story 6", "alcance": 46, "saidas": 8, "respostas": 0, "avancar": 41, "voltar": 0 }
+  ],
+  "insights": [
+    "<strong>Alcance quase dobrou (+98,91%)</strong> com o mesmo volume de publicações do mês anterior. O conteúdo sobre financiamento e dívida encontrou audiência: o tema está ressoando.",
+    "<strong>A queda na taxa de engajamento (-6,32%) não é alarme.</strong> Ela caiu porque o alcance cresceu mais rápido que as interações. Chegou mais gente nova; o próximo passo é converter esse alcance em salvamento e comentário.",
+    "<strong>Público é maduro e decisor:</strong> 78% tem 35 anos ou mais e 53% é masculino. Perfil coerente com quem contrata revisão de contrato financeiro. Vale reforçar CTA de contato nos posts de maior alcance.",
+    "<strong>Concentração geográfica no ABC e grandes capitais:</strong> São Paulo, Santo André e São Bernardo juntos puxam a maior fatia. Conteúdo com gancho regional pode aumentar a conversão local."
+  ],
+  "rodape": [
+    { "strong": "+289", "text": "começaram a seguir" },
+    { "strong": "157.130", "text": "contas alcançadas" },
+    { "strong": "9", "text": "publicações no mês" },
+    { "strong": "+98,91%", "text": "alcance vs. maio" }
+  ]
+}
