@@ -105,9 +105,9 @@ def svg_hbar(labels, values, colors, W=880, H=500, label_w=150, show_vals=True):
         bw = val / max_v * cw
         col = colors[i % len(colors)] if isinstance(colors, list) else colors
         parts.append(f'<rect x="{ml+lw:.1f}" y="{by:.1f}" width="{max(bw,1):.1f}" height="{bh:.1f}" fill="{col}" rx="4"/>')
-        parts.append(f'<text x="{ml+lw-9}" y="{by+bh*0.68:.1f}" text-anchor="end" font-size="11" fill="#718096" font-family="Poppins,sans-serif">{lbl}</text>')
+        parts.append(f'<text x="{ml+lw-9}" y="{by+bh*0.66:.1f}" text-anchor="end" font-size="15" fill="#4A5568" font-family="Poppins,sans-serif">{lbl}</text>')
         if show_vals:
-            parts.append(f'<text x="{ml+lw+bw+8:.1f}" y="{by+bh*0.68:.1f}" font-size="10.5" fill="#9CA3AF" font-family="Poppins,sans-serif">{fmt_num(val)}</text>')
+            parts.append(f'<text x="{ml+lw+bw+8:.1f}" y="{by+bh*0.66:.1f}" font-size="14" font-weight="600" fill="#718096" font-family="Poppins,sans-serif">{fmt_num(val)}</text>')
     parts.append('</svg>')
     return ''.join(parts)
 
@@ -177,6 +177,19 @@ def rodape_html(items):
 def acoes_html(items):
     return "".join(f'<li>{it}</li>' for it in items)
 
+FORMATO_COR = {
+    "carrossel": "#7F00FF", "carrosel": "#7F00FF",
+    "estatico": "#0369A1", "estático": "#0369A1", "imagem": "#0369A1",
+    "reel": "#EC4899", "reels": "#EC4899", "video": "#EC4899", "vídeo": "#EC4899",
+    "story": "#F59E0B", "stories": "#F59E0B",
+}
+
+def fmt_badge(formato):
+    if not formato:
+        return ""
+    cor = FORMATO_COR.get(formato.strip().lower(), "#718096")
+    return f'<span class="fmt" style="background:{cor}">{formato}</span>'
+
 def posts_rows(posts):
     rows = []
     for i, p in enumerate(posts):
@@ -184,7 +197,6 @@ def posts_rows(posts):
         bg = "background:#F5F0FF;" if is_top else ("background:#FAFBFC;" if i % 2 == 0 else "")
         badge = ('<span class="tag-top">TOP</span>' if is_top else "")
         titulo = p.get("titulo", "")
-        short = titulo[:58] + ("…" if len(titulo) > 58 else "")
         cells = [
             fmt_num(p.get("alcance", 0)),
             fmt_num(p.get("visualizacoes", 0)),
@@ -197,7 +209,8 @@ def posts_rows(posts):
         taxa = p.get("taxa", "—")
         tds = "".join(f"<td>{c}</td>" for c in cells)
         rows.append(
-            f'<tr style="{bg}"><td class="p-tit" title="{titulo}">{short}{badge}</td>'
+            f'<tr style="{bg}"><td class="p-tit">{titulo}{badge}</td>'
+            f'<td class="p-fmt">{fmt_badge(p.get("formato",""))}</td>'
             f'<td>{taxa}</td>{tds}</tr>')
     return "\n".join(rows)
 
@@ -232,7 +245,8 @@ def audiencia_cards(audiencia):
         else:
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
-            chart = svg_hbar(labels, vals, PUR_COLS, W=760, H=max(360, 46 * len(items)), label_w=200)
+            # viewBox alto pra preencher o card (evita o gráfico pequeno no meio)
+            chart = svg_hbar(labels, vals, PUR_COLS, W=560, H=max(560, 62 * len(items)), label_w=200)
             cards.append(f'<div class="card"><div class="card-title">{titulo}</div>'
                          f'<div class="chart-box">{chart}</div></div>')
     return cards
@@ -284,18 +298,20 @@ CSS = """
   table { width:100%; border-collapse:collapse; }
   thead th { font-size:10.5px; font-weight:600; text-transform:uppercase; letter-spacing:.05em; color:#718096; background:#FAFBFC; border-bottom:1.5px solid #E2E8F0; padding:13px 10px; text-align:right; }
   thead th:first-child { text-align:left; padding-left:20px; }
-  tbody td { padding:12px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; }
+  tbody td { padding:14px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; vertical-align:middle; }
   tbody td:first-child { text-align:left; padding-left:20px; }
   tbody tr:last-child td { border-bottom:none; }
-  .p-tit { max-width:360px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-weight:500; }
-  .tag-top { background:#7F00FF; color:#fff; border-radius:4px; padding:1px 6px; font-size:9px; margin-left:8px; font-weight:600; }
+  .p-tit { width:520px; white-space:normal; line-height:1.4; font-weight:500; color:#1C1C1C; }
+  .p-fmt { text-align:center !important; }
+  .fmt { display:inline-block; color:#fff; border-radius:5px; padding:3px 10px; font-size:11px; font-weight:600; white-space:nowrap; }
+  .tag-top { background:#7F00FF; color:#fff; border-radius:4px; padding:1px 6px; font-size:9px; margin-left:8px; font-weight:600; vertical-align:middle; }
   /* Insights */
   .ins-wrap { flex:1; display:flex; flex-direction:column; justify-content:center; gap:6px; }
   .ins { display:flex; gap:14px; align-items:flex-start; padding:12px 0; border-top:1px solid #F0F4F8; }
   .ins:first-child { border-top:none; }
   .ins-num { width:30px; height:30px; border-radius:50%; background:#7F00FF; color:#fff; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; margin-top:2px; }
   .ins-text { font-size:15px; line-height:1.55; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
-  .resumo { font-size:17px; line-height:1.75; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
+  .resumo { font-size:14px; line-height:1.6; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
   /* Slide evolução: gráfico menor à esquerda, resumo + ações em destaque à direita */
   .evo-row { display:flex; gap:18px; flex:1; min-height:0; }
   .evo-chart { flex:0 0 40%; display:flex; flex-direction:column; min-height:0; }
@@ -363,20 +379,13 @@ def build_html(cfg, logo_tag):
           <div class="body-row">{''.join(cards)}</div>
         </div></div>""")
 
-    # ── Slide 4: Melhores posts (+ stories) ──
+    # ── Slide 4: Melhores posts ──
     if cfg.get("posts"):
-        thead = ('<tr><th>Publicação</th><th>Taxa eng.</th><th>Alcance</th><th>Visualiz.</th>'
+        thead = ('<tr><th>Publicação</th><th>Formato</th><th>Taxa eng.</th><th>Alcance</th><th>Visualiz.</th>'
                  '<th>Curtidas</th><th>Coment.</th><th>Salvos</th><th>Compart.</th><th>Seguir</th></tr>')
-        stories_block = ""
-        if cfg.get("stories"):
-            sthead = ('<tr><th>Story</th><th>Alcance</th><th>Saídas</th><th>Respostas</th>'
-                      '<th>Toques avançar</th><th>Toques voltar</th></tr>')
-            stories_block = f"""<div class="slide-h" style="margin-top:6px">Principais stories</div>
-              <div class="tbl-wrap"><table><thead>{sthead}</thead><tbody>{stories_rows(cfg["stories"])}</tbody></table></div>"""
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Principais publicações</div>
           <div class="tbl-wrap"><table><thead>{thead}</thead><tbody>{posts_rows(cfg["posts"])}</tbody></table></div>
-          {stories_block}
         </div></div>""")
 
     # ── Slide 5: Insights ──

@@ -3,7 +3,7 @@ name: relatorio-social
 description: >
   Gera o relatório de social media ORGÂNICO de um cliente da Strig Lab como dashboard visual
   (HTML + PDF) no padrão premium da agência — mesmo visual do relatório de tráfego, com métricas
-  de orgânico: alcance, seguidores, engajamento, audiência, melhores posts e stories. Nunca tráfego pago.
+  de orgânico: alcance, seguidores, engajamento, audiência e melhores publicações. Nunca tráfego pago.
   Serve Instagram e LinkedIn (a plataforma é definida no config). A usuária traz os dados (export do
   Metricool / prints dos insights) e a skill monta o config e roda o gerador.
   Use quando o usuário pedir "relatório do cliente X", "relatório de social", "fecha o mês do cliente X",
@@ -121,22 +121,24 @@ Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números 
     { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true } }
   ],
   "daily": [ ["01/06", 3200, 12] ],    // [data, alcance, novos_seguidores(opcional)]
-  "resumo": "texto com <strong>negritos</strong>",   // opcional
+  "resumo": "texto com <strong>negritos</strong>",   // opcional (~14px, conclusão factual do mês)
+  "acoes": [ "<strong>...</strong> ação realizada no período" ],   // opcional; o que a equipe fez
   "audiencia": [                       // opcional; cada bloco vira um card
     { "titulo": "Gênero", "tipo": "pie", "items": [["Masculino", 53.4]] },
     { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo", 164]] }
   ],
   "posts": [                           // opcional; slide de melhores publicações
-    { "titulo": "...", "taxa": "—", "alcance": 136, "visualizacoes": 179,
+    { "titulo": "tema completo da capa", "formato": "Carrossel",   // Carrossel/Estático/Reel/Story
+      "taxa": "—", "alcance": 136, "visualizacoes": 179,
       "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
-  ],
-  "stories": [                         // opcional
-    { "titulo": "Story 1", "alcance": 62, "saidas": 9, "respostas": 0, "avancar": 38, "voltar": 2 }
   ],
   "insights": [ "<strong>...</strong> ..." ],   // opcional
   "rodape": [ { "strong": "+289", "text": "começaram a seguir" } ]   // opcional
 }
 ```
+
+O título do post deve ser o **tema completo** (o que está escrito na capa do carrossel/estático), sem
+abreviar, e o `formato` sempre preenchido. Stories não entram neste relatório.
 
 ---
 

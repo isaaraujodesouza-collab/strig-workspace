@@ -40,21 +40,13 @@
     { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo, SP", 164], ["Rio de Janeiro, RJ", 66], ["Santo André, SP", 53], ["São Bernardo, SP", 29], ["Belo Horizonte, MG", 27], ["Salvador, BA", 19], ["Goiânia, GO", 16], ["Fortaleza, CE", 15]] }
   ],
   "posts": [
-    { "titulo": "Ao abrir as letras miúdas do financiamento, é muito comum...", "taxa": "—", "alcance": 136, "visualizacoes": 179, "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "Basta uma parcela do financiamento atrasar para o banco...", "taxa": "—", "alcance": 101, "visualizacoes": 138, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "Quando você vai financiar um carro ou uma casa, o banco...", "taxa": "—", "alcance": 86, "visualizacoes": 124, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "O orçamento apertou, o boleto do financiamento virou peso...", "taxa": "—", "alcance": 87, "visualizacoes": 118, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "A conta parece não fechar: você comprou apenas um carro...", "taxa": "—", "alcance": 90, "visualizacoes": 117, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "O banco faz você acreditar que, se a parcela atrasa...", "taxa": "—", "alcance": 87, "visualizacoes": 114, "curtidas": 1, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
-    { "titulo": "Muitos brasileiros carregam um peso enorme nas costas...", "taxa": "—", "alcance": 78, "visualizacoes": 111, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
-  ],
-  "stories": [
-    { "titulo": "Story 1", "alcance": 62, "saidas": 9, "respostas": 0, "avancar": 38, "voltar": 2 },
-    { "titulo": "Story 2", "alcance": 52, "saidas": 11, "respostas": 1, "avancar": 40, "voltar": 1 },
-    { "titulo": "Story 3", "alcance": 48, "saidas": 2, "respostas": 0, "avancar": 39, "voltar": 0 },
-    { "titulo": "Story 4", "alcance": 48, "saidas": 8, "respostas": 0, "avancar": 38, "voltar": 1 },
-    { "titulo": "Story 5", "alcance": 48, "saidas": 5, "respostas": 0, "avancar": 46, "voltar": 0 },
-    { "titulo": "Story 6", "alcance": 46, "saidas": 8, "respostas": 0, "avancar": 41, "voltar": 0 }
+    { "titulo": "O banco te cobrou uma vistoria que nunca aconteceu?", "formato": "Carrossel", "taxa": "—", "alcance": 136, "visualizacoes": 179, "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Seu score desabou por causa do financiamento atrasado?", "formato": "Carrossel", "taxa": "—", "alcance": 101, "visualizacoes": 138, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "O critério secreto que o banco usa para cobrar mais de você", "formato": "Carrossel", "taxa": "—", "alcance": 86, "visualizacoes": 124, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Por que está pagando o preço de três? Pense em vender o carro com dívida", "formato": "Estático", "taxa": "—", "alcance": 87, "visualizacoes": 118, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "A conta não fecha: você comprou apenas um carro, mas está pagando três", "formato": "Estático", "taxa": "—", "alcance": 90, "visualizacoes": 117, "curtidas": 0, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Posso revisar o contrato mesmo com parcelas em atraso?", "formato": "Carrossel", "taxa": "—", "alcance": 87, "visualizacoes": 114, "curtidas": 1, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Existe uma grande diferença entre estar devendo e ser lesado", "formato": "Carrossel", "taxa": "—", "alcance": 78, "visualizacoes": 111, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
   ],
   "insights": [
     "<strong>Alcance quase dobrou (+98,91%)</strong> com o mesmo volume de publicações do mês anterior. O conteúdo sobre financiamento e dívida encontrou audiência: o tema está ressoando.",
