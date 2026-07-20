@@ -162,19 +162,19 @@ Para cada uma das 7 notícias, buscar 2-3 opções de imagem com crédito adequa
 Escrever todos os elementos da edição na ordem:
 
 1. **Título da edição:** versão concisa do assunto do e-mail, sem "e muito mais!" — é o título do post no Beehiiv (aparece na URL e no topo da versão web)
-2. **Assunto do e-mail:** 3 notícias principais separadas por vírgula + "e muito mais!" (sem ponto final)
-2. **Preview text:** "Chegou mais uma Strig News: [2-3 notícias] e muito mais nessa edição!" (~200 caracteres)
-3. **Saudação:** Abre com "Alôôô! Nova edição da Strig News chegou! 🙌" + lista todas as notícias em frase corrida + convite para avaliar
-4. **Sumário:** Bloco "NOTÍCIAS DE HOJE - Sumário" com uma linha por notícia no formato exato: `EDITORIA: Título da notícia` — sem emoji, sem data, sem prefixo. Exemplo:
+2. **Saudação:** Abre com "Alôôô! Nova edição da Strig News chegou! 🙌" + lista todas as notícias em frase corrida + convite para avaliar
+3. **Sumário:** Bloco "NOTÍCIAS DE HOJE - Sumário" com uma linha por notícia no formato exato: `EDITORIA: Título da notícia` — sem emoji, sem data, sem prefixo. Exemplo:
    ```
    EVENTOS & MUNDO: Apple processa OpenAI e ex-funcionários por roubo sistemático de segredos de hardware
    TECH & IA: Câmara vai votar regulação das big techs antes do recesso de 18 de julho
    ```
-5. **Corpo da edição:** 7 notícias no formato padrão (ver abaixo)
-6. **Meta title:** ~200 caracteres, palavras-chave SEO
-7. **Meta descrição:** ~500 caracteres, cobre notícias 4-7
+4. **Corpo da edição:** 7 notícias no formato padrão (ver abaixo)
+5. **Meta title:** ~200 caracteres, palavras-chave SEO
+6. **Meta descrição:** ~500 caracteres, cobre notícias 4-7
+7. **Assunto do e-mail:** 3 notícias principais separadas por vírgula + "e muito mais!" (sem ponto final)
+8. **Preview text:** "Chegou mais uma Strig News: [2-3 notícias] e muito mais nessa edição!" (~200 caracteres)
 
-> **Ordem de apresentação no arquivo:** Título da edição → Assunto do e-mail → Preview text → Saudação → Sumário → Corpo → Meta title → Meta descrição → Links WhatsApp
+> **Ordem de apresentação no arquivo:** Título da edição → Saudação → Sumário → Corpo → Meta title → Meta descrição → Assunto do e-mail → Preview text → Links WhatsApp
 
 **Formato de cada notícia:**
 ```
