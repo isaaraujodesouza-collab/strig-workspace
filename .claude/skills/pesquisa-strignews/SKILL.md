@@ -264,6 +264,7 @@ Usar o MCP do Beehiiv com a publication ID `pub_cd70bc8f-1304-4e8a-833c-9d03506c
 
 ## Regras
 
+- **Sem datas específicas desnecessárias** — evitar "em 16 de julho", "no dia 17 de julho" e similares no corpo dos artigos. Usar referências relativas ao contexto da semana quando necessário: "esta semana", "na última semana", "este ano", "desde [ano]". Datas específicas só quando forem extremamente relevantes para o entendimento do fato (ex: prazo legal, data de vigência de lei)
 - **Nunca repetir pautas** das últimas 3 edições publicadas
 - **Sem travessões** em nenhuma parte do texto — usar vírgula, dois-pontos ou ponto
 - **Sem siglas sem explicação** — sempre explicar antes de usar (ex: explicar FAANG antes de dizer que está aposentado)
