@@ -133,6 +133,24 @@ def svg_hbar(labels, values, colors, W=880, H=500, label_w=150, show_vals=True):
     parts.append('</svg>')
     return ''.join(parts)
 
+def svg_vbar(labels, values, color="#7F00FF", W=560, H=320):
+    """Barras verticais (ex: atividade por horário do dia)."""
+    n = len(labels)
+    ml, mr, mt, mb = 30, 10, 10, 32
+    cw, ch = W - ml - mr, H - mt - mb
+    bw = cw / n * 0.55
+    gap = cw / n * 0.45
+    max_v = max(values) if values and max(values) > 0 else 1
+    parts = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%;display:block">']
+    for i, (lbl, val) in enumerate(zip(labels, values)):
+        bx = ml + i * (bw + gap) + gap / 2
+        bh = val / max_v * ch
+        by = mt + ch - bh
+        parts.append(f'<rect x="{bx:.1f}" y="{by:.1f}" width="{bw:.1f}" height="{max(bh,1):.1f}" fill="{color}" rx="3"/>')
+        parts.append(f'<text x="{bx+bw/2:.1f}" y="{mt+ch+20}" text-anchor="middle" font-size="11" fill="#9CA3AF" font-family="Poppins,sans-serif">{lbl}</text>')
+    parts.append('</svg>')
+    return ''.join(parts)
+
 def svg_pie(items, W=460, H=460):
     """items: [[label, valor], ...]. Pizza com % dentro das fatias."""
     total = sum(float(v) for _, v in items) or 1
@@ -222,21 +240,23 @@ def fmt_badge(formato):
 
 def posts_rows(posts):
     rows = []
-    for i, p in enumerate(posts):
+    for i, p in enumerate(posts[:10]):
         is_top = i == 0
         bg = "background:#F5F0FF;" if is_top else ("background:#FAFBFC;" if i % 2 == 0 else "")
         badge = ('<span class="tag-top">TOP</span>' if is_top else "")
         titulo = p.get("titulo", "")
+        curt, com = p.get("curtidas", 0), p.get("comentarios", 0)
+        salv, comp = p.get("salvos", 0), p.get("compart", 0)
+        alcance = p.get("alcance", 0)
+        engaj_total = curt + com + salv + comp
+        taxa = p.get("taxa")
+        if not taxa or taxa == "—":
+            taxa = f"{fmt_dec(engaj_total/alcance*100,1)}%" if alcance else "—"
         cells = [
-            fmt_num(p.get("alcance", 0)),
-            fmt_num(p.get("visualizacoes", 0)),
-            fmt_num(p.get("curtidas", 0)),
-            fmt_num(p.get("comentarios", 0)),
-            fmt_num(p.get("salvos", 0)),
-            fmt_num(p.get("compart", 0)),
-            fmt_num(p.get("seguir", 0)),
+            fmt_num(alcance), fmt_num(p.get("visualizacoes", 0)),
+            fmt_num(curt), fmt_num(com), fmt_num(salv), fmt_num(comp),
+            fmt_num(p.get("seguir", 0)), fmt_num(engaj_total),
         ]
-        taxa = p.get("taxa", "—")
         tds = "".join(f"<td>{c}</td>" for c in cells)
         rows.append(
             f'<tr style="{bg}"><td class="p-tit">{titulo}{badge}</td>'
@@ -270,8 +290,18 @@ def insights_html(items):
                     f'<div class="ins-body">{cat}<div class="ins-text">{text}</div></div></div>')
     return "".join(out)
 
+POSTS_CATS = {"publicações", "publicacoes", "conteúdo", "conteudo", "posts", "principais publicações"}
+
+def split_insights(items):
+    """Separa insights sobre publicações (cat em POSTS_CATS) dos demais (alcance/público/engajamento)."""
+    left, right = [], []
+    for it in items:
+        cat = it.get("cat", "") if isinstance(it, dict) else ""
+        (left if cat.strip().lower() in POSTS_CATS else right).append(it)
+    return left, right
+
 def audiencia_cards(audiencia):
-    """Renderiza cada bloco de audiência (pie ou bar) num card."""
+    """Renderiza cada bloco de audiência (pie, bar ou horarios) num card."""
     cards = []
     for blk in audiencia:
         titulo = blk.get("titulo", "")
@@ -282,6 +312,18 @@ def audiencia_cards(audiencia):
             legend = f'<div class="pie-legend">{pie_legend(items)}</div>'
             cards.append(f'<div class="card"><div class="card-title">{titulo}</div>'
                          f'<div class="chart-box">{chart}</div>{legend}</div>')
+        elif tipo == "horarios":
+            labels = [x[0] for x in items]
+            vals = [x[1] for x in items]
+            chart = svg_vbar(labels, vals, color=PUR_COLS[0])
+            melhores = blk.get("melhores", [])
+            ml_html = ""
+            if melhores:
+                ml_html = '<div class="melhores-list">' + "".join(
+                    f'<div class="melhor-item"><strong>{m.get("dia","")}</strong> {m.get("faixa","")}</div>'
+                    for m in melhores) + '</div>'
+            cards.append(f'<div class="card"><div class="card-title">{titulo}</div>'
+                         f'<div class="chart-box">{chart}</div>{ml_html}</div>')
         else:
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
@@ -310,13 +352,13 @@ CSS = """
   .slide-h { font-size:22px; font-weight:700; color:#1C1C1C; flex-shrink:0; }
   .note-box { background:#FEF7E6; border:1px solid #F5E4B8; border-radius:9px; padding:11px 16px; font-size:12px; color:#8A6D1B; flex-shrink:0; }
   /* KPIs */
-  .kpi-grid { display:grid; gap:14px; flex:1; min-height:0; }
-  .kpi { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:20px 26px; display:flex; flex-direction:column; justify-content:center;
+  .kpi-grid { display:grid; gap:14px; flex:1; min-height:0; align-content:center; }
+  .kpi { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:16px 24px; display:flex; flex-direction:column; justify-content:center;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
-  .kpi-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:10px; }
+  .kpi-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:8px; }
   .kpi-lbl { font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.07em; color:#718096; }
   .kpi-spark { flex-shrink:0; opacity:.9; }
-  .kpi-val { font-size:42px; font-weight:700; color:#0D0D0D; line-height:1; }
+  .kpi-val { font-size:34px; font-weight:700; color:#0D0D0D; line-height:1; }
   .kpi-note { font-size:11px; color:#7F00FF; font-weight:500; }
   .kpi-foot { display:flex; align-items:center; gap:8px; margin-top:11px; flex-wrap:wrap; }
   .kpi-delta { font-size:12px; font-weight:700; padding:3px 9px; border-radius:6px; white-space:nowrap; }
@@ -332,12 +374,15 @@ CSS = """
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
   .lg-item { font-size:12px; color:#4A5568; display:flex; align-items:center; gap:7px; }
   .lg-dot { width:11px; height:11px; border-radius:50%; display:inline-block; }
+  .melhores-list { display:flex; flex-wrap:wrap; gap:8px 12px; justify-content:center; margin-top:12px; flex-shrink:0; }
+  .melhor-item { font-size:12px; color:#4A5568; background:#F5F0FF; border-radius:8px; padding:6px 12px; white-space:nowrap; }
+  .melhor-item strong { color:#1C1C1C; font-weight:600; }
   /* Rodapé destaques */
   .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex-shrink:0; gap:14px; }
   .fh-item { background:#fff; border:1px solid #E2E8F0; border-radius:12px; padding:18px 22px;
     display:flex; flex-direction:column; gap:5px; border-left:4px solid #7F00FF;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
-  .fh-num { font-size:30px; font-weight:700; color:#0D0D0D; line-height:1; }
+  .fh-num { font-size:26px; font-weight:700; color:#0D0D0D; line-height:1; }
   .fh-lbl { font-size:12.5px; font-weight:500; color:#718096; }
   /* Tabelas */
   .tbl-wrap { background:#fff; border-radius:14px; border:1px solid #E2E8F0; overflow:hidden; flex-shrink:0;
@@ -345,10 +390,10 @@ CSS = """
   table { width:100%; border-collapse:collapse; }
   thead th { font-size:10.5px; font-weight:600; text-transform:uppercase; letter-spacing:.05em; color:#718096; background:#FAFBFC; border-bottom:1.5px solid #E2E8F0; padding:13px 10px; text-align:right; }
   thead th:first-child { text-align:left; padding-left:20px; }
-  tbody td { padding:14px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; vertical-align:middle; }
+  tbody td { padding:17px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; vertical-align:middle; }
   tbody td:first-child { text-align:left; padding-left:20px; }
   tbody tr:last-child td { border-bottom:none; }
-  .p-tit { width:520px; white-space:normal; line-height:1.4; font-weight:500; color:#1C1C1C; }
+  .p-tit { width:460px; white-space:normal; line-height:1.4; font-weight:500; color:#1C1C1C; }
   .p-fmt { text-align:center !important; }
   .fmt { display:inline-block; color:#fff; border-radius:5px; padding:3px 10px; font-size:11px; font-weight:600; white-space:nowrap; }
   .tag-top { background:#7F00FF; color:#fff; border-radius:4px; padding:1px 6px; font-size:9px; margin-left:8px; font-weight:600; vertical-align:middle; }
@@ -360,13 +405,16 @@ CSS = """
   .ins-body { flex:1; }
   .ins-cat { font-size:10.5px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:#7F00FF; margin-bottom:4px; }
   .ins-text { font-size:15px; line-height:1.55; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
-  .resumo { font-size:14px; line-height:1.6; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
-  /* Slide evolução: gráfico menor à esquerda, resumo + ações em destaque à direita */
-  .evo-row { display:flex; gap:18px; flex:1; min-height:0; }
-  .evo-chart { flex:0 0 40%; display:flex; flex-direction:column; min-height:0; }
-  .evo-side { flex:1; display:flex; flex-direction:column; gap:16px; min-height:0; }
-  .evo-side .card { flex:0 0 auto; }
-  .evo-side .card.grow { flex:1 1 auto; }
+  .ins-cols { display:flex; gap:18px; flex:1; min-height:0; }
+  .ins-cols > .card { flex:1; }
+  .body-center { flex:1; min-height:0; display:flex; flex-direction:column; justify-content:center; }
+  .body-center .tbl-wrap { flex-shrink:0; }
+  .resumo { font-size:15px; line-height:1.55; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
+  /* Slide evolução: gráfico grande em cima, resumo + ações 50/50 embaixo */
+  .evo-col { display:flex; flex-direction:column; gap:18px; flex:1; min-height:0; }
+  .evo-top { flex:1 1 56%; min-height:0; }
+  .evo-bottom { display:flex; gap:18px; flex:1 1 44%; min-height:0; }
+  .evo-bottom > .card { flex:1; min-height:0; }
   .acoes { list-style:none; display:flex; flex-direction:column; gap:12px; }
   .acoes li { position:relative; padding-left:26px; font-size:15px; line-height:1.5; color:#2D3748; }
   .acoes li::before { content:""; position:absolute; left:0; top:7px; width:10px; height:10px;
@@ -407,41 +455,52 @@ def build_html(cfg, logo_tag):
         series = [{"name": "Alcance", "values": alcance, "color": "#7F00FF"}]
         if len(cfg["daily"][0]) > 2:
             series.append({"name": "Novos seguidores", "values": [d[2] for d in cfg["daily"]], "color": "#0369A1", "dashed": True})
-        chart = svg_line(labels, series, W=760, H=900)
-        resumo = (f'<div class="card grow"><div class="card-title">Resumo do período</div>'
+        chart = svg_line(labels, series, W=1780, H=480)
+        resumo = (f'<div class="card"><div class="card-title">Resumo do período</div>'
                   f'<div class="resumo">{cfg["resumo"]}</div></div>') if cfg.get("resumo") else ""
         acoes = (f'<div class="card"><div class="card-title">Ações realizadas no período</div>'
                  f'<ul class="acoes">{acoes_html(cfg["acoes"])}</ul></div>') if cfg.get("acoes") else ""
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Evolução e leitura do período</div>
-          <div class="evo-row">
-            <div class="evo-chart card"><div class="card-title">Alcance diário</div><div class="chart-box">{chart}</div></div>
-            <div class="evo-side">{resumo}{acoes}</div>
+          <div class="evo-col">
+            <div class="card evo-top"><div class="card-title">Alcance diário</div><div class="chart-box">{chart}</div></div>
+            <div class="evo-bottom">{resumo}{acoes}</div>
           </div>
         </div></div>""")
 
     # ── Slide 3: Audiência ──
     if cfg.get("audiencia"):
         cards = audiencia_cards(cfg["audiencia"])
+        grid_style = f'display:grid;grid-template-columns:repeat({len(cards)},1fr);gap:18px;flex:1;min-height:0;'
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Audiência</div>
-          <div class="body-row">{''.join(cards)}</div>
+          <div class="body-row" style="{grid_style}">{''.join(cards)}</div>
         </div></div>""")
 
     # ── Slide 4: Melhores posts ──
     if cfg.get("posts"):
         thead = ('<tr><th>Publicação</th><th>Formato</th><th>Taxa eng.</th><th>Alcance</th><th>Visualiz.</th>'
-                 '<th>Curtidas</th><th>Coment.</th><th>Salvos</th><th>Compart.</th><th>Seguir</th></tr>')
+                 '<th>Curtidas</th><th>Coment.</th><th>Salvos</th><th>Compart.</th><th>Seguir</th><th>Engaj. total</th></tr>')
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Principais publicações</div>
-          <div class="tbl-wrap"><table><thead>{thead}</thead><tbody>{posts_rows(cfg["posts"])}</tbody></table></div>
+          <div class="body-center"><div class="tbl-wrap"><table><thead>{thead}</thead><tbody>{posts_rows(cfg["posts"])}</tbody></table></div></div>
         </div></div>""")
 
     # ── Slide 5: Insights ──
     if cfg.get("insights"):
+        left, right = split_insights(cfg["insights"])
+        if left and right:
+            body_html = (f'<div class="ins-cols">'
+                         f'<div class="card"><div class="card-title">Insights das melhores publicações</div>'
+                         f'<div class="ins-wrap">{insights_html(left)}</div></div>'
+                         f'<div class="card"><div class="card-title">Alcance, público e engajamento</div>'
+                         f'<div class="ins-wrap">{insights_html(right)}</div></div>'
+                         f'</div>')
+        else:
+            body_html = f'<div class="card"><div class="ins-wrap">{insights_html(left or right)}</div></div>'
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Insights estratégicos</div>
-          <div class="card"><div class="ins-wrap">{insights_html(cfg["insights"])}</div></div>
+          {body_html}
         </div></div>""")
 
     html = ('<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">'

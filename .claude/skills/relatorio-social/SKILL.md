@@ -90,8 +90,16 @@ Ver **Schema do config** abaixo. Pontos de atenção:
   taxa de engajamento caindo é ruim (bad/vermelho) mesmo sendo uma queda; alcance subindo é bom (verde).
 - `audiencia` é flexível: para LinkedIn troca gênero/idade/cidade por função/setor/senioridade
   (mesmos blocos `tipo: "pie"` ou `tipo: "bar"`). É isso que faz a skill servir qualquer cliente.
+  Existe também `tipo: "horarios"` pra melhores horários de postagem (gráfico de barras por hora +
+  lista de dias/faixas de horário de pico) — perguntar pela usuária se ela tem esse dado nos insights
+  nativos ("Horários de atividade dos seguidores").
 - Slides são condicionais: só aparece o slide de audiência se houver `audiencia`, o de posts se houver
   `posts`, etc. Cliente sem stories não gera slide de stories.
+- `rodape` deve ter no máximo 2-3 itens e **nunca repetir um número que já aparece em algum `kpi`** —
+  serve pra destacar algo que não está no grid (ex: um marco, não os mesmos KPIs reformatados).
+- Tabela de publicações mostra automaticamente **top 10** (corta o resto) e calcula a coluna
+  "Engaj. total" (curtidas+comentários+salvos+compart.) e a taxa de engajamento (engaj. total / alcance)
+  quando `taxa` não vier preenchida no post — não precisa calcular isso na mão.
 
 ### Passo 4 — Escrever o resumo e os insights
 
@@ -104,6 +112,11 @@ Esta é a parte que dá valor. Não é só listar número.
   não genérica ("testar formato X no próximo período", não "continuar investindo em conteúdo de qualidade").
 - Pode agrupar cada insight por tema (`{"cat": "Alcance", "text": "..."}` no lugar de string solta) pra
   organizar visualmente: Alcance, Engajamento, Audiência, Conteúdo, Crescimento. Ver Schema.
+- **Se houver `posts` no config, sempre escrever 2-4 insights com `"cat": "Publicações"`** — eles
+  ganham coluna própria no slide de insights, ao lado dos gerais. Conteúdo esperado: que editorias/temas
+  performaram melhor entre as top publicações, o que aprender com elas (formato, gancho, tema) pra
+  replicar nas próximas, e o que isso revela sobre quem segue o perfil. Não repetir o número já visível
+  na tabela; interpretar por que aquele post específico funcionou.
 
 Tom: direto, embasado no dado, sem clichê. Dado é resposta, não decoração. Nada de "seu perfil está
 bombando". Adaptar a linguagem ao cliente (não usar a voz combativa da Strig no relatório de outro negócio).
@@ -140,18 +153,23 @@ Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números 
   "acoes": [ "<strong>...</strong> ação realizada no período" ],   // opcional; o que a equipe fez
   "audiencia": [                       // opcional; cada bloco vira um card
     { "titulo": "Gênero", "tipo": "pie", "items": [["Masculino", 53.4]] },
-    { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo", 164]] }
+    { "titulo": "Principais cidades", "tipo": "bar", "items": [["São Paulo", 164]] },
+    { "titulo": "Melhores horários", "tipo": "horarios",           // opcional
+      "items": [["0h", 30], ["3h", 8], ["6h", 22], ["9h", 55], ["12h", 60], ["15h", 58], ["18h", 70], ["21h", 62]],
+      "melhores": [ { "dia": "Domingo", "faixa": "18h-21h" }, { "dia": "Segunda", "faixa": "18h-21h" } ] }
   ],
-  "posts": [                           // opcional; slide de melhores publicações
+  "posts": [                           // opcional; slide de melhores publicações (top 10, o resto é cortado)
     { "titulo": "tema completo da capa", "formato": "Carrossel",   // Carrossel/Estático/Reel/Story
-      "taxa": "—", "alcance": 136, "visualizacoes": 179,
+      "taxa": "—",                      // deixar "—" que o script calcula (engaj. total / alcance)
+      "alcance": 136, "visualizacoes": 179,
       "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
   ],
   "insights": [                        // opcional; string solta (legado) ou objeto com categoria
-    { "cat": "Alcance", "text": "<strong>...</strong> ..." },
+    { "cat": "Publicações", "text": "<strong>...</strong> ..." },  // vai pra coluna de insights de posts
+    { "cat": "Alcance", "text": "<strong>...</strong> ..." },      // vai pra coluna geral
     "<strong>...</strong> ..."
   ],
-  "rodape": [ { "strong": "+289", "text": "começaram a seguir" } ]   // opcional
+  "rodape": [ { "strong": "+289", "text": "começaram a seguir" } ]   // opcional, no máx 2-3 itens
 }
 ```
 
