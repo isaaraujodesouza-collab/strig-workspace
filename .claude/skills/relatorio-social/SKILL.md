@@ -146,6 +146,10 @@ abreviar, e o `formato` sempre preenchido. Stories não entram neste relatório.
 
 - **Só orgânico.** Nenhum número de tráfego pago entra. Se a usuária mandar dados de anúncios junto,
   separar e avisar que ficam de fora deste relatório.
+- **Posts impulsionados no período:** o Instagram nativo não separa alcance/interações orgânicas das
+  pagas depois que um post é turbinado (não dá pra filtrar isso na tela de Insights). Quando houver
+  posts impulsionados no período, sempre usar o campo `kpi_note` pra avisar que os números podem
+  incluir alcance pago, em vez de tentar separar ou apresentar como 100% orgânico.
 - **Nunca inventar número.** Se um dado não veio, não estimar. Deixar o campo de fora do config.
 - **Sem travessões (—)** no texto do resumo/insights. Sem clichê, sem framing aspiracional vago.
   Dado é a resposta, não a decoração. Entregar a conclusão antes de detalhar.
