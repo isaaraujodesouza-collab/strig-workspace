@@ -62,11 +62,20 @@ Se ela ainda não mandou, pedir de forma objetiva pra ela não ficar perdida:
 
 > "Me manda o relatório do Metricool (ou os prints dos insights) do período. Preciso de:
 > - Os KPIs do topo com a variação vs. período anterior (alcance, seguidores, interações, curtidas, taxa de engajamento...)
+> - O valor de cada KPI no(s) período(s) anterior(es) também, não só a variação percentual — isso é o
+>   que permite mostrar crescimento de verdade no relatório, não só o número do mês
 > - Alcance por dia (pro gráfico de evolução)
 > - Audiência: gênero, idade e principais cidades
 > - As melhores publicações (alcance, visualizações, curtidas, comentários, salvos, compart.)
 > - Os stories, se houver (alcance, saídas, respostas, toques)
 > Manda o que tiver que eu trabalho com isso."
+
+**Sempre perguntar pelo histórico, não só o período atual.** Um relatório sem comparação não mostra
+crescimento, só uma foto isolada. Se a usuária só trouxer o período atual, perguntar especificamente:
+> "Você tem o valor desses KPIs em 2-3 períodos anteriores? Isso entra como linha de tendência em cada
+> indicador e é o que mostra a evolução, não só o retrato do mês."
+Se ela não tiver (plataforma não guarda histórico, cliente é novo, etc.), seguir sem `anterior`/`trend`
+no KPI e não inventar — mas sempre perguntar antes de assumir que não tem.
 
 **Nunca inventar número.** Se um dado não veio, deixar de fora e registrar (ver Regras).
 
@@ -89,8 +98,12 @@ Ver **Schema do config** abaixo. Pontos de atenção:
 Esta é a parte que dá valor. Não é só listar número.
 
 - **Resumo do período:** 2-3 frases factuais do que aconteceu, com os números principais em negrito.
-- **Insights (3 a 5):** leitura estratégica. Cruzar métricas (ex: alcance subiu mas taxa caiu = chegou
-  gente nova, foco agora é converter em salvamento). Ligar audiência ao perfil do cliente. Sugerir ação.
+- **Insights (3 a 5):** leitura estratégica, nunca lista solta de números. Cada insight cruza pelo menos
+  duas métricas ou liga um número a uma decisão (ex: alcance subiu mas taxa caiu = chegou gente nova,
+  foco agora é converter em salvamento). Ligar audiência ao perfil do cliente. Sugerir ação concreta,
+  não genérica ("testar formato X no próximo período", não "continuar investindo em conteúdo de qualidade").
+- Pode agrupar cada insight por tema (`{"cat": "Alcance", "text": "..."}` no lugar de string solta) pra
+  organizar visualmente: Alcance, Engajamento, Audiência, Conteúdo, Crescimento. Ver Schema.
 
 Tom: direto, embasado no dado, sem clichê. Dado é resposta, não decoração. Nada de "seu perfil está
 bombando". Adaptar a linguagem ao cliente (não usar a voz combativa da Strig no relatório de outro negócio).
@@ -118,7 +131,9 @@ Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números 
   "comparado": "02/05/2026 - 31/05/2026",   // opcional
   "kpi_note": "texto do aviso amarelo (opcional)",
   "kpis": [                            // grid da visão geral
-    { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true } }
+    { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true },
+      "anterior": "79.020",            // opcional; valor do período de comparação, mostrado abaixo do delta
+      "trend": [61200, 70400, 79020, 157130] }  // opcional; últimos 3-6 períodos, vira sparkline no card
   ],
   "daily": [ ["01/06", 3200, 12] ],    // [data, alcance, novos_seguidores(opcional)]
   "resumo": "texto com <strong>negritos</strong>",   // opcional (~14px, conclusão factual do mês)
@@ -132,7 +147,10 @@ Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números 
       "taxa": "—", "alcance": 136, "visualizacoes": 179,
       "curtidas": 3, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 }
   ],
-  "insights": [ "<strong>...</strong> ..." ],   // opcional
+  "insights": [                        // opcional; string solta (legado) ou objeto com categoria
+    { "cat": "Alcance", "text": "<strong>...</strong> ..." },
+    "<strong>...</strong> ..."
+  ],
   "rodape": [ { "strong": "+289", "text": "começaram a seguir" } ]   // opcional
 }
 ```

@@ -38,9 +38,11 @@ def fmt_dec(n, d=2):
     return f"{float(n):.{d}f}".replace(".", ",")
 
 # ── Paletas Strig ────────────────────────────────────────────────────────────
+# Roxo principal (marca) + ciano (acento tecnológico da marca, marca/design-guide.md)
 PUR_COLS = ['#7F00FF', '#9D47FF', '#B86FFF', '#CCA4FF', '#E0CEFF']
-BLU_COLS = ['#0369A1', '#0EA5E9', '#38BDF8', '#7DD3FC', '#BAE6FD']
-PIE_COLS = ['#7F00FF', '#0EA5E9', '#F59E0B', '#10B981', '#EC4899', '#8B5CF6', '#F43F5E', '#14B8A6']
+CYA_COLS = ['#0891B2', '#06B6D4', '#22D3EE', '#67E8F9', '#CFFAFE']
+BLU_COLS = CYA_COLS  # compat: séries secundárias usam o ciano de marca, não azul genérico
+PIE_COLS = ['#7F00FF', '#0891B2', '#F59E0B', '#10B981', '#EC4899', '#8B5CF6', '#F43F5E', '#14B8A6']
 
 # ── Charts SVG (sem dependência externa) ─────────────────────────────────────
 def svg_line(labels, series, W=1600, H=460):
@@ -86,6 +88,26 @@ def svg_line(labels, series, W=1600, H=460):
         lx += 40 + len(s["name"]) * 7.5
     parts.append('</svg>')
     return ''.join(parts)
+
+def svg_spark(values, color="#7F00FF", W=112, H=34):
+    """Mini gráfico de linha (sparkline) pro histórico curto de um KPI (3-8 pontos)."""
+    vals = [float(v) for v in values]
+    if len(vals) < 2:
+        return ""
+    mn, mx = min(vals), max(vals)
+    rng = (mx - mn) or 1
+    pad = 3
+    pts = []
+    for i, v in enumerate(vals):
+        x = pad + i * (W - 2 * pad) / (len(vals) - 1)
+        y = H - pad - (v - mn) / rng * (H - 2 * pad)
+        pts.append((x, y))
+    poly = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    lastx, lasty = pts[-1]
+    return (f'<svg viewBox="0 0 {W} {H}" width="{W}" height="{H}" xmlns="http://www.w3.org/2000/svg" style="display:block">'
+            f'<polyline points="{poly}" fill="none" stroke="{color}" stroke-width="2" '
+            f'stroke-linejoin="round" stroke-linecap="round"/>'
+            f'<circle cx="{lastx:.1f}" cy="{lasty:.1f}" r="2.6" fill="{color}"/></svg>')
 
 def svg_hbar(labels, values, colors, W=880, H=500, label_w=150, show_vals=True):
     n = len(labels)
@@ -163,10 +185,18 @@ def kpi_grid_html(kpis):
     for k in kpis:
         foot = delta_html(k.get("delta"))
         note = f'<span class="kpi-note">{k["note"]}</span>' if k.get("note") else ""
+        anterior = (f'<div class="kpi-prev">período anterior: {k["anterior"]}</div>'
+                    if k.get("anterior") is not None else "")
+        spark = ""
+        if k.get("trend"):
+            d = k.get("delta") or {}
+            good = d.get("good")
+            col = "#0891B2" if good is None else ("#0B8043" if good else "#D93025")
+            spark = f'<div class="kpi-spark">{svg_spark(k["trend"], color=col)}</div>'
         out.append(
-            f'<div class="kpi"><div class="kpi-lbl">{k["lbl"]}</div>'
+            f'<div class="kpi"><div class="kpi-top"><div class="kpi-lbl">{k["lbl"]}</div>{spark}</div>'
             f'<div class="kpi-val">{k["val"]}</div>'
-            f'<div class="kpi-foot">{foot}{note}</div></div>')
+            f'<div class="kpi-foot">{foot}{note}</div>{anterior}</div>')
     return "".join(out)
 
 def rodape_html(items):
@@ -228,7 +258,17 @@ def stories_rows(stories):
     return "\n".join(rows)
 
 def insights_html(items):
-    return "".join(f'<div class="ins"><div class="ins-num">{i+1}</div><div class="ins-text">{t}</div></div>' for i, t in enumerate(items))
+    """items: string (legado) ou {"cat": "Alcance", "text": "..."} pra agrupar visualmente por tema."""
+    out = []
+    for i, it in enumerate(items):
+        if isinstance(it, dict):
+            cat = f'<div class="ins-cat">{it.get("cat","")}</div>' if it.get("cat") else ""
+            text = it.get("text", "")
+        else:
+            cat, text = "", it
+        out.append(f'<div class="ins"><div class="ins-num">{i+1}</div>'
+                    f'<div class="ins-body">{cat}<div class="ins-text">{text}</div></div></div>')
+    return "".join(out)
 
 def audiencia_cards(audiencia):
     """Renderiza cada bloco de audiência (pie ou bar) num card."""
@@ -271,8 +311,11 @@ CSS = """
   .note-box { background:#FEF7E6; border:1px solid #F5E4B8; border-radius:9px; padding:11px 16px; font-size:12px; color:#8A6D1B; flex-shrink:0; }
   /* KPIs */
   .kpi-grid { display:grid; gap:14px; flex:1; min-height:0; }
-  .kpi { background:#fff; border-radius:12px; border:1px solid #E2E8F0; padding:20px 26px; display:flex; flex-direction:column; justify-content:center; }
-  .kpi-lbl { font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.07em; color:#718096; margin-bottom:10px; }
+  .kpi { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:20px 26px; display:flex; flex-direction:column; justify-content:center;
+    box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
+  .kpi-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:10px; }
+  .kpi-lbl { font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.07em; color:#718096; }
+  .kpi-spark { flex-shrink:0; opacity:.9; }
   .kpi-val { font-size:42px; font-weight:700; color:#0D0D0D; line-height:1; }
   .kpi-note { font-size:11px; color:#7F00FF; font-weight:500; }
   .kpi-foot { display:flex; align-items:center; gap:8px; margin-top:11px; flex-wrap:wrap; }
@@ -280,8 +323,10 @@ CSS = """
   .kpi-delta.good { background:#E7F8EF; color:#0B8043; }
   .kpi-delta.bad { background:#FDECEA; color:#D93025; }
   .kpi-delta.neutral { background:#F1F5F9; color:#64748B; }
+  .kpi-prev { font-size:11px; color:#A0AEC0; margin-top:6px; }
   /* Cards / charts */
-  .card { background:#fff; border-radius:12px; border:1px solid #E2E8F0; padding:20px 22px 16px; display:flex; flex-direction:column; flex:1; min-height:0; }
+  .card { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:20px 22px 16px; display:flex; flex-direction:column; flex:1; min-height:0;
+    box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
   .card-title { font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.07em; color:#2D3748; margin-bottom:14px; flex-shrink:0; }
   .chart-box { flex:1; min-height:0; overflow:hidden; }
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
@@ -290,11 +335,13 @@ CSS = """
   /* Rodapé destaques */
   .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex-shrink:0; gap:14px; }
   .fh-item { background:#fff; border:1px solid #E2E8F0; border-radius:12px; padding:18px 22px;
-    display:flex; flex-direction:column; gap:5px; border-left:4px solid #7F00FF; }
+    display:flex; flex-direction:column; gap:5px; border-left:4px solid #7F00FF;
+    box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
   .fh-num { font-size:30px; font-weight:700; color:#0D0D0D; line-height:1; }
   .fh-lbl { font-size:12.5px; font-weight:500; color:#718096; }
   /* Tabelas */
-  .tbl-wrap { background:#fff; border-radius:12px; border:1px solid #E2E8F0; overflow:hidden; flex-shrink:0; }
+  .tbl-wrap { background:#fff; border-radius:14px; border:1px solid #E2E8F0; overflow:hidden; flex-shrink:0;
+    box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
   table { width:100%; border-collapse:collapse; }
   thead th { font-size:10.5px; font-weight:600; text-transform:uppercase; letter-spacing:.05em; color:#718096; background:#FAFBFC; border-bottom:1.5px solid #E2E8F0; padding:13px 10px; text-align:right; }
   thead th:first-child { text-align:left; padding-left:20px; }
@@ -310,6 +357,8 @@ CSS = """
   .ins { display:flex; gap:14px; align-items:flex-start; padding:12px 0; border-top:1px solid #F0F4F8; }
   .ins:first-child { border-top:none; }
   .ins-num { width:30px; height:30px; border-radius:50%; background:#7F00FF; color:#fff; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; margin-top:2px; }
+  .ins-body { flex:1; }
+  .ins-cat { font-size:10.5px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:#7F00FF; margin-bottom:4px; }
   .ins-text { font-size:15px; line-height:1.55; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
   .resumo { font-size:14px; line-height:1.6; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
   /* Slide evolução: gráfico menor à esquerda, resumo + ações em destaque à direita */
