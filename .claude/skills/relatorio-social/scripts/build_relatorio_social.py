@@ -154,8 +154,8 @@ def svg_vbar(labels, values, color="#7F00FF", W=560, H=320):
 def svg_pie(items, W=460, H=460):
     """items: [[label, valor], ...]. Pizza com % dentro das fatias."""
     total = sum(float(v) for _, v in items) or 1
-    cx, cy = W / 2, H / 2 - 6
-    r = min(W, H) / 2 * 0.72
+    cx, cy = W / 2, H / 2
+    r = min(W, H) / 2 * 0.94
     ang = -90.0
     parts = [f'<svg viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%;display:block">']
     for i, (lbl, v) in enumerate(items):
