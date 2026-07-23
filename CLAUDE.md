@@ -52,7 +52,7 @@ templates/ferramentas/catalogo.md — APIs e ferramentas disponíveis pra usar e
 
 Skills disponíveis: `/carrossel`, `/proposta-comercial`, `/publicar-site`, `/slide`, `/analisar-dados`, `/roteiro-post`, `/email-profissional`.
 
-**Skills de social media (Strig Lab):** `/pesquisa-social`, `/planejamento-editorial`, `/copy-post`, `/relatorio-social` (relatório de orgânico em dashboard HTML+PDF via Python, roda `.claude/skills/relatorio-social/scripts/build_relatorio_social.py`), `/apresentacao-aprovacao`.
+**Skills de social media (Strig Lab):** `/pesquisa-social`, `/planejamento-editorial`, `/copy-post`, `/relatorio-social` (relatório de orgânico em dashboard HTML+PDF via Python, roda `.claude/skills/relatorio-social/scripts/build_relatorio_social.py`), `/apresentacao-aprovacao`, `/subir-tarefas-clickup` (sobe as tasks do planejamento e copies validados pro ClickUp, na lista "Produção de conteúdo" do espaço de cada cliente).
 
 **Segredos:** chaves de API ficam em `.env` (já no `.gitignore`). Skills referenciam via `--env-file=.env`.
 
