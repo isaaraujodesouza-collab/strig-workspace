@@ -198,9 +198,22 @@ def delta_html(d):
     cls = "good" if good else ("bad" if d.get("dir") in ("up", "down") else "neutral")
     return f'<span class="kpi-delta {cls}">{arrow} {d["txt"]}</span>'
 
-def kpi_grid_html(kpis):
+def kpi_cols(n):
+    """Escolhe o nº de colunas do grid de KPIs evitando linha final incompleta (buraco no grid).
+    Preferência: caber tudo numa linha só (até 5); senão, achar um divisor exato (4 ou 3)."""
+    if n <= 5:
+        return max(n, 1)
+    for c in (4, 3):
+        if n % c == 0:
+            return c
+    return 3
+
+def kpi_grid_html(kpis, cols):
+    n = len(kpis)
+    remainder = n % cols
+    trailing_start = n - remainder if remainder else n
     out = []
-    for k in kpis:
+    for idx, k in enumerate(kpis):
         foot = delta_html(k.get("delta"))
         note = f'<span class="kpi-note">{k["note"]}</span>' if k.get("note") else ""
         anterior = (f'<div class="kpi-prev">período anterior: {k["anterior"]}</div>'
@@ -211,8 +224,14 @@ def kpi_grid_html(kpis):
             good = d.get("good")
             col = "#0891B2" if good is None else ("#0B8043" if good else "#D93025")
             spark = f'<div class="kpi-spark">{svg_spark(k["trend"], color=col)}</div>'
+        style = ""
+        if remainder and idx >= trailing_start:
+            pos = idx - trailing_start
+            base, extra = cols // remainder, cols % remainder
+            span = base + (1 if pos < extra else 0)
+            style = f' style="grid-column:span {span}"'
         out.append(
-            f'<div class="kpi"><div class="kpi-top"><div class="kpi-lbl">{k["lbl"]}</div>{spark}</div>'
+            f'<div class="kpi"{style}><div class="kpi-top"><div class="kpi-lbl">{k["lbl"]}</div>{spark}</div>'
             f'<div class="kpi-val">{k["val"]}</div>'
             f'<div class="kpi-foot">{foot}{note}</div>{anterior}</div>')
     return "".join(out)
@@ -446,14 +465,14 @@ def build_html(cfg, logo_tag):
 
     # ── Slide 1: Visão geral (KPIs) ──
     kpis = cfg.get("kpis", [])
-    cols = 3 if len(kpis) <= 9 else 4
+    cols = kpi_cols(len(kpis))
     note = f'<div class="note-box">{cfg["kpi_note"]}</div>' if cfg.get("kpi_note") else ""
     comp = f'· Comparado com {cfg["comparado"]}' if cfg.get("comparado") else ""
     rod = f'<div class="footer-h">{rodape_html(cfg["rodape"])}</div>' if cfg.get("rodape") else ""
     slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
       <div class="slide-h">Visão geral {comp}</div>
       {note}
-      <div class="kpi-grid" style="grid-template-columns:repeat({cols},1fr)">{kpi_grid_html(kpis)}</div>
+      <div class="kpi-grid" style="grid-template-columns:repeat({cols},1fr)">{kpi_grid_html(kpis, cols)}</div>
       {rod}
     </div></div>""")
 
