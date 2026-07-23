@@ -302,7 +302,8 @@ def split_insights(items):
 
 def audiencia_cards(audiencia):
     """Renderiza cada bloco de audiência (pie, bar ou horarios) num card.
-    Gráfico + legenda ficam agrupados num único bloco centralizado (evita vão entre os dois)."""
+    Pizza usa layout horizontal (gráfico à esquerda, legenda à direita) — cabe melhor em
+    cards mais largos e baixos (grid 2x2). Barra/horários mantêm o gráfico sozinho no card."""
     cards = []
     for blk in audiencia:
         titulo = blk.get("titulo", "")
@@ -310,8 +311,9 @@ def audiencia_cards(audiencia):
         items = blk.get("items", [])
         if tipo == "pie":
             chart = svg_pie(items)
-            legend = f'<div class="pie-legend">{pie_legend(items)}</div>'
+            legend = f'<div class="pie-legend pie-legend-v">{pie_legend(items)}</div>'
             body = f'<div class="chart-box">{chart}</div>{legend}'
+            aud_cls = "aud-pie"
         elif tipo == "horarios":
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
@@ -323,13 +325,15 @@ def audiencia_cards(audiencia):
                     f'<div class="melhor-item"><strong>{m.get("dia","")}</strong> {m.get("faixa","")}</div>'
                     for m in melhores) + '</div>'
             body = f'<div class="chart-box">{chart}</div>{ml_html}'
+            aud_cls = ""
         else:
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
             chart = svg_hbar(labels, vals, PUR_COLS, W=560, H=max(320, 56 * len(items)), label_w=200)
             body = f'<div class="chart-box">{chart}</div>'
+            aud_cls = ""
         cards.append(f'<div class="card"><div class="card-title">{titulo}</div>'
-                     f'<div class="aud-body">{body}</div></div>')
+                     f'<div class="aud-body {aud_cls}">{body}</div></div>')
     return cards
 
 # ── CSS (string normal, sem f-string, pra não precisar duplicar chaves) ───────
@@ -372,9 +376,12 @@ CSS = """
   .chart-box { flex:1; min-height:0; overflow:hidden; }
   .aud-body { flex:1; min-height:0; display:flex; flex-direction:column; justify-content:center; gap:12px; }
   .aud-body .chart-box { flex:0 0 auto; max-height:80%; }
+  .aud-body.aud-pie { flex-direction:row; align-items:center; justify-content:center; gap:22px; }
+  .aud-body.aud-pie .chart-box { flex:0 0 52%; max-height:100%; }
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
-  .lg-item { font-size:12px; color:#4A5568; display:flex; align-items:center; gap:7px; }
-  .lg-dot { width:11px; height:11px; border-radius:50%; display:inline-block; }
+  .pie-legend.pie-legend-v { flex-direction:column; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:11px; margin-top:0; flex:0 0 auto; }
+  .lg-item { font-size:13px; color:#4A5568; display:flex; align-items:center; gap:8px; }
+  .lg-dot { width:11px; height:11px; border-radius:50%; display:inline-block; flex-shrink:0; }
   .melhores-list { display:flex; flex-wrap:wrap; gap:8px 12px; justify-content:center; margin-top:12px; flex-shrink:0; }
   .melhor-item { font-size:12px; color:#4A5568; background:#F5F0FF; border-radius:8px; padding:6px 12px; white-space:nowrap; }
   .melhor-item strong { color:#1C1C1C; font-weight:600; }
@@ -386,27 +393,26 @@ CSS = """
   .fh-num { font-size:26px; font-weight:700; color:#0D0D0D; line-height:1; }
   .fh-lbl { font-size:12.5px; font-weight:500; color:#718096; }
   /* Tabelas */
-  .tbl-wrap { background:#fff; border-radius:14px; border:1px solid #E2E8F0; overflow:hidden; flex-shrink:0;
+  .tbl-wrap { background:#fff; border-radius:14px; border:1px solid #E2E8F0; overflow:hidden; flex:1; min-height:0;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
-  table { width:100%; border-collapse:collapse; }
+  table { width:100%; height:100%; border-collapse:collapse; }
   thead th { font-size:10.5px; font-weight:600; text-transform:uppercase; letter-spacing:.05em; color:#718096; background:#FAFBFC; border-bottom:1.5px solid #E2E8F0; padding:13px 10px; text-align:right; }
   thead th:first-child { text-align:left; padding-left:20px; }
-  tbody td { padding:17px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; vertical-align:middle; }
+  tbody td { padding:14px 10px; border-bottom:1px solid #F0F4F8; color:#2D3748; text-align:right; font-size:13px; vertical-align:middle; }
   tbody td:first-child { text-align:left; padding-left:20px; }
   tbody tr:last-child td { border-bottom:none; }
   .p-tit { width:460px; white-space:normal; line-height:1.4; font-weight:500; color:#1C1C1C; }
   .p-fmt { text-align:center !important; }
   .fmt { display:inline-block; color:#fff; border-radius:5px; padding:3px 10px; font-size:11px; font-weight:600; white-space:nowrap; }
   .tag-top { background:#7F00FF; color:#fff; border-radius:4px; padding:1px 6px; font-size:9px; margin-left:8px; font-weight:600; vertical-align:middle; }
-  /* Insights */
-  .ins-wrap { flex:1; display:flex; flex-direction:column; justify-content:space-evenly; gap:6px; }
-  .ins { display:flex; gap:14px; align-items:flex-start; padding:18px 0; border-top:1px solid #F0F4F8; }
-  .ins:first-child { border-top:none; }
-  .ins-num { width:30px; height:30px; border-radius:50%; background:#7F00FF; color:#fff; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; margin-top:2px; }
+  /* Insights — mesmo ritmo do card "Ações realizadas" (gap fixo, sem esticar pra preencher) */
+  .ins-wrap { display:flex; flex-direction:column; gap:14px; }
+  .ins { display:flex; gap:14px; align-items:flex-start; }
+  .ins-num { width:28px; height:28px; border-radius:50%; background:#7F00FF; color:#fff; font-size:13px; font-weight:700; display:flex; align-items:center; justify-content:center; flex-shrink:0; margin-top:2px; }
   .ins-body { flex:1; }
   .ins-cat { font-size:10.5px; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:#7F00FF; margin-bottom:4px; }
-  .ins-text { font-size:15px; line-height:1.55; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
-  .ins-cols { display:flex; gap:18px; flex:1; min-height:0; }
+  .ins-text { font-size:16px; line-height:1.5; color:#2D3748; } .ins-text strong { color:#0D0D0D; font-weight:600; }
+  .ins-cols { display:flex; gap:18px; align-items:flex-start; }
   .ins-cols > .card { flex:1; }
   .resumo { font-size:15px; line-height:1.55; color:#2D3748; } .resumo strong { color:#0D0D0D; font-weight:600; }
   /* Slide evolução: gráfico grande em cima, resumo + ações 50/50 embaixo */
@@ -470,7 +476,10 @@ def build_html(cfg, logo_tag):
     # ── Slide 3: Audiência ──
     if cfg.get("audiencia"):
         cards = audiencia_cards(cfg["audiencia"])
-        grid_style = f'display:grid;grid-template-columns:repeat({len(cards)},1fr);gap:18px;flex:1;min-height:0;'
+        n = len(cards)
+        cols = 2 if n > 1 else 1
+        rows = math.ceil(n / cols)
+        grid_style = f'display:grid;grid-template-columns:repeat({cols},1fr);grid-template-rows:repeat({rows},1fr);gap:18px;flex:1;min-height:0;'
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
           <div class="slide-h">Audiência</div>
           <div class="body-row" style="{grid_style}">{''.join(cards)}</div>

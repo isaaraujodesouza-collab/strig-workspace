@@ -96,7 +96,9 @@ Ver **Schema do config** abaixo. Pontos de atenção:
 - Slides são condicionais: só aparece o slide de audiência se houver `audiencia`, o de posts se houver
   `posts`, etc. Cliente sem stories não gera slide de stories.
 - `rodape` deve ter no máximo 2-3 itens e **nunca repetir um número que já aparece em algum `kpi`** —
-  serve pra destacar algo que não está no grid (ex: um marco, não os mesmos KPIs reformatados).
+  serve pra destacar algo que não está no grid (ex: um marco, não os mesmos KPIs reformatados). Se
+  "Alcance" (contas alcançadas) já é um KPI, usar aqui uma métrica complementar como **Impressões**
+  (se o Instagram tiver fornecido esse dado), não o mesmo alcance reformatado.
 - Tabela de publicações mostra automaticamente **top 10** (corta o resto) e calcula a coluna
   "Engaj. total" (curtidas+comentários+salvos+compart.) e a taxa de engajamento (engaj. total / alcance)
   quando `taxa` não vier preenchida no post — não precisa calcular isso na mão.
