@@ -378,7 +378,7 @@ CSS = """
   .slide-h { font-size:22px; font-weight:700; color:#1C1C1C; flex-shrink:0; }
   .note-box { background:#FEF7E6; border:1px solid #F5E4B8; border-radius:9px; padding:11px 16px; font-size:12px; color:#8A6D1B; flex-shrink:0; }
   /* KPIs */
-  .kpi-grid { display:grid; gap:14px; flex:1; min-height:0; }
+  .kpi-grid { display:grid; gap:14px; flex:1 1 0; min-height:0; }
   .kpi { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:16px 24px; display:flex; flex-direction:column; justify-content:center;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
   .kpi-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:8px; }
@@ -409,12 +409,12 @@ CSS = """
   .melhor-item { font-size:12px; color:#4A5568; background:#F5F0FF; border-radius:8px; padding:6px 12px; white-space:nowrap; }
   .melhor-item strong { color:#1C1C1C; font-weight:600; }
   /* Rodapé destaques */
-  .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex-shrink:0; gap:14px; }
+  .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex:1 1 0; min-height:0; gap:14px; }
   .fh-item { background:#fff; border:1px solid #E2E8F0; border-radius:12px; padding:18px 22px;
-    display:flex; flex-direction:column; gap:5px; border-left:4px solid #7F00FF;
+    display:flex; flex-direction:column; justify-content:center; gap:8px; border-left:4px solid #7F00FF;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
-  .fh-num { font-size:26px; font-weight:700; color:#0D0D0D; line-height:1; }
-  .fh-lbl { font-size:12.5px; font-weight:500; color:#718096; }
+  .fh-num { font-size:36px; font-weight:700; color:#0D0D0D; line-height:1; }
+  .fh-lbl { font-size:13px; font-weight:500; color:#718096; }
   /* Tabelas */
   .tbl-wrap { background:#fff; border-radius:14px; border:1px solid #E2E8F0; overflow:hidden; flex:1; min-height:0;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
