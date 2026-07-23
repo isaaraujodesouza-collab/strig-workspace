@@ -381,7 +381,7 @@ CSS = """
   .aud-body { flex:1; min-height:0; display:flex; flex-direction:column; justify-content:center; gap:12px; }
   .aud-body .chart-box { flex:0 0 auto; max-height:80%; }
   .aud-body.aud-pie { flex-direction:row; align-items:center; justify-content:center; gap:22px; }
-  .aud-body.aud-pie .chart-box { flex:0 0 auto; width:auto; height:100%; aspect-ratio:1/1; max-width:65%; overflow:hidden; }
+  .aud-body.aud-pie .chart-box { flex:0 0 auto; width:auto; height:100%; aspect-ratio:1/1; max-width:75%; overflow:hidden; }
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
   .pie-legend.pie-legend-v { flex-direction:column; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:11px; margin-top:0; flex:0 0 auto; }
   .lg-item { font-size:13px; color:#4A5568; display:flex; align-items:center; gap:8px; }
