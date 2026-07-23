@@ -321,7 +321,7 @@ def audiencia_cards(audiencia):
         elif tipo == "horarios":
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
-            chart = svg_vbar(labels, vals, color=PUR_COLS[0])
+            chart = svg_vbar(labels, vals, color=PUR_COLS[0], W=1400)
             melhores = blk.get("melhores", [])
             ml_html = ""
             if melhores:
@@ -333,7 +333,7 @@ def audiencia_cards(audiencia):
         else:
             labels = [x[0] for x in items]
             vals = [x[1] for x in items]
-            chart = svg_hbar(labels, vals, PUR_COLS, W=560, H=max(320, 56 * len(items)), label_w=200)
+            chart = svg_hbar(labels, vals, PUR_COLS, W=1400, H=max(320, 56 * len(items)), label_w=200)
             body = f'<div class="chart-box">{chart}</div>'
             aud_cls = ""
         cards.append(f'<div class="card"><div class="card-title">{titulo}</div>'
@@ -381,7 +381,7 @@ CSS = """
   .aud-body { flex:1; min-height:0; display:flex; flex-direction:column; justify-content:center; gap:12px; }
   .aud-body .chart-box { flex:0 0 auto; max-height:80%; }
   .aud-body.aud-pie { flex-direction:row; align-items:center; justify-content:center; gap:22px; }
-  .aud-body.aud-pie .chart-box { flex:0 0 auto; width:auto; height:100%; aspect-ratio:1/1; max-width:52%; overflow:hidden; }
+  .aud-body.aud-pie .chart-box { flex:0 0 auto; width:auto; height:100%; aspect-ratio:1/1; max-width:65%; overflow:hidden; }
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
   .pie-legend.pie-legend-v { flex-direction:column; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:11px; margin-top:0; flex:0 0 auto; }
   .lg-item { font-size:13px; color:#4A5568; display:flex; align-items:center; gap:8px; }
