@@ -114,11 +114,18 @@ Esta é a parte que dá valor. Não é só listar número.
   não genérica ("testar formato X no próximo período", não "continuar investindo em conteúdo de qualidade").
 - Pode agrupar cada insight por tema (`{"cat": "Alcance", "text": "..."}` no lugar de string solta) pra
   organizar visualmente: Alcance, Engajamento, Audiência, Conteúdo, Crescimento. Ver Schema.
-- **Se houver `posts` no config, sempre escrever 2-4 insights com `"cat": "Publicações"`** — eles
-  ganham coluna própria no slide de insights, ao lado dos gerais. Conteúdo esperado: que editorias/temas
-  performaram melhor entre as top publicações, o que aprender com elas (formato, gancho, tema) pra
-  replicar nas próximas, e o que isso revela sobre quem segue o perfil. Não repetir o número já visível
-  na tabela; interpretar por que aquele post específico funcionou.
+- **Se houver `posts` no config, sempre escrever insights de publicações em duas camadas:**
+  1. **3 insights individuais**, um pra cada post do top 3, com `"cat": "Conteúdo Top 1"` / `"Conteúdo
+     Top 2"` / `"Conteúdo Top 3"` — o que especificamente fez aquele post funcionar (tema, formato,
+     gancho da capa/legenda). Ex: `"Conteúdo Top 1"` → "O carrossel <strong>\"...\"</strong> foi o top
+     do mês: tema de contestação de cobrança indevida, formato educativo com passo a passo. É o padrão
+     a replicar."
+  2. **1-3 insights gerais** com `"cat": "Publicações"`, olhando o **top 10 inteiro** (não só o top 3):
+     comparações e diferenças entre os posts (formato, tema, gancho), semelhanças que se repetem nos
+     que performam bem, o que aproveitar e o que melhorar nos próximos.
+  Todos (individuais + gerais) caem na mesma coluna do slide de insights ("Insights das melhores
+  publicações"), ao lado da coluna geral. Não repetir o número já visível na tabela; interpretar por
+  que aquele post específico funcionou.
 
 Tom: direto, embasado no dado, sem clichê. Dado é resposta, não decoração. Nada de "seu perfil está
 bombando". Adaptar a linguagem ao cliente (não usar a voz combativa da Strig no relatório de outro negócio).

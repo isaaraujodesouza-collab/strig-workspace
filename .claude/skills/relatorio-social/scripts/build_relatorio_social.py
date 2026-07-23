@@ -290,7 +290,11 @@ def insights_html(items):
                     f'<div class="ins-body">{cat}<div class="ins-text">{text}</div></div></div>')
     return "".join(out)
 
-POSTS_CATS = {"publicações", "publicacoes", "conteúdo", "conteudo", "posts", "principais publicações"}
+POSTS_CATS = {
+    "publicações", "publicacoes", "conteúdo", "conteudo", "posts", "principais publicações",
+    "conteúdo top 1", "conteúdo top 2", "conteúdo top 3",
+    "conteudo top 1", "conteudo top 2", "conteudo top 3",
+}
 
 def split_insights(items):
     """Separa insights sobre publicações (cat em POSTS_CATS) dos demais (alcance/público/engajamento)."""
@@ -377,7 +381,7 @@ CSS = """
   .aud-body { flex:1; min-height:0; display:flex; flex-direction:column; justify-content:center; gap:12px; }
   .aud-body .chart-box { flex:0 0 auto; max-height:80%; }
   .aud-body.aud-pie { flex-direction:row; align-items:center; justify-content:center; gap:22px; }
-  .aud-body.aud-pie .chart-box { flex:0 0 52%; max-height:100%; }
+  .aud-body.aud-pie .chart-box { flex:0 0 auto; width:auto; height:100%; aspect-ratio:1/1; max-width:52%; overflow:hidden; }
   .pie-legend { display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:center; margin-top:10px; flex-shrink:0; }
   .pie-legend.pie-legend-v { flex-direction:column; flex-wrap:nowrap; justify-content:center; align-items:flex-start; gap:11px; margin-top:0; flex:0 0 auto; }
   .lg-item { font-size:13px; color:#4A5568; display:flex; align-items:center; gap:8px; }
