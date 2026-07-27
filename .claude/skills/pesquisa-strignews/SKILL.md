@@ -284,17 +284,17 @@ Ao final da edição, gerar os links de compartilhamento via WhatsApp para cada 
 
 **Como conferir na dúvida:** fazer WebFetch em uma edição publicada em `https://strignews.beehiiv.com/` e ler as âncoras reais dos cabeçalhos. Sinalizar para a Isa as keys em que o corte cai num hífen, que é onde pode haver variação.
 
-**Formato do link:** replicar exatamente o botão nativo de compartilhamento do Beehiiv. Não inventar formato próprio.
+**Formato do link:**
 
 ```
-https://wa.me/?text=Olha+s%C3%B3+na+Strig+News%3A+https%3A%2F%2Fstrignews.beehiiv.com%2Fp%2FSLUG-DA-EDICAO%23[key]&utm_campaign=SLUG-DA-EDICAO&utm_medium=referral&utm_source=strignews.beehiiv.com
+https://wa.me/?text=Viu%20isso%20na%20Strig%20News:%20{{live_url}}%23[key]
 ```
 
-Detalhes que **não** podem mudar:
-- Texto fixo: `Olha só na Strig News:` (codificado como `Olha+s%C3%B3+na+Strig+News%3A+`)
-- Espaço vira `+`, não `%20`
-- A URL de destino vai **inteira percent-encoded**: `https%3A%2F%2F`, barras como `%2F`, âncora como `%23`
-- Os três parâmetros de rastreio no fim: `utm_campaign` (com o slug da edição), `utm_medium=referral`, `utm_source=strignews.beehiiv.com`
+**`{{live_url}}` é uma variável do Beehiiv, não um placeholder.** Entregar o link com as chaves duplas literais, exatamente como está acima. O Beehiiv resolve a variável para a URL da edição no momento de renderizar, o que faz o link funcionar mesmo com a edição ainda em rascunho.
+
+Nunca substituir `{{live_url}}` por um slug fixo, nem pedir para a Isa preencher. Isso quebra o link e é erro conhecido.
+
+**Não confundir com o botão nativo de compartilhar do Beehiiv.** O botão gera uma URL com o slug expandido, percent-encoding completo e parâmetros `utm_*`. Aquilo é a **saída** renderizada pelo Beehiiv, não o formato que se cola no editor. Se a Isa mandar o link de um botão nativo como referência, não replicar aquele formato.
 
 **Formato do bloco de saída:**
 ```
