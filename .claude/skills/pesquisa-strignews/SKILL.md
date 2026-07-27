@@ -284,18 +284,30 @@ Ao final da edição, gerar os links de compartilhamento via WhatsApp para cada 
 
 **Como conferir na dúvida:** fazer WebFetch em uma edição publicada em `https://strignews.beehiiv.com/` e ler as âncoras reais dos cabeçalhos. Sinalizar para a Isa as keys em que o corte cai num hífen, que é onde pode haver variação.
 
+**Formato do link:** replicar exatamente o botão nativo de compartilhamento do Beehiiv. Não inventar formato próprio.
+
+```
+https://wa.me/?text=Olha+s%C3%B3+na+Strig+News%3A+https%3A%2F%2Fstrignews.beehiiv.com%2Fp%2FSLUG-DA-EDICAO%23[key]&utm_campaign=SLUG-DA-EDICAO&utm_medium=referral&utm_source=strignews.beehiiv.com
+```
+
+Detalhes que **não** podem mudar:
+- Texto fixo: `Olha só na Strig News:` (codificado como `Olha+s%C3%B3+na+Strig+News%3A+`)
+- Espaço vira `+`, não `%20`
+- A URL de destino vai **inteira percent-encoded**: `https%3A%2F%2F`, barras como `%2F`, âncora como `%23`
+- Os três parâmetros de rastreio no fim: `utm_campaign` (com o slug da edição), `utm_medium=referral`, `utm_source=strignews.beehiiv.com`
+
 **Formato do bloco de saída:**
 ```
 [EDITORIA]
 Matéria: [título]
 Key: #[key-em-minusculas-35-chars]
 Link de compartilhamento:
-https://wa.me/?text=Viu%20isso%20na%20Strig%20News:%20{{live_url}}%23[KEY-SEM-CERQUILHA]
+[link completo no formato acima]
 ```
 
 Apresentar todos os 7 links em sequência após a edição completa.
 
-**Observação:** `{{live_url}}` é um placeholder. A Isa substitui pela URL real da edição publicada no Beehiiv. Informar isso junto com os links.
+**Observação:** `SLUG-DA-EDICAO` é a parte da URL depois de `/p/`, e só existe depois que o rascunho é criado no Beehiiv. Aparece duas vezes em cada link. Avisar a Isa que ela troca uma vez e replica nos 7.
 
 ---
 
