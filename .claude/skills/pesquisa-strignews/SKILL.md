@@ -16,6 +16,7 @@ description: >
 - **Design da newsletter:** `marca/design-guide-strignews.md`
 - **Fontes de referência:** Globo (g1.globo.com), Exame, BBC, CNN Brasil, CNBC, Reuters, Meio & Mensagem, Mundo do Marketing
 - **MCP Beehiiv:** para criar o rascunho da edição (publication ID: `pub_cd70bc8f-1304-4e8a-833c-9d03506c887a`)
+- **MCP ClickUp:** para subir o banco de notícias na task da semana (lista "Produção Newsletter", id `901309948732`)
 
 ---
 
@@ -95,6 +96,32 @@ Indicar com ⚠️ pautas relevantes que foram descobertas apenas na varredura d
 **Regra de temporalidade:** todas as notícias do banco — tanto as principais quanto as de destaque — devem ser da **mesma semana da edição**. Não usar notícias de semanas ou meses anteriores, mesmo que sejam relevantes para o tema. Se uma notícia encontrada for antiga, descartá-la e buscar uma alternativa da semana corrente.
 
 **Não sugerir nenhuma pauta ainda.** Apenas apresentar o banco completo.
+
+---
+
+### Passo 4.5 — Subir o banco de notícias no ClickUp
+
+Depois de apresentar o banco no chat, subir a versão completa como **comentário** na task de coleta de temas da semana.
+
+**Onde:**
+- Espaço: `STRIG LAB` (id `90131742893`)
+- Pasta: `Newsletter` (id `90135836995`)
+- Lista: `Produção Newsletter` (id `901309948732`)
+- Task: `TEMAS - ISA - DD/MM` (data da edição). Localizar com `clickup_search` pelo nome.
+
+**Como:**
+- Usar `clickup_create_comment` com `entity_type: "task"`.
+- **Nunca sobrescrever a descrição da task** — ela guarda o briefing padrão da curadoria. O banco vai sempre em comentário.
+- Se a task da semana não existir, avisar a Isa e perguntar se deve criar antes de seguir.
+
+**O que o comentário precisa ter:**
+- Cabeçalho com a data da edição e a semana coberta
+- Todas as notícias por editoria, com código, resumo com dados concretos e fontes linkadas
+- A marcação ⚠️ preservada
+- As notas de relação entre pautas (quais são o mesmo caso em ângulos diferentes)
+- Um bloco final de notas da varredura: fontes que bloquearam acesso, pendências de dados, e a checagem de repetição contra as últimas edições
+
+Confirmar para a Isa que o comentário foi postado, com o link da task.
 
 ---
 
