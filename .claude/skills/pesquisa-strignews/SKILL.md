@@ -14,9 +14,36 @@ description: >
 
 - **Guia editorial:** `marca/copywriting-strignews.md`
 - **Design da newsletter:** `marca/design-guide-strignews.md`
-- **Fontes de referência:** Globo (g1.globo.com), Exame, BBC, CNN Brasil, CNBC, Reuters, Meio & Mensagem, Mundo do Marketing
+- **Fontes de referência:** ver a lista de fontes aprovadas abaixo
 - **MCP Beehiiv:** para criar o rascunho da edição (publication ID: `pub_cd70bc8f-1304-4e8a-833c-9d03506c887a`)
 - **MCP ClickUp:** para subir o banco de notícias na task da semana (lista "Produção Newsletter", id `901309948732`)
+
+---
+
+## Fontes aprovadas
+
+Toda notícia do banco e todo link de destaque tem que vir de um destes veículos. Não é sugestão, é lista fechada.
+
+**Brasil:** G1 / Globo, Folha de S.Paulo, Estadão, O Globo, Exame, CNN Brasil, Poder360, Forbes Brasil, Olhar Digital, Meio & Mensagem, Propmark, Mundo do Marketing
+
+**Internacional:** BBC, Reuters, CNBC, NPR, PBS, The Diplomat, TechCrunch, Variety, Bloomberg, Financial Times, The Verge, Fortune, TIME
+
+**Fonte primária (sempre válida, e preferível quando existir):** comunicado oficial da própria empresa, relatório ou paper original, publicação de órgão público (gov.br, ANPD, Conar, Comissão Europeia, USTR).
+
+### O que NÃO entra, em nenhuma hipótese
+
+- **Blog agregador ou de empresa que vende serviço no assunto.** Ex: blog de painel de social media escrevendo sobre ferramenta de creator ads. É material comercial fantasiado de notícia.
+- **Coluna de opinião assinada**, mesmo em veículo respeitável. O Migalhas é jornalismo jurídico sério, mas a seção "De Peso" é artigo de advogado, que pode ter cliente no tema. Buscar a reportagem, não a coluna.
+- **Press release sem apuração independente** (PR Newswire, Business Wire e similares). Se só a assessoria contou, o número é autodeclarado. Vale só se um veículo da lista apurou.
+- **Portal local pequeno, agregador de conteúdo, site de SEO.** Se o veículo não tem redação identificável, não entra.
+- **Conteúdo replicado sem data própria.** Blog que republica notícia antiga faz parecer novidade e fura a regra de temporalidade.
+
+### Procedimento
+
+1. Ao montar o banco, se a única cobertura de uma pauta estiver fora da lista, é sinal de alerta duplo: ou a pauta não é relevante, ou não é desta semana. Checar a data original antes de incluir.
+2. Antes de fechar a edição, listar todos os domínios usados e conferir contra esta lista.
+3. Alguns veículos bloqueiam acesso automatizado (G1, BBC, Reuters, Estadão, CNBC). Isso **não** os desqualifica: buscar a mesma notícia em outro veículo da lista para extrair os dados, e creditar quem publicou primeiro.
+4. Notícia com acusação contra empresa ou pessoa **exige a resposta do outro lado**. Se a resposta existe, entra no texto. Se a empresa não se manifestou, dizer isso explicitamente.
 
 ---
 
