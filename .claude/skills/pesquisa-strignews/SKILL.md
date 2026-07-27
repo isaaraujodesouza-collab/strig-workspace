@@ -266,19 +266,29 @@ Ao final da edição, gerar os links de compartilhamento via WhatsApp para cada 
 
 **Regra de geração da key (âncora Beehiiv):**
 1. Pegar o título da notícia (o título em negrito, não a editoria)
-2. Converter para MAIÚSCULAS
-3. **Remover caracteres especiais/acentuados inteiramente** — não substituir pelo equivalente sem acento. Exemplos: `ç` → nada (não `C`), `ã` → nada (não `A`), `á` → nada, `é` → nada, `ú` → nada, `í` → nada, `ó` → nada. Ou seja: "lança" → "LANA", "precisão" → "PRECISO", "preços" → "PREOS", "histórico" → "HISTRICO"
-4. Remover pontuação (vírgulas, dois-pontos, ponto de exclamação, %, parênteses, etc.)
+2. Converter para **minúsculas**. A âncora do Beehiiv é toda minúscula, e âncora de URL é sensível a maiúsculas: key em caixa alta não encontra o destino e o link cai no topo da edição.
+3. **Remover caracteres especiais/acentuados inteiramente** — não substituir pelo equivalente sem acento. Exemplos: `ç` → nada (não `c`), `ã` → nada (não `a`), `á` → nada, `é` → nada, `ú` → nada, `í` → nada, `ó` → nada. Ou seja: "lança" → "lana", "fusão" → "fuso", "milhões" → "milhes", "Amsterdã" → "amsterd", "já" → "j"
+4. Remover pontuação (vírgulas, dois-pontos, ponto de exclamação, aspas, %, £, $, parênteses, etc.)
 5. Substituir espaços por hífens
-6. Truncar em aproximadamente 35 caracteres (pode terminar em hífen se o corte cair entre palavras)
+6. Truncar em **exatamente 35 caracteres**, contando os hífens. O corte é seco e pode cair no meio de uma palavra
+7. Se o caractere 35 for um hífen, removê-lo (a key fica com 34)
 
-**Atenção:** sempre apresentar as keys como previsão e pedir que a Isa compare com a key real gerada pelo Beehiiv no editor, pois pequenas variações podem ocorrer.
+**Padrão confirmado** nas âncoras reais de edições publicadas:
+
+| Título | Âncora gerada |
+|---|---|
+| Meta já foi condenada a US$ 375 milhões... | `meta-j-foi-condenada-a-us-375-milhe` |
+| Spotify lança selo exclusivo para artistas... | `spotify-lana-selo-exclusivo-para-ar` |
+| Acionistas aprovam fusão de US$ 110 bilhões... | `acionistas-aprovam-fuso-de-us-110-b` |
+| Amsterdã se torna a primeira capital... | `amsterd-se-torna-a-primeira-capital` |
+
+**Como conferir na dúvida:** fazer WebFetch em uma edição publicada em `https://strignews.beehiiv.com/` e ler as âncoras reais dos cabeçalhos. Sinalizar para a Isa as keys em que o corte cai num hífen, que é onde pode haver variação.
 
 **Formato do bloco de saída:**
 ```
 [EDITORIA]
 Matéria: [título]
-Key prevista: #[KEY-EM-MAIUSCULAS-35-CHARS]
+Key: #[key-em-minusculas-35-chars]
 Link de compartilhamento:
 https://wa.me/?text=Viu%20isso%20na%20Strig%20News:%20{{live_url}}%23[KEY-SEM-CERQUILHA]
 ```
