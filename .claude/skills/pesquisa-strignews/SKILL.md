@@ -222,11 +222,12 @@ O que mais foi destaque:
 ```
 
 **Regra do "O que mais foi destaque":** os links são **outras notícias do banco** (Passo 4) que pertencem à mesma editoria da notícia principal mas que **não foram selecionadas para a edição**. Regras obrigatórias:
-- **Nunca** usar links que aprofundam ou complementam o mesmo assunto da notícia principal — são notícias *diferentes* da mesma categoria.
+
+- **Listar TODAS as notícias restantes daquela editoria, sem exceção.** Não é uma seleção, é o resto inteiro do banco. Não cortar por quantidade, por achar que ficou longo, ou por julgar que uma pauta é fraca demais, redundante ou não combina com a principal. Quem escolhe o que entra na edição é a Isa; o trabalho aqui é entregar todas as opções na mesa. Cortar opção é erro.
+- Conferência obrigatória antes de fechar a edição: somar os links de destaque de todas as editorias e bater com o total do banco menos as 7 principais (menos as que foram mescladas na principal). Se não bater, faltou opção.
 - **Nunca** inventar ou buscar links novos nesse momento: usar apenas notícias que estavam no banco montado no Passo 4.
-- Se uma notícia mudou de editoria (ex: uma pauta de TECH virou MARKETING), as notícias de destaque devem refletir a editoria *final* atribuída, não a original.
-- Se não houver 2 notícias do banco na mesma editoria, usar 1 link ou buscar uma notícia relacionada à editoria que esteve na varredura mas não entrou no banco principal.
-- Ex: na notícia de MARKETING, os links apontam para outros acontecimentos de marketing da semana que ficaram de fora — não para artigos relacionados à mesma empresa ou tema da notícia principal.
+- Se uma notícia mudou de editoria (ex: uma pauta de TECH virou MARKETING), ela entra nos destaques da editoria *final* atribuída, não da original.
+- Se uma pauta tiver alguma ressalva (data a confirmar, dado pendente), mantê-la na lista mesmo assim e sinalizar a ressalva para a Isa na resposta do chat, não omitir o link.
 
 **Extensão por notícia:** 1.500 a 2.000 caracteres.
 
