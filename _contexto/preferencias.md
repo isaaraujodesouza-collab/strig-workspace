@@ -29,6 +29,21 @@ Para blog e YouTube: mais profundo, didático, baseado em dados, com estrutura d
 - Usa dados e exemplos concretos em vez de generalidades
 - Combate explicitamente a "infantilização do setor"
 
+## Strig News — escrita das matérias
+
+Comunicar o fato pelo fato, de forma jornalística e objetiva, na linguagem da Strig News. Parágrafo curto, dado direto.
+
+Cortar sempre:
+- Frase de ponte entre parágrafos ("E não parou aí", "A reação política veio rápido", "O movimento não é isolado", "A conversão, porém, não é imediata")
+- Abertura de contexto e expressão introdutória ("Os números do primeiro trimestre dão a dimensão", "O ponto que o dado deixa claro é que")
+- Juízo de valor e adjetivação ("As técnicas não foram sofisticadas", "o básico do manual de qualquer invasor", "as multas não são simbólicas")
+- Metáfora e síntese interpretativa ("O creator abre a porta, ele não fecha a venda", "A queda contamina o entorno")
+- Parágrafo de fecho consultivo do tipo "para quem trabalha com marketing, a leitura é"
+
+Exceção do fecho consultivo: quando a notícia é internacional e o impacto direto sobre quem trabalha no Brasil não é óbvio, o parágrafo de aplicação prática fica. Ex: alcance extraterritorial da Lei da IA da UE sobre agência brasileira que atende cliente europeu. É exceção, não padrão.
+
+Expressão da headline não se repete no corpo da matéria.
+
 ## Preferências adicionais
 
 - Sempre usar o conceito de funil embutido ao criar conteúdo para o Instagram da agência
