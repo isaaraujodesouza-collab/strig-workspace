@@ -60,14 +60,19 @@ npx playwright screenshot --viewport-size=1080,1350 --full-page "file:///caminho
 ## Publicar em redes sociais
 
 ### Post for Me API
-**O que faz:** Publica posts no Instagram e TikTok direto do Claude Code
-**Precisa de conta:** Sim, postforme.dev
-**Configurar:** Salvar `POSTFORME_API_KEY` no `.env`
-**Como usar numa skill:**
+**O que faz:** Publica e agenda posts em varias redes de uma vez: Instagram (feed, stories, reels), Facebook (feed, stories, reels), LinkedIn, TikTok, Threads, X, YouTube, Pinterest, Bluesky
+**Precisa de conta:** Sim, postforme.dev. Um espaco por cliente, cada um com a propria chave
+**Base da API:** `https://api.postforme.dev` (nao `app.postforme.dev/api`, que responde 404)
+**Configurar:** Salvar uma chave por cliente no `.env`, no formato `POSTFORME_API_KEY_<CLIENTE>` (ex: `POSTFORME_API_KEY_QUATA`). A `POSTFORME_API_KEY` generica funciona como fallback
+**Como usar numa skill:** usar a skill `/publicar-social`, que ja embrulha a API
 ```bash
-node --env-file=.env scripts/publish-postforme.js
+node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
+  --cliente quata --redes "instagram,instagram-stories,linkedin" \
+  --media "slide-01.png,slide-02.png" --caption "..." \
+  --agendar "2026-08-10 09:00" --dry-run
 ```
-**Quando usar:** Skills de carrossel, conteudo visual, publicacao automatica
+**Detalhe importante:** a API aceita um placement por plataforma por post, entao feed, stories e reels viram posts separados. O script ja faz esse agrupamento sozinho
+**Quando usar:** Skills de carrossel, conteudo visual, publicacao e agendamento de social media
 
 ### WhatsApp Cloud API / Z-API
 **O que faz:** Envia e recebe mensagens de WhatsApp programaticamente (atendimento, notificacao, automacao)

@@ -52,9 +52,10 @@ templates/ferramentas/catalogo.md — APIs e ferramentas disponíveis pra usar e
 
 Skills disponíveis: `/carrossel`, `/proposta-comercial`, `/publicar-site`, `/slide`, `/analisar-dados`, `/roteiro-post`, `/email-profissional`.
 
-**Skills de social media (Strig Lab):** `/pesquisa-social`, `/planejamento-editorial`, `/copy-post`, `/relatorio-social` (relatório de orgânico em dashboard HTML+PDF via Python, roda `.claude/skills/relatorio-social/scripts/build_relatorio_social.py`), `/apresentacao-aprovacao`, `/subir-tarefas-clickup` (sobe as tasks do planejamento e copies validados pro ClickUp, na lista "Produção de conteúdo" do espaço de cada cliente).
+**Skills de social media (Strig Lab):** `/pesquisa-social`, `/planejamento-editorial`, `/copy-post`, `/relatorio-social` (relatório de orgânico em dashboard HTML+PDF via Python, roda `.claude/skills/relatorio-social/scripts/build_relatorio_social.py`), `/apresentacao-aprovacao`, `/subir-tarefas-clickup` (sobe as tasks do planejamento e copies validados pro ClickUp, na lista "Produção de conteúdo" do espaço de cada cliente), `/publicar-social` (publica e agenda em Instagram feed/stories/reels, Facebook, LinkedIn, TikTok e outras redes via Post for Me, com chave de API separada por cliente).
 
 **Segredos:** chaves de API ficam em `.env` (já no `.gitignore`). Skills referenciam via `--env-file=.env`.
+Chaves do Post for Me seguem o padrão `POSTFORME_API_KEY_<CLIENTE>` (uma por espaço de cliente, ex: `POSTFORME_API_KEY_QUATA`).
 
 **Auto-sync:** `.claude/settings.json` tem um hook `Stop` que faz `git add -A && git commit && git push` ao final de toda sessão.
 
