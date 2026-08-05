@@ -60,8 +60,12 @@ usuária precisa conectar no painel do postforme.dev antes.
 | `ibr` | `POSTFORME_API_KEY_IBR` | Instagram `@ibrsolucoesfinanceiras`, Facebook `IBR Soluções Financeiras` |
 | `strig-lab` | `POSTFORME_API_KEY_STRIG_LAB` | Instagram `@striglab`, Facebook `Strig lab` |
 | `strig-news` | `POSTFORME_API_KEY_STRIG_NEWS` | Instagram `@strignews` |
+| `kit-lanche-express` | `POSTFORME_API_KEY_KIT_LANCHE_EXPRESS` | Instagram `@kitlancheexpress`, Facebook `Kit Lanche Express` |
 
-Quatá, Saturno e Kit Lanches Express ainda não têm espaço criado no Post for Me.
+Quatá e Saturno ainda não têm espaço criado no Post for Me.
+
+Para conectar as redes de um cliente novo, seguir `conectar-contas.md` nesta mesma pasta:
+tem os IDs dos apps do Meta, os dois caminhos possíveis do Instagram e a tabela de erros.
 
 **LinkedIn:** o script já suporta (`--redes linkedin`, limite de 3000 caracteres,
 `--caption-linkedin` para versão própria), mas nenhum espaço tem conta conectada ainda.
