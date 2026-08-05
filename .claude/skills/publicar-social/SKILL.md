@@ -53,6 +53,25 @@ node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
 Isso mostra plataforma, @ e o ID de cada conta conectada. Se faltar alguma rede, a
 usuária precisa conectar no painel do postforme.dev antes.
 
+### Estado dos espaços (conferido em 05/08/2026)
+
+| Slug | Chave no `.env` | Conectado |
+|---|---|---|
+| `ibr` | `POSTFORME_API_KEY_IBR` | Instagram `@ibrsolucoesfinanceiras`, Facebook `IBR Soluções Financeiras` |
+| `strig-lab` | `POSTFORME_API_KEY_STRIG_LAB` | Instagram `@striglab`, Facebook `Strig lab` |
+| `strig-news` | `POSTFORME_API_KEY_STRIG_NEWS` | Instagram `@strignews` |
+
+Quatá, Saturno e Kit Lanches Express ainda não têm espaço criado no Post for Me.
+
+**LinkedIn:** o script já suporta (`--redes linkedin`, limite de 3000 caracteres,
+`--caption-linkedin` para versão própria), mas nenhum espaço tem conta conectada ainda.
+Conectar LinkedIn no Post for Me exige um app próprio no LinkedIn Developers, que a Isa
+ainda não criou. Enquanto isso, pedir `linkedin` faz o script parar com "Nenhuma conta
+linkedin conectada" — o que é o comportamento certo, não um bug. Quando o app existir e
+a conta for conectada, o LinkedIn funciona sem mudar nada no código.
+
+Essa tabela envelhece: na dúvida, rodar `--listar-contas` em vez de confiar nela.
+
 ---
 
 ## Como as redes são escritas
