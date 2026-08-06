@@ -1,36 +1,30 @@
-# Variáveis de ambiente (API keys, tokens — NUNCA commitar)
+# =====================================================================
+# REGRA DESTE WORKSPACE: salvar TUDO.
+#
+# Só fica de fora o que é (a) segredo ou (b) lixo regenerável.
+# Nada de trabalho — cliente, conteúdo, Strig News, marca, dados — entra
+# nesta lista. Se você criar uma pasta nova de trabalho, ela já vem salva
+# por padrão. Não precisa mexer aqui.
+# =====================================================================
+
+# --- SEGREDOS (nunca commitar) ---
 .env
 .env.local
 .env.*
+*.pem
+*.key
+credentials.json
+service-account*.json
 
-# Arquivo gerado pelo /setup com MCPs específicos do usuário
-_configurar-mcps.md
-
-# Outputs de renderização (binários pesados)
-*.png
-
-# Arquivos de dados do usuário (CSVs, planilhas, etc)
-dados/*.csv
-dados/*.xlsx
-dados/*.xls
-dados/*.txt
-dados/*.pdf
-dados/*.json
-!dados/README.md
-
-# Pastas de trabalho do usuário (geradas pelo /setup, conteúdo pessoal)
-clientes/
-propostas/
-conteudo/
-projetos/
-briefings/
-trabalho/
-estudos/
-publicacoes/
-anotacoes/
-curriculo/
-tarefas.md
-
-# Sistema
-.DS_Store
+# --- LIXO REGENERÁVEL ---
 node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- SISTEMA ---
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

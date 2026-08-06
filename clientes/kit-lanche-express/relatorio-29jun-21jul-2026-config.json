@@ -1,0 +1,51 @@
+{
+  "cliente": "Kit Lanche Express",
+  "cliente_slug": "kit-lanche-express",
+  "plataforma": "Instagram",
+  "periodo": "29/06/2026 - 21/07/2026",
+  "periodo_slug": "29jun-21jul-2026",
+  "kpi_note": "Quase todas as publicações do período foram impulsionadas (turbinado). O Instagram não separa alcance e interações orgânicas das pagas depois que um post é impulsionado, então os números abaixo podem incluir alcance pago.",
+  "kpis": [
+    { "lbl": "Contas alcançadas", "val": "20.643" },
+    { "lbl": "Visualizações", "val": "58.252" },
+    { "lbl": "Seguidores", "val": "5.533", "delta": { "txt": "1,5%", "dir": "up", "good": true } },
+    { "lbl": "Novos seguidores", "val": "+82" },
+    { "lbl": "Total de interações", "val": "609" }
+  ],
+  "resumo": "No período de <strong>29/06 a 21/07</strong>, o perfil alcançou <strong>20.643 contas</strong> e somou <strong>58.252 visualizações</strong>, com <strong>609 interações</strong> e <strong>+82 novos seguidores</strong> (total de 5.533). Esse foi o período em que a Strig começou a impulsionar as publicações, então parte desse resultado já reflete o investimento em mídia paga, não só o alcance orgânico.",
+  "audiencia": [
+    { "titulo": "Gênero", "tipo": "pie", "items": [["Mulheres", 75.4], ["Homens", 24.6]] },
+    { "titulo": "Faixa etária", "tipo": "pie", "items": [["35-44", 38.7], ["45-54", 27.1], ["25-34", 22.6], ["55-64", 6.8], ["18-24", 3.4], ["65+", 1.1], ["13-17", 0.2]] },
+    { "titulo": "Principais países", "tipo": "bar", "items": [["Brasil", 99.3], ["Portugal", 0.2], ["Estados Unidos", 0.2]] },
+    { "titulo": "Melhores horários", "tipo": "horarios",
+      "items": [["0h", 30], ["3h", 12], ["6h", 40], ["9h", 72], ["12h", 78], ["15h", 78], ["18h", 92], ["21h", 80]],
+      "melhores": [ { "dia": "Domingo", "faixa": "18h-21h" }, { "dia": "Segunda", "faixa": "18h-21h" }, { "dia": "Quarta", "faixa": "18h-21h" } ] }
+  ],
+  "posts": [
+    { "titulo": "Calcular quantos kits pedir por tipo de evento", "formato": "Carrossel", "taxa": "—", "alcance": 13800, "visualizacoes": 17100, "curtidas": 38, "comentarios": 0, "salvos": 39, "compart": 7, "seguir": 26 },
+    { "titulo": "O seu evento começa aqui", "formato": "Reel", "taxa": "—", "alcance": 10200, "visualizacoes": 11000, "curtidas": 42, "comentarios": 0, "salvos": 3, "compart": 14, "seguir": 39 },
+    { "titulo": "Qual é a escalação do seu evento", "formato": "Reel", "taxa": "—", "alcance": 3800, "visualizacoes": 5800, "curtidas": 56, "comentarios": 2, "salvos": 0, "compart": 11, "seguir": 15 },
+    { "titulo": "Cada entrega da KLE começa 72 horas antes do seu evento", "formato": "Carrossel", "taxa": "—", "alcance": 3600, "visualizacoes": 5800, "curtidas": 17, "comentarios": 0, "salvos": 6, "compart": 4, "seguir": 0 },
+    { "titulo": "A KLE foi criada para que o corporativo tenha um lanche à altura", "formato": "Carrossel", "taxa": "—", "alcance": 1900, "visualizacoes": 929, "curtidas": 10, "comentarios": 1, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Ingredientes selecionados, antes e depois", "formato": "Carrossel", "taxa": "—", "alcance": 1800, "visualizacoes": 1500, "curtidas": 8, "comentarios": 0, "salvos": 4, "compart": 0, "seguir": 0 },
+    { "titulo": "5 milhões de kits entregues", "formato": "Carrossel", "taxa": "—", "alcance": 1800, "visualizacoes": 964, "curtidas": 7, "comentarios": 1, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Gestores que nunca tiveram pr…", "formato": "Carrossel", "taxa": "—", "alcance": 1200, "visualizacoes": 293, "curtidas": 2, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Quando você escolhe a alimentação dos colaboradores, você escolhe cuidado e alegria", "formato": "Reel", "taxa": "—", "alcance": 1000, "visualizacoes": 1100, "curtidas": 10, "comentarios": 0, "salvos": 1, "compart": 2, "seguir": 4 },
+    { "titulo": "Planejar alimentação de evento corporativo exige muito mais do que orçamento", "formato": "Carrossel", "taxa": "—", "alcance": 667, "visualizacoes": 314, "curtidas": 7, "comentarios": 0, "salvos": 1, "compart": 1, "seguir": 0 }
+  ],
+  "insights": [
+    { "cat": "Conteúdo Top 1", "text": "O carrossel <strong>\"Calcular quantos kits pedir por tipo de evento\"</strong> foi disparado o post de maior alcance do período (13,8 mil contas) e também o mais salvo (39 salvamentos): é o formato utilitário, tipo calculadora prática, que a audiência guarda pra consultar depois." },
+    { "cat": "Conteúdo Top 2", "text": "O reel <strong>\"O seu evento começa aqui\"</strong> veio em segundo (10,2 mil contas alcançadas) com o maior número de compartilhamentos (14) e o maior número de novos seguidores atribuídos (+39): bastidor de entrega converteu mais em seguir do que qualquer carrossel." },
+    { "cat": "Conteúdo Top 3", "text": "O reel <strong>\"Qual é a escalação do seu evento\"</strong> fecha o pódio com o maior número de curtidas (56) e comentários (2) do período, mas com bem menos alcance (3,8 mil) que os dois primeiros: engajou quem viu, mas teve menos impulso de distribuição." },
+    { "cat": "Publicações", "text": "Dos 10 melhores posts do período, <strong>7 são carrossel e 3 são reel</strong> — mas os reels ocupam 2 das 3 primeiras posições em alcance, mostrando que esse formato tem mais força de distribuição inicial mesmo sendo minoria na lista." },
+    { "cat": "Publicações", "text": "Os carrosséis utilitários (calculadora de kits, antes e depois, 5 milhões de kits entregues) concentram os salvamentos; os reels concentram curtida, comentário e compartilhamento. Vale manter os dois formatos ativos, mas com objetivo diferente: carrossel pra ser guardado, reel pra ser espalhado." },
+    { "cat": "Alcance", "text": "No período, o perfil alcançou <strong>20.643 contas</strong> e somou <strong>58.252 visualizações</strong>, mas quase todo o conteúdo publicado foi impulsionado — esse alcance já reflete o investimento em mídia paga, não é 100% orgânico." },
+    { "cat": "Crescimento", "text": "<strong>84 pessoas começaram a seguir o perfil</strong> diretamente a partir de 4 publicações específicas (calculadora de kits, bastidor de entrega, escalação de evento e escolha de alimentação), praticamente o total do período (+82 líquido): conteúdo de utilidade prática trouxe seguidor novo, não o institucional." },
+    { "cat": "Audiência", "text": "Público é <strong>75,4% mulher e concentrado entre 35 e 54 anos</strong> (65,8% do total): é o perfil de quem organiza o evento na empresa, não só assiste. Linguagem que fala direto com essa gestora tende a converter mais que linguagem genérica de marca." },
+    { "cat": "Engajamento", "text": "Os seguidores estão mais ativos <strong>de domingo a quarta, entre 18h e 21h</strong>. Concentrar publicação e resposta de comentário nessa janela aproveita o pico real de atenção da audiência." }
+  ],
+  "rodape": [
+    { "strong": "1.421", "text": "visitas ao perfil" },
+    { "strong": "114", "text": "toques no link da bio" }
+  ]
+}

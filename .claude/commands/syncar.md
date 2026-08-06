@@ -1,18 +1,41 @@
 ---
 name: syncar
 description: >
-  Salva o estado atual do workspace no GitHub (commit + push).
+  Salva TUDO do workspace no GitHub (commit + push) e audita o que está ficando de fora.
   Use quando quiser garantir que o trabalho está seguro, ao final de uma sessão produtiva,
   ou quando o usuário disser "salva no github", "faz commit", "synca", "syncar",
-  "backup no github", "salva tudo", "manda pro github".
+  "backup no github", "salva tudo", "manda pro github", "o que não está salvo?".
   Também configura o git pela primeira vez se ainda não estiver configurado.
 ---
 
-# /syncar — Salvar no GitHub
+# /syncar — Salvar tudo no GitHub
 
-## Verificação inicial
+**Princípio deste workspace: salvar TUDO.** Documento de cliente, Strig News, copies,
+planejamentos, artes, memória. Só ficam de fora segredos (`.env`) e lixo regenerável
+(`node_modules/`). Se algo de trabalho não está sendo salvo, isso é um bug — conserte.
 
-Rode os dois comandos pra entender o estado atual:
+---
+
+## Passo 1: Auditoria (SEMPRE rodar primeiro)
+
+Não confie no `.gitignore`. Verifique o que ele está engolindo:
+
+```bash
+git ls-files --others --ignored --exclude-standard \
+  | grep -vE "node_modules|^\.env|__pycache__|\.venv" \
+  | head -40
+```
+
+**Se aparecer qualquer arquivo de trabalho nessa lista, pare e avise a usuária.**
+É trabalho sem backup. Mostre o que é e pergunte se pode incluir no `.gitignore`.
+Documento de cliente, `.md`, `.png` de arte, `.pdf` de relatório — nada disso deveria
+estar aí.
+
+Se a lista voltar vazia (ou só com lixo), siga.
+
+---
+
+## Passo 2: Ver o estado
 
 ```bash
 git status --short
@@ -23,19 +46,16 @@ git remote get-url origin 2>/dev/null
 
 ## Fluxo A: sem remote configurado (primeira vez)
 
-Se `git remote get-url origin` não retornar nada, o aluno ainda não conectou ao GitHub.
-
-Diga:
+Se `git remote get-url origin` não retornar nada:
 
 > "Seu workspace ainda não está conectado a um repositório no GitHub.
 >
-> Pra conectar, você precisa de um repositório no GitHub. Se ainda não criou:
 > 1. Acesse github.com/new
-> 2. Crie um repositório (pode ser privado, nome sugerido: `meu-negocio` ou `workspace`)
+> 2. Crie o repositório **como privado** (tem documento de cliente aqui)
 > 3. Não inicialize com README — deixa vazio
-> 4. Me passa o link do repositório criado (ex: https://github.com/seunome/workspace)"
+> 4. Me passa o link"
 
-Após receber o link, configure e envie:
+Depois:
 
 ```bash
 git remote add origin [link]
@@ -43,42 +63,45 @@ git branch -M main
 git push -u origin main
 ```
 
-Confirme:
-
-> "Conectado. Seu workspace está agora em [link].
-> A partir de agora, o sistema vai sincronizar automaticamente quando você terminar de trabalhar."
-
 ---
 
-## Fluxo B: remote configurado, tem mudanças
+## Fluxo B: tem mudanças — salvar
 
-Se `git status` mostrar arquivos modificados, liste o que vai ser salvo e faça o commit:
+Rode o script de backup, que já cuida de memória, trava de privacidade, commit e push:
 
 ```bash
-git add -A
-git commit -m "sync: [descrição curta do que foi feito]"
-git push
+BACKUP_MSG="sync: [descrição curta do que foi feito]" bash .claude/scripts/backup.sh --verbose
 ```
 
-Para a descrição do commit, use o que foi feito na sessão (ex: "sync: nova proposta cliente X", "sync: carrossel episódio 42", "sync: atualização de contexto"). Se não souber o que colocar, use `sync: atualizações do dia`.
+Para a descrição, use o que foi feito na sessão ("sync: copies de setembro do IBR",
+"sync: edição da Strig News 04/08"). Se não souber, use `sync: atualizações do dia`.
 
-Após o push, confirme:
+O script faz, nesta ordem:
+1. Copia a memória do Claude (`~/.claude/projects/.../memory/`) para `_contexto/memoria/`
+2. **Bloqueia o push se o repositório estiver público** — documento de cliente não vaza
+3. Commit + push
 
-> "Salvo. Seu trabalho está seguro em [url do remote]."
+Após o push, confirme com o número de arquivos e a URL.
 
 ---
 
 ## Fluxo C: sem mudanças
 
-Se `git status` não mostrar nada:
-
 > "Tudo já está sincronizado. Nenhuma mudança nova pra salvar."
 
 ---
 
-## Fluxo D: erro no push
+## Fluxo D: backup bloqueado (repositório público)
 
-Se o push falhar (credenciais, conexão, etc.), mostre o erro de forma simples:
+O script recusa o push e explica. Reforce:
+
+> "O repositório está público e tem documento de cliente aqui dentro.
+> Torne privado em Settings > General > Danger Zone > Change visibility > Make private.
+> Seu trabalho continua salvo na máquina — nada foi perdido."
+
+---
+
+## Fluxo E: erro no push
 
 > "Não consegui enviar pro GitHub. O erro foi: [mensagem]
 >
@@ -86,12 +109,15 @@ Se o push falhar (credenciais, conexão, etc.), mostre o erro de forma simples:
 > - Sem conexão com internet
 > - Precisa configurar autenticação no GitHub (token ou SSH)
 >
-> Se quiser resolver agora, me diz e eu te ajudo passo a passo."
+> Seu commit já está salvo na máquina. Me diz se quer resolver agora."
 
 ---
 
 ## Regras
 
-- Nunca commitar `.env`, `.env.local` ou qualquer arquivo com chaves secretas
+- **Auditoria sempre antes do commit.** É o passo que impede trabalho de sumir silenciosamente.
+- Nunca commitar `.env` ou qualquer arquivo com chave. Antes de incluir pasta nova,
+  varrer: `grep -rInE "(sk-|pfm_|ghp_|AIza)" [pasta]`
+- Nunca sugerir ignorar pasta de trabalho pra "deixar o repo leve". Trabalho vale mais que espaço.
 - Tom direto — não explica git em detalhes a não ser que o usuário pergunte
 - Se der erro, sempre mostrar o que fazer a seguir — nunca só mostrar o erro

@@ -1,0 +1,7 @@
+Todo cliente que chega pra gente com problema de visibilidade no Google tem o mesmo padrão: perfil criado, básico preenchido, nunca mais tocado.
+
+O problema quase nunca é o algoritmo. É o perfil que o Google não consegue ler direito pra ranquear.
+
+Antes de pensar em ferramenta, pensa em estrutura.
+
+Isso é o Buscou, Achou. A estrutura tá no link da bio.
