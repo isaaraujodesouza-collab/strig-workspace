@@ -35,6 +35,7 @@ conteudo/           — produção interna (Strig News, redes sociais da agênci
 dados/              — drop zone pra arquivos a analisar (CSV, PDF, XLSX)
 marca/              — identidade visual da Strig Lab
 _contexto/          — empresa, preferências e estratégia (lido em toda sessão)
+_contexto/memoria/  — cópia da memória do Claude, atualizada a cada backup
 templates/skills/   — templates de skills prontos pra personalizar com /mapear
 templates/ferramentas/catalogo.md — APIs e ferramentas disponíveis pra usar em skills
 ```
@@ -57,7 +58,13 @@ Skills disponíveis: `/carrossel`, `/proposta-comercial`, `/publicar-site`, `/sl
 **Segredos:** chaves de API ficam em `.env` (já no `.gitignore`). Skills referenciam via `--env-file=.env`.
 Chaves do Post for Me seguem o padrão `POSTFORME_API_KEY_<CLIENTE>` (uma por espaço de cliente, ex: `POSTFORME_API_KEY_QUATA`).
 
-**Auto-sync:** `.claude/settings.json` tem um hook `Stop` que faz `git add -A && git commit && git push` ao final de toda sessão.
+**Auto-sync:** `.claude/settings.json` tem um hook `Stop` que roda `.claude/scripts/backup.sh` ao final de toda sessão: copia a memória, commita e envia pro GitHub.
+
+**Backup — regra: salvar TUDO.** O `.gitignore` só exclui segredos (`.env`) e lixo regenerável (`node_modules/`). Nenhuma pasta de trabalho entra nele. Pasta nova de cliente já vem salva por padrão, sem precisar configurar nada.
+
+O `backup.sh` tem uma trava: se o repositório do GitHub estiver **público**, ele commita local mas recusa o push, porque há documento de cliente no workspace. Para destravar, tornar o repositório privado.
+
+A memória do Claude (que mora fora da pasta, em `~/.claude/projects/.../memory/`) é copiada pra `_contexto/memoria/` a cada backup, senão não seria salva.
 
 ---
 
