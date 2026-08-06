@@ -123,9 +123,49 @@ avisa no preview quando isso vai acontecer.
 ### 1. Descobrir o que publicar
 
 Se a usuária chamou sem caminho, procurar as artes do cliente (pasta do projeto,
-`conteudo/carrosseis/`, entregas do mês). Se não achar, perguntar o caminho.
+`conteudo/carrosseis/`, entregas do mês). Se existir um arquivo de copy junto das artes,
+usar como legenda.
 
-Se existir um arquivo de copy junto das artes, usar como legenda.
+Se não achar nada em disco, a arte está em uma de três fontes. Se a usuária colar um
+link, inferir a fonte pelo próprio link (`canva.com`/`canva.link` → Canva,
+`app.clickup.com/t/...` → ClickUp, `drive.google.com/drive/folders/...` → Drive). Se não
+tiver link, perguntar qual das três usar.
+
+Em qualquer uma das três, salvar o resultado numa pasta temporária fora do repositório
+(pasta de scratchpad da sessão, ou equivalente) — nunca dentro de `clientes/`, pra não
+sujar o backup do workspace com arquivo que é só um intermediário de publicação. Depois
+de baixar, seguir pro passo 3 (dry-run) com os caminhos locais nos `--media` e
+`--media-stories`.
+
+**A. Achar no Canva**
+
+1. Link `canva.com/design/...`: extrair o design ID da URL (começa com `D`). Shortlink
+   `canva.link/...`: resolver primeiro com `resolve-shortlink`.
+2. Sem link: buscar pelo tema ou cliente com `search-designs`.
+3. Checar os formatos suportados com `get-export-formats` antes de exportar (não assumir
+   que PNG está disponível).
+4. Exportar com `export-design` (`type: png`), uma página por lâmina do carrossel
+   (`pages: [1,2,...]`). Se os stories forem páginas separadas do mesmo design ou um
+   design próprio, exportar à parte.
+5. Baixar o PNG de cada URL retornada (`curl` ou `Invoke-WebRequest`) pra pasta temporária.
+
+**B. Pegar anexo no ClickUp**
+
+1. Pegar o task_id do post (a subtarefa criada por `/subir-tarefas-clickup`, ou o que a
+   usuária passar).
+2. Rodar `clickup_get_task` com `include: ["attachments"]` pra listar os anexos e seus IDs.
+3. Pra cada anexo relevante (artes do feed e stories, normalmente diferenciados pelo nome
+   do arquivo), rodar `clickup_download_task_attachment` e baixar a URL retornada na hora
+   — ela expira em minutos e é de uso único, então nunca adiar ou baixar em lote sem
+   processar uma por uma.
+
+**C. Acessar a pasta do Drive do post**
+
+1. Extrair o ID da pasta do link (`drive.google.com/drive/folders/<ID>`).
+2. Listar o conteúdo com `search_files` (`parentId = '<ID>'`). Separar as imagens do feed
+   da subpasta de stories, se houver uma dentro (ex: "Stories").
+3. Se houver subpasta de stories, repetir o `search_files` com o `parentId` dela.
+4. Baixar cada imagem com `download_file_content` (vem em base64) e salvar localmente.
 
 ### 2. Confirmar as redes
 
@@ -251,6 +291,7 @@ usar `--caption-<rede>` em vez de encurtar pra todas.
 - Conferir se a chave usada é a do cliente certo antes de mandar: post no perfil errado não tem desfazer
 - Cada cliente = um espaço no Post for Me = uma chave no `.env`
 - Nunca commitar `.env`
+- Mídia baixada do Canva, ClickUp ou Drive vai pra pasta temporária, nunca pra `clientes/`
 
 ---
 
