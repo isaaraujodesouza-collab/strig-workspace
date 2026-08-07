@@ -58,17 +58,18 @@ Tom confirmado pelo cliente: **informal, humor, jovem, linguagem perto da falada
 
 **Corpo:** A Connect não é só assistência técnica. É loja de computador e impressora, é oficina de conserto e é o time que também cuida da TI da sua empresa. Dá uma olhada no que rola por aqui.
 
+**Um card por serviço, cinco ao todo:**
+
 **Grupo 1, compra e montagem:**
-- Venda de computador e notebook, novo ou sob medida
-- Montagem de PC, inclusive de alta performance
-- Venda de impressora, com destaque pra linha ecotanque
+- **Venda.** Computador, notebook, impressora e acessórios, incluindo a linha ecotanque
+- **Montagem de PC**, inclusive de alta performance
 
 **Grupo 2, conserto e manutenção:**
-- Conserto de computador e notebook
-- Manutenção de impressora
-- Suporte de TI pra empresa
+- **Conserto de computador e notebook**
+- **Manutenção de impressora**
+- **Suporte de TI pra empresa**
 
-> Nota de estrutura: separar em duas colunas ou duas fileiras de card, compra de um lado, conserto do outro. Assim quem só quer comprar um PC não acha que caiu numa página só de assistência técnica.
+> Nota de estrutura: separar em duas colunas ou duas fileiras de card, compra de um lado, conserto do outro. Venda fica como um card só e geral (computador, notebook, impressora), não um card por tipo de produto. Assim quem só quer comprar um PC não acha que caiu numa página só de assistência técnica.
 
 **CTA:** Contar o que você precisa
 

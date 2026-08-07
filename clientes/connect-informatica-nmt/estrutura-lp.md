@@ -32,11 +32,12 @@ Esse paralelo (empresa consertada / equipamento consertado) é o que amarra a Mi
 
 **Função:** deixar claro que a Connect vende tanto quanto conserta. O briefing lista "venda, conserto, montagem" nessa ordem, e isso precisa aparecer com o mesmo peso na página, não só como rodapé de frase.
 
-- Venda de computadores e notebooks (novos, sob encomenda ou montados sob medida)
-- Conserto e manutenção de computadores e notebooks
+Um card por serviço, venda entra como card único e geral (não um card por tipo de produto):
+
+- Venda de computador, notebook, impressora e acessórios, incluindo a linha ecotanque
 - Montagem de computadores (inclusive alto desempenho, com chamada pra dobra 3)
-- Venda e manutenção de impressoras, com destaque pra linha ecotanque
-- Venda de acessórios e periféricos
+- Conserto de computador e notebook
+- Manutenção de impressora
 - Suporte de TI para empresas (chamada pra dobra 4)
 
 Separar visualmente em dois grupos dentro do bloco (ex.: duas colunas ou duas fileiras de card) ajuda a não misturar tudo: **"compra e montagem"** de um lado, **"conserto e manutenção"** do outro. Isso evita que quem só quer comprar um PC pense que caiu numa página só de assistência técnica.
