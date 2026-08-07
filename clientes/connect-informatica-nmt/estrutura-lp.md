@@ -19,7 +19,7 @@ Esse paralelo (empresa consertada / equipamento consertado) é o que amarra a Mi
 
 ## 1. Hero
 
-**Função:** capturar quem chega com um problema na mão (PC não liga, impressora travou) e already sinalizar que aqui não é só a assistência de bairro.
+**Função:** capturar quem chega com um problema na mão (PC não liga, impressora travou) e já sinalizar que aqui não é só a assistência de bairro.
 
 - Headline no formato dor → solução, no tom informal pedido (ex.: "computador travou, impressora não imprime, seja lá o que for, a gente resolve")
 - Badges de credibilidade factual: anos de mercado, diagnóstico em até 24h, atendimento em todo o Brasil
@@ -30,15 +30,18 @@ Esse paralelo (empresa consertada / equipamento consertado) é o que amarra a Mi
 
 ## 2. O que fazemos (serviços)
 
-**Função:** deixar claro que não é só conserto. Cards curtos, sem enrolação.
+**Função:** deixar claro que a Connect vende tanto quanto conserta. O briefing lista "venda, conserto, montagem" nessa ordem, e isso precisa aparecer com o mesmo peso na página, não só como rodapé de frase.
 
+- Venda de computadores e notebooks (novos, sob encomenda ou montados sob medida)
 - Conserto e manutenção de computadores e notebooks
-- Montagem de computadores (inclusive alto desempenho)
-- Manutenção de impressoras, com destaque pra ecotanque
+- Montagem de computadores (inclusive alto desempenho, com chamada pra dobra 3)
+- Venda e manutenção de impressoras, com destaque pra linha ecotanque
 - Venda de acessórios e periféricos
 - Suporte de TI para empresas (chamada pra dobra 4)
 
-CTA: falar sobre o meu equipamento.
+Separar visualmente em dois grupos dentro do bloco (ex.: duas colunas ou duas fileiras de card) ajuda a não misturar tudo: **"compra e montagem"** de um lado, **"conserto e manutenção"** do outro. Isso evita que quem só quer comprar um PC pense que caiu numa página só de assistência técnica.
+
+CTA: falar sobre o que eu preciso (compra, conserto ou montagem).
 
 ---
 
