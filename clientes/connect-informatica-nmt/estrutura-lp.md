@@ -147,10 +147,10 @@ Navegação, contato, endereço, redes sociais, horário de atendimento resumido
 1. ~~Confirmar se pode citar valor exato dos PCs de R$110k e R$40k publicamente~~ — **confirmado, pode citar**
 2. Fotos: loja, bancada, equipe, equipamentos de alto padrão entregues
 3. ~~Nota do Google e depoimentos reais com nome~~ — **não bloqueia**, já temos acesso ao Google (GMN) da Connect, é só puxar nota e depoimentos direto de lá na hora de montar a dobra 8
-4. Confirmar se o cliente topa dar uma frase própria pro bloco 5 (pull quote)
+4. ~~Frase própria do cliente pro bloco 5 (pull quote)~~ — **fora**, não precisa
 5. Endereço completo pra dobra de localização/rodapé (cidade confirmada: Não-Me-Toque/RS)
-7. Confirmar se "Central de Cópias" (nome da página do Facebook) ainda é um serviço ativo — não apareceu no briefing
-6. ~~Validar com o Samuel se "informal, humor e jovem" aceita o nível de brincadeira regional que a WJ usa~~ — **confirmado, linguagem perto da falada mesmo, no mesmo nível de soltura da WJ**
+6. ~~Central de Cópias (nome da página do Facebook)~~ — **fora**, não apareceu no briefing
+7. ~~Validar com o Samuel se "informal, humor e jovem" aceita o nível de brincadeira regional que a WJ usa~~ — **confirmado, linguagem perto da falada mesmo, no mesmo nível de soltura da WJ**
 
 ---
 
