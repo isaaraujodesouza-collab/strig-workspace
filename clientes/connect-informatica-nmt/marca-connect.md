@@ -58,6 +58,8 @@ O cliente pediu: **informal, humor, jovem**. Mas a mensagem que ele quer passar 
 
 Essas duas coisas não competem, se a régua for bem calibrada: descontraído no jeito de falar, sério no que está sendo dito. Humor no como, nunca no que compromete a credibilidade técnica (diagnóstico, prazo, preço).
 
+**Calibragem confirmada pelo cliente:** "informal, humor e jovem" é pra valer, linguagem perto da falada mesmo. Ou seja, não é um tom formal com uns toques de leveza, é escrever como o Samuel falaria no balcão da loja. Isso aproxima o registro do que a WJ usa (contração, expressão coloquial, sem cara de texto institucional traduzido). A diferença fica na palavra e na energia específica da Connect, não no nível de informalidade, que pode ir tão solto quanto a referência.
+
 **Referências que o cliente aprovou:** @trattorialaboma, netfive.com.br, technorodas.com.br — perfis com identidade visual/verbal consistente, sem cara de genérico.
 
 **O que evitar:**

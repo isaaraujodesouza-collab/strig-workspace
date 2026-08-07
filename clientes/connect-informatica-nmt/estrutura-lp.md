@@ -49,7 +49,7 @@ CTA: falar sobre o que eu preciso (compra, conserto ou montagem).
 
 **Função:** essa é a dobra que separa a Connect de "assistência de bairro". Junta os dois fatos mais fortes do briefing: já venderam PC de R$110k, e atendem o Brasil inteiro (não só recebem equipamento de fora, vendem pra fora também).
 
-- Prova concreta: computadores de altíssimo desempenho já entregues (citar os valores, com autorização do cliente antes de publicar número exato)
+- Prova concreta: computadores de altíssimo desempenho já entregues, com valor exato (confirmado que pode citar: dois PCs de mais de R$40k e um de R$110k)
 - Explicação de como funciona o envio/recebimento de equipamento de outras cidades
 - Isso reposiciona a expectativa de quem só esperava "conserto de PC de criança"
 
@@ -144,12 +144,12 @@ Navegação, contato, endereço, redes sociais, horário de atendimento resumido
 
 ## O que falta pra fechar a copy final
 
-1. Confirmar se pode citar valor exato dos PCs de R$110k e R$40k publicamente
+1. ~~Confirmar se pode citar valor exato dos PCs de R$110k e R$40k publicamente~~ — **confirmado, pode citar**
 2. Fotos: loja, bancada, equipe, equipamentos de alto padrão entregues
 3. Nota do Google e depoimentos reais com nome
 4. Confirmar se o cliente topa dar uma frase própria pro bloco 5 (pull quote)
 5. Endereço completo pra dobra de localização/rodapé
-6. Validar com o Samuel se "informal, humor e jovem" aceita o nível de brincadeira regional que a WJ usa, ou se a Connect quer um humor mais contido
+6. ~~Validar com o Samuel se "informal, humor e jovem" aceita o nível de brincadeira regional que a WJ usa~~ — **confirmado, linguagem perto da falada mesmo, no mesmo nível de soltura da WJ**
 
 ---
 
