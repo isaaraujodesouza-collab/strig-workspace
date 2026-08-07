@@ -8,9 +8,12 @@
 ## Identificação
 
 **Responsável pela empresa:** Samuel Brune
+**Cidade:** Não-Me-Toque/RS (origem do "NMT" no nome)
 **E-mails:** samuka.tche@gmail.com; connect.nmt@gmail.com; sbrune@connectoficial.com
-**Telefones:** +55 54 9 9165-5919; +55 54 9 92254297
-**Redes sociais:** Facebook / Instagram
+**Telefones:** +55 54 9 9165-5919; +55 54 9 92254297; (54) 3332-3494 (fixo, achado via busca)
+**Redes sociais:** Facebook (@connectnmt, nome de página: "Connect Assistência Técnica e Central de Cópias") / Instagram
+
+> **A confirmar com o Samuel:** o nome da página do Facebook menciona "Central de Cópias" (serviço de cópia/impressão avulsa), que não apareceu em nenhuma resposta do briefing. Pode ser um serviço que ainda existe e ficou de fora, ou pode estar desatualizado. Vale perguntar antes de decidir se entra na LP.
 
 ## Negócio
 

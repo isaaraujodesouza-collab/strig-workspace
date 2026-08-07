@@ -41,7 +41,7 @@ Chegaram a ser 5 na equipe. Hoje são 3. Isso não é encolhimento por dificulda
 
 ## Quem a Connect atende
 
-Público amplo dentro de Caxias do Sul/região (DDD 54): de criança que quer PC pra jogo até idoso usando computador como passatempo, além de empresas pequenas e médias que precisam de suporte de TI.
+Público amplo dentro de Não-Me-Toque/RS e região: de criança que quer PC pra jogo até idoso usando computador como passatempo, além de empresas pequenas e médias que precisam de suporte de TI.
 
 **Comportamento observado pelo próprio cliente:**
 - Baixa interação nas redes sociais — comum em cidade menor, as pessoas têm vergonha de comentar/curtir publicamente
