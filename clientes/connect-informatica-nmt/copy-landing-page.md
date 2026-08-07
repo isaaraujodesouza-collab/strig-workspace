@@ -61,13 +61,23 @@ Tom confirmado pelo cliente: **informal, humor, jovem, linguagem perto da falada
 **Um card por serviço, cinco ao todo:**
 
 **Grupo 1, compra e montagem:**
-- **Venda.** Computador, notebook, impressora e acessórios, incluindo a linha ecotanque
-- **Montagem de PC**, inclusive de alta performance
+
+**Venda**
+Computador, notebook, impressora e acessórios. Você conta o que precisa e a gente ajuda a escolher a configuração certa, sem empurrar o que você não vai usar.
+
+**Montagem de PC**
+Do computador básico pro projeto de alta performance, cada peça escolhida pra rodar do jeito que você precisa.
 
 **Grupo 2, conserto e manutenção:**
-- **Conserto de computador e notebook**
-- **Manutenção de impressora**
-- **Suporte de TI pra empresa**
+
+**Conserto de computador e notebook**
+Diagnóstico primeiro, conserto depois. A ideia é entender o problema antes de sair trocando peça.
+
+**Manutenção de impressora**
+Limpeza, ajuste e reparo, com destaque pra linha ecotanque, que a Connect domina de verdade.
+
+**Suporte de TI pra empresa**
+Suporte técnico contínuo pra empresa pequena e média não parar por causa de computador ou impressora com problema.
 
 > Nota de estrutura: separar em duas colunas ou duas fileiras de card, compra de um lado, conserto do outro. Venda fica como um card só e geral (computador, notebook, impressora), não um card por tipo de produto. Assim quem só quer comprar um PC não acha que caiu numa página só de assistência técnica.
 
