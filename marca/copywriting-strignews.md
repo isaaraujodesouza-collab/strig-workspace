@@ -102,7 +102,7 @@ O que mais foi destaque:
 
 **Extensão por notícia:** 1.500 a 2.000 caracteres. O limite superior é para notícias que exigem mais desenvolvimento — contexto histórico, impacto amplo, múltiplos desdobramentos. Notícias mais diretas ficam próximas de 1.500.
 
-**Frases curtas, texto direto:** frase longa com múltiplos conectivos ("o que", "que", "e também") enrola a leitura. Preferir frase curta, um fato por vez. Cortar conectivo de transição quando o parágrafo seguinte já deixa a relação clara sozinho. Quando a notícia tiver 3+ itens paralelos (números, categorias, formas de cobrança), usar lista em vez de espremer tudo em frase corrida — mas só quando fizer sentido, não forçar tópico em todo parágrafo.
+**Frases curtas, texto direto:** frase longa com múltiplos conectivos ("o que", "que", "e também") enrola a leitura. Preferir frase curta, um fato por vez. Cortar conectivo de transição quando o parágrafo seguinte já deixa a relação clara sozinho. Priorizar sempre discurso direto (prosa corrida) — é a forma padrão de toda notícia. Tópico em lista só entra quando o conteúdo É literalmente uma lista de algo (números por categoria, formas de cobrança, itens de uma decisão) — nunca como recurso de estilo pra "arejar" o texto ou substituir frase por preguiça de escrever prosa.
 
 **Intenção de SEO (obrigatório em toda notícia):**
 Cada notícia deve ser escrita para ranquear no Google, não apenas para ser lida no e-mail. Isso significa:
