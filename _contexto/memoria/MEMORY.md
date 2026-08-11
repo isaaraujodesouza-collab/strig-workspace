@@ -6,3 +6,4 @@
 - [Regras de escrita da Strig News](feedback_strignews-escrita.md) — sem números de PL/processo, cargos em português, contexto em aposição para nomes pouco conhecidos
 - [Relatório social com posts turbinados](feedback_relatorio-social-turbinado.md) — sempre avisar no kpi_note quando o período tiver impulsionamento, nunca tentar separar
 - [Sem travessão, sem dois-pontos como pausa](feedback_sem-travessao-sem-dois-pontos.md) — nunca usar "—" nem ":" dramático em copy; usar vírgula ou ponto
+- [Strig News nunca copia notícia](feedback_strignews-nunca-copiar.md) — headline, linha fina e legenda sempre reescritos no DNA da Strig News, nunca copiados da fonte
