@@ -10,7 +10,7 @@
 
 ## Sumário executivo
 
-As 3 análises, feitas de forma independente por 3 IAs diferentes, chegaram à mesma conclusão por caminhos diferentes: **nenhuma das 5 empresas está otimizando para o Google.** Estão construindo autoridade textual, semântica e institucional na internet aberta, e isso é o que os modelos de IA generativa leem, associam e reproduzem.
+As 3 análises, feitas de forma independente por 3 IAs diferentes, chegaram à mesma conclusão por caminhos diferentes: SEO para Google continua a base, mas **nenhuma das 5 empresas para nisso.** Elas constroem autoridade textual, semântica e institucional na internet aberta (imprensa, LinkedIn, glossários, dados estruturados), e é essa camada extra, não coberta pelo SEO tradicional, que os modelos de IA generativa leem, associam e reproduzem.
 
 O padrão que se repete nas 3 análises:
 
