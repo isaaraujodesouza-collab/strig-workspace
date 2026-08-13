@@ -477,6 +477,102 @@ Responda mesmo assim, o algoritmo do Google valoriza a atividade e os futuros cl
 
 ---
 
+## 14. Conteúdo Otimizado para Publicação no GMB
+
+> Diferença estrutural em relação ao modelo de referência: a Braza é um negócio de fachada, com endereço fixo e fluxo de cliente que chega no balcão. A UpTrade é uma assessoria de atendimento remoto, atende o Brasil inteiro e não tem loja física conhecida. Isso muda duas coisas no perfil do Google: (1) o cadastro deve ser configurado como **Área de Atendimento** (Service Area Business), sem exibir endereço público, em vez de perfil de loja física, e (2) os termos de SEO local só valem para a cidade onde a UpTrade realmente está sediada, que ainda não foi informada no briefing. Os campos abaixo têm placeholder onde falta confirmação.
+
+### TÍTULO
+
+UpTrade&Co - Importação e Comércio Exterior
+
+> Atenção: diferente do título da Braza (que agrega bairro porque é loja física com busca geolocalizada), o Google Meu Negócio não permite adicionar localidade ao nome quando o perfil é de Área de Atendimento sem endereço público. Manter o nome fiel ao registrado, sem "- Bairro X" ou "- Cidade Y" anexado, para não violar a política de nomenclatura do Google e arriscar suspensão do perfil.
+
+### Categoria de negócios
+
+**Categoria principal**
+Empresa de importação e exportação
+
+**Categorias adicionais**
+Despachante aduaneiro
+Consultoria de comércio exterior
+
+> Confirmar com a UpTrade se atuam formalmente como despachante aduaneiro ou se terceirizam essa etapa. Categoria errada no GMB prejudica o ranqueamento em vez de ajudar.
+
+---
+
+### DESCRIÇÃO DO NEGÓCIO
+
+A importação que você tava adiando por achar que precisava de um container inteiro pra começar.
+
+A UpTrade nasceu da experiência comercial de duas sócias que já viviam o dia a dia de uma importadora de utilidades domésticas, e virou uma assessoria completa: encontramos e verificamos o fornecedor, negociamos preço e prazo, cuidamos do pagamento internacional, do frete, do desembaraço aduaneiro e da entrega, com a cotação total (já com imposto) apresentada antes de qualquer aprovação.
+
+O diferencial é a cota em container compartilhado, pra quem não tem volume de compra pra fechar uma operação fechada sozinho, com crédito disponível mediante análise pra quem não tem o caixa todo de uma vez.
+
+Atendemos lojistas, atacadistas, distribuidores, indústria e e-commerce em todo o Brasil, do primeiro diagnóstico até a mercadoria na sua porta.
+
+Fale com a gente pelo WhatsApp ou Instagram.
+
+*(750 caracteres, dentro do limite do GMB. Ajustar quando a UpTrade confirmar cidade/estado da sede, país de origem além da China e escopo exato do que é executado direto x via parceiro.)*
+
+---
+
+### DESCRIÇÕES DE SERVIÇO
+
+**Importação por Cotas em Container Compartilhado**
+Importe sem precisar fechar um container inteiro sozinho. Você entra com a cota proporcional ao volume que precisa, dividindo custo com outros importadores e mantendo condição competitiva. Ideal pra quem tá começando a importar ou ainda não tem volume pra operação fechada. (271 chars)
+
+**Importação Completa: do Fornecedor à Sua Porta**
+Atendimento personalizado do primeiro diagnóstico até a entrega. A gente identifica o produto, negocia com o fornecedor, cuida do pagamento internacional, do frete, do seguro e do desembaraço aduaneiro. Você aprova, a gente executa. (233 chars)
+
+**Crédito para Operação de Importação**
+Não tem o capital todo disponível de uma vez? Mediante análise, oferecemos condição de crédito pra viabilizar a operação, com pagamento dividido em etapas: contratação, embarque e desembaraço. (196 chars)
+
+**Cotação Internacional Completa**
+Antes de qualquer aprovação, você recebe o custo total da operação já com imposto e frete embutidos. Sem surpresa depois. A conta que fecha (ou não) fica clara desde o início. (177 chars)
+
+**Verificação de Fornecedor e Negociação Internacional**
+A gente busca, avalia e negocia com o fornecedor antes de qualquer pagamento. Fábrica verificada, preço e prazo negociados, risco reduzido pra você que nunca lidou com fornecedor internacional. (196 chars)
+
+**Acompanhamento de Produção, Inspeção e Embarque**
+Da fábrica ao navio ou avião, cada etapa acompanhada de perto. Você recebe atualização real, sem precisar cobrar satus da própria operação. (140 chars)
+
+**Desembaraço Aduaneiro e Transporte Nacional**
+Liberação da carga na alfândega e entrega com nota fiscal em qualquer endereço do Brasil. A parte mais burocrática da importação, resolvida sem você precisar entender de comex. (177 chars)
+
+**Curadoria de Produto para Importar**
+Ainda não sabe o que importar? A gente cruza o que você já vende, a demanda de mercado e a margem real depois do imposto pra indicar produto com potencial de venda de verdade. (176 chars)
+
+**Importação da China e Outras Origens**
+A China concentra a maior parte das nossas operações pela relação entre preço, variedade e capacidade produtiva. Também atendemos outras origens quando a conta fecha melhor pro seu produto. (190 chars)
+
+**Assessoria para Quem Nunca Importou**
+Primeira importação da sua empresa? A gente avalia se a operação vale a pena antes de você gastar, explica o processo em termos simples e acompanha do zero até a mercadoria chegar. (182 chars)
+
+---
+
+### Fotos e materiais recomendados (mínimo 10)
+
+- [ ] Foto das sócias, Vanessa e Daniela, em ambiente de trabalho (humaniza a operação e responde à objeção de confiança)
+- [ ] Print ou foto de operação real em andamento (cotação, contêiner, nota fiscal com dado sensível oculto)
+- [ ] Produto já importado e entregue, com contexto de uso ou revenda
+- [ ] Documentação do processo (etapas do diagnóstico à entrega, em formato visual)
+- [ ] Print de conversa ou depoimento de cliente (mediante autorização por escrito)
+- [ ] Logotipo e identidade visual, quando definidos
+- [ ] Imagem representando o modelo de cota em container compartilhado, de forma didática
+
+> A lista de fotos da Braza (fachada, ambiente, barbeiro em ação) não se aplica 1 pra 1 aqui, porque a UpTrade não tem vitrine física pra fotografar. O substituto de prova visual é a prova de processo: documento, etapa, produto entregue.
+
+---
+
+### Estratégia de avaliações
+
+- A UpTrade ainda não tem avaliação no Google. Diferente da Braza, que já parte de nota 5.0 com 113 avaliações, aqui a meta inicial é sair de zero.
+- Meta dos primeiros 90 dias: coletar as primeiras 10 a 15 avaliações de clientes reais, com pedido ativo ao final de cada operação concluída com sucesso.
+- Como o ticket é alto e o ciclo de venda é mais longo que o de uma barbearia, cada avaliação vale proporcionalmente mais. Uma nota isolada ruim pesa muito num perfil com poucas avaliações, então a coleta ativa das positivas precisa começar antes de qualquer campanha de tráfego.
+- Responder todas as avaliações em até 48h, seguindo o guia da seção 13.
+
+---
+
 ## Observação sobre dados não localizados
 
 - Faturamento, número de operações realizadas e tempo médio de fechamento de negócio da própria UpTrade&Co não foram informados no briefing e não foram estimados aqui.
