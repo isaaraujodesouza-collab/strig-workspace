@@ -508,7 +508,7 @@ A UpTrade nasceu da experiência comercial de duas sócias que já viviam o dia 
 
 O diferencial é a cota em container compartilhado, pra quem não tem volume de compra pra fechar uma operação fechada sozinho, com crédito disponível mediante análise pra quem não tem o caixa todo de uma vez.
 
-Atendemos lojistas, atacadistas, distribuidores, indústria e e-commerce em todo o Brasil, do primeiro diagnóstico até a mercadoria na sua porta.
+Atendemos lojistas, atacadistas, distribuidores, e-commerces e redes de varejo em todo o Brasil, do primeiro diagnóstico até a mercadoria na sua porta.
 
 Fale com a gente pelo WhatsApp ou Instagram.
 
@@ -518,11 +518,13 @@ Fale com a gente pelo WhatsApp ou Instagram.
 
 ### DESCRIÇÕES DE SERVIÇO
 
-**Importação por Cotas em Container Compartilhado**
-Importe sem precisar fechar um container inteiro sozinho. Você entra com a cota proporcional ao volume que precisa, dividindo custo com outros importadores e mantendo condição competitiva. Ideal pra quem tá começando a importar ou ainda não tem volume pra operação fechada. (271 chars)
-
 **Importação Completa: do Fornecedor à Sua Porta**
 Atendimento personalizado do primeiro diagnóstico até a entrega. A gente identifica o produto, negocia com o fornecedor, cuida do pagamento internacional, do frete, do seguro e do desembaraço aduaneiro. Você aprova, a gente executa. (233 chars)
+
+> Serviço de maior prioridade de divulgação segundo o briefing ("360 graus da importação, buscar o item até a entrega em sua porta"), por isso posicionado em primeiro na lista.
+
+**Importação por Cotas em Container Compartilhado**
+Importe sem precisar fechar um container inteiro sozinho. Você entra com a cota proporcional ao volume que precisa, dividindo custo com outros importadores e mantendo condição competitiva. Ideal pra quem tá começando a importar ou ainda não tem volume pra operação fechada. (271 chars)
 
 **Crédito para Operação de Importação**
 Não tem o capital todo disponível de uma vez? Mediante análise, oferecemos condição de crédito pra viabilizar a operação, com pagamento dividido em etapas: contratação, embarque e desembaraço. (196 chars)
@@ -534,7 +536,7 @@ Antes de qualquer aprovação, você recebe o custo total da operação já com 
 A gente busca, avalia e negocia com o fornecedor antes de qualquer pagamento. Fábrica verificada, preço e prazo negociados, risco reduzido pra você que nunca lidou com fornecedor internacional. (196 chars)
 
 **Acompanhamento de Produção, Inspeção e Embarque**
-Da fábrica ao navio ou avião, cada etapa acompanhada de perto. Você recebe atualização real, sem precisar cobrar satus da própria operação. (140 chars)
+Da fábrica ao navio ou avião, cada etapa acompanhada de perto. Você recebe atualização real, sem precisar cobrar status da própria operação. (142 chars)
 
 **Desembaraço Aduaneiro e Transporte Nacional**
 Liberação da carga na alfândega e entrega com nota fiscal em qualquer endereço do Brasil. A parte mais burocrática da importação, resolvida sem você precisar entender de comex. (177 chars)
@@ -544,6 +546,8 @@ Ainda não sabe o que importar? A gente cruza o que você já vende, a demanda d
 
 **Importação da China e Outras Origens**
 A China concentra a maior parte das nossas operações pela relação entre preço, variedade e capacidade produtiva. Também atendemos outras origens quando a conta fecha melhor pro seu produto. (190 chars)
+
+> Pendência já registrada no `faq-site.md`: confirmar com a UpTrade quais outras origens são atendidas de fato antes de publicar este serviço. Se a resposta for só China na prática, ajustar o texto pra não prometer o que não é entregue.
 
 **Assessoria para Quem Nunca Importou**
 Primeira importação da sua empresa? A gente avalia se a operação vale a pena antes de você gastar, explica o processo em termos simples e acompanha do zero até a mercadoria chegar. (182 chars)
