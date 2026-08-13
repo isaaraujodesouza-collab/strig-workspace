@@ -414,6 +414,69 @@ A UpTrade não compete em escala (China Link, Vettrus). Compete em acessibilidad
 
 ---
 
+## 13. Guia de Gestão de Reputação Digital — Google Meu Negócio
+
+### As três diretrizes de gestão
+
+**Agilidade.** O tempo de resposta ideal é de até 48 horas. Em serviço de importação, onde o cliente já está lidando com ansiedade de prazo e pagamento adiantado, resposta rápida sinaliza que a UpTrade acompanha de perto, o mesmo padrão que promete na operação. Isso também impacta o ranqueamento local nos resultados de busca.
+
+**Personalização.** Evite respostas genéricas e copiadas. Use o nome do cliente e mencione detalhes específicos citados na avaliação, o produto importado, a etapa elogiada, o prazo cumprido. A resposta precisa parecer escrita para aquele cliente, não para qualquer um.
+
+**Estratégia de SEO.** Sempre que possível, insira termos relevantes na resposta, como "assessoria de importação", "importação por cotas", "importação da China", "importação em `[cidade/estado da sede]`". Isso reforça o ranqueamento orgânico da UpTrade nas buscas de quem está pesquisando um parceiro de importação.
+
+> Nota: a UpTrade ainda não informou a cidade/estado da sede no briefing. Confirmar esse dado antes de usar termo de localidade nas respostas, senão a estratégia de SEO local não tem onde ancorar.
+
+---
+
+### 1. Avaliações positivas (4 e 5 estrelas)
+
+O objetivo é transformar o elogio em prova social, reforçar a confiança na operação e fortalecer o SEO com palavras-chave relevantes de importação.
+
+**Estrutura da resposta:**
+- Agradecimento mencionando o nome do cliente
+- Reiteração do padrão da UpTrade: transparência de custo, prazo cumprido, acompanhamento de etapa
+- Reforço do diferencial mencionado (cota, crédito, curadoria de produto) quando aparecer na avaliação
+- Convite para nova operação, sem soar comercial demais
+
+**Modelo:**
+> Olá, [Nome]! Muito obrigado pela avaliação. Fico feliz que a operação saiu como você esperava, do primeiro contato até a mercadoria na sua porta. Nosso time trabalha pra garantir que cada etapa seja acompanhada de perto e sem surpresa de custo. Quando quiser importar de novo, é só chamar no WhatsApp. Seguimos à disposição.
+
+---
+
+### 2. Avaliações negativas (1 a 3 estrelas)
+
+O foco não é o embate com quem reclamou, é demonstrar seriedade para os futuros clientes que vão ler a resposta antes de decidir se confiam numa importação inteira à UpTrade. Nunca discuta publicamente detalhe de contrato, valor ou prazo. O objetivo é mostrar que a UpTrade é séria, resolve e se importa, principalmente porque quem lê essa resposta está avaliando se vale o risco de pagar adiantado.
+
+**Estrutura da resposta:**
+- Empatia imediata, sem assumir culpa publicamente e sem confirmar detalhe da operação em público
+- Neutralidade, evite repetir palavras negativas da avaliação para não associá-las à busca
+- Migração do conflito para canal privado via WhatsApp
+
+**Modelo:**
+> Olá, [Nome]. Obrigado por compartilhar sua percepção. Lamentamos que a experiência não foi como esperava, isso não reflete o padrão que nos comprometemos a entregar em cada operação. Gostaríamos de entender melhor o que aconteceu e resolver da melhor forma. Chama a gente direto no WhatsApp `[número oficial]` para conversarmos com calma.
+
+---
+
+### 3. Avaliações sem texto (só estrelas)
+
+Responda mesmo assim, o algoritmo do Google valoriza a atividade e os futuros clientes também observam isso, principalmente num negócio novo como a UpTrade, onde cada sinal de atividade real pesa mais.
+
+**Se for 5 estrelas:**
+> Obrigado pela nota, [Nome]! Fico feliz com a avaliação. Quando quiser importar de novo, é só chamar a gente. Seguimos à disposição.
+
+**Se for nota baixa:**
+> Olá, [Nome]. Obrigado pela avaliação. Ficamos à disposição para entender melhor o que aconteceu, chama a gente no WhatsApp `[número oficial]` para conversarmos de forma privada.
+
+---
+
+### Observações específicas da UpTrade
+
+- Diferente de um negócio local como barbearia, a UpTrade atende o Brasil inteiro. O termo de localidade no SEO das respostas só faz sentido se a empresa tiver sede fixa divulgada. Até isso ser confirmado, priorizar termos de serviço (assessoria de importação, importação por cotas) em vez de termo geográfico.
+- Avaliação negativa em serviço de importação tende a ser mais grave que em barbearia, porque envolve dinheiro adiantado e prazo longo. A resposta precisa ser ainda mais cuidadosa em não admitir falha publicamente antes de apurar o caso internamente.
+- Como a empresa é nova (fundada em outubro de 2025), cada avaliação, positiva ou negativa, pesa proporcionalmente mais no perfil do que pesaria para um concorrente com anos de histórico. Coleta ativa de avaliação após cada operação concluída deve ser rotina, não exceção.
+
+---
+
 ## Observação sobre dados não localizados
 
 - Faturamento, número de operações realizadas e tempo médio de fechamento de negócio da própria UpTrade&Co não foram informados no briefing e não foram estimados aqui.
