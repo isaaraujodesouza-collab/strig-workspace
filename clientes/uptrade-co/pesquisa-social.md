@@ -81,29 +81,145 @@ O padrão de busca do setor é majoritariamente informacional e transacional mis
 
 ## 5. Perfil dos Decisores: Público-Alvo e Personas
 
-**Público-alvo geral:** lojistas, atacadistas, distribuidores, donos de e-commerce e redes de varejo de pequeno a médio porte, em qualquer região do Brasil (atendimento remoto). Momento de busca predominante: já sabe que precisa importar, mas não sabe como estruturar a operação sozinho ou não tem volume para fechar um container inteiro. Presente principalmente no Google (busca de dúvida) e Instagram (validação visual e prova social), com peso crescente de LinkedIn para o público de e-commerce mais estruturado.
+**Público Alvo:**
 
-**Persona 1 — Fernanda Bittencourt, 34 anos**
+A oferta da UpTrade&Co vai além do "importar um produto pontual": inclui importação recorrente, cota em container compartilhado e crédito para operação. O mercado não se limita a quem já importa, inclui também quem hoje compra de distribuidor nacional e sente a margem sendo corroída pelo intermediário, mas nunca considerou importar por achar o processo caro, arriscado ou burocrático demais para o porte do negócio.
 
-| Campo | Descrição |
-|---|---|
-| Perfil | Dona de loja de utilidades domésticas com 2 unidades físicas + Shopee/Mercado Livre, em cidade do interior de SP. Compra hoje de distribuidor nacional e sente a margem ser corroída pelo intermediário |
-| Objetivos | Comprar direto da fábrica sem precisar assumir o risco e o volume de um container inteiro. Ganhar margem para competir com concorrentes que já importam |
-| Problemas e dores | Não tem capital de giro para fechar um container fechado. Não sabe avaliar se um fornecedor no Alibaba é confiável. Já ouviu falar de golpe de fornecedor fantasma |
-| Como a UpTrade resolve | A cota em container compartilhado permite entrar com volume proporcional ao que ela vende, sem travar capital em estoque parado. O crédito mediante análise resolve o problema de caixa. A verificação de fornecedor tira o medo do golpe |
-| Possíveis objeções | "Não tenho volume suficiente para valer a pena", "não confio em fechar negócio só pelo WhatsApp/Instagram" |
-| Respostas às objeções | Mostrar que a cota existe exatamente para quem não tem volume de container fechado. Trazer prova social e processo documentado (cotação, contrato, acompanhamento por etapa) para reduzir a sensação de risco |
+As decisões desse público são tomadas com base em confiabilidade do parceiro, transparência de custo total e previsibilidade de prazo: o comprador compara segurança da operação, não só preço final. O canal de decisão principal é indicação e pesquisa direta no Google, não Instagram. O Instagram funciona como validação de que a empresa é real e ativa, a decisão começa em "assessoria de importação confiável" ou na indicação de outro lojista que já importou.
 
-**Persona 2 — Marcelo Andrade, 41 anos**
+**Características gerais:**
 
-| Campo | Descrição |
-|---|---|
-| Perfil | Sócio-operador de um e-commerce de brinquedos e utilidades com faturamento consolidado, importa esporadicamente via trading mas sem parceiro fixo |
-| Objetivos | Padronizar a operação de importação com um único parceiro de confiança, ao invés de negociar do zero a cada pedido. Ampliar o mix de produtos com itens diferenciados que a concorrência ainda não vende |
-| Problemas e dores | Já teve operação atrasada por trading que não acompanhou o embarque de perto. Perde tempo cotando com fornecedores diferentes a cada nova importação. Sente falta de alguém que indique produto com potencial, não só execute a compra |
-| Como a UpTrade resolve | Atendimento personalizado do primeiro contato à entrega, com acompanhamento de cada etapa (produção, inspeção, embarque, desembaraço). A UpTrade também apoia na escolha de produto com base em tendência e margem, não só na execução |
-| Possíveis objeções | "Já tenho um jeito de importar que funciona, por que trocar", "quero saber quem exatamente cuida da minha operação" |
-| Respostas às objeções | Posicionar a UpTrade como upgrade de processo, não substituição forçada: menos tempo cotando, mais previsibilidade de prazo. Nomear a pessoa responsável pela conta, não um atendimento genérico |
+Donos e sócios de pequenas e médias empresas, entre 28 e 50 anos, com faturamento de empresa que permite operações a partir de R$ 40 mil (valor mínimo inicial informado pela UpTrade), distribuídos em qualquer região do Brasil já que o atendimento é remoto do primeiro contato à entrega.
+
+São pessoas que já compram em volume para revenda ou operação própria, mas ainda não romperam a barreira de importar direto da origem, seja por falta de capital de giro, seja por não confiar em fechar uma operação inteira à distância com um fornecedor desconhecido. Pagam pelo serviço de assessoria sem objeção quando o custo total fica claro e comparável ao que pagariam num distribuidor nacional, mas com margem maior.
+
+**Principais Demandas:** Encontrar produto com boa margem e demanda real no mercado brasileiro, sem depender só do que o distribuidor local oferece. Operação de importação com cotação completa, incluindo imposto e frete, apresentada antes da aprovação, para eliminar surpresa de custo. Crédito mediante análise para quem não tem caixa disponível para bancar a operação inteira à vista. Cota em container compartilhado para quem não tem volume de compra suficiente para fechar um container fechado sozinho. Acompanhamento de cada etapa (produção, inspeção, embarque, desembaraço) sem precisar cobrar satus.
+
+**Desejos e Motivações:** O desejo central é competitividade: vender mais barato ou com mais margem que o concorrente que ainda compra de distribuidor nacional, sem assumir sozinho o risco de uma importação mal calculada. Empresas mais estruturadas (e-commerce, redes de varejo) buscam previsibilidade e padronização de processo, para não precisar negociar do zero a cada pedido. Empresas menores (lojista, revendedor iniciante) buscam principalmente acesso, entrar no jogo da importação sem precisar de capital ou conhecimento técnico de comércio exterior. O ponto em comum é a redução de risco percebido: querem importar sem virar especialista em comex para isso.
+
+**Perfil de Porte e Segmento:** Público majoritariamente de pequenas e médias empresas, com variação de maturidade por segmento.
+
+Lojistas e revendedores iniciantes concentram-se em cota compartilhada, ticket de entrada mais baixo e curadoria de produto.
+
+Atacadistas, distribuidores e redes de varejo já estabelecidas buscam volume maior, previsibilidade de prazo e parceria recorrente.
+
+E-commerces de médio porte têm demanda crescente por diferenciação de mix de produto, um segmento que valoriza a curadoria da UpTrade tanto quanto a execução da importação.
+
+**Perfil Profissional:** Donos de loja física e digital, sócios-operadores, gerentes comerciais e compradores de empresas de pequeno a médio porte, em segmentos como utilidades domésticas, brinquedos e outros nichos de varejo. São pessoas que tratam a importação como decisão estratégica de negócio, não como experimento, porque o resultado impacta diretamente a margem e a competitividade da empresa. Incluem também empreendedores que já testaram importar sozinhos e sentiram o peso da complexidade do processo.
+
+**Canais de Consumo de Conteúdo:** A pesquisa no Google é o canal de decisão primário, é onde o comprador começa a busca quando sente a dor específica ("como importar sem CNPJ", "quanto custa importar da China", "assessoria de importação para pequena empresa").
+
+A clareza do processo, a transparência de custo e a prova de operação real determinam se o lead entra em contato ou desiste no meio do caminho. O Instagram funciona como validação de atividade e prova social: quem chegou até a UpTrade por indicação ou busca vai ao perfil para confirmar que a empresa está ativa e tem histórico de operação antes de mandar mensagem.
+
+Indicação entre lojistas e comerciantes do mesmo nicho também tem peso relevante, um cliente satisfeito que indica outro comprador do mesmo segmento tem impacto direto em fechamento de novos contratos.
+
+---
+
+## Personas
+
+O mapeamento de personas é interessante para guiar a produção de conteúdo, distribuição de anúncios e outras comunicações da marca. Ele garante que a comunicação esteja alinhada às pessoas que a UpTrade&Co quer atingir, com base no comportamento desses clientes ideais em potencial.
+
+Abaixo o desenho das personas da UpTrade&Co, e como podemos contornar suas principais objeções, garantindo a conversão.
+
+**Persona 1)**
+
+**Perfil**
+
+Fernanda Bittencourt, 34 anos. Casada, sem filhos. Formada em Administração, dona de uma loja de utilidades domésticas com duas unidades físicas numa cidade do interior de São Paulo, além de vender pelo Shopee e Mercado Livre. Abriu o negócio há seis anos, começou pequena e hoje tem funcionários e estoque de médio porte. Compra hoje de distribuidor nacional e sente a margem sendo corroída pelo intermediário. Já pensou em importar direto, mas sempre recuou por achar que precisaria de um capital que não tem disponível de uma vez.
+
+**Interesses**
+
+Consome conteúdo no Instagram e no Google, principalmente sobre gestão de loja, tendência de produto e finanças do pequeno negócio. Participa de grupos de WhatsApp de lojistas do mesmo segmento, onde troca indicação de fornecedor e desabafa sobre margem apertada. Antes de contratar qualquer serviço novo, pesquisa o nome da empresa no Google, olha o Instagram pra ver se está ativo e pergunta pra alguém do grupo se já ouviu falar. Não tem paciência para processos que pareçam disfarçar custo escondido.
+
+**Objetivos**
+
+Quer comprar direto da fábrica sem precisar assumir sozinha o risco e o volume de um container inteiro. Busca ganhar margem suficiente pra competir com concorrentes que já importam e vendem mais barato que ela. Quer entender exatamente quanto vai custar antes de se comprometer, sem letra miúda.
+
+**Problemas**
+
+Não tem capital de giro pra fechar um container fechado. Não sabe avaliar se um fornecedor encontrado sozinho no Alibaba é confiável, e já ouviu histórias de golpe de fornecedor fantasma em grupos de lojistas. Tentou cotar importação uma vez e desistiu no meio porque ninguém explicou o processo em termos simples. Tem medo de pagar adiantado e a mercadoria nunca chegar.
+
+**Quais dos problemas citados acima o seu produto ou serviço resolve?**
+
+A cota em container compartilhado permite que Fernanda entre com volume proporcional ao que ela realmente vende, sem travar capital em estoque parado nem precisar fechar um container inteiro sozinha. O crédito mediante análise resolve o problema de caixa, permitindo parcelar a operação nas três etapas (contratação, embarque, desembaraço) em vez de pagar tudo de uma vez. A cotação completa, com imposto e frete já incluídos antes da aprovação, elimina a sensação de custo escondido. E o processo documentado, com verificação de fornecedor antes de qualquer pagamento, tira o medo do golpe que ela já ouviu falar no grupo.
+
+**Persona 2)**
+
+**Perfil**
+
+Marcelo Andrade, 41 anos. Casado, pai de um filho adolescente. Sócio-operador de um e-commerce de brinquedos e utilidades domésticas com faturamento consolidado, atua no Ipiranga, em São Paulo. Já importa esporadicamente, mas sem parceiro fixo: negocia do zero a cada pedido, às vezes direto com fábrica, às vezes via trading diferente. Sua agenda é apertada entre gestão do e-commerce, fornecedores e logística. Valoriza previsibilidade acima de quase tudo.
+
+**Interesses**
+
+Consome conteúdo no LinkedIn, Google e YouTube, sobre gestão de e-commerce, tendência de produto e comércio exterior. Segue páginas de notícia econômica e acompanha o câmbio com atenção, porque impacta direto sua margem. Toma decisão de contratação baseado em histórico comprovado do fornecedor de serviço, não em promessa de marketing. Desconfia de comunicação exagerada e prefere números concretos a discurso motivacional.
+
+**Objetivos**
+
+Quer padronizar a operação de importação com um único parceiro de confiança, em vez de negociar do zero a cada pedido. Busca ampliar o mix de produtos com itens diferenciados que a concorrência do seu nicho ainda não vende. Quer alguém que acompanhe de perto cada etapa da operação e avise antes de qualquer problema, não depois.
+
+**Problemas**
+
+Já teve operação atrasada por uma trading que não acompanhou o embarque de perto, e só ficou sabendo do atraso quando já era tarde para se planejar. Perde tempo cotando com fornecedores diferentes a cada nova importação, porque nunca fechou com o mesmo parceiro duas vezes. Sente falta de alguém que indique produto com potencial de venda e margem, não só execute a compra que ele já decidiu fazer.
+
+**Quais dos problemas citados acima o seu produto ou serviço resolve?**
+
+O atendimento personalizado do primeiro contato à entrega, com a mesma pessoa acompanhando cada etapa (produção, inspeção, embarque, desembaraço aduaneiro, transporte nacional), resolve o problema de acompanhamento que falhou na trading anterior. A curadoria de produto, cruzando o que ele já vende com tendência de mercado e margem real depois do imposto, resolve a falta de indicação estratégica que ele sente hoje. E ter um parceiro fixo elimina o tempo perdido recotando do zero a cada pedido.
+
+---
+
+## Objeções das Personas — e Como a UpTrade&Co as Quebra
+
+**Objeções Financeiras**
+
+O custo de importar só é percebido como "caro" quando o comprador não enxerga o custo total real da alternativa, que é continuar comprando de distribuidor nacional e perdendo margem todo mês. A UpTrade deve mudar a narrativa de "importar é caro e arriscado" para "é o que você paga para parar de perder margem pro intermediário".
+
+*"Não tenho capital pra importar um container inteiro"*
+A resposta não é insistir que ela precisa se planejar melhor, é mostrar que existe um caminho pensado pra esse exato problema. A cota em container compartilhado permite entrar com o volume que cabe no caixa dela, e o crédito mediante análise cobre o que falta. A mensagem é: "Você não precisa ter o capital de um container inteiro pra começar a importar."
+
+*"Não sei se o valor final vale a pena depois do imposto"*
+A resposta é mostrar a cotação completa, com imposto e frete já embutidos, antes de qualquer aprovação. Nada de custo que aparece só depois. Se a conta não fechar, a UpTrade fala isso antes do cliente gastar, o que constrói mais confiança do que fechar qualquer negócio a qualquer custo.
+
+**Objeções Emocionais**
+
+O primeiro contato com uma assessoria de importação nova envolve medo concreto de perder dinheiro com fornecedor ou parceiro que não entrega. A UpTrade combate isso com transparência de processo, verificação de fornecedor antes do pagamento e acompanhamento visível em cada etapa.
+
+*"Não conheço a UpTrade, como sei que não vou ser enganada"*
+A comunicação deve apresentar o processo com nome, etapa e prazo antes mesmo do cliente fechar negócio, humanizando a operação. Mostrar que a fábrica é verificada antes de qualquer pagamento, e que o cliente recebe atualização em cada etapa, sem precisar cobrar, é o que substitui a confiança que normalmente vem de anos de reputação.
+
+*"Já tenho um jeito de importar que funciona, mesmo sendo manual"*
+Essa lealdade ao processo conhecido é real e não deve ser atacada. O gatilho pra migrar não é convencer o cliente de que o jeito dele está errado, é estar presente quando o processo manual falhar, um atraso, um fornecedor que sumiu, uma cotação que não fechou como esperado. A UpTrade precisa estar visível no Google e no Instagram pra ser a primeira opção nesse momento.
+
+**Objeções Práticas**
+
+A falta de urgência é a objeção mais silenciosa. O distribuidor nacional ainda entrega, a margem ainda existe, só está menor do que poderia. A UpTrade combate isso mostrando o custo invisível de continuar comprando de intermediário.
+
+*"Vou continuar comprando do meu distribuidor por enquanto"*
+A resposta é antecipar a perda de competitividade antes que ela vire problema visível. Quem não importa direto está pagando a margem do intermediário todo mês, mesmo sem perceber. A comunicação pode usar exemplo numérico simples: quanto sobra de margem importando direto versus comprando do distribuidor local.
+
+*"Prefiro negociar direto pelo Alibaba sem intermediário"*
+A objeção à assessoria é real em parte do público que já tentou algo sozinho. A resposta é mostrar o que o valor da assessoria cobre além de "achar o fornecedor": verificação de fábrica, negociação de preço e prazo, pagamento internacional seguro, frete, seguro, desembaraço aduaneiro e entrega documentada. "Achar fornecedor é fácil. O caro é o que vem depois, se der errado."
+
+**Falta de Tempo**
+
+Para o público-alvo da UpTrade, donos de negócio com agenda tomada por operação e vendas, tempo de gestão é recurso escasso. A comunicação precisa mostrar que a UpTrade tira trabalho de cima do cliente, não adiciona mais uma tarefa.
+
+*"Não tenho tempo de acompanhar um processo de importação"*
+A UpTrade deve posicionar o acompanhamento por etapa como a resposta direta a essa objeção. O cliente recebe atualização em cada fase sem precisar cobrar, sem precisar aprender jargão de comex, sem precisar gerenciar fornecedor, frete e alfândega sozinho. A mensagem é simples: "Você aprova, a gente cuida do resto."
+
+*"Achar produto pra importar já é trabalho demais"*
+A curadoria de produto responde direto a essa dor. A UpTrade cruza o que o cliente já vende com tendência de mercado e margem real, entregando opções prontas em vez de deixar o cliente pesquisar sozinho.
+
+**Falta de Confiança**
+
+A UpTrade&Co foi fundada em outubro de 2025. A ausência de histórico longo é uma objeção real, especialmente pra um público que vai pagar adiantado por uma operação que só vê o resultado meses depois.
+
+*"São novos, nunca ouvi falar"*
+A resposta está na experiência das sócias, não no tempo de CNPJ da empresa. Vanessa e Daniela já atuavam juntas na área comercial de uma importadora de utilidades domésticas antes de abrir a UpTrade, o que significa que a operação é nova, mas a experiência comercial não é. A comunicação deve separar essas duas ideias com clareza: "A UpTrade abriu em 2025. Nossa experiência em importação vem de antes disso."
+
+*"Como sei que a mercadoria vai chegar de verdade"*
+A resposta é mostrar o processo documentado em cada etapa, contrato claro sobre quem carrega o risco em caso de imprevisto, e transparência sobre o que acontece se a carga ficar retida na alfândega. Sem isso, qualquer promessa de "confia na gente" soa vazia pra quem vai pagar 30% adiantado.
+
+A estratégia de coleta ativa de depoimentos e autorização de clientes de referência é prioridade imediata: cada operação concluída com sucesso, com autorização por escrito para citar segmento e resultado, constrói a reputação digital que substitui o histórico de tempo de mercado.
 
 ---
 
