@@ -382,7 +382,9 @@ Antes de falar de importação, deixa a gente contar quem somos.
 A UpTrade nasceu em outubro de 2025, da união de Vanessa (5 anos de experiência comercial em importação) e Daniela (10 anos), que já atuavam juntas na área comercial de uma importadora de utilidades domésticas antes de abrir a empresa.
 
 **Slide 3 — Propósito:**
-A experiência não começou com a UpTrade. Vem de mais de 10 anos vivendo o dia a dia da importação, e é ela que sustenta cada operação que a gente assessora hoje.
+Acreditamos que uma operação de importação se constrói com confiança, segurança, transparência e responsabilidade.
+Mais do que fornecedores, queremos ser parceiros estratégicos, construindo relacionamento duradouro e contribuindo pro crescimento do seu negócio.
+Confiança pra importar. Parceria pra crescer.
 
 **Slide 4 — Números da experiência:**
 +10 anos de mercado.
