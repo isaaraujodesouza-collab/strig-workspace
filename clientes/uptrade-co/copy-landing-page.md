@@ -45,7 +45,7 @@ A UpTrade cuida da sua importação do primeiro diagnóstico até a mercadoria n
 anos de mercado, considerando a trajetória de Vanessa (5 anos) e Daniela (10 anos) antes da UpTrade
 
 **CONTAINERS IMPORTADOS:**
-**+1.000**
+**+360**
 containers movimentados ao longo da trajetória da equipe
 
 **VOLUME MOVIMENTADO:**
@@ -54,9 +54,9 @@ em operações de importação ao longo da carreira da equipe
 
 > **Origem real destes três números, documentada pra rastreabilidade:**
 > 1. **+10 anos.** Confirmado por WhatsApp com Vanessa em 14/08/2026, ela tem 5 anos de experiência prévia, Daniela tem 10. Número defensável, é experiência pessoal das sócias antes da UpTrade.
-> 2. **+1.000 containers e +R$ 250 milhões.** Aqui o número **não é da Vanessa e da Daniela, nem da UpTrade**. Na mesma conversa, a Vanessa disse que "a empresa que estamos associadas [tem] 20 anos e já trouxeram milhares de containers", isso descreve o histórico da parceira que executa a operação (a mesma que a UpTrade decidiu não citar publicamente), não o histórico pessoal das sócias.
-> 3. O valor de receita foi construído por estimativa da Isa: custo médio de container (R$ 620 mil, média entre o piso de R$ 40 mil e o teto de R$ 1,2 mi) × margem de 20% (R$ 744 mil) × 360 containers (2 por mês × 10 anos + 2 por mês × 5 anos). A conta original deu R$ 238 milhões, o cálculo correto dessa mesma fórmula dá **R$ 267,84 milhões**. Arredondei pra baixo, R$ 250 milhões, pra não publicar o número mais alto possível de uma estimativa já especulativa.
-> 4. **Decisão registrada em 14/08/2026:** a Isa optou por publicar essa estimativa mesmo sabendo que atribui à UpTrade (empresa de 1 ano) um volume histórico que pertence à parceira de 20 anos, e que o valor em R$ é uma extrapolação, não um dado real informado pela UpTrade. Fica documentado aqui que o risco foi identificado e aceito conscientemente, não é uma omissão. Se algum dia a UpTrade for questionada sobre a origem desses números, a resposta alinhada é falar da experiência das sócias no setor, sem entrar em quem exatamente executou cada container.
+> 2. **+360 containers e +R$ 250 milhões.** Nenhum dos dois é um dado informado pela UpTrade, os dois são estimativa construída pela Isa, não confirmada com Vanessa e Daniela. A conta parte de uma suposição (2 containers por mês, por sócia, ao longo do tempo de experiência de cada uma) e não do "milhares de containers" que a Vanessa mencionou sobre a empresa parceira (essa referência à parceira foi descartada aqui, é histórico de outra empresa, não da equipe).
+> 3. Cálculo: 2 containers/mês × 10 anos (Daniela) + 2 containers/mês × 5 anos (Vanessa) = 240 + 120 = **360 containers**. Custo médio por container (R$ 620 mil, média entre o piso de R$ 40 mil e o teto de R$ 1,2 mi) × margem de 20% = R$ 744 mil por container. 744 mil × 360 = **R$ 267,84 milhões**. Arredondei pra baixo, R$ 250 milhões, pra não publicar o topo de uma estimativa já especulativa.
+> 4. **Decisão registrada em 14/08/2026:** a Isa optou por publicar essa estimativa mesmo sabendo que "2 containers por mês" é uma suposição de ritmo de trabalho não confirmada pelas sócias, não um dado real que a UpTrade informou. Fica documentado aqui que o risco foi identificado e aceito conscientemente. Se algum dia a UpTrade for questionada sobre a origem desses números, o caminho mais seguro é falar em termos gerais da experiência das sócias no setor, sem entrar em como o número de containers foi calculado.
 
 ---
 
