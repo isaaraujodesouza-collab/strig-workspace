@@ -16,7 +16,9 @@ URL sugerida: uptradeco.com.br
 Assessoria de Importação para Empresas | UpTrade&Co, do Fornecedor à Sua Porta
 
 **[Meta descrição]**
-Importe com cotação clara antes de aprovar, cota em container compartilhado e crédito mediante análise. Atendimento em todo o Brasil, do diagnóstico à entrega.
+Assessoria de importação por cotas, com container compartilhado, crédito e cotação sem surpresa. Atendimento em todo o Brasil, do diagnóstico à entrega.
+
+> Termos de busca cobertos (ver inventário completo na seção 4.2 do `pesquisa-social.md`): "assessoria de importação" e "importação por cotas" (ambos Alta relevância, intenção transacional), "container compartilhado" (Alta relevância, comparação), "crédito para importação" (Alta relevância, decisão). Ficaram de fora por espaço "quanto custa importar da china" e "preciso de cnpj para importar", esses dois cobrem melhor o FAQ (Dobra 12) e a tag title de páginas internas, não a meta description da home. 154 caracteres, dentro do limite recomendado pelo Google (até ~155-160).
 
 **HEADLINE (H1):**
 Importar não precisa de um container inteiro, nem de virar especialista em comércio exterior.
