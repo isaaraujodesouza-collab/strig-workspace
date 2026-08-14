@@ -373,22 +373,35 @@ Roteiro do carrossel:
 Antes de falar de importação, deixa a gente contar quem somos.
 
 **Slide 2 — Origem:** *(`[Foto real de Vanessa e Daniela]`)*
-A UpTrade nasceu em outubro de 2025, da união de Vanessa e Daniela, que já atuavam juntas na área comercial de uma importadora de utilidades domésticas.
+A UpTrade nasceu em outubro de 2025, da união de Vanessa (5 anos de experiência comercial em importação) e Daniela (10 anos), que já atuavam juntas na área comercial de uma importadora de utilidades domésticas antes de abrir a empresa.
 
 **Slide 3 — Propósito:**
-A experiência não começou com a UpTrade. Veio de antes, e é ela que sustenta cada operação que a gente assessora hoje.
+A experiência não começou com a UpTrade. Vem de mais de 10 anos vivendo o dia a dia da importação, e é ela que sustenta cada operação que a gente assessora hoje.
 
-**Slide 4 — Diferenciais:**
+**Slide 4 — Números da experiência:**
++10 anos de mercado.
++360 containers movimentados ao longo da trajetória da equipe.
++R$ 250 milhões em operações de importação ao longo da carreira.
+
+**Slide 5 — Diferenciais de atendimento:**
+Atendimento personalizado do primeiro diagnóstico à entrega.
+Parceria de longo prazo, não uma operação pontual.
+Consultoria estratégica na escolha do produto.
+Rede de fornecedores já testada pela experiência da equipe.
+
+**Slide 6 — Diferenciais da operação:**
 Cota em container compartilhado.
 Crédito mediante análise.
 Cotação completa antes de qualquer aprovação.
 
-**Slide 5 — Mensagem da marca:**
+**Slide 7 — Mensagem da marca:**
 Unir experiência comercial, relacionamento próximo e soluções em importação, pra que empresas de qualquer porte consigam crescer sem precisar virar especialista em comex.
 
-**Slide 6 — CTA:**
+**Slide 8 — CTA:**
 Vem conhecer.
 Fala com a gente pelo link da bio.
+
+> Slide 4 reaproveita os big numbers já validados e documentados na Dobra 2 da `copy-landing-page.md`, incluindo a ressalva de que os números de containers e valor são estimativa, não dado confirmado pela UpTrade. Se um dia esses números forem confirmados oficialmente ou atualizados, mudar aqui e na LP ao mesmo tempo, pra não ficar com dois valores diferentes circulando.
 
 Legenda:
 Tá pensando em importar, né? Deixa a gente se apresentar antes.
