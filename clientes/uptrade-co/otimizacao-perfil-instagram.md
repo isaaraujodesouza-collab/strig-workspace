@@ -15,14 +15,16 @@
 **Username:** @uptrade_eco (manter, já existe, mesmo com o perfil parado)
 
 **Bio (3 linhas):**
-Importação sem precisar de container inteiro
-Cota compartilhada, crédito e cotação sem susto
++10 anos de experiência em importação
+Importação completa · Por cotas · Crédito
+Cotação clara · Curadoria · Desembaraço
 👇 Fala com a gente
 
-**Link da bio:** WhatsApp com mensagem pré-definida
-→ `https://api.whatsapp.com/send?phone=[número oficial]&text=Oi!+Vim+pelo+Instagram+e+quero+saber+mais+sobre+importar+com+a+UpTrade`
+> Reescrita porque a versão anterior repetia a mesma ideia (cota/container) nas duas linhas. Essa versão abre com autoridade (+10 anos, o número já validado na Dobra 2 da LP) e lista os serviços na mesma ordem de prioridade usada na Dobra 3, Importação Completa primeiro porque é a que a própria UpTrade apontou como maior interesse de divulgação no briefing, depois Cotas e Crédito, que são os diferenciais, e por fim Cotação, Curadoria e Desembaraço, que reforçam abrangência sem repetir o que já foi dito. Também cobre palavras-chave de busca do Instagram (importação completa, importação por cotas, crédito, desembaraço) mapeadas na seção 4.2 do `pesquisa-social.md`.
 
-> Pendência: falta o número oficial de WhatsApp pra fechar esse link, mesma pendência já registrada na LP.
+**Link da bio:** `[link personalizado que a UpTrade vai criar]`
+
+> Pendência: o link da bio não vai ser o WhatsApp direto, vai ser um link personalizado que a UpTrade ainda vai providenciar (provável link-in-bio apontando pra LP e pro WhatsApp). Assim que existir, substituir aqui.
 
 ---
 
@@ -33,7 +35,7 @@ Cota compartilhada, crédito e cotação sem susto
 | Sobre | História da UpTrade, sócias, propósito |
 | Serviços | Cards com cada serviço, destacando diferenciais |
 | Como Funciona | As 5 etapas do processo, importação por cotas e por que importar com a UpTrade |
-| Depoimentos | Prints de clientes e prova de operação |
+| Primeira Vez Importando | Tudo que quem nunca importou precisa saber antes de decidir |
 | FAQ | Dúvidas frequentes respondidas |
 
 > Por que 5 e não 6 como a Braza: a Braza tem "Barbeiros" como destaque próprio porque tem 5 profissionais pra apresentar individualmente. A UpTrade tem duas sócias, então a apresentação delas entra dentro de "Sobre" em vez de virar destaque isolado. A Braza também tem "Localização" como destaque, a UpTrade não, porque o endereço é residencial e o atendimento é 100% remoto, não existe "como chegar até a gente" pra mostrar.
@@ -169,19 +171,42 @@ Fala com a gente. Agende pelo link.
 
 ---
 
-### Depoimentos
-Prints de clientes e prova de operação
+### Primeira Vez Importando
+Tudo que quem nunca importou precisa saber antes de decidir
+
+> Trocado no lugar de "Depoimentos": a UpTrade ainda não tem cliente autorizado a citar por escrito, então esse destaque ficaria vazio ou com placeholder por tempo indeterminado. Esse tema já tem conteúdo pronto e validado na Dobra 7 da LP, não depende de terceiro pra existir.
 
 **Tela 1**
-A melhor prova é a de quem já importou com a gente.
-`[Em construção até haver depoimento autorizado por escrito]`
+Primeira importação da sua empresa?
+A gente explica antes de você decidir. Passa pro lado.
 
-**Telas seguintes (intercalando, template rotativo, adicionar à medida que forem chegando):**
+**Tela 2**
+Você não precisa entender de comércio exterior pra importar direito.
+Precisa de alguém que explique cada etapa antes de pedir sua aprovação.
 
-- **Depoimento:** print de avaliação ou mensagem real do cliente, com nome e segmento (mediante autorização por escrito). Link sticker em cada tela.
-- **Prova de processo:** enquanto não há depoimento autorizado, usar print de cotação anonimizado, linha do tempo de uma operação real ou documentação do desembaraço, sem expor dado sensível do cliente.
+**Tela 3**
+Antes de qualquer coisa, avaliamos se a operação vale a pena pro seu caso.
+Se a conta não fechar, a gente fala isso antes de você gastar, não depois.
 
-> Pendência crítica, mesma da Dobra 10 da LP. Nenhum nome de cliente pode entrar aqui sem autorização por escrito. Se a UpTrade não tiver isso ainda, usar só prova de processo (documentação, linha do tempo) até a primeira autorização chegar.
+**Tela 4**
+"Não sei se o fornecedor é confiável."
+A gente garante que a fábrica seja verificada antes de qualquer pagamento.
+
+**Tela 5**
+"Tenho medo de pagar e a mercadoria não chegar."
+O pagamento é dividido em etapas, acompanhado do início ao fim.
+
+**Tela 6**
+"Não sei se tenho volume suficiente pra importar."
+Existe a cota em container compartilhado, exatamente pra quem tá começando.
+
+**Tela 7**
+"Não sei nem o que importar."
+A gente ajuda a escolher, com base no que você já vende e no que tem demanda real no mercado.
+
+**Tela 8**
+Quer entender sua primeira importação?
+Fala com a gente. Agende pelo link.
 
 ---
 
@@ -247,7 +272,7 @@ Manda uma mensagem no nosso WhatsApp ou na nossa DM, a gente responde rapidinho.
 | Fixado | Conteúdo |
 |---|---|
 | 1 | Como funciona a importação com a UpTrade, o processo como diferencial |
-| 2 | Depoimentos, compilado de avaliações e prova de operação |
+| 2 | Pra quem é a UpTrade, identificação de público |
 | 3 | História, propósito e sócias, por que escolher a UpTrade |
 
 > Diferença em relação ao modelo da Braza: o Fixado 1 dela é um tour físico do espaço, porque o ambiente é o diferencial visível. A UpTrade não tem ambiente pra mostrar, o diferencial dela é o processo (transparência, cota, crédito), então o Fixado 1 aqui vira um carrossel explicativo do processo, cumprindo o mesmo papel de "mostrar a estrutura por trás do serviço".
@@ -275,19 +300,23 @@ Passa os slides e entende como funciona antes mesmo de falar com a gente.
 
 ---
 
-**Fixado 2 — Depoimentos (Carrossel)**
-Compilado de avaliações e prova de operação
-Objetivo: prova social pra quem chega no perfil pela primeira vez.
+**Fixado 2 — Pra Quem é a UpTrade (Carrossel)**
+Identificação de público
+Objetivo: quem chega no perfil se reconhece em algum caso e entende rápido se faz sentido falar com a UpTrade. Substitui o fixado de depoimentos por enquanto, a UpTrade ainda não tem cliente autorizado a citar por escrito.
 
-Estrutura do carrossel:
-- Slide 1, capa. Identidade visual da marca + "O que dizem sobre importar com a UpTrade" `[substituir por depoimento real assim que houver autorização]`
-- Slides seguintes. Um depoimento real por slide, com nome e segmento do cliente, mediante autorização por escrito. Enquanto não houver depoimento autorizado, substituir por prova de processo (linha do tempo de uma operação real, documentação anonimizada).
+Roteiro do carrossel:
+- Slide 1, capa. "Você se enxerga em algum desses casos? A gente já sabe por onde começar a conversa."
+- Slide 2, lojista. Vende em loja própria, Shopee ou Mercado Livre e sente a margem sendo corroída pelo distribuidor nacional. A cota em container compartilhado resolve isso.
+- Slide 3, atacadista e distribuidor. Já compra em volume e quer ampliar o mix direto da origem, sem assumir sozinho uma operação fechada.
+- Slide 4, e-commerce e marketplace. Busca produto diferenciado que a concorrência ainda não tem. A curadoria da UpTrade ajuda a encontrar.
+- Slide 5, rede de varejo. Precisa de fornecimento recorrente e previsível, sem recotar do zero a cada pedido.
+- Slide 6, quem nunca importou. Não sabe por onde começar. A gente avalia se vale a pena antes de qualquer decisão.
+- Slide 7, CTA. "Encontrou seu caso? Fala com a gente pelo link da bio."
 
 Legenda:
-A gente podia listar todos os diferenciais aqui. Mas prefere deixar quem já importou com a gente falar por nós.
-`[Ajustar a legenda quando o carrossel tiver depoimento real, hoje esse fixado ainda não pode ir ao ar por falta de autorização]`
-
-> Pendência que trava a publicação deste fixado até que pelo menos um cliente autorize por escrito.
+Cada empresa importa por um motivo diferente. Vê se você se encontra em algum desses.
+Lojista que quer sair da mão do distribuidor, e-commerce que quer produto diferente, rede que precisa de fornecimento recorrente ou quem nunca importou e não sabe por onde começar. A conversa muda pra cada caso, mas o primeiro passo é o mesmo.
+👇 Fala com a UpTrade pelo link da bio.
 
 ---
 
@@ -313,8 +342,10 @@ Passa os slides e conhece um pouco da nossa história.
 
 ## Pendências antes de publicar
 
-1. Número oficial de WhatsApp, usado no link da bio e em todos os CTAs de story.
-2. Foto real de Vanessa e Daniela, usada em "Sobre" e no Fixado 3.
-3. Autorização por escrito de pelo menos um cliente, trava o destaque Depoimentos e o Fixado 2 inteiro.
+1. Número oficial de WhatsApp, usado em todos os CTAs de story (a bio agora aponta pra um link personalizado, não direto pro WhatsApp).
+2. Link personalizado da bio, a UpTrade ainda vai providenciar.
+3. Foto real de Vanessa e Daniela, usada em "Sobre" e no Fixado 3.
 4. Confirmar horário de atendimento exato pra Tela 4 do destaque FAQ, se for incluída (hoje a resposta genérica "de segunda a sexta, das 8h às 18h" já está na LP e pode ser reaproveitada aqui).
 5. Produção de artes para os cards de Serviços, hoje o Instagram não tem nenhum material visual, cards e slides precisam ser desenhados do zero.
+
+> Depoimentos e prova de operação com nome de cliente ficaram de fora por enquanto (destaque virou "Primeira Vez Importando", Fixado 2 virou "Pra Quem é a UpTrade"). Quando a UpTrade tiver pelo menos um cliente autorizado por escrito a citar nome e segmento, dá pra criar um destaque e um fixado de Depoimentos como conteúdo adicional, sem precisar remover o que já está pronto aqui.
