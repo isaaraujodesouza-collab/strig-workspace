@@ -35,7 +35,7 @@ Cotação clara · Curadoria · Desembaraço
 | Sobre | História da UpTrade, sócias, propósito |
 | Serviços | Cards com cada serviço, destacando diferenciais |
 | Como Funciona | As 5 etapas do processo, importação por cotas e por que importar com a UpTrade |
-| Primeira Vez Importando | Tudo que quem nunca importou precisa saber antes de decidir |
+| Pra Quem é a UpTrade | Identificação de público, ajuda a saber se faz sentido falar com a gente |
 | FAQ | Dúvidas frequentes respondidas |
 
 > Por que 5 e não 6 como a Braza: a Braza tem "Barbeiros" como destaque próprio porque tem 5 profissionais pra apresentar individualmente. A UpTrade tem duas sócias, então a apresentação delas entra dentro de "Sobre" em vez de virar destaque isolado. A Braza também tem "Localização" como destaque, a UpTrade não, porque o endereço é residencial e o atendimento é 100% remoto, não existe "como chegar até a gente" pra mostrar.
@@ -171,41 +171,41 @@ Fala com a gente. Agende pelo link.
 
 ---
 
-### Primeira Vez Importando
-Tudo que quem nunca importou precisa saber antes de decidir
+### Pra Quem é a UpTrade
+Identificação de público, ajuda a saber se faz sentido falar com a gente
 
-> Trocado no lugar de "Depoimentos": a UpTrade ainda não tem cliente autorizado a citar por escrito, então esse destaque ficaria vazio ou com placeholder por tempo indeterminado. Esse tema já tem conteúdo pronto e validado na Dobra 7 da LP, não depende de terceiro pra existir.
+> Trocado no lugar de "Depoimentos": a UpTrade ainda não tem cliente autorizado a citar por escrito, então esse destaque ficaria vazio ou com placeholder por tempo indeterminado. Esse tema já tem conteúdo pronto e validado na Dobra 8 da LP, não depende de terceiro pra existir.
 
 **Tela 1**
-Primeira importação da sua empresa?
-A gente explica antes de você decidir. Passa pro lado.
+Você se enxerga em algum desses casos?
+A gente já sabe por onde começar a conversa. Passa pro lado.
 
 **Tela 2**
-Você não precisa entender de comércio exterior pra importar direito.
-Precisa de alguém que explique cada etapa antes de pedir sua aprovação.
+Lojista físico ou digital
+Vende em loja própria, Shopee ou Mercado Livre e sente a margem sendo corroída pelo distribuidor nacional. A cota em container compartilhado resolve isso.
 
 **Tela 3**
-Antes de qualquer coisa, avaliamos se a operação vale a pena pro seu caso.
-Se a conta não fechar, a gente fala isso antes de você gastar, não depois.
+Atacadista e distribuidor
+Já compra em volume e quer ampliar o mix direto da origem, sem assumir sozinho uma operação fechada.
 
 **Tela 4**
-"Não sei se o fornecedor é confiável."
-A gente garante que a fábrica seja verificada antes de qualquer pagamento.
+E-commerce e marketplace
+Busca produto diferenciado que a concorrência ainda não tem. A curadoria da UpTrade ajuda a encontrar.
 
 **Tela 5**
-"Tenho medo de pagar e a mercadoria não chegar."
-O pagamento é dividido em etapas, acompanhado do início ao fim.
+Rede de varejo
+Precisa de fornecimento recorrente e previsível, sem recotar do zero a cada pedido.
 
 **Tela 6**
-"Não sei se tenho volume suficiente pra importar."
-Existe a cota em container compartilhado, exatamente pra quem tá começando.
+Quem nunca importou
+Não sabe por onde começar. A gente avalia se vale a pena antes de qualquer decisão.
 
 **Tela 7**
-"Não sei nem o que importar."
-A gente ajuda a escolher, com base no que você já vende e no que tem demanda real no mercado.
+Quem já importa, mas sem padrão
+Negocia do zero a cada pedido, sem parceiro fixo. A UpTrade padroniza o processo.
 
 **Tela 8**
-Quer entender sua primeira importação?
+Encontrou seu caso?
 Fala com a gente. Agende pelo link.
 
 ---
@@ -272,7 +272,7 @@ Manda uma mensagem no nosso WhatsApp ou na nossa DM, a gente responde rapidinho.
 | Fixado | Conteúdo |
 |---|---|
 | 1 | Como funciona a importação com a UpTrade, o processo como diferencial |
-| 2 | Pra quem é a UpTrade, identificação de público |
+| 2 | Primeira vez importando, tudo que quem nunca importou precisa saber |
 | 3 | História, propósito e sócias, por que escolher a UpTrade |
 
 > Diferença em relação ao modelo da Braza: o Fixado 1 dela é um tour físico do espaço, porque o ambiente é o diferencial visível. A UpTrade não tem ambiente pra mostrar, o diferencial dela é o processo (transparência, cota, crédito), então o Fixado 1 aqui vira um carrossel explicativo do processo, cumprindo o mesmo papel de "mostrar a estrutura por trás do serviço".
@@ -300,22 +300,23 @@ Passa os slides e entende como funciona antes mesmo de falar com a gente.
 
 ---
 
-**Fixado 2 — Pra Quem é a UpTrade (Carrossel)**
-Identificação de público
-Objetivo: quem chega no perfil se reconhece em algum caso e entende rápido se faz sentido falar com a UpTrade. Substitui o fixado de depoimentos por enquanto, a UpTrade ainda não tem cliente autorizado a citar por escrito.
+**Fixado 2 — Primeira Vez Importando (Carrossel)**
+Tudo que quem nunca importou precisa saber
+Objetivo: reduzir o medo de quem tá considerando a primeira importação da empresa, antes mesmo de chamar no direct. Substitui o fixado de depoimentos por enquanto, a UpTrade ainda não tem cliente autorizado a citar por escrito.
 
 Roteiro do carrossel:
-- Slide 1, capa. "Você se enxerga em algum desses casos? A gente já sabe por onde começar a conversa."
-- Slide 2, lojista. Vende em loja própria, Shopee ou Mercado Livre e sente a margem sendo corroída pelo distribuidor nacional. A cota em container compartilhado resolve isso.
-- Slide 3, atacadista e distribuidor. Já compra em volume e quer ampliar o mix direto da origem, sem assumir sozinho uma operação fechada.
-- Slide 4, e-commerce e marketplace. Busca produto diferenciado que a concorrência ainda não tem. A curadoria da UpTrade ajuda a encontrar.
-- Slide 5, rede de varejo. Precisa de fornecimento recorrente e previsível, sem recotar do zero a cada pedido.
-- Slide 6, quem nunca importou. Não sabe por onde começar. A gente avalia se vale a pena antes de qualquer decisão.
-- Slide 7, CTA. "Encontrou seu caso? Fala com a gente pelo link da bio."
+- Slide 1, capa. "Primeira importação da sua empresa? A gente explica antes de você decidir."
+- Slide 2. Você não precisa entender de comércio exterior pra importar direito. Precisa de alguém que explique cada etapa antes de pedir sua aprovação.
+- Slide 3. "Não sei se o fornecedor é confiável." A gente garante que a fábrica seja verificada antes de qualquer pagamento.
+- Slide 4. "Tenho medo de pagar e a mercadoria não chegar." O pagamento é dividido em etapas, acompanhado do início ao fim.
+- Slide 5. "Não sei se tenho volume suficiente." Existe a cota em container compartilhado, exatamente pra quem tá começando.
+- Slide 6. "Não sei nem o que importar." A gente ajuda a escolher, com base no que você já vende e no que tem demanda real no mercado.
+- Slide 7, CTA. "Quer entender sua primeira importação? Fala com a gente pelo link da bio."
 
 Legenda:
-Cada empresa importa por um motivo diferente. Vê se você se encontra em algum desses.
-Lojista que quer sair da mão do distribuidor, e-commerce que quer produto diferente, rede que precisa de fornecimento recorrente ou quem nunca importou e não sabe por onde começar. A conversa muda pra cada caso, mas o primeiro passo é o mesmo.
+Toda primeira vez dá friozinho na barriga, importar não é diferente.
+Antes de qualquer coisa, a gente avalia se a operação vale a pena pro seu caso. Se a conta não fechar, a gente fala isso antes de você gastar, não depois.
+Passa os slides e entende o que muda quando é sua primeira importação.
 👇 Fala com a UpTrade pelo link da bio.
 
 ---
@@ -348,4 +349,4 @@ Passa os slides e conhece um pouco da nossa história.
 4. Confirmar horário de atendimento exato pra Tela 4 do destaque FAQ, se for incluída (hoje a resposta genérica "de segunda a sexta, das 8h às 18h" já está na LP e pode ser reaproveitada aqui).
 5. Produção de artes para os cards de Serviços, hoje o Instagram não tem nenhum material visual, cards e slides precisam ser desenhados do zero.
 
-> Depoimentos e prova de operação com nome de cliente ficaram de fora por enquanto (destaque virou "Primeira Vez Importando", Fixado 2 virou "Pra Quem é a UpTrade"). Quando a UpTrade tiver pelo menos um cliente autorizado por escrito a citar nome e segmento, dá pra criar um destaque e um fixado de Depoimentos como conteúdo adicional, sem precisar remover o que já está pronto aqui.
+> Depoimentos e prova de operação com nome de cliente ficaram de fora por enquanto (destaque virou "Pra Quem é a UpTrade", Fixado 2 virou "Primeira Vez Importando"). Quando a UpTrade tiver pelo menos um cliente autorizado por escrito a citar nome e segmento, dá pra criar um destaque e um fixado de Depoimentos como conteúdo adicional, sem precisar remover o que já está pronto aqui.
