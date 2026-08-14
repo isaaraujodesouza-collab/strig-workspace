@@ -281,43 +281,55 @@ Manda uma mensagem no nosso WhatsApp ou na nossa DM, a gente responde rapidinho.
 
 **Fixado 1 — Como Funciona a Importação com a UpTrade (Carrossel)**
 O processo como diferencial
-Objetivo: mostrar que a operação é estruturada e transparente, não é um "confia em mim".
+Objetivo: mostrar que a operação é estruturada e transparente, não é um "confia em mim". Precisa ter a mesma profundidade dos Fixados 2 e 3, cada slide se sustentando sozinho, sem depender de quem já viu a LP.
 
 Roteiro do carrossel:
 
 **Slide 1 — Capa:**
-Importar não precisa ser um salto no escuro.
+Importar não deveria ser um salto no escuro.
 Veja como funciona com a gente.
 
 **Slide 2 — Diagnóstico:**
 1. Diagnóstico
-Você conta o que quer importar. A gente avalia se a operação fecha conta antes de qualquer outro passo.
+Você conta o que quer importar, quanto precisa e pra quando. A gente avalia se a operação fecha conta antes de qualquer outro passo, e fala isso pra você antes de qualquer coisa.
 
 **Slide 3 — Cotação:**
 2. Cotação
-Custo total da operação, já com imposto e frete embutidos, apresentado antes de qualquer aprovação. Sem surpresa depois.
+A gente busca e verifica fornecedor, negocia preço e prazo, e traz o custo total da operação, já com imposto e frete embutidos, apresentado antes de qualquer aprovação. Sem surpresa depois.
 
 **Slide 4 — Aprovação e produção:**
 3. Aprovação e produção
-Você aprova, a gente inicia o pagamento ao fornecedor. A fábrica produz, a gente confere antes de embarcar.
+Você aprova, a gente inicia o pagamento ao fornecedor. A fábrica produz, a gente confere a qualidade antes de embarcar, sem você precisar viajar ou confiar às cegas.
 
 **Slide 5 — Liberação e entrega:**
 4. Liberação e entrega
-Desembaraço aduaneiro e entrega com nota fiscal, em qualquer endereço do Brasil.
+Desembaraço aduaneiro e entrega com nota fiscal, em qualquer endereço do Brasil. Você recebe atualização em cada etapa, sem precisar cobrar status da própria operação.
 
-**Slide 6 — Diferencial:**
+**Slide 6 — Garantias do processo:**
+Operação documentada em cada etapa.
+Fornecedor verificado antes de qualquer pagamento.
+Nota fiscal na entrega, sempre.
+Nada aqui depende de confiar de olhos fechados.
+
+**Slide 7 — Diferencial financeiro:**
 Não tem volume pra fechar um container inteiro? Existe cota em container compartilhado.
 Não tem o capital todo disponível de uma vez? Existe crédito mediante análise.
 
-**Slide 7 — CTA:**
+**Slide 8 — Reforço de experiência:**
+Mais de 10 anos de mercado de importação. Mais de 360 containers movimentados. Mais de R$ 250 milhões em operações ao longo da carreira da equipe.
+Não é a primeira vez que a gente estrutura um processo assim.
+
+**Slide 9 — CTA:**
 Quer saber se sua operação fecha conta?
 Fala com a gente pelo link da bio.
 
 Legenda:
 Cinco etapas. Nenhuma delas no escuro.
-A gente sabe que decidir importar dá friozinho na barriga, ainda mais na primeira vez. Por isso, cada etapa da operação vem com atualização real, sem você precisar cobrar status.
+A gente sabe que decidir importar dá friozinho na barriga, ainda mais na primeira vez. Por isso, cada etapa da operação vem com atualização real, sem você precisar cobrar status, e com garantia documentada do início ao fim.
 Passa os slides e entende como funciona antes mesmo de falar com a gente.
 👇 Fala com a UpTrade pelo link da bio.
+
+> Slides 6 e 8 são novos em relação à versão anterior, que tinha só 7 slides e ficava rasa perto dos Fixados 2 e 3. O Slide 6 reaproveita o "selo de transparência" que já existia no destaque Como Funciona, e o Slide 8 reaproveita os mesmos big numbers do Fixado 3 (mesma ressalva de estimativa documentada na Dobra 2 da `copy-landing-page.md`), pra fechar com o mesmo peso de autoridade que os outros dois carrosséis têm antes do CTA.
 
 ---
 
@@ -379,7 +391,7 @@ Roteiro do carrossel:
 Antes de falar de importação, deixa a gente contar quem somos.
 
 **Slide 2 — Origem:** *(`[Foto real de Vanessa e Daniela]`)*
-A UpTrade nasceu em outubro de 2025, da união de Vanessa (5 anos de experiência comercial em importação) e Daniela (10 anos), que já atuavam juntas na área comercial de uma importadora de utilidades domésticas antes de abrir a empresa.
+A UpTrade nasceu em outubro de 2025, da união de Vanessa e Daniela, que carregam +10 anos de experiência comercial no mercado de importação, atuando juntas em uma importadora de utilidades domésticas antes de abrir a empresa.
 
 **Slide 3 — Propósito:**
 Acreditamos que uma operação de importação se constrói com confiança, segurança, transparência e responsabilidade.
@@ -422,8 +434,8 @@ Fala com a gente pelo link da bio.
 
 Legenda:
 Tá pensando em importar, né? Deixa a gente se apresentar antes.
-A UpTrade nasceu da experiência de duas sócias que já viviam o dia a dia da importação antes mesmo de abrir a empresa. A gente é nova, a experiência não é.
-Passa os slides e conhece um pouco da nossa história.
+A UpTrade nasceu da experiência de duas sócias que já viviam o dia a dia da importação antes mesmo de abrir a empresa.
+Passa os slides para conhecer um pouco da nossa história.
 👇 Fala com a gente pelo link da bio.
 
 ---
