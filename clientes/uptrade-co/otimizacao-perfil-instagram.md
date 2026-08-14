@@ -284,13 +284,34 @@ O processo como diferencial
 Objetivo: mostrar que a operação é estruturada e transparente, não é um "confia em mim".
 
 Roteiro do carrossel:
-- Slide 1, capa. "Importar não precisa ser um salto no escuro. Veja como funciona com a gente."
-- Slide 2. Diagnóstico. Você conta o que quer importar, a gente avalia se a operação fecha conta.
-- Slide 3. Cotação. Custo total já com imposto e frete, antes de qualquer aprovação.
-- Slide 4. Aprovação e produção. Você aprova, a fábrica produz, a gente confere antes de embarcar.
-- Slide 5. Liberação e entrega. Desembaraço aduaneiro e entrega com nota fiscal, em qualquer lugar do Brasil.
-- Slide 6. Diferencial. Cota em container compartilhado pra quem não tem volume, crédito mediante análise pra quem não tem o capital todo disponível.
-- Slide 7, CTA. "Quer saber se sua operação fecha conta? Fala com a gente pelo link da bio."
+
+**Slide 1 — Capa:**
+Importar não precisa ser um salto no escuro.
+Veja como funciona com a gente.
+
+**Slide 2 — Diagnóstico:**
+1. Diagnóstico
+Você conta o que quer importar. A gente avalia se a operação fecha conta antes de qualquer outro passo.
+
+**Slide 3 — Cotação:**
+2. Cotação
+Custo total da operação, já com imposto e frete embutidos, apresentado antes de qualquer aprovação. Sem surpresa depois.
+
+**Slide 4 — Aprovação e produção:**
+3. Aprovação e produção
+Você aprova, a gente inicia o pagamento ao fornecedor. A fábrica produz, a gente confere antes de embarcar.
+
+**Slide 5 — Liberação e entrega:**
+4. Liberação e entrega
+Desembaraço aduaneiro e entrega com nota fiscal, em qualquer endereço do Brasil.
+
+**Slide 6 — Diferencial:**
+Não tem volume pra fechar um container inteiro? Existe cota em container compartilhado.
+Não tem o capital todo disponível de uma vez? Existe crédito mediante análise.
+
+**Slide 7 — CTA:**
+Quer saber se sua operação fecha conta?
+Fala com a gente pelo link da bio.
 
 Legenda:
 Cinco etapas. Nenhuma delas no escuro.
@@ -305,13 +326,34 @@ Tudo que quem nunca importou precisa saber
 Objetivo: reduzir o medo de quem tá considerando a primeira importação da empresa, antes mesmo de chamar no direct. Substitui o fixado de depoimentos por enquanto, a UpTrade ainda não tem cliente autorizado a citar por escrito.
 
 Roteiro do carrossel:
-- Slide 1, capa. "Primeira importação da sua empresa? A gente explica antes de você decidir."
-- Slide 2. Você não precisa entender de comércio exterior pra importar direito. Precisa de alguém que explique cada etapa antes de pedir sua aprovação.
-- Slide 3. "Não sei se o fornecedor é confiável." A gente garante que a fábrica seja verificada antes de qualquer pagamento.
-- Slide 4. "Tenho medo de pagar e a mercadoria não chegar." O pagamento é dividido em etapas, acompanhado do início ao fim.
-- Slide 5. "Não sei se tenho volume suficiente." Existe a cota em container compartilhado, exatamente pra quem tá começando.
-- Slide 6. "Não sei nem o que importar." A gente ajuda a escolher, com base no que você já vende e no que tem demanda real no mercado.
-- Slide 7, CTA. "Quer entender sua primeira importação? Fala com a gente pelo link da bio."
+
+**Slide 1 — Capa:**
+Primeira importação da sua empresa?
+A gente explica antes de você decidir.
+
+**Slide 2 — Sem jargão:**
+Você não precisa entender de comércio exterior pra importar direito.
+Precisa de alguém que explique cada etapa antes de pedir sua aprovação.
+
+**Slide 3 — Objeção, fornecedor:**
+"Não sei se o fornecedor é confiável."
+A gente garante que a fábrica seja verificada antes de qualquer pagamento.
+
+**Slide 4 — Objeção, pagamento:**
+"Tenho medo de pagar e a mercadoria não chegar."
+O pagamento é dividido em etapas, acompanhado do início ao fim.
+
+**Slide 5 — Objeção, volume:**
+"Não sei se tenho volume suficiente."
+Existe a cota em container compartilhado, exatamente pra quem tá começando.
+
+**Slide 6 — Objeção, produto:**
+"Não sei nem o que importar."
+A gente ajuda a escolher, com base no que você já vende e no que tem demanda real no mercado.
+
+**Slide 7 — CTA:**
+Quer entender sua primeira importação?
+Fala com a gente pelo link da bio.
 
 Legenda:
 Toda primeira vez dá friozinho na barriga, importar não é diferente.
@@ -326,12 +368,27 @@ Por que escolher a UpTrade? Gerar identificação antes da decisão.
 Objetivo: criar conexão antes de falar de processo ou preço. O visitante entende quem são as pessoas por trás da UpTrade antes de decidir se confia na operação.
 
 Roteiro do carrossel:
-- Slide 1, capa. "Antes de falar de importação, deixa a gente contar quem somos."
-- Slide 2, origem. `[Foto real de Vanessa e Daniela]` A UpTrade nasceu em outubro de 2025, da união de Vanessa e Daniela, que já atuavam juntas na área comercial de uma importadora de utilidades domésticas.
-- Slide 3, propósito. A experiência não começou com a UpTrade. Veio de antes, e é ela que sustenta cada operação.
-- Slide 4, diferenciais. Cota em container compartilhado, crédito mediante análise, cotação completa antes de qualquer aprovação.
-- Slide 5, mensagem da marca. Unir experiência comercial, relacionamento próximo e soluções em importação, pra empresas de qualquer porte crescerem sem precisar virar especialista em comex.
-- Slide 6, CTA. "Vem conhecer. Fala com a gente pelo link da bio."
+
+**Slide 1 — Capa:**
+Antes de falar de importação, deixa a gente contar quem somos.
+
+**Slide 2 — Origem:** *(`[Foto real de Vanessa e Daniela]`)*
+A UpTrade nasceu em outubro de 2025, da união de Vanessa e Daniela, que já atuavam juntas na área comercial de uma importadora de utilidades domésticas.
+
+**Slide 3 — Propósito:**
+A experiência não começou com a UpTrade. Veio de antes, e é ela que sustenta cada operação que a gente assessora hoje.
+
+**Slide 4 — Diferenciais:**
+Cota em container compartilhado.
+Crédito mediante análise.
+Cotação completa antes de qualquer aprovação.
+
+**Slide 5 — Mensagem da marca:**
+Unir experiência comercial, relacionamento próximo e soluções em importação, pra que empresas de qualquer porte consigam crescer sem precisar virar especialista em comex.
+
+**Slide 6 — CTA:**
+Vem conhecer.
+Fala com a gente pelo link da bio.
 
 Legenda:
 Tá pensando em importar, né? Deixa a gente se apresentar antes.
