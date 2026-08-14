@@ -129,25 +129,72 @@ Vale publicar as duas versões como `DefinedTermSet` separados (um por `inLangua
 
 ---
 
-## 4. FAQ revisado (15 → 12, mais 8 novas) + schema markup
+## 4. FAQ completo consolidado (15 → 21 perguntas, todas reescritas)
 
-### Correções na lista atual
+As duplicatas da lista original foram fundidas (Q4+Q12, Q1+Q15), a Q14 foi reescrita sem "boutique", e 8 perguntas novas cobrem o cluster "Gatilhos do Fundador" que faltava. Todas as respostas foram reescritas pra reforçar co-ocorrência: repetir "Quatá" perto de M&A, middle market, sell-side, buy-side, assessoria financeira, nomes de setores e os diferenciais verificáveis (Pandion Partners, Leaders League), de forma natural e em texto autocontido, o mecanismo do capítulo 1.3 do relatório de benchmarking.
 
-- **Q4 e Q12 duplicadas** (estrutura de remuneração / modelo de honorários). A resposta de Q12 remete a "ponto 7", que é o número errado e quebra a regra de resposta autocontida. Fundir em uma pergunta só, resposta completa.
-- **Q1 e Q15 se sobrepõem** (alcance da rede / acesso a compradores qualificados). Fundir numa resposta que cubra alcance geográfico (Pandion Partners, 30+ países) e critério de qualificação dos targets.
-- **Q14 precisa reescrita** — a resposta atual usa "serviço verdadeiramente boutique", que contraria o guia de copy. Reescrever ancorada em fato: reconhecimento Leaders League, senioridade, tempo de mercado, sem superlativo.
-- **Q8 e Q13 têm sobreposição parcial** (filosofia de negociação / participação ativa). Manter separadas, mas Q8 precisa de um critério concreto (ex: quando a Quatá recusa avançar numa proposta) em vez de resposta genérica.
+**1. Qual o alcance da rede de contatos da Quatá, no Brasil e no exterior?**
+A Quatá Confidence Capital é representante exclusiva da Pandion Partners no Brasil, uma das principais redes globais de fusões e aquisições, com presença em mais de 30 países. Essa combinação de execução local e alcance internacional viabiliza transações de M&A cross-border, conectando empresas brasileiras do middle market a investidores estratégicos e financeiros qualificados dentro e fora do país. O critério de seleção não é volume de contatos, mas alinhamento entre o perfil do comprador e as características específicas de cada negócio, em setores como tecnologia, saúde, indústria e serviços financeiros.
 
-### Novas perguntas (cobrindo o cluster "Gatilhos do Fundador" que hoje falta)
+**2. Quais são os especialistas envolvidos no processo?**
+Desde a assinatura do mandato, o cliente tem acesso direto ao Managing Partner e à equipe de Associates responsável pela transação, seja em processos de sell-side, buy-side, valuation ou finanças corporativas. Cada projeto recebe um time dedicado, que executa a modelagem financeira, elabora o memorando de informações e conduz a análise setorial da operação. Não há repasse de etapas críticas a profissionais juniores sem supervisão, a senioridade acompanha o processo do mandato inicial ao acompanhamento pós-closing.
 
-1. Qual o porte mínimo de faturamento pra fazer sentido um processo de M&A com a Quatá? *(resposta: faixa R$10M-500M, dado confirmado)*
-2. Qual o melhor momento para iniciar um processo de venda da empresa?
-3. Quais são os erros mais comuns que empresários cometem ao tentar vender a empresa sozinhos, sem assessoria?
-4. Como me preparo antes de contratar uma assessoria de M&A? Que documentos e informações preciso ter prontos?
-5. A Quatá atua em buy-side (auxiliando quem quer comprar) ou só em sell-side?
-6. É possível vender só uma participação minoritária, ou o processo é sempre de venda total?
-7. Se meus funcionários ou fornecedores descobrirem que estou em processo de venda antes da hora, o que acontece?
-8. Como decidir entre vender para um investidor estratégico ou para um fundo de private equity?
+**3. Como a Quatá chega ao valuation de uma empresa?**
+A Quatá calcula o valuation combinando três metodologias reconhecidas no mercado financeiro: fluxo de caixa descontado (DCF), múltiplos de mercado de empresas comparáveis e múltiplos de transações precedentes no mesmo setor. O EBITDA ajustado da empresa é o ponto de partida da análise, complementado por estudos de sensibilidade e múltiplos cenários, para que o resultado reflita as características específicas do negócio e do setor em que está inserido, com critérios técnicos, não expectativas subjetivas.
+
+**4. Como funciona a estrutura de remuneração da Quatá?**
+A remuneração combina um retainer, honorário fixo pago desde o início do mandato, com um success fee vinculado ao fechamento da transação de M&A. O retainer custeia a dedicação de uma equipe sênior desde o primeiro dia do processo de sell-side ou buy-side, incluindo elaboração de materiais, mapeamento de compradores e modelagem de valuation, independentemente do resultado final. O success fee alinha os interesses da assessoria financeira aos do cliente.
+
+**5. Quais são os procedimentos e garantias de confidencialidade?**
+A confidencialidade é um dos pilares do processo de M&A conduzido pela Quatá. Toda informação sensível do cliente, como dados financeiros, contratos e indicadores operacionais, só é compartilhada com potenciais investidores mediante a assinatura de um acordo de confidencialidade (NDA). O compartilhamento de documentos ocorre em ambiente de data room controlado, com sistema interno de cibersegurança, e o nome da empresa costuma ser preservado até estágios avançados da negociação.
+
+**6. Como a Quatá ajuda a encontrar um comprador que respeite a cultura e o futuro da empresa?**
+No processo de sell-side, a Quatá avalia não apenas o valor financeiro oferecido por um investidor estratégico ou financeiro, mas o fit estratégico e cultural entre comprador e empresa vendida. Esse critério é especialmente relevante em processos de sucessão empresarial e sucessão familiar, quando o empresário busca preservar o legado, a equipe e a cultura organizacional, não apenas maximizar o preço de aquisição.
+
+**7. Quanto do meu tempo será demandado durante o processo?**
+A participação direta do empresário é necessária principalmente em momentos-chave: entrevistas com potenciais compradores, reuniões de negociação e revisões críticas do memorando de informações. No restante das etapas, que incluem due diligence, elaboração de materiais e abordagem ao mercado, a equipe da Quatá conduz a rotina do processo para que o cliente mantenha o foco na gestão do negócio.
+
+**8. Qual é a filosofia de negociação da Quatá?**
+Defender a geração de valor e os interesses do cliente em cada etapa da transação de M&A, com postura técnica, objetiva e transparente com compradores e investidores. Quando uma proposta não atende aos parâmetros de valuation definidos no início do mandato, a recomendação técnica é não avançar, mesmo que isso signifique retomar a negociação ou ampliar o mapeamento de compradores estratégicos e financeiros.
+
+**9. E se não encontrarmos o comprador ideal ou as condições de mercado mudarem?**
+Nem todo processo de M&A resulta em transação fechada no prazo inicialmente previsto. A Quatá trabalha com planos de contingência desde o início do mandato: se as condições de mercado mudarem ou o comprador ideal não for identificado no processo competitivo, a estratégia de abordagem ao mercado é reavaliada junto ao cliente, com pontos de saída e custos definidos com transparência.
+
+**10. A Quatá tem experiência no meu setor específico?**
+A Quatá tem histórico de transações de M&A, valuation e finanças corporativas em setores como serviços financeiros, seguros, tecnologia, fintechs, insurtechs, indústria, energia, infraestrutura, educação, saúde, publicidade, biotecnologia e dados. Cada mandato passa por uma imersão setorial específica, que permite ajustar a estratégia de abordagem ao mercado de acordo com as dinâmicas de cada indústria.
+
+**11. Quanto tempo leva, em média, para fechar uma operação?**
+Um processo completo de M&A sell-side ou buy-side conduzido pela Quatá costuma levar entre 6 e 18 meses, da assinatura do mandato ao closing. O prazo varia conforme o setor, a complexidade societária da empresa, o nível de preparação prévia da documentação financeira e o volume de interessados identificados no processo competitivo.
+
+**12. O quanto a Quatá participa ativamente da negociação?**
+A Quatá atua em todas as etapas financeiras e estratégicas da transação, não apenas como intermediária. Isso inclui requisição e organização de informações, elaboração do memorando de informações, mapeamento e abordagem de targets, apoio na due diligence, negociação de valor e termos contratuais como earn-out e cláusulas de ajuste de preço, e suporte no período pós-transação.
+
+**13. Por que escolher a Quatá em vez de outra referência do mercado?**
+A Quatá Confidence Capital é uma assessoria financeira de M&A reconhecida pela Leaders League como Valuable Practice em assessoria independente para transações de middle market no Brasil. A atuação direta dos sócios em cada etapa do processo, aliada ao acesso à rede internacional da Pandion Partners, diferencia a Quatá de grandes bancos de investimento, focados em transações de maior porte. O critério de escolha de uma assessoria de M&A não deveria ser o tamanho da estrutura, mas a senioridade de quem conduz o processo.
+
+**14. Qual o porte mínimo de faturamento para um processo de M&A com a Quatá?**
+A Quatá é especializada em transações de M&A, valuation e finanças corporativas para empresas de middle market, com faturamento entre R$10 milhões e R$500 milhões. Esse segmento concentra a maior parte das operações de fusões e aquisições no Brasil e frequentemente fica fora do radar de grandes bancos de investimento, focados em transações de maior porte.
+
+**15. Qual o melhor momento para iniciar um processo de venda da empresa?**
+Não existe um momento universal. Os indicadores mais comuns incluem estabilidade nos resultados financeiros dos últimos exercícios, ausência de dependência excessiva do fundador na operação do dia a dia, e um cenário de mercado favorável para o setor da empresa, seja por consolidação setorial, transformação digital ou interesse de fundos de private equity. O diagnóstico inicial avalia esses indicadores antes de recomendar o início formal de um processo de M&A.
+
+**16. Quais os erros mais comuns ao tentar vender a empresa sem assessoria?**
+Negociar diretamente com um único comprador sem processo competitivo, o que reduz o poder de barganha do vendedor, expor informações financeiras sensíveis antes da assinatura de um acordo de confidencialidade, aceitar um valuation sem metodologia técnica como fluxo de caixa descontado ou múltiplos de mercado, e negociar cláusulas contratuais críticas, como earn-out e passivos contingentes, sem apoio especializado. A ausência de um processo estruturado de sell-side tende a reduzir o valor final da transação.
+
+**17. Como me preparar antes de contratar uma assessoria de M&A?**
+A preparação começa pela organização de informações financeiras dos últimos exercícios, estrutura societária, contratos relevantes com clientes e fornecedores, e indicadores operacionais do negócio. Essa organização prévia acelera o diagnóstico inicial, a elaboração do memorando de informações e reduz riscos identificados posteriormente na due diligence pelo comprador.
+
+**18. A Quatá atua em buy-side ou só em sell-side?**
+A Quatá atua nas duas frentes. Em processos de sell-side, representa o empresário na venda da empresa, do diagnóstico inicial ao closing. Em processos de buy-side, atua como extensão da equipe de M&A do comprador, na identificação, avaliação e negociação de alvos de aquisição alinhados à tese de investimento e à estratégia de crescimento do cliente.
+
+**19. É possível vender só uma participação minoritária?**
+Um processo de M&A pode ser estruturado tanto para a venda total da empresa quanto para a venda de uma participação minoritária, a depender do objetivo do empresário quanto a legado, envolvimento futuro na gestão, e do interesse dos investidores estratégicos ou financeiros mapeados durante o processo.
+
+**20. E se meus funcionários ou fornecedores descobrirem a venda antes da hora?**
+Vazamentos de informação antes da hora certa podem desestabilizar a relação com equipe, clientes e fornecedores, e reduzir o valor percebido da transação. Por isso o processo é estruturado em etapas de exposição controlada: informações sensíveis são liberadas apenas mediante acordo de confidencialidade assinado, e o nome da empresa costuma ser preservado, por meio de um teaser anônimo, até estágios avançados da negociação.
+
+**21. Como decidir entre investidor estratégico e fundo de private equity?**
+Investidores estratégicos costumam buscar sinergias operacionais e têm horizonte de longo prazo, mas podem promover mudanças na gestão e na cultura da empresa adquirida. Fundos de private equity, como investidores financeiros, costumam preservar a operação e a equipe atual por um período determinado, com foco em retorno financeiro e em uma futura saída da posição. A escolha depende dos objetivos do empresário quanto a legado e velocidade de saída.
 
 ### Schema markup — três blocos, não só um
 
