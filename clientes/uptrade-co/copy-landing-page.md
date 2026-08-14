@@ -50,7 +50,7 @@ anos de mercado, considerando a trajetória de Vanessa (5 anos) e Daniela (10 an
 **+360**
 containers movimentados ao longo da trajetória da equipe
 
-**VOLUME MOVIMENTADO:**
+**VALOR GERADO:**
 **+R$ 250 milhões**
 em operações de importação ao longo da carreira da equipe
 
