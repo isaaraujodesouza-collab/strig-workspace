@@ -64,7 +64,81 @@ CTA embaixo dos números: "Quero entender minha operação" → WhatsApp
 
 ---
 
-## DOBRA 3 — COMO FUNCIONA O PROCESSO
+## DOBRA 3 — PRA QUEM A UPTRADE TRABALHA
+
+**TÍTULO DA DOBRA:**
+Pra quem é a UpTrade
+
+**SUBTÍTULO:**
+Se você se enxerga em algum desses casos, a gente já sabe por onde começar a conversa.
+
+**Card 1 — Lojista físico ou digital**
+Você vende em loja própria, Shopee ou Mercado Livre e sente a margem sendo corroída pelo distribuidor nacional. A cota em container compartilhado te dá acesso a produto de origem sem precisar do volume de um container inteiro.
+
+**Card 2 — Atacadista e distribuidor**
+Você já compra em volume e quer ampliar o mix com produto direto da origem, sem assumir sozinho uma operação fechada. A cota compartilhada libera esse caminho sem travar todo o capital de giro.
+
+**Card 3 — E-commerce e marketplace**
+Você vende em plataforma e busca produto diferenciado que a concorrência ainda não tem. A curadoria da UpTrade cruza o que você já vende com tendência de mercado e margem real depois do imposto.
+
+**Card 4 — Rede de varejo**
+Você opera mais de uma unidade e precisa de fornecimento recorrente e previsível. Um parceiro fixo elimina o tempo perdido recotando do zero a cada pedido novo.
+
+**Card 5 — Quem nunca importou**
+Você nunca fez uma importação e não sabe por onde começar. A gente avalia se a operação vale a pena antes de você decidir, e explica cada etapa em termos simples. (Ver Dobra 8.)
+
+**Card 6 — Quem já importa, mas sem padrão**
+Você já importou antes, mas negociando do zero a cada pedido, sem parceiro fixo. A UpTrade padroniza o processo pra você não perder tempo nem previsibilidade.
+
+CTA embaixo dos cards: "Encontrei meu caso, quero falar com a UpTrade" → WhatsApp
+
+---
+
+## DOBRA 4 — SERVIÇOS
+
+**TÍTULO DA DOBRA:**
+O que a UpTrade faz por você, do início ao fim
+
+**SUBTÍTULO:**
+Do primeiro diagnóstico à mercadoria na sua porta. Serviços listados do de maior procura pro mais específico.
+
+**Card 1 — Importação Completa, do Fornecedor à Sua Porta**
+Atendimento personalizado do primeiro diagnóstico até a entrega. A gente identifica o produto, negocia com o fornecedor, cuida do pagamento internacional, do frete, do seguro e do desembaraço aduaneiro. Você aprova, a gente executa.
+
+> Serviço de maior interesse de divulgação segundo a própria UpTrade, por isso listado em primeiro.
+
+**Card 2 — Importação por Cotas em Container Compartilhado**
+Cota proporcional ao volume que você precisa, dividindo custo com outros importadores e mantendo condição competitiva. Ideal pra quem tá começando ou ainda não tem volume pra fechar um container inteiro.
+
+**Card 3 — Crédito para Operação de Importação**
+Mediante análise, viabilizamos a operação com pagamento dividido em etapas, contratação, embarque e desembaraço, pra quem não tem o capital todo disponível de uma vez.
+
+**Card 4 — Cotação Internacional Completa**
+Custo total da operação, já com imposto e frete embutidos, apresentado antes de qualquer aprovação. Sem surpresa depois.
+
+**Card 5 — Verificação de Fornecedor e Negociação Internacional**
+Garantimos que o fornecedor seja avaliado e negociado antes de qualquer pagamento. Fábrica verificada, preço e prazo definidos, risco reduzido desde o início.
+
+**Card 6 — Acompanhamento de Produção, Inspeção e Embarque**
+Da fábrica ao navio ou avião, cada etapa acompanhada de perto, com atualização real, sem você precisar cobrar.
+
+**Card 7 — Desembaraço Aduaneiro e Transporte Nacional**
+Liberação da carga na alfândega e entrega com nota fiscal em qualquer endereço do Brasil. A parte mais burocrática, resolvida sem você precisar entender de comex.
+
+**Card 8 — Curadoria de Produto para Importar**
+Ainda não sabe o que importar? Cruzamos o que você já vende, a demanda de mercado e a margem real depois do imposto pra indicar produto com potencial de venda de verdade.
+
+**Card 9 — Importação da China e Outras Origens**
+A China concentra a maior parte das operações pela relação entre preço, variedade e capacidade produtiva. `[Confirmar com a UpTrade se atendem outras origens de fato antes de publicar este card]`
+
+**Card 10 — Assessoria para Quem Nunca Importou**
+Primeira importação da sua empresa? Avaliamos se a operação vale a pena antes de você gastar, explicamos o processo em termos simples e acompanhamos do zero até a mercadoria chegar.
+
+CTA embaixo dos cards: "Quero saber qual serviço faz sentido pra mim" → WhatsApp
+
+---
+
+## DOBRA 5 — COMO FUNCIONA O PROCESSO
 
 **TÍTULO DA DOBRA:**
 Do primeiro contato até a mercadoria na sua porta
@@ -87,7 +161,7 @@ CTA: "Ver minha operação com esse processo" → WhatsApp
 
 ---
 
-## DOBRA 4 — IMPORTAÇÃO POR COTAS EXPLICADA
+## DOBRA 6 — IMPORTAÇÃO POR COTAS EXPLICADA
 
 **TÍTULO DA DOBRA:**
 Você não precisa de um container inteiro pra começar a importar
@@ -110,7 +184,7 @@ CTA: "Quero saber se a cota funciona pra mim" → WhatsApp
 
 ---
 
-## DOBRA 5 — POR QUE IMPORTAR COM A UPTRADE
+## DOBRA 7 — POR QUE IMPORTAR COM A UPTRADE
 
 **TÍTULO DA DOBRA:**
 Não é só achar fornecedor. É o que vem depois.
@@ -146,7 +220,7 @@ CTA: "Falar com a UpTrade" → WhatsApp
 
 ---
 
-## DOBRA 6 — SUA PRIMEIRA VEZ IMPORTANDO?
+## DOBRA 8 — SUA PRIMEIRA VEZ IMPORTANDO?
 
 **TÍTULO DA DOBRA:**
 Primeira importação da sua empresa? A gente explica antes de você decidir.
@@ -168,7 +242,7 @@ CTA: "Quero entender minha primeira importação" → WhatsApp
 
 ---
 
-## DOBRA 7 — QUEM SOMOS
+## DOBRA 9 — QUEM SOMOS
 
 **TÍTULO DA DOBRA:**
 Conheça as sócias por trás da UpTrade
@@ -187,7 +261,7 @@ CTA: "Falar com a UpTrade" → WhatsApp
 
 ---
 
-## DOBRA 8 — PROVA DE OPERAÇÃO
+## DOBRA 10 — PROVA DE OPERAÇÃO
 
 **TÍTULO DA DOBRA:**
 `[Em construção até haver depoimento autorizado]`
@@ -203,7 +277,7 @@ CTA: "Quero ser o próximo case da UpTrade" → WhatsApp
 
 ---
 
-## DOBRA 9 — FORMULÁRIO / CTA DIRETO
+## DOBRA 11 — FORMULÁRIO / CTA DIRETO
 
 **TÍTULO DA DOBRA:**
 Vamos avaliar sua importação?
@@ -217,7 +291,7 @@ CTA do formulário: "Quero minha avaliação"
 
 ---
 
-## DOBRA 10 — FAQ
+## DOBRA 12 — FAQ
 
 **TÍTULO DA DOBRA:**
 Dúvidas antes de importar? A gente responde.
@@ -228,7 +302,7 @@ Dúvidas antes de importar? A gente responde.
 A importação inteira, do fornecedor à sua porta. A gente encontra e verifica a fábrica, negocia preço e prazo, faz o pagamento internacional, cuida do frete e do seguro, libera a carga na alfândega e entrega no seu endereço com toda a documentação. `[Confirmar o que é executado direto e o que é via parceiro]`
 
 **Como funciona o processo, do primeiro contato até a mercadoria na minha mão?**
-Cinco etapas: diagnóstico, cotação, aprovação, produção e embarque, liberação e entrega. Você recebe atualização em cada etapa, sem precisar cobrar. (Detalhado na Dobra 3.)
+Cinco etapas: diagnóstico, cotação, aprovação, produção e embarque, liberação e entrega. Você recebe atualização em cada etapa, sem precisar cobrar. (Detalhado na Dobra 5.)
 
 **Vocês importam só da China?**
 `[Confirmar antes de publicar]`. A China concentra a maior parte das operações, pela relação entre preço, variedade e capacidade produtiva, mas a UpTrade também opera com `[listar países, se houver]`.
@@ -240,7 +314,7 @@ Sim. A operação é remota do primeiro contato à liberação da carga, e a ent
 WhatsApp ou Instagram. Atendimento de `[dias e horário]`. `[Botão de WhatsApp dentro desta resposta]`
 
 **Vocês têm clientes de referência?**
-`[Depende de autorização por escrito, ver Dobra 8]`
+`[Depende de autorização por escrito, ver Dobra 10]`
 
 **Preciso ter CNPJ pra importar?**
 Sim, pra importar com regularidade e revender. Se você é MEI, dá pra começar dentro do teto anual, o que serve pra testar produto antes de comprometer capital.
@@ -277,7 +351,7 @@ Em três etapas: parte na contratação, parte no embarque da mercadoria, parte 
 | O que não entrou | Motivo | Onde resolver |
 |---|---|---|
 | Preço ou ticket mínimo em destaque | Regra da Strig, preço não converte em LP de serviço consultivo, afasta antes de gerar confiança | FAQ, como resposta direta, e roteiro de atendimento no WhatsApp |
-| Nome de cliente de referência | Sem autorização por escrito ainda | Dobra 8, como placeholder até autorização chegar |
+| Nome de cliente de referência | Sem autorização por escrito ainda | Dobra 10, como placeholder até autorização chegar |
 | Nota no Google / número de avaliações | A UpTrade ainda não tem histórico no Google | Badge do Hero, assim que a coleta de avaliação (seção 13 do `pesquisa-social.md`) gerar volume |
 | Vídeos de cliente / bastidor | Instagram da UpTrade está parado, não existe material ainda | Fica pra fase 2, depois que o Instagram começar a produzir conteúdo |
 | Menção à Moviw ou a qualquer concorrente | A Moviw é parceira operacional, não deve aparecer como referência pública na LP. Concorrentes não se cita na LP do cliente | Uso interno, só na pesquisa estratégica |
@@ -287,8 +361,8 @@ Em três etapas: parte na contratação, parte no embarque da mercadoria, parte 
 ## Pendências com a UpTrade antes de publicar
 
 1. Confirmar número oficial de WhatsApp e horário de atendimento (usado em quase toda dobra)
-2. Confirmar modalidade de operação, nome do cliente ou nome da UpTrade, pergunta que trava a Dobra 10
-3. Confirmar países de origem além da China, se houver
-4. Autorização por escrito de pelo menos um cliente pra Dobra 8 sair do placeholder
-5. Foto real de Vanessa e Daniela pra Dobra 7
+2. Confirmar modalidade de operação, nome do cliente ou nome da UpTrade, pergunta que trava a Dobra 12
+3. Confirmar países de origem além da China, se houver (também trava o Card 9 da Dobra 4)
+4. Autorização por escrito de pelo menos um cliente pra Dobra 10 sair do placeholder
+5. Foto real de Vanessa e Daniela pra Dobra 9
 6. Confirmar cidade/estado da sede, ainda que o atendimento seja remoto, útil pro rodapé e pro schema de SEO
