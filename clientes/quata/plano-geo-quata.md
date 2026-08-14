@@ -85,6 +85,48 @@ Cada termo vira uma entrada curta (2-4 linhas), tom técnico-sóbrio do guia de 
 
 O range de middle market (R$10-500M) veio da persona "Carlos" da pesquisa interna — é dado real do cliente, não estimativa. Publicar essa faixa numérica explícita no glossário e no FAQ é o tipo de sinal concreto que funciona bem em GEO (mesma lógica do range que a Oporto usa no benchmarking).
 
+### 3.1 English Glossary (site tem versão PT/EN — necessário pra GEO em inglês também)
+
+Não é tradução literal do glossário em português: é a versão em inglês pensada pra quem pesquisa em inglês (investidor estrangeiro, fundo internacional, imprensa financeira global). Mesma lógica de definição direta e autocontida, sem CTA. Termo em português entre parênteses só quando ajuda a ancorar a busca cross-language.
+
+**A** — Adjusted EBITDA
+
+**B** — Binding Offer / Non-Binding Offer · Business Succession · Buy-side · Buyer Mapping (Target List)
+
+**C** — Capital Expenditure (CapEx) · Capital Raising (Fundraising) · Capital Structure · Carve-out · Closing · Company Valuation · Competitive Process (Auction Process) · Contingent Liabilities · Corporate Governance · Corporate Restructuring · Cross-Border Transaction · Cultural Fit
+
+**D** — Data Room · Deal Breaker · Discount Rate (WACC) · Discounted Cash Flow (DCF) · Divestiture · Due Diligence
+
+**E** — Earnout · EBITDA · Enterprise Value · Equity Value · Escrow Account · Exclusivity (Exclusive Mandate)
+
+**F** — Fair Market Value · Fairness Opinion · Family Business Valuation · Financial Due Diligence · Financial Investor · Free Cash Flow
+
+**G** — Global M&A Network
+
+**H** — Holding Company
+
+**I** — Industry Consolidation · Information Memorandum (IM) · Initial Public Offering (IPO) · Intangible Assets · Investment Bank
+
+**L** — Letter of Intent (LOI)
+
+**M** — Mandate (Engagement) · Market Approach · Market Multiple · Memorandum of Understanding (MOU) · Mergers and Acquisitions (M&A) · Middle Market (at Quatá: companies with revenue between R$10 million and R$500 million)
+
+**N** — Net Debt · Non-Compete Clause · Non-Disclosure Agreement (NDA)
+
+**P** — Post-Closing (Post-Merger Integration) · Private Equity · Private Equity Fund · Purchase Price
+
+**R** — Retainer Fee
+
+**S** — Sell-side · Share Purchase Agreement (SPA) · Strategic Investor · Success Fee · Succession Plan · Synergy
+
+**T** — Target Company · Term Sheet · Terminal Value · Terms Negotiation · Trading Comparables (Market Comparables)
+
+**V** — Vendor Due Diligence
+
+**W** — Working Capital
+
+Vale publicar as duas versões como `DefinedTermSet` separados (um por `inLanguage`, "pt-BR" e "en"), não como uma página só bilíngue — isso deixa mais claro pra qualquer sistema de retrieval qual definição corresponde a qual idioma de busca.
+
 ---
 
 ## 4. FAQ revisado (15 → 12, mais 8 novas) + schema markup
