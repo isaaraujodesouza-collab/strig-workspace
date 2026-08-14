@@ -16,9 +16,9 @@ A importação inteira, do fornecedor à sua porta.
 
 A gente encontra e verifica a fábrica, negocia preço e prazo, faz o pagamento internacional, cuida do frete e do seguro, libera a carga na alfândega e entrega no seu endereço com toda a documentação.
 
-`[Confirmar o que é executado direto e o que é via parceiro. Tirar da lista o que a Uptrade não faz.]`
-
 Você resolve tudo em uma conversa só, não com cinco fornecedores diferentes.
+
+> Resolvido em 14/08/2026. Confirmado com a Vanessa e a Daniela que toda a execução operacional (produção, logística, aduaneiro) é feita pela Moviw, parceira da Uptrade. A Uptrade vende o pacote completo "360 graus" como próprio, sem precisar citar a Moviw na comunicação. Por isso a resposta acima fica de pé como está, ela descreve o que a Uptrade garante entregar, não afirma que a própria equipe executa fisicamente cada etapa.
 
 ---
 
@@ -38,11 +38,11 @@ Você recebe atualização em cada etapa. Sem precisar cobrar.
 
 ### 3. Vocês importam só da China?
 
-`[Confirmar antes de publicar.]`
-
-A China concentra a maior parte das operações, porque é onde a relação entre preço, variedade e capacidade de produção ainda é imbatível. Mas a gente também opera com `[listar países]`.
+Não. A China concentra a maior parte das operações, porque é onde a relação entre preço, variedade e capacidade de produção ainda é imbatível. Mas a gente também opera com fornecedores da América Latina, Ásia, Europa e América do Norte.
 
 Se o teu produto tem origem melhor em outro lugar, a gente fala. Não faz sentido insistir na China quando a conta não fecha.
+
+> Resolvido em 14/08/2026, confirmado diretamente pela UpTrade.
 
 ---
 
@@ -186,17 +186,16 @@ Vieram da tua lista do Google. Volume alto, mas quem busca isso não contrata tr
 **Travam publicação**
 
 1. Modalidade de operação (no nome do cliente, no nome da Uptrade ou as duas) — pergunta 9
-2. Escopo real dos serviços, o que é próprio e o que é via parceiro — pergunta 1
-3. Horário de atendimento e canais oficiais — pergunta 5
-4. Clientes de referência, com autorização por escrito pra citar nome e segmento — pergunta 6
+2. Horário de atendimento e canais oficiais — pergunta 5
+3. Clientes de referência, com autorização por escrito pra citar nome e segmento — pergunta 6
 
 **Melhoram a resposta**
 
-5. Existe ticket mínimo de operação? — pergunta 8
-6. Prazos médios reais por modal — pergunta 10
-7. Países de origem além da China — pergunta 3
-8. Cidade/estado da sede — pergunta 4
-9. Tempo de mercado e volume de operações — vai pra dobra Quem somos
-10. Quem paga armazenagem em caso de retenção — vai pro contrato e pros diferenciais
+4. Decidir se o ticket mínimo (R$ 40.000,00) entra literal na resposta ou continua qualitativo, seguindo a regra de preço da Strig — pergunta 8
+5. Prazos médios reais por modal (marítimo x aéreo) — pergunta 10
+6. Tempo de mercado e volume de operações — vai pra dobra Quem somos
+7. Quem paga armazenagem em caso de retenção — vai pro contrato e pros diferenciais
+
+**Resolvido em 14/08/2026:** escopo de execução via Moviw (pergunta 1), países de origem além da China (pergunta 3), cidade/estado da sede (Guarulhos/SP, endereço residencial, usar só no rodapé e na verificação do GMB, nunca em destaque público).
 
 > Sobre a pergunta 6. Citar cliente sem autorização escrita expõe a Uptrade e a Strig. Pedir por e-mail ou WhatsApp e guardar. Se ninguém autorizar, trocar por prova sem nome (segmento, volume, tempo de relacionamento) em vez de deletar a pergunta.

@@ -428,9 +428,9 @@ A UpTrade não compete em escala (China Link, Vettrus). Compete em acessibilidad
 
 **Personalização.** Evite respostas genéricas e copiadas. Use o nome do cliente e mencione detalhes específicos citados na avaliação, o produto importado, a etapa elogiada, o prazo cumprido. A resposta precisa parecer escrita para aquele cliente, não para qualquer um.
 
-**Estratégia de SEO.** Sempre que possível, insira termos relevantes na resposta, como "assessoria de importação", "importação por cotas", "importação da China", "importação em `[cidade/estado da sede]`". Isso reforça o ranqueamento orgânico da UpTrade nas buscas de quem está pesquisando um parceiro de importação.
+**Estratégia de SEO.** Sempre que possível, insira termos relevantes na resposta, como "assessoria de importação", "importação por cotas", "importação da China", "importação em Guarulhos" ou "importação em São Paulo". Isso reforça o ranqueamento orgânico da UpTrade nas buscas de quem está pesquisando um parceiro de importação.
 
-> Nota: a UpTrade ainda não informou a cidade/estado da sede no briefing. Confirmar esse dado antes de usar termo de localidade nas respostas, senão a estratégia de SEO local não tem onde ancorar.
+> Atualização de 14/08/2026: a sede foi confirmada, Rua Doutor Ramos de Azevedo, 159, Centro, Guarulhos, SP. É um endereço residencial (apartamento), então o termo de localidade pode entrar no texto das respostas normalmente, mas o endereço completo não deve ser exibido publicamente no perfil. Ver detalhe na seção "Categoria de negócios" abaixo.
 
 ---
 
@@ -492,6 +492,8 @@ Responda mesmo assim, o algoritmo do Google valoriza a atividade e os futuros cl
 UpTrade&Co - Importação e Comércio Exterior
 
 > Atenção: diferente do título da Braza (que agrega bairro porque é loja física com busca geolocalizada), o Google Meu Negócio não permite adicionar localidade ao nome quando o perfil é de Área de Atendimento sem endereço público. Manter o nome fiel ao registrado, sem "- Bairro X" ou "- Cidade Y" anexado, para não violar a política de nomenclatura do Google e arriscar suspensão do perfil.
+>
+> Endereço confirmado em 14/08/2026: Rua Doutor Ramos de Azevedo, 159, Apt 183, Bloco 2, Centro, Guarulhos, SP, 07012-020. É apartamento residencial, não escritório comercial. Configurar o cadastro como Área de Atendimento com endereço oculto do público é a opção correta aqui, o dado serve só pra verificação do Google, nunca deve aparecer na ficha pública nem virar CTA de "venha nos visitar".
 
 ### Categoria de negócios
 
@@ -518,7 +520,7 @@ Atendemos lojistas, atacadistas, distribuidores, e-commerces e redes de varejo e
 
 Fale com a gente pelo WhatsApp ou Instagram.
 
-*(750 caracteres, dentro do limite do GMB. Ajustar quando a UpTrade confirmar cidade/estado da sede, país de origem além da China e escopo exato do que é executado direto x via parceiro.)*
+*(750 caracteres, dentro do limite do GMB. Sede confirmada em Guarulhos/SP e países de origem já resolvidos, ver Dobra 3 e nota da Dobra 2 em `copy-landing-page.md`. Falta só ajustar o escopo exato do que é executado direto x via parceiro, ver seção Moviw acima.)*
 
 ---
 
@@ -550,10 +552,10 @@ Liberação da carga na alfândega e entrega com nota fiscal em qualquer endere�
 **Curadoria de Produto para Importar**
 Ainda não sabe o que importar? A gente cruza o que você já vende, a demanda de mercado e a margem real depois do imposto pra indicar produto com potencial de venda de verdade. (176 chars)
 
-**Importação da China e Outras Origens**
-A China concentra a maior parte das nossas operações pela relação entre preço, variedade e capacidade produtiva. Também atendemos outras origens quando a conta fecha melhor pro seu produto. (190 chars)
+**Importação de Qualquer Origem**
+Não trabalhamos só com a China. Importamos da América Latina, Ásia, Europa e América do Norte, considerando o que faz mais sentido de custo e prazo pro seu produto. (170 chars)
 
-> Pendência já registrada no `faq-site.md`: confirmar com a UpTrade quais outras origens são atendidas de fato antes de publicar este serviço. Se a resposta for só China na prática, ajustar o texto pra não prometer o que não é entregue.
+> Resolvido em 14/08/2026, confirmado diretamente pela UpTrade. Atualizar também `faq-site.md` pra remover a pendência equivalente sobre países de origem.
 
 **Assessoria para Quem Nunca Importou**
 Primeira importação da sua empresa? A gente avalia se a operação vale a pena antes de você gastar, explica o processo em termos simples e acompanha do zero até a mercadoria chegar. (182 chars)
