@@ -277,9 +277,15 @@ A estratégia de coleta ativa de depoimentos e autorização de clientes de refe
 | O que é | Fintech de crédito para importadores, usa a carga em trânsito como garantia. Captou R$ 150 milhões em rodada ancorada pelo Itaú em nov/2025, cresceu 8x entre 2023-2024 e triplicou entre 2024-2025 |
 | Relevância para a UpTrade | Não compete pelo mesmo serviço, mas compete pela mesma dor: falta de capital de giro para importar. Isso reforça que "crédito para importação" é uma palavra-chave de alta intenção que a UpTrade já pode responder com serviço próprio |
 
-**Moviw**
+**Moviw (MOVIW, Moving Imports Worldwide)**
 
-Citado pelo briefing como parceira, não concorrente. A pesquisa não localizou uma empresa exatamente com esse nome. Existe a Moviis Soluções em Comércio Exterior, empresa de logística internacional fundada em 2017. Se for a mesma empresa, vale confirmar a grafia exata com a UpTrade antes de qualquer menção pública, porque hoje aparece como parceira ativa no processo, não como concorrente a ser batido.
+Confirmada via material institucional próprio, não é a Moviis. É a Moviw, especialista em soluções logísticas e importação com mais de 8 anos de experiência, focada em importação para vendedores de e-commerce e marketplaces. Presença própria na origem (Guangzhou, Ningbo, Shenzhen, Xangai) e em portos de destino no Brasil (São Paulo, Santos, Itajaí, Paranaguá, Vitória, Rio de Janeiro, Salvador, Belo Horizonte). Sede em São Paulo (Cidade Monções).
+
+**Não é concorrente, é o motor operacional da UpTrade.** Confirmado diretamente pelas sócias: todo o processo de execução (desenvolvimento de fornecedor, negociação e compra, controle de qualidade e produção, logística internacional, assessoria aduaneira e entrega) é feito pela Moviw. A UpTrade comercializa o pacote completo "360 graus da importação" para o cliente final, sem necessariamente citar a Moviw na comunicação pública.
+
+Isso muda a leitura do briefing, que listou a Moviw junto dos concorrentes (Vixtra, Vettrus, Trust Trade, China Link, Método 12P) mas já ressalvou entre parênteses "empresa que hoje temos como parceira na importação". Na prática, a Moviw nem deveria estar na lista de concorrentes, é fornecedora de backend da própria UpTrade. Os concorrentes reais da seção 6 continuam sendo os outros cinco, que competem pelo mesmo cliente final.
+
+**Implicação para o posicionamento:** a UpTrade vende relacionamento, curadoria e a cara do atendimento, a Moviw executa. Isso é prática comum no setor (funciona como um "White label" operacional) e não precisa ser escondido se perguntado diretamente, mas também não precisa aparecer como destaque na comunicação. A cautela real está em não prometer, na LP ou no FAQ, algo que a UpTrade não executa com a própria equipe (por exemplo, "nossa equipe inspeciona a fábrica" seria impreciso, o correto é "garantimos que a fábrica seja verificada antes do pagamento", que é verdade sem especificar quem verifica).
 
 **Tabela comparativa**
 
@@ -382,7 +388,7 @@ A UpTrade não compete em escala (China Link, Vettrus). Compete em acessibilidad
 3. **Colocar "cota em container compartilhado" como headline, não como detalhe técnico.** É o diferencial mais forte e nenhum concorrente direto pesquisado usa essa combinação com destaque.
 4. **Construir prova de processo antes de prova de resultado.** Sem cliente de referência autorizado ainda, o conteúdo deve mostrar etapas documentadas (cotação, contrato, acompanhamento) como substituto de depoimento.
 5. **Responder objeção de confiança de frente.** "Somos novos" é fraqueza só se ignorada. Mostrar tempo de experiência prévia das sócias na área comercial de importadora resolve isso, igual ao caminho usado pela Braza com os barbeiros.
-6. **Confirmar a natureza da Moviw/Moviis antes de publicar qualquer menção.** Se for parceira operacional, isso precisa aparecer como selo de estrutura, não sumir do radar.
+6. **Não citar a Moviw na comunicação pública.** Confirmado com as sócias: a Moviw é o parceiro que executa toda a operação (fornecedor, produção, logística, aduaneiro), a UpTrade vende o pacote completo como seu. Ajustar linguagem em qualquer peça (LP, FAQ, GMB) pra afirmar o que a UpTrade garante, sem alegar execução direta por "nossa equipe" onde na prática é a Moviw quem executa.
 7. **Priorizar SEO e conteúdo de FAQ sobre Instagram estético no primeiro momento.** O padrão de busca do setor é por dúvida concreta, não por inspiração visual.
 8. **Monitorar Método 12P de perto.** É o concorrente com proposta mais parecida (cota + didática), inclusive dentro do mesmo grupo econômico da China Link.
 
@@ -410,7 +416,7 @@ A UpTrade não compete em escala (China Link, Vettrus). Compete em acessibilidad
 - [Trust Trade — Instagram](https://www.instagram.com/trusttrade.br/)
 - [Vixtra capta R$150 milhões em oferta ancorada pelo Itaú — TI Inside](https://tiinside.com.br/17/11/2025/vixtra-capta-r150-milhoes-em-oferta-ancorada-pelo-itau/)
 - [Vixtra — site institucional](https://www.vixtra.com/)
-- [Moviis Soluções em Comércio Exterior — Econodata](https://www.econodata.com.br/consulta-empresa/08258997000196-moviis-solucoes-em-comercio-exterior-ltda)
+- Apresentação Institucional MOVIW (Moving Imports Worldwide), Junho/2026, material fornecido diretamente pela UpTrade&Co
 
 ---
 
@@ -580,5 +586,5 @@ Primeira importação da sua empresa? A gente avalia se a operação vale a pena
 ## Observação sobre dados não localizados
 
 - Faturamento, número de operações realizadas e tempo médio de fechamento de negócio da própria UpTrade&Co não foram informados no briefing e não foram estimados aqui.
-- Não foi localizada empresa com a grafia exata "Moviw". Provável referência à Moviis Soluções em Comércio Exterior, mas precisa confirmação direta com a cliente antes de qualquer uso público do nome.
+- ~~Não foi localizada empresa com a grafia exata "Moviw"~~. Corrigido: confirmada via material institucional próprio e via conversa direta com as sócias em 14/08/2026. A Moviw (Moving Imports Worldwide) é o parceiro operacional que executa toda a produção, logística e desembaraço da UpTrade, não concorrente.
 - Site institucional próprio da Vettrus e da Trust Trade não foi confirmado com certeza na pesquisa, a análise usou Instagram e LinkedIn como base.
