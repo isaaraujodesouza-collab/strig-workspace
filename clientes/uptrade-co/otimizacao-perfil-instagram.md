@@ -230,38 +230,42 @@ Vocês atendem em todo o Brasil?
 Sim. Atendimento remoto do primeiro contato até a entrega no seu endereço.
 
 **Tela 5**
+Como eu falo com vocês e qual o horário de atendimento?
+Pelo WhatsApp da empresa e pelo Instagram. De segunda a sexta, das 8h às 18h.
+
+**Tela 6**
 Preciso ter CNPJ pra importar?
 Sim. Se você é MEI, dá pra começar dentro do teto anual permitido.
 
-**Tela 6**
+**Tela 7**
 Qual o valor mínimo pra importar?
 Cada operação é avaliada por produto, volume e frete. Na primeira conversa a gente calcula com o seu caso.
 
-**Tela 7**
+**Tela 8**
 A importação sai no meu nome ou no da UpTrade?
 Podemos negociar as duas situações, desde que você tenha radar próprio.
 
-**Tela 8**
+**Tela 9**
 Quanto tempo demora até a mercadoria chegar?
 Em média 90 a 120 dias, dependendo da entrega do fabricante.
 
-**Tela 9**
+**Tela 10**
 Ainda não sei o que importar. Vocês ajudam a escolher?
 Sim. Cruzamos o que você já vende com o que tem demanda real no mercado.
 
-**Tela 10**
+**Tela 11**
 Como funciona o crédito?
 Avaliado conforme o perfil e as condições de cada cliente, mediante análise.
 
-**Tela 11**
+**Tela 12**
 Como funciona o pagamento?
 Em três etapas. Parte na contratação, parte no embarque, parte no desembaraço.
 
-**Tela 12**
+**Tela 13**
 É minha primeira vez importando. Como funciona?
 A gente avalia se a operação vale a pena antes de você decidir, e explica cada etapa em termos simples. Sem jargão de comex.
 
-**Tela 13**
+**Tela 14**
 Tem alguma dúvida que não respondemos aqui?
 Manda uma mensagem no nosso WhatsApp ou na nossa DM, a gente responde rapidinho.
 
@@ -445,7 +449,8 @@ Passa os slides para conhecer um pouco da nossa história.
 1. Número oficial de WhatsApp, usado em todos os CTAs de story (a bio agora aponta pra um link personalizado, não direto pro WhatsApp).
 2. Link personalizado da bio, a UpTrade ainda vai providenciar.
 3. Foto real de Vanessa e Daniela, usada em "Sobre" e no Fixado 3.
-4. Confirmar horário de atendimento exato pra Tela 4 do destaque FAQ, se for incluída (hoje a resposta genérica "de segunda a sexta, das 8h às 18h" já está na LP e pode ser reaproveitada aqui).
-5. Produção de artes para os cards de Serviços, hoje o Instagram não tem nenhum material visual, cards e slides precisam ser desenhados do zero.
+4. Produção de artes para os cards de Serviços, hoje o Instagram não tem nenhum material visual, cards e slides precisam ser desenhados do zero.
+
+> Resolvido em 14/08/2026: horário de atendimento confirmado como o mesmo da LP (segunda a sexta, das 8h às 18h), já aplicado na Tela 5 do destaque FAQ.
 
 > Depoimentos e prova de operação com nome de cliente ficaram de fora por enquanto (destaque virou "Primeira Vez Importando", Fixado 2 virou "Pra Quem é a UpTrade"). Quando a UpTrade tiver pelo menos um cliente autorizado por escrito a citar nome e segmento, dá pra criar um destaque e um fixado de Depoimentos como conteúdo adicional, sem precisar remover o que já está pronto aqui.
