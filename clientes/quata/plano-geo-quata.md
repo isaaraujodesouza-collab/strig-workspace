@@ -47,7 +47,7 @@ Isso é bom pra GEO por dois motivos: corroboração de terceiro pesa mais que a
 
 Cada termo vira uma entrada curta (2-4 linhas), tom técnico-sóbrio do guia de copy, sem CTA no fechamento. Peguei pelo excesso.
 
-**A** — Abordagem ao Mercado · Acordo de Confidencialidade (NDA) · Ativos Intangíveis · Auditoria Financeira (Financial Due Diligence) · Avaliação de Empresa (Valuation)
+**A** — Abordagem ao Mercado · Acordo de Confidencialidade (NDA) · Ativos Intangíveis · Auditoria Financeira (Financial Due Diligence) · Avaliação de Empresa
 
 **B** — Banco de Investimento (Investment Bank) · Buy-side
 
@@ -81,7 +81,7 @@ Cada termo vira uma entrada curta (2-4 linhas), tom técnico-sóbrio do guia de 
 
 **T** — Target (Empresa-alvo) · Taxa de Desconto / WACC · Term Sheet · Terminal Value (Valor Terminal) · Transação Cross-Border
 
-**V** — Valuation de Empresa Familiar · Valor Justo de Mercado (Fair Market Value) · Vendor Due Diligence
+**V** — Valuation *(termo-chave: maior volume de busca do setor segundo a pesquisa interna — "valuation de empresas", "quanto vale minha empresa"; entrada própria, não só parêntese de "Avaliação")* · Valuation de Empresa Familiar · Valor Justo de Mercado (Fair Market Value) · Vendor Due Diligence
 
 O range de middle market (R$10-500M) veio da persona "Carlos" da pesquisa interna — é dado real do cliente, não estimativa. Publicar essa faixa numérica explícita no glossário e no FAQ é o tipo de sinal concreto que funciona bem em GEO (mesma lógica do range que a Oporto usa no benchmarking).
 
@@ -93,7 +93,7 @@ Não é tradução literal do glossário em português: é a versão em inglês 
 
 **B** — Binding Offer / Non-Binding Offer · Business Succession · Buy-side · Buyer Mapping (Target List)
 
-**C** — Capital Expenditure (CapEx) · Capital Raising (Fundraising) · Capital Structure · Carve-out · Closing · Company Valuation · Competitive Process (Auction Process) · Contingent Liabilities · Corporate Governance · Corporate Restructuring · Cross-Border Transaction · Cultural Fit
+**C** — Capital Expenditure (CapEx) · Capital Raising (Fundraising) · Capital Structure · Carve-out · Closing · Competitive Process (Auction Process) · Contingent Liabilities · Corporate Governance · Corporate Restructuring · Cross-Border Transaction · Cultural Fit
 
 **D** — Data Room · Deal Breaker · Discount Rate (WACC) · Discounted Cash Flow (DCF) · Divestiture · Due Diligence
 
@@ -121,7 +121,7 @@ Não é tradução literal do glossário em português: é a versão em inglês 
 
 **T** — Target Company · Term Sheet · Terminal Value · Terms Negotiation · Trading Comparables (Market Comparables)
 
-**V** — Vendor Due Diligence
+**V** — Valuation *(highest search-volume term in the sector)* · Vendor Due Diligence
 
 **W** — Working Capital
 
