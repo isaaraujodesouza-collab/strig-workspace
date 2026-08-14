@@ -68,7 +68,7 @@ em operações de importação ao longo da carreira da equipe
 O que a UpTrade faz por você, do início ao fim
 
 **SUBTÍTULO:**
-Do primeiro diagnóstico à mercadoria na sua porta. Serviços listados do de maior procura pro mais específico.
+Do primeiro diagnóstico à mercadoria na sua porta.
 
 **Card 1 — Importação Completa, do Fornecedor à Sua Porta**
 Atendimento personalizado do primeiro diagnóstico até a entrega. A gente identifica o produto, negocia com o fornecedor, cuida do pagamento internacional, do frete, do seguro e do desembaraço aduaneiro. Você aprova, a gente executa.
