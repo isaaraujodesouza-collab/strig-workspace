@@ -284,6 +284,8 @@ Conte o que você quer importar e a gente avalia se a operação fecha conta. Se
 
 CTA do formulário: "Quero minha avaliação"
 
+**Roteamento do lead (RPA):** os envios deste formulário devem ser redirecionados por automação para `uptradeeco_representacoes@yahoo.com`. Repassar essa configuração pra quem for montar o formulário e o RPA de notificação.
+
 ---
 
 ## DOBRA 12 — FAQ
@@ -367,7 +369,7 @@ Rua Doutor Ramos de Azevedo, 159, Apt 183, Bloco 2, Centro, Guarulhos, SP, 07012
 
 ## Pendências com a UpTrade antes de publicar
 
-1. Confirmar número oficial de WhatsApp e horário de atendimento (usado em quase toda dobra)
+1. **Número oficial de WhatsApp** e horário de atendimento (usado nos botões de CTA de quase toda dobra). Ainda em aberto, a UpTrade vai providenciar.
 2. Confirmar modalidade de operação, nome do cliente ou nome da UpTrade, pergunta que trava a Dobra 12
 3. Autorização por escrito de pelo menos um cliente pra Dobra 10 sair do placeholder
 4. Foto real de Vanessa e Daniela pra Dobra 9
@@ -375,4 +377,6 @@ Rua Doutor Ramos de Azevedo, 159, Apt 183, Bloco 2, Centro, Guarulhos, SP, 07012
 6. Confirmar número real de containers importados e volume movimentado, usados na Dobra 2 (big numbers), hoje são placeholders
 7. Decidir com a Isa e a UpTrade se o valor mínimo (R$ 40.000,00) entra literal no FAQ ou continua qualitativo, ver nota na Dobra 12
 
-**Resolvido nesta rodada:** países de origem (Card 9 da Dobra 3 e FAQ da Dobra 12) e cidade/estado da sede (rodapé), ambos confirmados por vocês em 14/08/2026.
+**Resolvido nesta rodada:** países de origem (Card 9 da Dobra 3 e FAQ da Dobra 12), cidade/estado da sede (rodapé) e destino do lead do formulário (RPA envia pra `uptradeeco_representacoes@yahoo.com`, ver Dobra 11), todos confirmados por vocês em 14/08/2026.
+
+> Nota sobre os botões de WhatsApp: como o número ainda não foi definido, todo `[número oficial]` e link de WhatsApp nas dobras (Hero, Serviços, Processo, Cotas, Por Que a UpTrade, Primeira Vez, Pra Quem Trabalha, Quem Somos, Depoimentos, FAQ) segue como placeholder até a UpTrade confirmar. Assim que chegar, é uma substituição única em todos os CTAs, não muda nenhum outro texto.
