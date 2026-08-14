@@ -325,41 +325,47 @@ Passa os slides e entende como funciona antes mesmo de falar com a gente.
 Identificação de público, com reforço de experiência
 Objetivo: falar com o público-alvo inteiro, não só com quem nunca importou. Um carrossel só de "primeira vez" pega uma fatia estreita demais da audiência, quem já importa e busca padronizar o processo também precisa se ver no perfil. Substitui o fixado de depoimentos por enquanto, a UpTrade ainda não tem cliente autorizado a citar por escrito.
 
+> Reescrito pra não repetir a Dobra 8 da LP palavra por palavra. LP e Instagram são canais diferentes, quem lê o carrossel não passou pela LP antes, então cada slide precisa se sustentar sozinho, com contexto suficiente pra fazer sentido fora de ordem também (é assim que carrossel é consumido, gente entra no meio, arrasta, sai).
+
 Roteiro do carrossel:
 
 **Slide 1 — Capa:**
-Você se enxerga em algum desses casos?
-A gente já sabe por onde começar a conversa.
+Quer saber se a UpTrade & Co é pra você?
+Veja alguns casos que já ajudamos. Se você se identificar, já sabemos por onde começar a nossa conversa!
 
 **Slide 2 — Lojista físico ou digital:**
-Vende em loja própria, Shopee ou Mercado Livre e sente a margem sendo corroída pelo distribuidor nacional.
-A cota em container compartilhado resolve isso.
+Já ajudamos lojista físico ou digital
+Se você vende em loja própria, no Shopee ou no Mercado Livre e sente que boa parte da sua margem fica na mão do distribuidor nacional, dá pra importar direto sem precisar comprar um container inteiro sozinho. A cota em container compartilhado existe exatamente pra isso.
 
 **Slide 3 — Atacadista e distribuidor:**
-Já compra em volume e quer ampliar o mix direto da origem, sem assumir sozinho uma operação fechada.
+Já ajudamos atacadista e distribuidor
+Se você já compra em volume mas quer ampliar o mix com produto direto da origem, sem travar todo o capital de giro numa operação fechada, a gente estrutura essa entrada com você, do jeito que faz sentido pro seu caixa.
 
 **Slide 4 — E-commerce e marketplace:**
-Busca produto diferenciado que a concorrência ainda não tem.
-A curadoria da UpTrade ajuda a encontrar.
+Já ajudamos e-commerce e marketplace
+Se você busca produto diferenciado, daqueles que a concorrência do seu nicho ainda não vende, a curadoria da UpTrade cruza o que você já vende com o que tem demanda real de mercado antes de indicar qualquer coisa.
 
 **Slide 5 — Rede de varejo:**
-Precisa de fornecimento recorrente e previsível, sem recotar do zero a cada pedido.
+Já ajudamos rede de varejo
+Se você opera mais de uma unidade e precisa de fornecimento recorrente, sem depender de sorte de estoque, um parceiro fixo elimina o tempo perdido recotando do zero a cada pedido novo.
 
 **Slide 6 — Quem já importa, mas sem padrão:**
-Negocia do zero a cada pedido, sem parceiro fixo.
-A UpTrade padroniza o processo pra não perder tempo nem previsibilidade.
+Já ajudamos quem já importa, mas sem padrão
+Se você negocia com um fornecedor diferente a cada pedido, sem processo fixo, a gente padroniza essa operação pra você ganhar previsibilidade de prazo e parar de recomeçar do zero toda vez.
 
 **Slide 7 — Reforço de experiência:**
-Seja qual for o seu caso, quem cuida da sua operação tem mais de 10 anos de mercado de importação.
+Seja qual for o seu caso, quem cuida da sua operação tem mais de 10 anos de mercado de importação. Não é a primeira vez que a gente resolve um problema parecido com o seu.
 
 **Slide 8 — CTA:**
 Encontrou seu caso?
 Fala com a gente pelo link da bio.
 
 Legenda:
-Cada empresa importa por um motivo diferente. Vê se você se encontra em algum desses.
-Lojista que quer sair da mão do distribuidor, e-commerce que quer produto diferente, rede que precisa de fornecimento recorrente ou quem já importa mas ainda não tem parceiro fixo. A conversa muda pra cada caso, mas a experiência por trás é a mesma, mais de 10 anos de mercado.
+Cada empresa importa por um motivo diferente. A gente já ajudou lojista, atacadista, e-commerce, rede de varejo e quem já importa mas ainda não tem parceiro fixo.
+Passa os slides e vê se você se encontra em algum desses casos. A conversa muda pra cada perfil, mas a experiência por trás é a mesma, mais de 10 anos de mercado de importação.
 👇 Fala com a UpTrade pelo link da bio.
+
+> "Já ajudamos" aqui é uma afirmação por categoria de cliente (o que o briefing já confirma, "atendemos de pequenas lojas a grandes redes de varejo"), não cita nome nem caso específico. Continua sem precisar de autorização por escrito, diferente de citar um cliente nominalmente na Dobra 10 da LP ou no fixado de Depoimentos futuro.
 
 ---
 
