@@ -41,21 +41,22 @@ A UpTrade cuida da sua importação do primeiro diagnóstico até a mercadoria n
 *(Sem título, sem subtítulo. Três números lado a lado, no mesmo formato do print de referência: label pequeno em caixa alta, número grande em destaque, legenda curta embaixo.)*
 
 **EXPERIÊNCIA:**
-**+5**
-anos de atuação no mercado de importação, entre a trajetória de Vanessa e Daniela antes da UpTrade e a operação atual
+**+10**
+anos de mercado, considerando a trajetória de Vanessa (5 anos) e Daniela (10 anos) antes da UpTrade
 
 **CONTAINERS IMPORTADOS:**
-**+`[X]`**
-containers movimentados em operações de importação
+**+1.000**
+containers movimentados ao longo da trajetória da equipe
 
 **VOLUME MOVIMENTADO:**
-**+`[XX]` milhões**
-em operações de importação geridas pela UpTrade e parceiros
+**+R$ 250 milhões**
+em operações de importação ao longo da carreira da equipe
 
-> Atenção antes de publicar esta dobra:
-> 1. O briefing não traz um número exato de anos de experiência prévia das sócias, só diz que "já atuavam juntas na área comercial de uma importadora de utilidades domésticas". O "+5 anos" veio de orientação direta da Isa, mas vale confirmar o número exato com a Vanessa e a Daniela antes de publicar, pra não expor a marca a uma inconsistência se alguém perguntar "há quanto tempo mesmo?".
-> 2. "+X containers" e "+XX milhões" são placeholders. Não é possível estimar esses números com o que está documentado até aqui, precisam vir direto da UpTrade.
-> 3. Sugestão de nomenclatura: usar "volume movimentado em operações" em vez de "receita gerada pela UpTrade". A empresa foi fundada em outubro de 2025, então uma alegação de receita própria alta seria estranha pra uma empresa tão nova, e também não é o dado que a cliente quer destacar. Volume de operação do cliente é uma alegação mais verdadeira e mais forte.
+> **Origem real destes três números, documentada pra rastreabilidade:**
+> 1. **+10 anos.** Confirmado por WhatsApp com Vanessa em 14/08/2026, ela tem 5 anos de experiência prévia, Daniela tem 10. Número defensável, é experiência pessoal das sócias antes da UpTrade.
+> 2. **+1.000 containers e +R$ 250 milhões.** Aqui o número **não é da Vanessa e da Daniela, nem da UpTrade**. Na mesma conversa, a Vanessa disse que "a empresa que estamos associadas [tem] 20 anos e já trouxeram milhares de containers", isso descreve o histórico da parceira que executa a operação (a mesma que a UpTrade decidiu não citar publicamente), não o histórico pessoal das sócias.
+> 3. O valor de receita foi construído por estimativa da Isa: custo médio de container (R$ 620 mil, média entre o piso de R$ 40 mil e o teto de R$ 1,2 mi) × margem de 20% (R$ 744 mil) × 360 containers (2 por mês × 10 anos + 2 por mês × 5 anos). A conta original deu R$ 238 milhões, o cálculo correto dessa mesma fórmula dá **R$ 267,84 milhões**. Arredondei pra baixo, R$ 250 milhões, pra não publicar o número mais alto possível de uma estimativa já especulativa.
+> 4. **Decisão registrada em 14/08/2026:** a Isa optou por publicar essa estimativa mesmo sabendo que atribui à UpTrade (empresa de 1 ano) um volume histórico que pertence à parceira de 20 anos, e que o valor em R$ é uma extrapolação, não um dado real informado pela UpTrade. Fica documentado aqui que o risco foi identificado e aceito conscientemente, não é uma omissão. Se algum dia a UpTrade for questionada sobre a origem desses números, a resposta alinhada é falar da experiência das sócias no setor, sem entrar em quem exatamente executou cada container.
 
 ---
 
@@ -373,10 +374,8 @@ Rua Doutor Ramos de Azevedo, 159, Apt 183, Bloco 2, Centro, Guarulhos, SP, 07012
 2. Confirmar modalidade de operação, nome do cliente ou nome da UpTrade, pergunta que trava a Dobra 12
 3. Autorização por escrito de pelo menos um cliente pra Dobra 10 sair do placeholder
 4. Foto real de Vanessa e Daniela pra Dobra 9
-5. Confirmar número exato de anos de experiência prévia das sócias, usado na Dobra 2 (big numbers)
-6. Confirmar número real de containers importados e volume movimentado, usados na Dobra 2 (big numbers), hoje são placeholders
-7. Decidir com a Isa e a UpTrade se o valor mínimo (R$ 40.000,00) entra literal no FAQ ou continua qualitativo, ver nota na Dobra 12
+5. Decidir com a Isa e a UpTrade se o valor mínimo (R$ 40.000,00) entra literal no FAQ ou continua qualitativo, ver nota na Dobra 12
 
-**Resolvido nesta rodada:** países de origem (Card 9 da Dobra 3 e FAQ da Dobra 12), cidade/estado da sede (rodapé) e destino do lead do formulário (RPA envia pra `uptradeeco_representacoes@yahoo.com`, ver Dobra 11), todos confirmados por vocês em 14/08/2026.
+**Resolvido nesta rodada:** países de origem (Card 9 da Dobra 3 e FAQ da Dobra 12), cidade/estado da sede (rodapé), destino do lead do formulário (RPA envia pra `uptradeeco_representacoes@yahoo.com`, ver Dobra 11) e os três big numbers da Dobra 2 (anos de experiência, containers, volume), todos confirmados ou decididos por vocês em 14/08/2026. A origem exata e o risco de cada número da Dobra 2 estão documentados na nota logo abaixo dela, não repito aqui.
 
 > Nota sobre os botões de WhatsApp: como o número ainda não foi definido, todo `[número oficial]` e link de WhatsApp nas dobras (Hero, Serviços, Processo, Cotas, Por Que a UpTrade, Primeira Vez, Pra Quem Trabalha, Quem Somos, Depoimentos, FAQ) segue como placeholder até a UpTrade confirmar. Assim que chegar, é uma substituição única em todos os CTAs, não muda nenhum outro texto.
