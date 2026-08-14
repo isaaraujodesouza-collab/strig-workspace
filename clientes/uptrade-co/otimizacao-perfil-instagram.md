@@ -408,7 +408,9 @@ Cotação completa antes de qualquer aprovação, sem surpresa depois.
 Curadoria de produto, indicamos o que realmente tem potencial de venda no mercado brasileiro.
 
 **Slide 8 — Mensagem da marca:**
-Unir experiência comercial, relacionamento próximo e soluções em importação, pra que empresas de qualquer porte consigam crescer sem precisar virar especialista em comex.
+Independentemente do segmento ou do tamanho da operação, nosso objetivo é entender a necessidade de cada cliente e oferecer soluções de importação alinhadas ao seu negócio.
+Com atuação próxima e personalizada, construímos parcerias de longo prazo, ajudando você a encontrar oportunidades, ampliar o mix de produtos e ganhar competitividade no mercado.
+Soluções em importação pra empresas que buscam crescer e se diferenciar.
 
 **Slide 9 — CTA:**
 Vem conhecer.
