@@ -395,17 +395,24 @@ Parceria de longo prazo, não uma operação pontual.
 Consultoria estratégica na escolha do produto.
 Rede de fornecedores já testada pela experiência da equipe.
 
-**Slide 6 — Diferenciais da operação:**
-Cota em container compartilhado.
-Crédito mediante análise.
-Cotação completa antes de qualquer aprovação.
+**Slide 6 — Gestão completa da operação:**
+Assessoria 360 graus, do diagnóstico à entrega. A gente cuida de cada etapa, não só de uma parte do processo.
+Importação de qualquer lugar do mundo, não só da China. Ásia, América Latina, Europa e América do Norte, sempre pensando no que faz mais sentido de custo e prazo pro seu produto.
 
-**Slide 7 — Mensagem da marca:**
+**Slide 7 — Diferenciais financeiros e de curadoria:**
+Cota em container compartilhado, pra quem não tem volume de container fechado.
+Crédito mediante análise, pra quem não tem o capital todo disponível de uma vez.
+Cotação completa antes de qualquer aprovação, sem surpresa depois.
+Curadoria de produto, indicamos o que realmente tem potencial de venda no mercado brasileiro.
+
+**Slide 8 — Mensagem da marca:**
 Unir experiência comercial, relacionamento próximo e soluções em importação, pra que empresas de qualquer porte consigam crescer sem precisar virar especialista em comex.
 
-**Slide 8 — CTA:**
+**Slide 9 — CTA:**
 Vem conhecer.
 Fala com a gente pelo link da bio.
+
+> Slides 6 e 7 ficaram mais completos porque esse carrossel precisa fazer sentido sozinho, sem depender de quem já viu a LP ou o destaque de Serviços. Cobrem os diferenciais operacionais inteiros, gestão 360 do início ao fim, cobertura de qualquer origem, cota, crédito, cotação clara e curadoria, junto com os diferenciais de atendimento do Slide 5.
 
 > Slide 4 reaproveita os big numbers já validados e documentados na Dobra 2 da `copy-landing-page.md`, incluindo a ressalva de que os números de containers e valor são estimativa, não dado confirmado pela UpTrade. Se um dia esses números forem confirmados oficialmente ou atualizados, mudar aqui e na LP ao mesmo tempo, pra não ficar com dois valores diferentes circulando.
 
