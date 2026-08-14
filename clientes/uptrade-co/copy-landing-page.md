@@ -169,20 +169,20 @@ Fornecedor qualquer um encontra sozinho no Alibaba. O que garante que a operaç�
 
 **Como a UpTrade resolve cada um:**
 
-Ícone 1 — Fornecedor verificado antes de qualquer pagamento
-A gente busca, avalia e negocia com o fornecedor antes de você comprometer qualquer valor. Fábrica verificada, preço e prazo negociados, risco reduzido desde o início.
+Ícone 1 — Experiência que reconhece risco antes de virar prejuízo
+Mais de 10 anos de mercado ensinam a enxergar fornecedor problemático antes de qualquer pagamento sair. Não é sorte, é ter visto operação dar errado o suficiente pra saber onde olhar primeiro.
 
-Ícone 2 — Cotação completa antes da aprovação
-Custo total com imposto e frete já embutidos, apresentado antes de você aprovar qualquer coisa. A conta que fecha, ou não fecha, fica clara desde o primeiro contato.
+Ícone 2 — Transparência de quem já viu custo escondido virar problema
+Quem já importou sozinho conhece a sensação de custo surpresa no meio do caminho. A experiência da equipe ensinou que imposto e frete precisam estar na conta desde o primeiro dia, não como ajuste de última hora.
 
-Ícone 3 — Acompanhamento etapa por etapa
-Produção, inspeção, embarque, desembaraço aduaneiro e transporte nacional, tudo acompanhado de perto. Você recebe atualização real, sem precisar cobrar.
+Ícone 3 — Acompanhamento de quem sabe onde a operação costuma travar
+Não é só acompanhar de longe. É reconhecer, pela vivência de anos de mercado, em qual etapa a carga costuma atrasar ou travar, e agir antes que isso vire problema pra você.
 
-Ícone 4 — Crédito mediante análise
-Não tem o capital todo disponível de uma vez? Avaliamos seu perfil e podemos viabilizar a operação com pagamento dividido, conforme as condições de cada caso.
+Ícone 4 — Estrutura financeira pensada pro seu momento
+Cada empresa tem um caixa diferente, e anos lidando com operações de portes variados ensinaram que não existe modelo único de pagamento. Avaliamos seu perfil e estruturamos a condição que faz sentido pro seu caso.
 
-Ícone 5 — Curadoria de produto
-Ainda não sabe o que importar? A gente cruza o que você já vende, a demanda de mercado e a margem real depois do imposto pra indicar produto com potencial de venda de verdade.
+Ícone 5 — Leitura de mercado que só vem de anos acompanhando tendência
+Não é só cruzar planilha de fornecedor com planilha de venda. É reconhecer, pela experiência de quem já viu produto vender e produto encalhar, o que tem potencial real no mercado brasileiro.
 
 CTA: "Falar com a UpTrade" → WhatsApp
 
