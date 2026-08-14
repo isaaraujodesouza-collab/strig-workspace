@@ -295,7 +295,7 @@ Veja como funciona com a gente.
 
 **Slide 2 — Diagnóstico:**
 1. Diagnóstico
-Você conta o que quer importar, quanto precisa e pra quando. A gente avalia se a operação fecha conta antes de qualquer outro passo, e fala isso pra você antes de qualquer coisa.
+Você conta o que quer importar, quanto precisa e pra quando. Ainda não sabe o que importar? A gente ajuda a escolher, cruzando o que você já vende com o que tem demanda real no mercado. A gente avalia se a operação fecha conta antes de qualquer outro passo, e fala isso pra você antes de qualquer coisa.
 
 **Slide 3 — Cotação:**
 2. Cotação
