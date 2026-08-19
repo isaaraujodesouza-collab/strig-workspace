@@ -3,8 +3,6 @@
 Textos prontos das 12 réguas, estrutura fixa: assunto, hook (abertura/pre-header), banner (se houver), corpo, fechamento e CTA.
 Segue as decisões travadas em `regua-crm.md` e as regras de `diretrizes-copy.md`. Nunca usar "KLE", sempre "Kit Lanche Express" por extenso. Sem travessão, sem dois-pontos de pausa dramática.
 
-Onde a régua ainda tinha um item em aberto, o texto abaixo traz uma decisão de copy sugerida, sinalizada com **[sugestão, confirmar]**. Não é texto final travado até a Isa validar.
-
 ---
 
 # Régua 1 — Boas-vindas
@@ -30,7 +28,7 @@ Agora o próximo passo é simples. Um consultor da nossa equipe vai entrar em co
 
 Estamos felizes em ser considerados para isso e à disposição para o que precisar até lá.
 
-**Fechamento e CTA:** Se preferir, clique e chame nosso consultor. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Se preferir, clique e chame nosso consultor! [CTA: Falar com o consultor]
 
 ---
 
@@ -131,7 +129,7 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 2. 4,9 estrelas em quase 500 avaliações
 3. Isso é o que quem já fechou com a gente diz
 
-**Hook:** Contar com a Kit Lanche Express é isso. Confie na opinião de quem já fechou.
+**Hook:** Contar com a Kit Lanche Express é isso! Confie na opinião de quem já fechou.
 
 **Banner:** Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas).
 
@@ -216,16 +214,18 @@ Fico feliz que o pedido de [tipo de kit contratado] tenha funcionado bem para o 
 
 Uma avaliação sua no Google não é só um favor para a gente, é uma informação real para outro gestor que está na mesma decisão que você já tomou, sem saber ainda em quem confiar.
 
-Se quiser, também topamos usar seu depoimento com nome e empresa em outras peças da marca, sempre com sua autorização antes.
+Seu depoimento é muito importante para nós!
 
-**Fechamento e CTA:** [CTA primário: Avaliar no Google] [CTA secundário: Autorizar meu depoimento com nome] Tem mais por aí. Conte com a Kit Lanche Express para o próximo.
+**Fechamento e CTA:** [CTA primário: Avaliar no Google]
+
+Na próxima, conte com a Kit Lanche Express.
 
 ---
 
 ## E09 — O próximo evento (D+21)
 
 **Assunto (3 versões, confirmar):**
-1. Já pensou no seu próximo evento?
+1. Qual vai ser seu próximo evento?
 2. Seu próximo pedido pode ser mais rápido
 3. Pra quando for a próxima vez
 
@@ -245,9 +245,7 @@ Select, para uma experiência personalizada, ideal para lançamento, integraçã
 
 Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do dia a dia da equipe.
 
-[bloco de calendário de eventos, ancorado no calendário corporativo real]
-
-**Fechamento e CTA:** Peça o orçamento do seu próximo evento e aproveite o caminho mais curto por já ser cliente. [CTA: Pedir orçamento do próximo evento]
+**Fechamento e CTA:** Peça o orçamento do seu próximo evento ou saiba mais sobre outras formas que a Kit Lanche Express pode te ajudar! [CTA: Pedir orçamento do próximo evento]
 
 ---
 
@@ -255,10 +253,10 @@ Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do
 
 ## E10 — Reconexão (entrada na janela)
 
-**Assunto (3 versões, confirmar, uma por dado candidato):**
+**Assunto (3 versões, confirmar):**
 1. 73% dos organizadores têm problema com fornecedor de menor preço
 2. Resolver uma crise no dia do evento custa até 3x mais
-3. Falha pública pode levar até 18 meses pra reputação se recuperar
+3. Falha em evento pode levar até 18 meses pra reputação se recuperar
 
 **Hook:** Sabemos que já faz um tempo desde o nosso último contato, mas separamos esses dados aqui que vão te interessar!
 
@@ -281,23 +279,23 @@ Só para lembrar, a Kit Lanche Express é uma empresa com mais de 10 anos de exp
 2. Faz tempo que a gente não conversa, deixa eu te contar uma coisa
 3. Isso é diferente desde a última vez que falamos
 
-**Hook:** A Kit Lanche Express cresceu desde a última vez que você contou com a gente. Vem ver o que mudou.
+**Hook:** A Kit Lanche Express veio te atualizar desde a última vez que você falou com a gente. Vem ver o que mudou!
 
 **Banner:** não usar (credencial vem em texto corrido, sem imagem).
 
 **Corpo:**
 
-Hoje já são mais de 5 milhões de kits entregues, com nota 4,9 de 5 no Google, atualizada e conferida.
+Hoje já são mais de 5 milhões de kits entregues, com nota 4,9 de 5 no Google, só com 1% de avaliações abaixo de 3 estrelas.
 
-E seguimos com os três modelos pensados para qualquer cenário da sua empresa, não só para o tipo de evento que você contratou da última vez.
+E seguimos com os três modelos pensados para qualquer cenário da sua empresa, não só para um único tipo de evento.
 
 Express, para agilidade e entrega descomplicada, ideal para reunião de fechamento.
 
 Select, para experiência personalizada em evento corporativo, ideal para lançamento ou evento com público externo.
 
-Prime, para fornecimento recorrente do dia a dia, ideal para café da manhã ou lanche da tarde.
+Prime, para o fornecimento recorrente do dia a dia, ideal para café da manhã ou lanche da tarde.
 
-**Fechamento e CTA:** Se quiser reconsiderar a Kit Lanche Express para o que vem por aí, é só pedir um orçamento. [CTA: Pedir orçamento]
+**Fechamento e CTA:** Pense na Kit Lanche Express para o que vem por aí, é só pedir um orçamento! [CTA: Pedir orçamento]
 
 ---
 
@@ -318,21 +316,17 @@ Fechamento de meta, treinamento importante, confraternização de fim de ano, to
 
 E é aí que a Kit Lanche Express entra, sempre com a mesma estrutura por trás, mesmo em cima da hora.
 
-Se ainda fizer sentido, [condição de retorno] segue disponível para quem quiser voltar a contar com a gente.
+Se ainda fizer sentido, nosso time segue disponível para você voltar a conversar com a gente!
 
-**Fechamento e CTA:** [CTA primário: Falar com o consultor e contar onde a Kit Lanche Express pode ajudar] Se preferir receber menos e-mail da gente, ou sair da lista, também é só avisar. [CTA secundário: Ajustar preferências de e-mail]
+**Fechamento e CTA:** [CTA primário: Falar com o consultor e contar onde a Kit Lanche Express pode ajudar]
 
 ---
 
-## Itens que seguem em aberto para fechar o texto (não travados neste documento)
+## Itens que seguem em aberto para fechar o texto
 
-- Assunto do E01 (e de todos os outros marcados **[sugestão, confirmar]**), validar com a Isa
-- Comportamento concreto por trás de cada um dos 4 diferenciais do E02, além do protocolo
-- Confirmar quais logos de cliente estão liberados para uso em CRM (E02)
+- Validar as 3 versões de assunto de cada e-mail e escolher a definitiva (ou deixar pra teste A/B)
+- Confirmar quais logos do banner do E02 estão liberados para uso em CRM, e checar direto com o Vini se Panco e Swift são clientes reais (não confirmados no levantamento do site oficial)
 - Nomes completos ou anonimizados por cargo/setor nas 3 quotes do E05
-- Frase exata de aproximação humana do E03, se a Isa decidir incluir
-- Foto real de estrutura para o E03, ou produção pendente
-- Cupom rastreável do E09, dependência bloqueante confirmada
-- Qual dos 3 dados de mercado abre o E10, ou rotação entre os três
-- Levantamento com o Vini sobre o que mudou de fato nos últimos 12 meses, e número real de clientes atendidos (E11)
-- Condição de retorno real do E12 (cupom, desconto ou benefício) junto ao comercial
+- Confirmar de onde vem o dado "[tipo de kit contratado]" do E08 (campo do Pipedrive ou outro sistema) para a personalização funcionar
+- Confirmar viabilidade técnica da escala clicável do E07 (Mailchimp, tag/merge field por nota)
+- Levantar com o Vini o que mudou de fato nos últimos 12 meses na Kit Lanche Express, caso sobre espaço no E11 além do que já está fechado
