@@ -52,21 +52,24 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 
 **Risco de repetição com E01, já resolvido pela ordem:** banner de cases fica só no E02 (E01 é simples e não tem banner), então a prova social não se repete dentro da régua.
 
-## E03 — Aproximação + prova de estrutura (D+5)
+## E03 — Os 3 pilares do planejamento de evento (D+5)
 
-**Mudança de ângulo:** tema deixa de ser "quantos kits pedir sem sobrar nem faltar" (utilidade prática). Motivo: no D+5 a pessoa já mandou o pedido de orçamento, ou seja, já foi convencida a esse ponto — o trabalho do e-mail não é mais educar, é destravar o que pode estar impedindo ela de responder. Conteúdo de cálculo de quantidade fica pra ser material de apoio que o consultor manda direto quando perguntado, não vira e-mail de régua.
+**Reformulação total, decidida na última rodada.** E03 deixa de ser sobre aproximação humana e prova de estrutura — esses dois blocos saem inteiramente, não é mistura, é troca de tema. E03 vira e-mail informativo puro sobre planejamento prático de evento.
 
-**Por que esse ângulo muda:** este é o último e-mail da régua, e a reentrada é desligada. Se a pessoa não virar negócio até aqui, ela sai da régua e não recebe mais nenhum toque automático — o que muda o peso da decisão de "o que vale a pena tentar resolver agora".
+**Por que isso ainda serve o objetivo da régua:** este é o último e-mail, reentrada desligada — se a pessoa não virar negócio até aqui, sai da régua e não recebe mais nenhum toque automático. Uma razão real de não-resposta que a estrutura antiga não cobria é insegurança sobre o próprio pedido (quantidade, restrições), não desconfiança da marca — isso já foi trabalhado em E01/E02. Conteúdo prático ataca essa trava direto.
 
-**Blocos:**
-1. Aproximação humana — uma ou duas frases da origem da marca (Paula, o buffet em casa, "de um quarto apertado pra milhares de kits por dia"), curto, não a história inteira. Não repetir a regra do E02 de "não virar storytelling longo do fundador" — vale também aqui.
-2. Prova de estrutura com foto real — ataca a objeção documentada na pesquisa de persona "não sei se vocês têm capacidade pro meu volume". Prioridade sobre outras quebras de objeção porque é a mais bem documentada e a mais relevante pra quem já está avaliando fechar.
-3. CTA pro consultor, carregando a quebra de objeção "preciso de aprovação interna" embutida no próprio texto do CTA (não como bloco à parte) — em vez de só "fala com o consultor", algo como "fala com o consultor, que já manda pronto o que você precisa pra levar pra aprovação interna". Objeção escolhida por ser a mais provável nesse ponto específico do funil (pessoa que já pediu orçamento e ainda não respondeu), e por já ter solução documentada na pesquisa (proposta rápida, documentação de capacidade que facilita aprovação em Compras).
-4. P.S. leve convidando a seguir a marca nas redes sociais (Instagram/LinkedIn) — não é CTA principal, é seguro contra perder o contato depois que a régua acabar (reentrada desligada). Não pode competir em peso com o CTA pro consultor.
+**Os 3 pilares:**
+1. Quantos kits pedir por evento
+2. A importância de conhecer as restrições alimentares antes de fechar
+3. Fechar quantidade confirmada, não estimada
 
-**Decisão sobre não empilhar mais objeções:** cogitado acrescentar mais quebras de objeção além de estrutura, decidido não fazer — lição do E02 é que empilhar objeção demais deixa cada uma rasa. Só entrou a de maior alavancagem pra esse momento (aprovação interna), e ela entra embutida no CTA, não como bloco novo.
+**Blocos (a confirmar formato final):**
+1. Hook reconhecendo que ela ainda não fechou, sem cobrança
+2. Os 3 pilares, cada um com o porquê importa (regra de densidade da marca — não pode ser só rótulo, precisa ter conteúdo real por trás)
+3. CTA pro consultor — ainda carrega a quebra de objeção "preciso de aprovação interna" (já validada antes), e agora também pode oferecer ajuda pra fechar a quantidade certa
+4. P.S. leve convidando a seguir a marca nas redes sociais — mantido, é o seguro contra perder contato depois que a régua acaba (reentrada desligada), custo baixo, não compete em peso com o CTA
 
-**Em aberto, trazido na última rodada:** a Isa quer incluir pilares de planejamento de evento (quantos kits por evento, importância de conhecer restrições alimentares, fechar quantidade confirmada e não estimada). Ainda não decidido se isso vira um 5º bloco de conteúdo ou se entra dentro do texto do CTA (igual a objeção de aprovação interna entrou), pra não sobrecarregar o e-mail com blocos demais.
+**Em aberto:** confirmar se esse formato de 4 blocos é o que a Isa quer, ou se ela imagina outra estrutura pros 3 pilares.
 
 ### Em aberto — Régua 1
 - Assunto do E01
