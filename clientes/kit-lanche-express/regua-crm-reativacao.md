@@ -24,6 +24,11 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 **Os números do e-book não têm fonte pública citada** (73% dos organizadores, custo 3x maior, 18 meses de recuperação, 15–20h por evento — só "pesquisas do setor indicam"). Regra de copy trata isso como dado não verificado. **Decisão: não usar esses números na régua.**
 
+**Checagem feita (confirma a decisão):**
+- "73% dos organizadores enfrentam problemas com fornecedores escolhidos pelo menor preço" — não encontrado em nenhuma pesquisa do setor de eventos, parece fabricado ou decote de outro dado sem relação real com o tema
+- "Custo médio de resolver crise no dia do evento é até 3x maior que a economia inicial" — sem fonte no setor de eventos, o único "3x" localizável é de contexto totalmente diferente (crise bancária sistêmica/FMI)
+- "Recuperação da reputação profissional após falha pública pode levar até 18 meses" — único com lastro real, mas de literatura geral de gestão de reputação/crise corporativa, não especificamente de organizador de eventos. Se reaproveitado no futuro, precisa vir framed como dado geral de gestão de crise, nunca como estatística do setor de eventos
+
 **O que aproveitamos do e-book:** só a lógica estrutural (abrir com algo externo/de mercado antes de falar da marca), não o conteúdo específico nem o tom (o e-book é pesado, "sua reputação em risco" — não é a linguagem da Kit Lanche Express).
 
 ---
