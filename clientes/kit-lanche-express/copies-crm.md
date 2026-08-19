@@ -291,11 +291,11 @@ Hoje já são mais de 5 milhões de kits entregues, com nota 4,9 de 5 no Google,
 
 E seguimos com os três modelos pensados para qualquer cenário da sua empresa, não só para o tipo de evento que você contratou da última vez.
 
-Express, para agilidade e entrega descomplicada.
+Express, para agilidade e entrega descomplicada, ideal para reunião de fechamento.
 
-Select, para experiência personalizada em evento corporativo.
+Select, para experiência personalizada em evento corporativo, ideal para lançamento ou evento com público externo.
 
-Prime, para fornecimento recorrente do dia a dia.
+Prime, para fornecimento recorrente do dia a dia, ideal para café da manhã ou lanche da tarde.
 
 **Fechamento e CTA:** Se quiser reconsiderar a Kit Lanche Express para o que vem por aí, é só pedir um orçamento. [CTA: Pedir orçamento]
 
