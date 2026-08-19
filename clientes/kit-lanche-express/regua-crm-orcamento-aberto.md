@@ -65,19 +65,24 @@ Decisões tomadas em sessão de brainstorm com a Isa. Documento vivo, atualizar 
 
 ---
 
-## E06 — Última chamada declarada (E05 + 7 dias)
+## E06 — O orçamento está pronto, falta a decisão (E05 + 7 dias)
 
-**Título/ângulo atualizado:** "Última chamada declarada, com condição de retorno e saída limpa" (substitui o título original "Retomar ou encerrar, com saída explícita e sem cobrança").
+**Tema fechado.** Título original "Retomar ou encerrar, com saída explícita e sem cobrança" e a ideia intermediária de "última chamada declarada" foram descartados — "última chamada", mesmo suavizada, reproduzia o clima de urgência artificial de carrinho abandonado de e-commerce, que o brief da régua já tinha proibido desde o início ("não é o carrinho abandonado, o ritmo e o argumento são outros").
 
-**Tema ainda em aberto** — só o título mudou, o conteúdo real do e-mail ainda precisa ser pensado do zero.
+**Novo ângulo:** peso da decisão sem prazo artificial. Alimentação corporativa é cuidado com quem faz a empresa funcionar, seja evento pontual ou fornecimento recorrente do dia a dia (cobre os dois tipos de negócio que passam por essa régua, sem depender de saber se há data de evento cadastrada no Pipedrive). A "urgência" não vem de um prazo que está acabando, vem do fato de que o orçamento já existe e só falta a definição dela pra virar realidade.
 
-Estrutura do rascunho original, ainda não revisitada:
+**Cuidado a manter:** dar peso à decisão sem escorregar pra culpa ("se você não decidir, não se importa com seu time" é proibido, o ângulo fica do lado positivo, "isso importa, por isso vale decidir com cuidado").
+
+**Blocos:**
+1. Hook — alimentação corporativa como cuidado com quem faz a empresa funcionar, sem restringir a evento
+2. Ponte — o orçamento já está pronto, só falta a definição dela
+3. Fechamento prático — as duas portas, sem cobrança
+
 - **Persona:** as três
 - **Objetivo:** fechar, ou capturar o motivo real da perda
 - **CTA primário:** retomar o orçamento
 - **CTA secundário:** "já resolvi com outro fornecedor" — link que registra o motivo da perda no Pipedrive
-- **Blocos:** hook direto · orçamento válido até X `[confirmar prazo real de validade]` · as duas portas · assinatura pessoal
-- **Não fazer:** tom de culpa, "última chance", contagem regressiva
+- **Não fazer:** tom de culpa, "última chance", contagem regressiva, prazo artificial
 
 ---
 
@@ -85,6 +90,6 @@ Estrutura do rascunho original, ainda não revisitada:
 
 - Fechar o texto dos 3 erros do E04 (cada um com o "porquê importa")
 - Escrever a pergunta de fechamento do E04 ("já tomou sua decisão?") no tom certo
-- E05 ainda não revisitado — confirmar se a lógica do case comparável segue como está
-- Confirmar com o Vini se existe case liberado até 21/08, senão ativar o fallback de prova agregada
-- E06 — tema ainda precisa ser pensado, só o título foi definido
+- E05 — decidir nome completo vs. anonimizado por cargo/setor pras 3 quotes com foto (Gilvane Maria Miranda Ferreira, Gabriel Azevedo, Cynthia Israela, Vanessa Carbonezi, Marília Camargo, Cibele Garcia são as candidatas)
+- Isa vai estruturar o banner do E05 com as quotes escolhidas
+- E06 — escrever o texto final dos 3 blocos (hook, ponte do orçamento pronto, fechamento com as duas portas)
