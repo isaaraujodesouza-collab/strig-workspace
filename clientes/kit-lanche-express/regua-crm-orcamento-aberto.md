@@ -44,16 +44,21 @@ Decisões tomadas em sessão de brainstorm com a Isa. Documento vivo, atualizar 
 
 ---
 
-## E05 — Prova comparável (E04 + 5 dias)
+## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
-Ainda não revisitado nessa sessão. Estrutura do rascunho original, a confirmar:
+**Mudança de ângulo:** o brief original era "case de empresa de porte comparável", pensado pra alguém copiar e colar pro próprio gestor. Descartado por risco de escala, a régua atinge leads de portes e setores muito diferentes, e não dá pra garantir um case realmente comparável pra cada um sem virar trabalho manual por lead, o que não é viável numa régua automatizada. Tentar generalizar um case específico corria o risco de soar não comparável pra quem lê.
 
-- **Persona:** Ricardo (Facilities) e compras
-- **Objetivo:** dar o material que ele encaminha pra dentro
-- **CTA primário:** receber a proposta formal com CNPJ e nota fiscal
-- **Ângulo:** case de empresa de porte comparável, com número (quantas pessoas, tipo de evento, o que foi entregue, o que deu certo), escrito pra o gestor copiar e colar pro próprio gestor dele
-- `[Fase 0]` case concreto a levantar com o Vini. Se não houver case liberado até 21/08, fallback é bloco de prova agregada (NPS 4,8, 98% de renovação, 5M+ kits) com depoimento anônimo por cargo e setor
-- **Blocos:** hook no case · cenário do cliente · o que foi feito · resultado com número · ponte pra situação do leitor · CTA de proposta formal
+**Novo ângulo:** lembrar que o orçamento só avança se ela conversar com o vendedor (ataca o problema real da régua, negócio parado não é falta de interesse, é falta de conversa), sustentado por prova agregada em vez de case pontual.
+
+**Prova agregada, confirmada via print do Google (checar novamente antes de publicar, já que a régua roda de forma contínua):**
+- 4,9 estrelas, 475 avaliações
+- Menos de 1% das avaliações abaixo de 3 estrelas (5 em 475), distribuídas ao longo de anos, não concentradas em período recente
+- **Decisão:** manter só a citação dos números no corpo do texto. Sem link externo pra página de avaliações, sem quotes/depoimentos individuais (evita a questão de anonimizar nome e empresa dos avaliadores, que teriam consentido a avaliação pública no Google, mas não necessariamente o uso do nome deles em peça comercial)
+
+**Blocos:**
+1. Hook reconhecendo que o orçamento só avança com uma conversa
+2. Prova agregada (números do Google, sem depoimento individual)
+3. CTA primário: receber a proposta formal com CNPJ e nota fiscal (conecta com o erro 2 do E04, falta de documentação formal pra aprovação interna)
 
 ---
 
