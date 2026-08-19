@@ -138,7 +138,7 @@ Separamos avaliações reais de quem já fechou com a gente, para você ver o qu
 
 [espaço para as 3 quotes com foto]
 
-**Fechamento e CTA:** Se a falta de documentação formal para aprovação interna é o que está travando, nosso consultor já pode te enviar a proposta com CNPJ e nota fiscal para adiantar isso. [CTA: Receber a proposta formal]
+**Fechamento e CTA:** Se ainda tem algo te segurando pra fechar, seja aprovação interna, uma dúvida sobre o pedido ou qualquer outro ponto, chama nosso consultor e resolve direto com ele. Se for a documentação pra aprovação interna, já adiantamos a proposta formal com CNPJ e nota fiscal. [CTA: Falar com o consultor]
 
 ---
 
