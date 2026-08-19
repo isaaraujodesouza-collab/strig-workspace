@@ -304,11 +304,11 @@ Prime, para fornecimento recorrente do dia a dia, ideal para café da manhã ou 
 ## E12 — Conte com a gente para qualquer ocasião (E11 + 10 dias)
 
 **Assunto (3 versões, confirmar):**
-1. Por que os eventos com a gente são sempre bons
+1. Comemorar com a Kit Lanche Express é sempre bom
 2. Toda empresa tem um motivo pra comemorar
 3. Continuamos por aqui, pra quando precisar
 
-**Hook:** Toda empresa tem um motivo para comemorar, cedo ou tarde.
+**Hook:** Comemorar com a Kit Lanche Express é sempre bom, pra comemoração ou pro dia a dia da equipe.
 
 **Banner:** não usar.
 
