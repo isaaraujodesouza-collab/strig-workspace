@@ -122,23 +122,23 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 ## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
 **Assunto (3 versões, confirmar):**
-1. Antes de decidir, vale ver isso
-2. O que outros gestores viram antes de fechar
-3. Ainda dá tempo de comparar antes de decidir
+1. Seu orçamento ainda está esperando uma conversa
+2. O que outros gestores encontraram ao decidir
+3. 4,9 estrelas, e seu orçamento segue aberto
 
-**Hook:** Você ainda não decidiu quem vai cuidar da alimentação do seu evento. Isso pode ajudar a escolher certo.
+**Hook:** O seu orçamento não avança sozinho, ele avança numa conversa.
 
-**Banner:** Sim, usar. Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas) e 3 quotes reais com foto (nomes e formato a confirmar com a Isa). Linha de apoio abaixo do banner reforçando o número por escrito, para funcionar mesmo com imagem bloqueada: "4,9 de 5 estrelas em 475 avaliações reais no Google."
+**Banner:** Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas).
 
 **Corpo:**
 
-Seu orçamento com a Kit Lanche Express já está pronto. O que costuma travar depois disso não é falta de interesse, é falta de uma conversa que resolva o que ainda está em aberto.
+Seu orçamento com a Kit Lanche Express já está pronto. Vamos resolver isso juntos?
 
 Separamos avaliações reais de quem já fechou com a gente, para você ver o que outros gestores encontraram ao decidir.
 
 [espaço para as 3 quotes com foto]
 
-**Fechamento e CTA:** Se ainda tem algo te segurando pra fechar, seja aprovação interna, uma dúvida sobre o pedido ou qualquer outro ponto, chama nosso consultor e resolve direto com ele. Se for a documentação pra aprovação interna, já adiantamos a proposta formal com CNPJ e nota fiscal. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Se a falta de documentação formal para aprovação interna é o que está travando, nosso consultor já pode te enviar a proposta com CNPJ e nota fiscal para adiantar isso. [CTA: Receber a proposta formal]
 
 ---
 
