@@ -11,7 +11,10 @@ Onde a régua ainda tinha um item em aberto, o texto abaixo traz uma decisão de
 
 ## E01 — Confirmação (D+0)
 
-**Assunto:** Recebemos seu pedido, nosso consultor já viu **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Recebemos seu pedido, já estamos com isso
+2. Seu pedido chegou aqui na Kit Lanche Express
+3. Já vimos sua solicitação, nosso consultor te procura em breve
 
 **Hook (pré-header):** Aqui está o que acontece a partir de agora.
 
@@ -33,7 +36,10 @@ Estamos felizes em ser considerados para isso e à disposição para o que preci
 
 ## E02 — Diferenciais e prova social (D+2)
 
-**Assunto:** Quem já confiou na Kit Lanche Express **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Quem já confia na Kit Lanche Express
+2. Essas empresas já contam com a gente
+3. Um retrato de quem já escolheu a Kit Lanche Express
 
 **Hook:** Empresas como estas já contam com a gente.
 
@@ -59,7 +65,10 @@ Atendimento humano de verdade, com gente respondendo, não formulário automáti
 
 ## E03 — Os 3 pilares do planejamento de evento (D+5)
 
-**Assunto:** 3 pontos que definem se um evento corporativo dá certo **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. 3 pontos que ajudam seu evento a dar certo
+2. O que faz diferença no planejamento do seu evento
+3. Enquanto você decide, isso pode ajudar
 
 **Hook:** Você está no meio do planejamento da alimentação da sua empresa. Isso ajuda.
 
@@ -85,7 +94,10 @@ P.S. Se quiser acompanhar o dia a dia da Kit Lanche Express enquanto decide, est
 
 ## E04 — Os 3 erros comuns (gatilho +3 dias úteis)
 
-**Assunto:** 3 erros comuns na hora de fechar um fornecedor de evento **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. 3 erros comuns na escolha de um fornecedor de evento
+2. O que costuma travar na escolha de um fornecedor
+3. Antes de decidir, vale saber disso
 
 **Hook:** Seu orçamento com a Kit Lanche Express ainda está com a gente. Isso pode ajudar antes da decisão.
 
@@ -107,7 +119,10 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 
 ## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
-**Assunto:** 4,9 estrelas em 475 avaliações, seu orçamento continua parado **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Seu orçamento ainda está esperando uma conversa
+2. O que outros gestores encontraram ao decidir
+3. 4,9 estrelas, e seu orçamento segue aberto
 
 **Hook:** O seu orçamento não avança sozinho, ele avança numa conversa.
 
@@ -127,7 +142,10 @@ Separamos avaliações reais de quem já fechou com a gente, para você ver o qu
 
 ## E06 — O orçamento está pronto, falta a decisão (E05 + 7 dias)
 
-**Assunto:** O orçamento já existe, falta só a sua decisão **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. O orçamento está pronto, falta só você
+2. Falta pouco pra fechar o que já está pronto
+3. Isso é sobre cuidar de quem faz sua empresa funcionar
 
 **Hook:** Alimentação corporativa é cuidar de quem faz sua empresa funcionar, todo dia ou num evento só.
 
@@ -147,7 +165,10 @@ Não existe prazo apertando aqui. O que existe é uma decisão que vale ser toma
 
 ## E07 — Como foi o evento (D+1 após o evento)
 
-**Assunto:** Como foi o seu evento com a Kit Lanche Express? **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Como foi seu evento com a gente?
+2. Queremos saber como foi
+3. Duas linhas suas ajudam a gente a melhorar
 
 **Hook:** Duas linhas do seu tempo ajudam a gente a continuar entregando bem.
 
@@ -173,7 +194,10 @@ Conte com a gente quando precisar.
 
 ## E08 — Prova social (D+3, só para tag `promotor`)
 
-**Assunto:** Sua nota ajuda outro gestor a decidir com mais segurança **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Sua nota pode ajudar outro gestor
+2. O que sua avaliação muda pra alguém mais
+3. Obrigado pela nota, podemos pedir um favor?
 
 **Hook:** Você deu nota alta para o seu evento com a gente. Isso pode virar ajuda para outra empresa.
 
@@ -193,7 +217,10 @@ Se quiser, também topamos usar seu depoimento com nome e empresa em outras peç
 
 ## E09 — O próximo evento (D+21)
 
-**Assunto:** Já pensou no seu próximo evento? **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Já pensou no seu próximo evento?
+2. Seu próximo pedido pode ser mais rápido
+3. Pra quando for a próxima vez
 
 **Hook:** Da próxima vez, o pedido pode ser mais rápido do que foi da primeira.
 
@@ -223,7 +250,10 @@ Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do
 
 ## E10 — Reconexão (entrada na janela)
 
-**Assunto:** Um dado sobre fornecedores de evento que vale trocar ideia **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Faz tempo, e temos um dado pra trocar ideia
+2. Isso bate com o que você está vendo?
+3. Um dado sobre fornecedores que vale compartilhar
 
 **Hook:** Já faz um tempo desde nosso último contato. Isso não é sobre cobrar nada, é sobre um dado que talvez bata com o que você está vendo.
 
@@ -243,7 +273,10 @@ Só para lembrar, a Kit Lanche Express segue disponível para qualquer ocasião 
 
 ## E11 — O que mudou na Kit Lanche Express (E10 + 7 dias)
 
-**Assunto:** O que mudou na Kit Lanche Express desde a última vez **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. O que mudou na Kit Lanche Express
+2. Faz tempo que a gente não conversa, deixa eu te contar uma coisa
+3. Isso é diferente desde a última vez que falamos
 
 **Hook:** Se faz tempo que você não fala com a gente, aqui está o que é diferente hoje.
 
@@ -267,7 +300,10 @@ Prime, para fornecimento recorrente do dia a dia.
 
 ## E12 — Conte com a gente para qualquer ocasião (E11 + 10 dias)
 
-**Assunto:** Por que os eventos com a Kit Lanche Express são sempre bons **[sugestão, confirmar]**
+**Assunto (3 versões, confirmar):**
+1. Por que os eventos com a gente são sempre bons
+2. Toda empresa tem um motivo pra comemorar
+3. Continuamos por aqui, pra quando precisar
 
 **Hook:** Toda empresa tem um motivo para comemorar, cedo ou tarde.
 
