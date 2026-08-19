@@ -260,19 +260,17 @@ Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do
 2. Resolver uma crise no dia do evento custa até 3x mais
 3. Falha pública pode levar até 18 meses pra reputação se recuperar
 
-**Hook:** Já faz um tempo desde nosso último contato. Isso não é sobre cobrar nada, é sobre um dado que talvez bata com o que você está vendo.
+**Hook:** Já faz um tempo, e separamos alguns números do setor que valem a pena ver.
 
-**Banner:** não usar.
+**Banner:** Compilado dos 3 dados de mercado (73% dos organizadores têm problema com fornecedor de menor preço, custo até 3x maior para resolver uma crise no dia do evento, até 18 meses para recuperar a reputação após falha pública).
 
 **Corpo:**
 
-[dado de mercado, um dos três candidatos, por exemplo] Setores que lidam com organização de eventos vêm reportando que boa parte dos problemas com fornecedores nasce da escolha pelo menor preço, sem olhar estrutura por trás.
-
-Isso bate com o que você tá vendo aí?
+Setores que lidam com organização de eventos vêm reportando que boa parte dos problemas têm a ver com fornecedores. Isso bate com o que você tá vendo aí?
 
 Só para lembrar, a Kit Lanche Express segue disponível para qualquer ocasião da sua empresa, evento pontual ou dia a dia da equipe.
 
-**Fechamento e CTA:** Responda este e-mail se quiser trocar ideia sobre isso. Sem pedido de venda aqui.
+**Fechamento e CTA:** Chame nossos consultores se quiser trocar ideia sobre isso! [CTA: Falar com o consultor]
 
 ---
 
