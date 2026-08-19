@@ -221,15 +221,15 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 
 Cuidado de forma: esse bloco fala de *tipo de necessidade*, o bloco do calendário fala de *época do ano* (SIPAT, convenção, confraternização). Manter os exemplos distintos nos dois blocos pra não repetir na escrita final.
 
+**Decisão: sem cupom.** O E09 não carrega código de desconto nem condição de recompra atrelada a cupom.
+
 - **Objetivo:** a segunda compra — e-mail mais importante da sequência de 12, ataca o 13% de recompra diretamente
-- **CTA primário:** pedir orçamento do próximo evento, com cupom rastreável
-- **Ângulo:** facilitar, não empurrar. Caminho curto pra quem já é cliente (sem orçamento do zero, histórico já no sistema, com os 3 modelos explicados), condição de recompra e código
-- **Blocos:** hook no próximo evento · caminho curto pra quem já é cliente (com os 3 modelos) · cupom com código e prazo · calendário de eventos ancorado no calendário corporativo real · CTA
-- **Dependência bloqueante:** o código de cupom precisa existir no fluxo de pedido. Se não existir, a condição sai, substituída por caminho preferencial com registro de origem no Pipedrive. Copy não começa antes dessa confirmação.
+- **CTA primário:** pedir orçamento do próximo evento
+- **Ângulo:** facilitar, não empurrar. Caminho curto pra quem já é cliente (sem orçamento do zero, histórico já no sistema, com os 3 modelos explicados)
+- **Blocos:** hook no próximo evento · caminho curto pra quem já é cliente (com os 3 modelos) · calendário de eventos ancorado no calendário corporativo real · CTA
 
 ### Em aberto — Régua 2B
 - Confirmar viabilidade técnica da escala clicável do E07 (Mailchimp, tag/merge field por nota)
-- Confirmar se existe cupom rastreável no fluxo de pedido pro E09
 
 ---
 

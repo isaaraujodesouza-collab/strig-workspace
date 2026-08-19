@@ -247,9 +247,7 @@ Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do
 
 [bloco de calendário de eventos, ancorado no calendário corporativo real]
 
-**Fechamento e CTA:** Use o código [cupom] para o seu próximo pedido. [CTA: Pedir orçamento do próximo evento]
-
-*Dependência bloqueante: copy não fecha antes de confirmar se o código de cupom existe no fluxo de pedido.*
+**Fechamento e CTA:** Peça o orçamento do seu próximo evento e aproveite o caminho mais curto por já ser cliente. [CTA: Pedir orçamento do próximo evento]
 
 ---
 
