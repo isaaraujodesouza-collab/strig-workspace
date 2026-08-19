@@ -58,10 +58,29 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 
 ---
 
+## E03 — Aproximação + prova de estrutura (D+5)
+
+**Mudança de ângulo:** tema deixa de ser "quantos kits pedir sem sobrar nem faltar" (utilidade prática). Motivo: no D+5 a pessoa já mandou o pedido de orçamento, ou seja, já foi convencida a esse ponto — o trabalho do e-mail não é mais educar, é destravar o que pode estar impedindo ela de responder. Conteúdo de cálculo de quantidade fica pra ser material de apoio que o consultor manda direto quando perguntado, não vira e-mail de régua.
+
+**Por que esse ângulo muda:** este é o último e-mail da régua, e a reentrada é desligada. Se a pessoa não virar negócio até aqui, ela sai da régua e não recebe mais nenhum toque automático — o que muda o peso da decisão de "o que vale a pena tentar resolver agora".
+
+**Blocos:**
+1. Aproximação humana — uma ou duas frases da origem da marca (Paula, o buffet em casa, "de um quarto apertado pra milhares de kits por dia"), curto, não a história inteira. Não repetir a regra do E02 de "não virar storytelling longo do fundador" — vale também aqui.
+2. Prova de estrutura com foto real — ataca a objeção documentada na pesquisa de persona "não sei se vocês têm capacidade pro meu volume". Prioridade sobre outras quebras de objeção porque é a mais bem documentada e a mais relevante pra quem já está avaliando fechar.
+3. CTA pro consultor, carregando a quebra de objeção "preciso de aprovação interna" embutida no próprio texto do CTA (não como bloco à parte) — em vez de só "fala com o consultor", algo como "fala com o consultor, que já manda pronto o que você precisa pra levar pra aprovação interna". Objeção escolhida por ser a mais provável nesse ponto específico do funil (pessoa que já pediu orçamento e ainda não respondeu), e por já ter solução documentada na pesquisa (proposta rápida, documentação de capacidade que facilita aprovação em Compras).
+4. P.S. leve convidando a seguir a marca nas redes sociais (Instagram/LinkedIn) — não é CTA principal, é seguro contra perder o contato depois que a régua acabar (reentrada desligada). Não pode competir em peso com o CTA pro consultor.
+
+**Decisão sobre não empilhar mais objeções:** cogitado acrescentar mais quebras de objeção além de estrutura, decidido não fazer — lição do E02 é que empilhar objeção demais deixa cada uma rasa. Só entrou a de maior alavancagem pra esse momento (aprovação interna), e ela entra embutida no CTA, não como bloco novo.
+
+---
+
 ## Em aberto pra próxima sessão
 
 - Assunto do E01
 - Comportamento concreto por trás de cada um dos 4 diferenciais do E02 (fora o protocolo)
 - Confirmar com o cliente quais logos de marca estão liberados pra uso em CRM
 - Como resolver bloqueio de imagem por padrão em cliente de e-mail corporativo (alt-text + linha de texto de apoio abaixo do banner)
-- E03 ainda não revisitado desde o rascunho original
+- Escrever a frase exata de aproximação humana do E03 (qual trecho da história entra, curto)
+- Confirmar se existe foto real de estrutura disponível pra usar no E03, ou se precisa ser produzida
+- Texto final do CTA do E03 (a linha que embute a quebra de objeção de aprovação interna)
+- Texto do P.S. de redes sociais do E03
