@@ -172,7 +172,7 @@ Não existe prazo apertando aqui. O que existe é uma decisão que vale ser toma
 2. Queremos saber como foi
 3. Duas linhas suas ajudam a gente a melhorar
 
-**Hook:** Duas linhas do seu tempo ajudam a gente a continuar entregando bem.
+**Hook:** Sua opinião sobre o evento ajuda a gente a continuar entregando bem.
 
 **Banner:** não usar.
 
