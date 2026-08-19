@@ -35,7 +35,7 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 **Mudança de ângulo:** tema não é mais "Protocolo 72h mata o risco de contratar fornecedor novo" — essa afirmação foi questionada (protocolo mata um risco específico, o de ser mal atendido/atrasado, não o risco genérico de contratar alguém desconhecido). Protocolo deixou de ser o tema central do e-mail e virou só mais um item dentro da lista de diferenciais, sem parágrafo fundo dedicado.
 
 **Blocos:**
-1. Banner de cases (logos de marcas reais: Heineken, Swift, MadeiraMadeira, Panco — confirmar quais estão liberadas pra uso comercial/CRM, não só social) com a linha **"Olha quem já confiou, você também pode."**
+1. Banner de cases (logos de marcas reais, levantadas direto do site oficial em 19/08/2026: Heineken e Volkswagen com case/número públicos, Trisul, MadeiraMadeira, Gerando Falcões e CCR citadas em bloco sem case detalhado, CIAT Clínica e Fadelito Escola no segmento saúde/educação — confirmar quais estão liberadas pra uso comercial/CRM, não só site próprio. Swift e Panco, citadas no rascunho original, **não aparecem em nenhum lugar do site oficial nem em busca**, provavelmente confusão com outro cliente, não usar sem confirmação direta com o Vini) com a linha **"Olha quem já confiou, você também pode."**
 2. Lista dos 5 diferenciais da marca, cada um como linha curta e concreta (comportamento real, não rótulo genérico):
    - Protocolo de 72h e entrega garantida
    - Controle de qualidade e estrutura 100% profissional
@@ -76,7 +76,7 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 ### Em aberto — Régua 1
 - Assunto do E01
 - Comportamento concreto por trás de cada um dos 4 diferenciais do E02 (fora o protocolo)
-- Confirmar com o cliente quais logos de marca estão liberados pra uso em CRM
+- Confirmar com o cliente quais dos logos levantados (Heineken, Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões, CCR, CIAT Clínica, Fadelito Escola) estão liberados pra uso em CRM, e checar direto com o Vini se Swift/Panco são clientes reais não listados no site ou confusão do rascunho original
 - Como resolver bloqueio de imagem por padrão em cliente de e-mail corporativo (alt-text + linha de texto de apoio abaixo do banner)
 - Escrever a frase exata de aproximação humana do E03 (qual trecho da história entra, curto)
 - Confirmar se existe foto real de estrutura disponível pra usar no E03, ou se precisa ser produzida

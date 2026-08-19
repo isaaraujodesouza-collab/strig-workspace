@@ -43,11 +43,13 @@ Estamos felizes em ser considerados para isso e à disposição para o que preci
 
 **Hook:** Empresas como estas já contam com a gente.
 
-**Banner:** Sim, usar. Logos de clientes confirmados para uso comercial (checar liberação antes de publicar), com a linha "Olha quem já confiou, você também pode." Abaixo do banner, uma linha de texto que carrega a mesma informação por escrito (alt-text não é suficiente em cliente corporativo com imagem bloqueada por padrão): "Heineken, Swift, MadeiraMadeira e Panco já contam com a Kit Lanche Express."
+**Banner:** Sim, usar. Logos levantados no site oficial em 19/08/2026 (checar liberação para uso em CRM antes de publicar, site próprio não é autorização automática): Heineken, Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões, CCR. Linha "Olha quem já confiou, você também pode." Abaixo do banner, uma linha de texto que carrega a mesma informação por escrito (alt-text não é suficiente em cliente corporativo com imagem bloqueada por padrão): "Heineken, Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões e CCR já contam com a Kit Lanche Express." **Swift e Panco (do rascunho original) não foram encontradas em nenhuma fonte oficial, não usar sem confirmar direto com o Vini.**
 
 **Corpo:**
 
 Enquanto seu pedido é analisado pelo nosso consultor, separamos o que faz empresas como as acima escolherem a Kit Lanche Express e continuarem com a gente.
+
+Empresas como a Heineken começaram pedindo para uma unidade em São Paulo e hoje recebem mais de 800 kits por mês em 5 unidades, com cardápio personalizado. **[dado real do site oficial, confirmar se pode citar número específico em peça de CRM antes de publicar]**
 
 Protocolo de 72 horas com entrega garantida, sem depender de sorte no dia do evento.
 
