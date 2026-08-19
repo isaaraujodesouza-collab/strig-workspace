@@ -126,7 +126,7 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 2. O que outros gestores encontraram ao decidir
 3. 4,9 estrelas, e seu orçamento segue aberto
 
-**Hook:** O seu orçamento não avança sozinho, ele avança numa conversa.
+**Hook:** É isso que dizem sobre trabalhar com a Kit Lanche Express, direto de quem já fechou.
 
 **Banner:** Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas).
 
