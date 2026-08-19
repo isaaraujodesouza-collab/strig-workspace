@@ -281,7 +281,7 @@ Só para lembrar, a Kit Lanche Express é uma empresa com mais de 10 anos de exp
 2. Faz tempo que a gente não conversa, deixa eu te contar uma coisa
 3. Isso é diferente desde a última vez que falamos
 
-**Hook:** Se faz tempo que você não fala com a gente, aqui está o que é diferente hoje.
+**Hook:** A Kit Lanche Express cresceu desde a última vez que você contou com a gente. Vem ver o que mudou.
 
 **Banner:** não usar (credencial vem em texto corrido, sem imagem).
 
