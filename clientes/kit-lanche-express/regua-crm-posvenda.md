@@ -59,6 +59,13 @@ Nenhum terceiro elemento novo entra no e-mail — os dois blocos acima já resol
 
 **Acréscimo dentro do bloco "caminho curto pra quem já é cliente":** explicar os 3 modelos (Express, Select, Prime), versão única pra todo mundo, sem depender de rastrear ou personalizar a copy por tipo de kit que a pessoa comprou antes (não é viável de manter numa régua automatizada). Aproveitar a descrição que a marca já usa publicamente (post de aniversário no Instagram): Express é rapidez e entrega descomplicada, Select é experiência personalizada pra evento corporativo, Prime é fornecimento recorrente pro dia a dia. Objetivo: ajudar a pessoa a escolher certo pro próximo cenário, não só agilizar o pedido.
 
+**Exemplo de evento por modelo, pra deixar concreto:**
+- **Select** (personalizado): lançamento, integração, evento com público externo
+- **Prime** (recorrente): alimentação diária, café da manhã, café da tarde
+- **Express**: reunião, treinamento menor
+
+Cuidado de forma: esse bloco fala de *tipo de necessidade*, o bloco do calendário (mais abaixo) fala de *época do ano* (SIPAT, convenção, confraternização). Manter os exemplos distintos nos dois blocos pra não repetir na escrita final.
+
 - **Objetivo:** a segunda compra — e-mail mais importante da sequência de 12, ataca o 13% de recompra diretamente
 - **CTA primário:** pedir orçamento do próximo evento, com cupom rastreável
 - **Ângulo:** facilitar, não empurrar. Caminho curto pra quem já é cliente (sem orçamento do zero, histórico já no sistema, com os 3 modelos explicados), condição de recompra e código
