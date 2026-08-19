@@ -55,7 +55,7 @@ Nenhum terceiro elemento novo entra no e-mail — os dois blocos acima já resol
 
 ## E09 — O próximo evento (D+21, a confirmar intervalo real)
 
-Ainda não revisitado nessa sessão. Estrutura do rascunho original:
+**Decisão: manter a estrutura do rascunho original**, sem mudança de ângulo.
 
 - **Objetivo:** a segunda compra — e-mail mais importante da sequência de 12, ataca o 13% de recompra diretamente
 - **CTA primário:** pedir orçamento do próximo evento, com cupom rastreável
