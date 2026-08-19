@@ -22,12 +22,7 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 **A história da "Kátia" não pode ser reaproveitada como está.** O e-book apresenta uma história com nome, situação e diálogo como "uma história real (ou quase)". Isso é exatamente o padrão de erro já identificado com esse cliente em setembro/2026 (`diretrizes-copy.md`): história inventada apresentada como caso real ou quase real, mesmo vinda de material comercial já em uso pelo cliente, não pode entrar na copy. Só reaproveitável se virar assumidamente hipotética ("imagina a cena"), nunca com nome/hora/diálogo sugerindo relato real. **Decisão: não usar.**
 
-**Os números do e-book não têm fonte pública citada** (73% dos organizadores, custo 3x maior, 18 meses de recuperação, 15–20h por evento — só "pesquisas do setor indicam"). Regra de copy trata isso como dado não verificado. **Decisão: não usar esses números na régua.**
-
-**Checagem feita (confirma a decisão):**
-- "73% dos organizadores enfrentam problemas com fornecedores escolhidos pelo menor preço" — não encontrado em nenhuma pesquisa do setor de eventos, parece fabricado ou decote de outro dado sem relação real com o tema
-- "Custo médio de resolver crise no dia do evento é até 3x maior que a economia inicial" — sem fonte no setor de eventos, o único "3x" localizável é de contexto totalmente diferente (crise bancária sistêmica/FMI)
-- "Recuperação da reputação profissional após falha pública pode levar até 18 meses" — único com lastro real, mas de literatura geral de gestão de reputação/crise corporativa, não especificamente de organizador de eventos. Se reaproveitado no futuro, precisa vir framed como dado geral de gestão de crise, nunca como estatística do setor de eventos
+**Os números do e-book (73%, custo 3x maior, 18 meses de recuperação) vêm de pesquisa interna feita pelo Vini/Kit Lanche Express sobre o setor**, não são inventados. A checagem inicial não encontrou fonte externa publicada porque não é esse o caso, "pesquisas do setor indicam" já se refere a esse levantamento interno sobre o setor, só sem declarar explicitamente que a pesquisa foi feita pela própria empresa. **Decisão: usar os números, mantendo a citação como já está no material ("pesquisas do setor indicam").**
 
 **O que aproveitamos do e-book:** só a lógica estrutural (abrir com algo externo/de mercado antes de falar da marca), não o conteúdo específico nem o tom (o e-book é pesado, "sua reputação em risco" — não é a linguagem da Kit Lanche Express).
 
@@ -39,10 +34,17 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 **Novo ângulo:** dado de mercado como gancho de reconexão, não pergunta pessoal. Reconecta pelo mundo dela (o que tá acontecendo no mercado de alimentação corporativa), não pela empresa. Gera curiosidade e identificação sem cobrar nada. "Estar disponível pra qualquer ocasião" substitui a tentativa de adivinhar qual evento ela tem.
 
-**Candidatos a dado de mercado (já verificados na pesquisa de posicionamento, com fonte):**
+**Candidatos a dado de mercado:**
+
+Da pesquisa de posicionamento, já verificados com fonte:
 - Catering corporativo cresceu quase 20% em 2025 (Dynamic Travel, 2026)
 - Alimentação corporativa em SP cresceu 60% no 1º semestre de 2025, com entrada de dezenas de fornecedores sem histórico (BrandScript KLE, 2026)
 - Taxa de conversão do setor caiu de 66% pra 57%, porque compradores ficaram mais exigentes (BrandScript KLE, 2026)
+
+Do e-book do Vini, pesquisa interna sobre o setor (ver seção acima):
+- 73% dos organizadores enfrentam problemas com fornecedores escolhidos pelo menor preço
+
+Esse último entra como dado neutro, sem o peso de "sua reputação em risco" que o e-book carrega ao redor dele, só o fato solto, do jeito que os outros dados de mercado também entram.
 
 **Lógica de sequência com o E11:** E10 credencia pelo lado externo (mercado), E11 credencia pelo lado institucional (a marca). Dois ângulos de prova diferentes em emails seguidos, "pega a pessoa pelos dois lados" em vez de repetir o mesmo tipo de argumento duas vezes.
 
