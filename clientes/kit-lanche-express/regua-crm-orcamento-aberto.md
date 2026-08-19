@@ -53,11 +53,14 @@ Decisões tomadas em sessão de brainstorm com a Isa. Documento vivo, atualizar 
 **Prova agregada, confirmada via print do Google (checar novamente antes de publicar, já que a régua roda de forma contínua):**
 - 4,9 estrelas, 475 avaliações
 - Menos de 1% das avaliações abaixo de 3 estrelas (5 em 475), distribuídas ao longo de anos, não concentradas em período recente
-- **Decisão:** manter só a citação dos números no corpo do texto. Sem link externo pra página de avaliações, sem quotes/depoimentos individuais (evita a questão de anonimizar nome e empresa dos avaliadores, que teriam consentido a avaliação pública no Google, mas não necessariamente o uso do nome deles em peça comercial)
+
+**Decisão revisada: 3 quotes reais, priorizando avaliações com foto anexada.** Candidatas identificadas (todas com foto): Gilvane Maria Miranda Ferreira, Gabriel Azevedo, Cynthia Israela, Vanessa Carbonezi (evento Mancha Verde, carnaval), Marília Camargo, Cibele Garcia. A Isa vai estruturar o e-mail com banner pra comportar isso.
+
+**Em aberto:** nome e empresa completos (como aparecem no Google) ou anonimizado por cargo/setor. A pessoa consentiu a avaliação pública no Google, o que não é necessariamente consentimento pro uso do nome dela em peça comercial — vale essa checagem antes de fechar o texto final.
 
 **Blocos:**
 1. Hook reconhecendo que o orçamento só avança com uma conversa
-2. Prova agregada (números do Google, sem depoimento individual)
+2. Banner com 3 quotes reais (priorizando foto) + números agregados do Google
 3. CTA primário: receber a proposta formal com CNPJ e nota fiscal (conecta com o erro 2 do E04, falta de documentação formal pra aprovação interna)
 
 ---
