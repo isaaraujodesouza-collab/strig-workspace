@@ -38,14 +38,18 @@ Decisões tomadas em sessão de brainstorm com a Isa. Documento vivo, atualizar 
 
 ## E08 — Prova social (D+3, só para tag `promotor`)
 
-Ainda não revisitado nessa sessão. Estrutura do rascunho original:
+**Objetivo mantido do rascunho original** (converter satisfação em ativo público), mas o pedido deixa de ser genérico e passa a ser ancorado no pedido real que a pessoa fez.
 
-- **Objetivo:** converter satisfação em ativo público
+**Por que personalizar em vez de generalizar:** a Isa queria que esse e-mail também gerasse fidelidade, não só review. Testado e descartado o caminho de apresentar outros tipos de kit aqui (isso é território do E09, "a próxima compra" — os dois e-mails competiriam pelo mesmo espaço). A fidelidade acaba vindo de dois lugares que já existiam na estrutura, só precisavam ser escritos com essa intenção:
+1. O pedido ancorado no que ela contratou especificamente ("você pediu X") — sinaliza conta conhecida, não disparo em massa
+2. O bloco "o que a avaliação muda pra outro gestor" — transforma o favor em contribuição, dá à pessoa um papel de quem ajuda outro gestor a decidir com mais segurança, não só de cliente que presta favor
+
+Nenhum terceiro elemento novo entra no e-mail — os dois blocos acima já resolvem o objetivo de fidelidade sem precisar de gancho extra pro E09 nem de produto.
+
 - **CTA primário:** avaliar no Google
 - **CTA secundário:** autorizar depoimento nominal com nome e empresa
-- **Ângulo:** reconhece a nota alta, pede o favor pequeno, deixa claro o que a avaliação resolve pro próximo gestor que está escolhendo fornecedor sem referência
-- **Blocos:** referência à nota que ele deu · o pedido, em uma frase · o que a avaliação muda pra outro gestor · os dois CTAs · assinatura pessoal
-- **Não fazer:** oferecer brinde ou desconto em troca de avaliação — queima a credibilidade da prova, que é o ativo
+- **Blocos:** referência à nota que ele deu · o pedido ancorado no que ela contratou, em uma frase · o que a avaliação muda pra outro gestor · os dois CTAs · assinatura pessoal
+- **Não fazer:** oferecer brinde ou desconto em troca de avaliação — queima a credibilidade da prova, que é o ativo. Também não apresentar outros tipos de kit aqui, isso é trabalho do E09.
 
 ---
 
