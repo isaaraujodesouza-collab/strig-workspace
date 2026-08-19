@@ -122,11 +122,11 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 ## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
 **Assunto (3 versões, confirmar):**
-1. Seu orçamento ainda está esperando uma conversa
-2. O que outros gestores encontraram ao decidir
-3. 4,9 estrelas, e seu orçamento segue aberto
+1. Antes de decidir, vale ver isso
+2. O que outros gestores viram antes de fechar
+3. Ainda dá tempo de comparar antes de decidir
 
-**Hook:** O seu orçamento não avança sozinho, ele avança numa conversa.
+**Hook:** Você ainda não decidiu quem vai cuidar da alimentação do seu evento. Isso pode ajudar a escolher certo.
 
 **Banner:** Sim, usar. Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas) e 3 quotes reais com foto (nomes e formato a confirmar com a Isa). Linha de apoio abaixo do banner reforçando o número por escrito, para funcionar mesmo com imagem bloqueada: "4,9 de 5 estrelas em 475 avaliações reais no Google."
 
