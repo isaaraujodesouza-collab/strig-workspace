@@ -122,9 +122,9 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 ## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
 **Assunto (3 versões, confirmar):**
-1. Seu orçamento ainda está esperando uma conversa
-2. O que outros gestores encontraram ao decidir
-3. 4,9 estrelas, e seu orçamento segue aberto
+1. O que dizem sobre a Kit Lanche Express
+2. 4,9 estrelas em quase 500 avaliações
+3. Isso é o que quem já fechou com a gente diz
 
 **Hook:** É isso que dizem sobre trabalhar com a Kit Lanche Express, direto de quem já fechou.
 
