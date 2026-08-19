@@ -126,7 +126,7 @@ Confiar em fornecedor sem estrutura real por trás, o que só aparece como probl
 2. 4,9 estrelas em quase 500 avaliações
 3. Isso é o que quem já fechou com a gente diz
 
-**Hook:** É isso que dizem sobre trabalhar com a Kit Lanche Express, direto de quem já fechou.
+**Hook:** Contar com a Kit Lanche Express é isso. Confie na opinião de quem já fechou.
 
 **Banner:** Números agregados do Google (4,9 estrelas, 475 avaliações, menos de 1% abaixo de 3 estrelas).
 
