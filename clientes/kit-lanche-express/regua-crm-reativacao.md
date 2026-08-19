@@ -64,11 +64,16 @@ Todos entram como dado neutro, sem o peso de "sua reputação em risco" que o e-
 - 4,9/5 no Google (atualizado, confirmado por print nessa sessão — o e-book tinha 4,8, desatualizado, não usar)
 - +3.500 clientes atendidos (número de partida do material do Vini, a confirmar com ele, provavelmente é maior)
 
-- **Objetivo:** dar uma razão nova pra reconsiderar
+- **Objetivo:** dar uma razão nova pra reconsiderar, e posicionar a Kit Lanche Express como parceiro pra toda hora, não só pro tipo de evento que a pessoa contratou da última vez
 - **CTA primário:** pedir orçamento
-- **Ângulo:** novidade real desde a última compra, com prova — cardápio, cobertura de entrega, linha Select ou Prime, protocolo 72h pra quem não conheceu na época, mais a credencial acima como prova atualizada
-- `[Fase 0]` levantar com o Vini o que efetivamente mudou nos últimos 12 meses, e confirmar o número real de clientes atendidos
-- **Blocos:** hook na mudança · 2 ou 3 novidades concretas · o número que mudou (credencial acima) · CTA
+
+**Estrutura simplificada em 3 blocos, decidida nessa sessão:**
+1. **Credencial/case interno** — a credencial confirmada acima (5M kits, 4,9 Google, +3.500 clientes)
+2. **Os 3 modelos (Express, Select, Prime)** — bloco novo, mostrando que a marca cobre qualquer situação, não é sobre "olha nosso catálogo", é sobre "a gente tem isso resolvido pra qualquer cenário seu". Reaproveitar a mesma descrição curta + exemplo de situação por modelo já fechada pro E09 (régua 2B), pra manter consistência entre réguas
+3. **CTA** — chamar pra pedir orçamento
+
+- `[Fase 0]` levantar com o Vini o que efetivamente mudou nos últimos 12 meses (se sobrar espaço/relevância além dos 3 blocos), e confirmar o número real de clientes atendidos
+- **Não fazer:** os 3 modelos não podem soar catálogo/menu de produto, mesma régua que já proibiu isso no E10
 
 ---
 
