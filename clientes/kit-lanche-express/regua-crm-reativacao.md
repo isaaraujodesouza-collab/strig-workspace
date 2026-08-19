@@ -77,17 +77,31 @@ Todos entram como dado neutro, sem o peso de "sua reputação em risco" que o e-
 
 ---
 
-## E12 — Tema ainda não decidido (E11 + 10 dias)
+## E12 — Conte com a gente pra qualquer ocasião (E11 + 10 dias)
 
-**Descartado o tema original** ("Última chamada e saída"). Mesmo motivo já identificado nas outras réguas: linguagem de última chance não bate com a marca. A funcionalidade que precisa ser resolvida de outro jeito continua sendo a mesma do brief original — converter ou liberar a base, com saída limpa e visível (é o e-mail que protege a entregabilidade do resto da régua, quem não abriu nenhum dos três toques entra em sunset).
+**Tema fechado.** Descartado o tema original ("Última chamada e saída") pelo mesmo motivo já identificado nas outras réguas, linguagem de última chance não bate com a marca.
 
-A definir em sessão futura: novo ângulo pra declarar o fim da sequência sem tom de "última chamada", "vamos sentir sua falta" ou contagem regressiva agressiva (essas continuam proibidas).
+**Também descartado prazo curto na condição de retorno.** Motivo: prazo curto pressupõe que a pessoa tem um evento chegando, o que não é garantido numa régua de reativação (diferente do E06 da régua 2A, onde havia orçamento real em andamento justificando prazo). Prazo sem esse contexto vira pressão sem propósito, e pode até afastar quem não tem nada no horizonte no momento.
+
+**Novo ângulo:** reconexão pela lembrança boa + convite de identificação com ocasiões genéricas (não previsão do evento específico dela, que já foi descartado no E10 pelo mesmo risco de chute errado) + reforço de confiabilidade + CTA aberto pro consultor, devolvendo autonomia pra pessoa em vez de empurrar decisão.
+
+**Blocos:**
+1. Hook lembrando da boa experiência (reconecta pelo que já foi bom, antes de pedir qualquer coisa)
+2. Lista de ocasiões como convite de identificação, não previsão pessoal ("toda empresa tem motivo pra comemorar, fechamento de meta, treinamento, reunião importante, confraternização")
+3. Reforço de confiabilidade ("pode contar com a gente, até em cima da hora") — reaproveita o território de confiabilidade que já é o núcleo da marca, sem precisar da história fabricada do e-book do Vini
+4. Cupom/condição de retorno mencionado de forma explícita mas discreta, dentro do meio do texto — não é o assunto do e-mail, não carrega prazo curto nem tom de urgência
+5. CTA primário: falar com o consultor, contar onde a Kit Lanche Express pode ajudar (CTA aberto, não é "responda até X")
+6. Fechamento leve oferecendo receber menos e-mail ou sair da lista
+
+**Rastreamento:** UTM do CTA (`e12_cta_oferta` / `e12_cta_preferencias`) já cobre o rastreio de quem voltou por causa desse e-mail, não depende de dramatizar prazo no texto pra isso funcionar.
+
+**Não fazer (mantido):** "última chamada", "vamos sentir sua falta", contagem regressiva agressiva, prazo curto, previsão de evento específico da pessoa, história do e-book.
 
 ---
 
 ## Em aberto pra próxima sessão
 
 - Fechar qual dado de mercado abre o E10 (ou se roda em rotação entre os três)
-- Levantar com o Vini o que mudou de fato nos últimos 12 meses pro E11
-- Pensar o novo tema do E12 do zero
+- Levantar com o Vini o que mudou de fato nos últimos 12 meses pro E11, e confirmar o número real de clientes atendidos
+- Confirmar com o comercial qual é a condição de retorno real do E12 (cupom/desconto/benefício) e se existe código rastreável no fluxo de pedido
 - Confirmar a janela de recência por perfil de compra (recorrente 60 dias, sazonal ciclo+45, pontual 120 dias) — está marcada como Fase 0 no brief original
