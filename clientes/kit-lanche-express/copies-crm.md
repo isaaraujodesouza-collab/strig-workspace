@@ -24,13 +24,13 @@ Onde a régua ainda tinha um item em aberto, o texto abaixo traz uma decisão de
 
 Recebemos sua solicitação com a Kit Lanche Express e ela já está com a gente.
 
-Nesses 10 anos entregando mais de 5 milhões de kits, chegamos numa taxa de satisfação de clientes de 4,8. É esse cuidado que vai guiar o seu pedido também.
+Nesses 10 anos entregando mais de 5 milhões de kits, chegamos numa taxa de satisfação de clientes de 4,8, de 5. É esse cuidado que vai guiar o seu pedido também.
 
 Agora o próximo passo é simples. Um consultor da nossa equipe vai entrar em contato com você para entender os detalhes do que você precisa, seja um evento pontual ou alimentação para o dia a dia da sua empresa.
 
 Estamos felizes em ser considerados para isso e à disposição para o que precisar até lá.
 
-**Fechamento e CTA:** Sem CTA de clique. Fechamento é a própria frase acima ("à disposição para o que precisar"). Se a plataforma exigir um CTA técnico, usar link discreto "Falar com a gente agora" sem botão em destaque, para não competir com o tom de e-mail simples de confirmação.
+**Fechamento e CTA:** Se preferir, clique e chame nosso consultor. [CTA: Falar com o consultor]
 
 ---
 
@@ -43,13 +43,18 @@ Estamos felizes em ser considerados para isso e à disposição para o que preci
 
 **Hook:** Empresas como estas já contam com a gente.
 
-**Banner:** Sim, usar. Logos levantados no site oficial em 19/08/2026 (checar liberação para uso em CRM antes de publicar, site próprio não é autorização automática): Heineken, Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões, CCR. Linha "Olha quem já confiou, você também pode." Abaixo do banner, uma linha de texto que carrega a mesma informação por escrito (alt-text não é suficiente em cliente corporativo com imagem bloqueada por padrão): "Heineken, Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões e CCR já contam com a Kit Lanche Express." **Swift e Panco (do rascunho original) não foram encontradas em nenhuma fonte oficial, não usar sem confirmar direto com o Vini.**
+**Banner:** Já cuidamos de grandes marcas. E agora chegou a vez da sua empresa!
+Heineken, Panco, Swift
+Volkswagen, Trisul, MadeiraMadeira, Gerando Falcões, CCR
+CIAT Clínica
+Fadelito Escola
+UWB, Associação dos Docentes da FMABC (ADOC), À La Fayet, Lar Jesus Entre as Crianças
+
+*Nota: Panco e Swift entraram de volta na lista a pedido da Isa. No levantamento feito em 19/08/2026 direto no site oficial da Kit Lanche Express, essas duas não apareceram em nenhuma página nem em busca (só Heineken e MadeiraMadeira, do grupo original, se confirmaram, junto com Volkswagen, Trisul, Gerando Falcões e CCR). Se a fonte da Isa for outra (material interno, confirmação direta com o Vini), vale registrar aqui pra não gerar dúvida de novo no futuro.*
 
 **Corpo:**
 
 Enquanto seu pedido é analisado pelo nosso consultor, separamos o que faz empresas como as acima escolherem a Kit Lanche Express e continuarem com a gente.
-
-Empresas como a Heineken começaram pedindo para uma unidade em São Paulo e hoje recebem mais de 800 kits por mês em 5 unidades, com cardápio personalizado. **[dado real do site oficial, confirmar se pode citar número específico em peça de CRM antes de publicar]**
 
 Protocolo de 72 horas com entrega garantida, sem depender de sorte no dia do evento.
 
@@ -61,7 +66,7 @@ Kits pensados para toda situação da empresa, do evento pontual ao dia a dia da
 
 Atendimento humano de verdade, com gente respondendo, não formulário automático.
 
-**Fechamento e CTA:** Enquanto isso é analisado, se quiser adiantar qualquer detalhe do seu pedido, é só responder este e-mail ou falar com nosso consultor. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Enquanto seu orçamento é analisado, se quiser adiantar qualquer detalhe do seu pedido, é só falar com nosso consultor. [CTA: Falar com o consultor]
 
 ---
 
@@ -80,13 +85,13 @@ Atendimento humano de verdade, com gente respondendo, não formulário automáti
 
 Se você está organizando a alimentação de um evento ou pensando na rotina da sua equipe, alguns pontos fazem diferença real no resultado.
 
-Quantos kits pedir por evento. Menos do que o necessário gera falta na hora certa, mais do que o necessário é desperdício. O número certo depende do tipo de evento e do perfil de quem participa, e vale conversar com quem já viu esse padrão se repetir.
+Quantos kits pedir por evento. O número certo depende do tipo de evento e do perfil de quem participa. Vale conversar com quem já produziu mais de 5 milhões de kits para decidir.
 
 Conhecer as restrições alimentares antes de fechar o pedido. Isso evita retrabalho de última hora e garante que ninguém fique sem opção no dia.
 
 Fechar a quantidade confirmada, não uma estimativa solta. Pedido estimado é o principal motivo de ajuste em cima da hora, e ajuste em cima da hora é o que gera o maior risco de atraso.
 
-**Fechamento e CTA:** Se quiser ajuda para fechar a quantidade certa e evitar esse tipo de ajuste de última hora, nosso consultor pode te ajudar com isso, inclusive se você ainda precisar da aprovação interna para seguir. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Se quiser ajuda para fechar a quantidade certa e evitar esse tipo de ajuste de última hora, nosso consultor pode te ajudar com isso. [CTA: Falar com o consultor]
 
 P.S. Se quiser acompanhar o dia a dia da Kit Lanche Express enquanto decide, estamos também no Instagram.
 
@@ -99,7 +104,7 @@ P.S. Se quiser acompanhar o dia a dia da Kit Lanche Express enquanto decide, est
 **Assunto (3 versões, confirmar):**
 1. 3 erros comuns na escolha de um fornecedor de evento
 2. O que costuma travar na escolha de um fornecedor
-3. Antes de decidir, vale saber disso
+3. Antes de fechar qualquer orçamento, vale saber disso
 
 **Hook:** Seu orçamento com a Kit Lanche Express ainda está com a gente. Isso pode ajudar antes da decisão.
 
@@ -115,14 +120,14 @@ Falta de documentação formal do pedido, o que dificulta a aprovação interna 
 
 Confiar em fornecedor sem estrutura real por trás, o que só aparece como problema no dia do evento, quando já não dá para corrigir.
 
-**Fechamento e CTA:** Já tomou sua decisão? Se algum desses pontos ainda está travando, é só responder este e-mail contando o que é. Se preferir, também topamos uma conversa rápida de 10 minutos para resolver direto. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Já tomou sua decisão? Se algum desses pontos ainda está travando, é só chamar nosso consultor para resolver direto. [CTA: Falar com o consultor]
 
 ---
 
 ## E05 — Seu orçamento só anda com uma conversa (E04 + 5 dias)
 
 **Assunto (3 versões, confirmar):**
-1. O que dizem sobre a Kit Lanche Express
+1. Quer saber o que dizem sobre a Kit Lanche Express?
 2. 4,9 estrelas em quase 500 avaliações
 3. Isso é o que quem já fechou com a gente diz
 
@@ -136,9 +141,9 @@ Seu orçamento com a Kit Lanche Express já está pronto. Vamos resolver isso ju
 
 Separamos avaliações reais de quem já fechou com a gente, para você ver o que outros gestores encontraram ao decidir.
 
-[espaço para as 3 quotes com foto]
+[espaço para as 3 quotes do Google, avaliações com foto priorizadas]
 
-**Fechamento e CTA:** Se isso te deixou mais tranquilo pra decidir, nosso consultor está pronto pra dar sequência com você. [CTA: Falar com o consultor]
+**Fechamento e CTA:** Já tomou sua decisão? Nosso consultor está pronto para dar sequência com você. [CTA: Falar com o consultor]
 
 ---
 
@@ -147,7 +152,7 @@ Separamos avaliações reais de quem já fechou com a gente, para você ver o qu
 **Assunto (3 versões, confirmar):**
 1. O orçamento está pronto, falta só você
 2. Falta pouco pra fechar o que já está pronto
-3. Isso é sobre cuidar de quem faz sua empresa funcionar
+3. Quem faz sua empresa funcionar merece o melhor
 
 **Hook:** Alimentação corporativa é cuidar de quem faz sua empresa funcionar, todo dia ou num evento só.
 
@@ -155,11 +160,13 @@ Separamos avaliações reais de quem já fechou com a gente, para você ver o qu
 
 **Corpo:**
 
-Seja um evento pontual ou o dia a dia da sua equipe, alimentação corporativa é parte de como sua empresa cuida de quem trabalha nela. E o orçamento que preparamos para você já está pronto para virar isso.
+Seja um evento pontual ou o dia a dia da sua equipe, alimentação corporativa é parte de como sua empresa cuida de quem trabalha nela.
 
-Não existe prazo apertando aqui. O que existe é uma decisão que vale ser tomada com cuidado, porque é sobre pessoas de verdade no fim do dia.
+Sabemos que essa decisão vale ser tomada com cuidado, porque é sobre pessoas de verdade no fim do dia.
 
-**Fechamento e CTA:** Se quiser seguir com o que já está pronto, é só retomar com nosso consultor. Se já resolveu com outro fornecedor, também vale nos contar, isso ajuda a gente a te atender melhor da próxima vez. [CTA primário: Retomar o orçamento] [CTA secundário: Já resolvi com outro fornecedor]
+O orçamento que preparamos para você já está pronto. Vamos garantir juntos que sua empresa forneça o melhor para quem faz ela acontecer!
+
+**Fechamento e CTA:** Retome com nosso consultor! [CTA primário: Retomar o orçamento]
 
 ---
 
@@ -172,7 +179,7 @@ Não existe prazo apertando aqui. O que existe é uma decisão que vale ser toma
 2. Queremos saber como foi
 3. Duas linhas suas ajudam a gente a melhorar
 
-**Hook:** Sua opinião sobre o evento ajuda a gente a continuar entregando bem.
+**Hook:** 1 minuto do seu tempo ajuda a gente a continuar entregando bem.
 
 **Banner:** não usar.
 
@@ -184,13 +191,11 @@ De 0 a 10, o quanto você indicaria a gente para outro gestor?
 
 [escala clicável 0 a 10]
 
-Se quiser contar mais alguma coisa sobre como foi, o espaço abaixo é seu.
-
-[campo aberto opcional]
+Se quiser contar mais alguma coisa sobre como foi, o espaço do nosso WhatsApp é seu!
 
 Conte com a gente quando precisar.
 
-**Fechamento e CTA:** CTA é a própria escala clicável, sem pedido de venda. Assinatura pessoal ao final.
+**Fechamento e CTA:** CTA é o WhatsApp da Kit Lanche Express.
 
 ---
 
