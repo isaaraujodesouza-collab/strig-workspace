@@ -255,10 +255,10 @@ Prime, para fornecimento recorrente, ideal para o café da manhã ou da tarde do
 
 ## E10 — Reconexão (entrada na janela)
 
-**Assunto (3 versões, confirmar):**
-1. Faz tempo, e temos um dado pra trocar ideia
-2. Isso bate com o que você está vendo?
-3. Um dado sobre fornecedores que vale compartilhar
+**Assunto (3 versões, confirmar, uma por dado candidato):**
+1. 73% dos organizadores têm problema com fornecedor de menor preço
+2. Resolver uma crise no dia do evento custa até 3x mais
+3. Falha pública pode levar até 18 meses pra reputação se recuperar
 
 **Hook:** Já faz um tempo desde nosso último contato. Isso não é sobre cobrar nada, é sobre um dado que talvez bata com o que você está vendo.
 
