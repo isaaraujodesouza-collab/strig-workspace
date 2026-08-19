@@ -63,8 +63,10 @@ Todo CTA da régua empurra pro vendedor/consultor. Nenhum e-mail tenta substitui
 2. A importância de conhecer as restrições alimentares antes de fechar
 3. Fechar quantidade confirmada, não estimada
 
+**Correção de hook, trazida na última rodada:** o hook não pode reconhecer "ela ainda não fechou" (isso pressupõe que ela já recebeu orçamento e está decidindo, isso é papel da régua 2A). Régua 1 é pra quem ainda não recebeu o orçamento e está prestes a receber. O hook reconhece que ela está na etapa de planejamento de alimentação corporativa/evento, encontra ela no momento dela, não no status da proposta.
+
 **Blocos (a confirmar formato final):**
-1. Hook reconhecendo que ela ainda não fechou, sem cobrança
+1. Hook reconhecendo que ela está na etapa de planejamento de alimentação corporativa/evento (não "ainda não fechou")
 2. Os 3 pilares, cada um com o porquê importa (regra de densidade da marca — não pode ser só rótulo, precisa ter conteúdo real por trás)
 3. CTA pro consultor — ainda carrega a quebra de objeção "preciso de aprovação interna" (já validada antes), e agora também pode oferecer ajuda pra fechar a quantidade certa
 4. P.S. leve convidando a seguir a marca nas redes sociais — mantido, é o seguro contra perder contato depois que a régua acaba (reentrada desligada), custo baixo, não compete em peso com o CTA
