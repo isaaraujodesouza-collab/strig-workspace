@@ -22,7 +22,7 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 **A história da "Kátia" não pode ser reaproveitada como está.** O e-book apresenta uma história com nome, situação e diálogo como "uma história real (ou quase)". Isso é exatamente o padrão de erro já identificado com esse cliente em setembro/2026 (`diretrizes-copy.md`): história inventada apresentada como caso real ou quase real, mesmo vinda de material comercial já em uso pelo cliente, não pode entrar na copy. Só reaproveitável se virar assumidamente hipotética ("imagina a cena"), nunca com nome/hora/diálogo sugerindo relato real. **Decisão: não usar.**
 
-**Os 3 números do e-book (73%, custo 3x maior, 18 meses de recuperação) vêm de pesquisa interna feita pelo Vini/Kit Lanche Express sobre o setor**, não são inventados. A checagem inicial não encontrou fonte externa publicada porque não é esse o caso, é levantamento interno sobre o setor. **Decisão: os 3 números entram na régua.** A citação "pesquisas do setor indicam", do jeito que está no e-book, não vai ser reaproveitada — precisa de outra forma de atribuição (a definir).
+**Os 3 números do e-book (73%, custo 3x maior, 18 meses de recuperação) vêm de pesquisa interna feita pelo Vini/Kit Lanche Express sobre o setor**, não são inventados. A checagem inicial não encontrou fonte externa publicada porque não é esse o caso, é levantamento interno sobre o setor. **Decisão: os 3 números entram na régua.** A citação do e-book não vai ser reaproveitada como está — precisa de outra forma de atribuição (a definir).
 
 **O que aproveitamos do e-book:** só a lógica estrutural (abrir com algo externo/de mercado antes de falar da marca), não o conteúdo específico nem o tom (o e-book é pesado, "sua reputação em risco" — não é a linguagem da Kit Lanche Express).
 
@@ -34,14 +34,7 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 **Novo ângulo:** dado de mercado como gancho de reconexão, não pergunta pessoal. Reconecta pelo mundo dela (o que tá acontecendo no mercado de alimentação corporativa), não pela empresa. Gera curiosidade e identificação sem cobrar nada. "Estar disponível pra qualquer ocasião" substitui a tentativa de adivinhar qual evento ela tem.
 
-**Candidatos a dado de mercado:**
-
-Da pesquisa de posicionamento, já verificados com fonte:
-- Catering corporativo cresceu quase 20% em 2025 (Dynamic Travel, 2026)
-- Alimentação corporativa em SP cresceu 60% no 1º semestre de 2025, com entrada de dezenas de fornecedores sem histórico (BrandScript KLE, 2026)
-- Taxa de conversão do setor caiu de 66% pra 57%, porque compradores ficaram mais exigentes (BrandScript KLE, 2026)
-
-Do e-book do Vini, pesquisa interna sobre o setor (ver seção acima), os 3 números entram na régua:
+**Candidatos a dado de mercado — do e-book do Vini, pesquisa interna sobre o setor (ver seção acima), os 3 números entram na régua:**
 - 73% dos organizadores enfrentam problemas com fornecedores escolhidos pelo menor preço
 - Custo médio de resolver uma crise no dia do evento é até 3x maior que a economia inicial
 - Recuperação da reputação profissional após falha pública pode levar até 18 meses
