@@ -41,7 +41,7 @@ A Isa trouxe o e-book/isca comercial do Vini como possível fonte de conteúdo p
 
 Todos entram como dado neutro, sem o peso de "sua reputação em risco" que o e-book carrega ao redor deles, só o fato solto, do jeito que os outros dados de mercado também entram.
 
-**Em aberto:** os 3 cabem no E10, ou "3x a economia" e "18 meses" (mais pesados, mais argumento de crise que dado de reconexão leve) fazem mais sentido no E11, que já é o e-mail de dar razão institucional pra reconsiderar? E10 pede leveza, então talvez só o 73% fique lá e os outros dois migrem pro E11.
+**Resolvido:** os 3 números do e-book ficam só no E10. E11 não usa dado do e-book, usa case/dado próprio da marca (ver seção do E11).
 
 **Lógica de sequência com o E11:** E10 credencia pelo lado externo (mercado), E11 credencia pelo lado institucional (a marca). Dois ângulos de prova diferentes em emails seguidos, "pega a pessoa pelos dois lados" em vez de repetir o mesmo tipo de argumento duas vezes.
 
@@ -57,13 +57,18 @@ Todos entram como dado neutro, sem o peso de "sua reputação em risco" que o e-
 
 ## E11 — O que mudou na Kit Lanche Express (E10 + 7 dias)
 
-**Ângulo mantido do brief original**, com a decisão explícita de não importar o tom nem os números do e-book. Motivos pra reconsiderar precisam ser palpáveis e institucionais, não um framework psicológico de medo.
+**Ângulo mantido do brief original**, com a decisão explícita de não importar dado nem tom do e-book aqui (isso fica só no E10). Motivos pra reconsiderar precisam ser palpáveis e institucionais, e agora entram como dado/case próprio da marca, não framework psicológico de medo.
+
+**Credencial confirmada pra usar:**
+- +5 milhões de kits entregues
+- 4,9/5 no Google (atualizado, confirmado por print nessa sessão — o e-book tinha 4,8, desatualizado, não usar)
+- +3.500 clientes atendidos (número de partida do material do Vini, a confirmar com ele, provavelmente é maior)
 
 - **Objetivo:** dar uma razão nova pra reconsiderar
 - **CTA primário:** pedir orçamento
-- **Ângulo:** novidade real desde a última compra, com prova — cardápio, cobertura de entrega, linha Select ou Prime, protocolo 72h pra quem não conheceu na época
-- `[Fase 0]` levantar com o Vini o que efetivamente mudou nos últimos 12 meses. Sem novidade real, vira prova atualizada (números de hoje contra os de quando a pessoa comprou)
-- **Blocos:** hook na mudança · 2 ou 3 novidades concretas · o número que mudou · CTA
+- **Ângulo:** novidade real desde a última compra, com prova — cardápio, cobertura de entrega, linha Select ou Prime, protocolo 72h pra quem não conheceu na época, mais a credencial acima como prova atualizada
+- `[Fase 0]` levantar com o Vini o que efetivamente mudou nos últimos 12 meses, e confirmar o número real de clientes atendidos
+- **Blocos:** hook na mudança · 2 ou 3 novidades concretas · o número que mudou (credencial acima) · CTA
 
 ---
 
