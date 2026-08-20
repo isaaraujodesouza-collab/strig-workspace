@@ -16,7 +16,10 @@ Seis eixos temáticos, cada um com banco de temas próprio. Os três primeiros j
 5. **Ensino / Faça Você Mesmo** — conteúdo útil que ensina a pessoa a resolver sozinha
 6. **Estrutura 360** — Google + Instagram + site funcionando juntos, e o impacto disso na comunicação como um todo
 
-Duas teses reforçadas no eixo Sites/LP, pouco ditas por aí: site não serve só pra vender, serve pra elevar nível de consciência de quem ainda não sabia que tinha o problema; e site é prova de credibilidade antes de qualquer texto de venda.
+Ponto central do eixo Sites/LP, pouco dito por aí: conversão não é venda. Site tem três objetivos possíveis, e o erro mais comum é medir todo site pelo mesmo critério (vendeu ou não vendeu):
+1. **Fechar venda** — quando o ciclo de decisão é curto e a oferta permite compra direta na página.
+2. **Gerar conversa com o time comercial** — a página não fecha nada sozinha, mas produz o contato qualificado que o vendedor precisa pra fechar.
+3. **Aumentar nível de consciência e credibilidade** — a visita não termina em ação nenhuma na hora, termina em "essa marca parece confiável" ou "preciso entender melhor esse problema" — e isso também é resultado.
 
 O banco tem mais temas do que os 27 posts do período (5/semana), de propósito — dá margem pra escolher na hora de montar o calendário.
 
@@ -25,160 +28,111 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 ## Eixo 1 — Sites/LP (reforçado)
 
 ### 1. Letra: Crises
-**Tema:** Seu site é um cartão de visita bonito que não vende nada
-**Hook:** "Ter site não é a mesma coisa que ter um site que trabalha por você."
-**Núcleo:** A maioria dos sites de PME existe só pra "parecer profissional", não foi construído pra guiar decisão.
-**BIP:** Observação de diagnóstico de site de cliente que não gerava nenhum contato.
-**CTA:** "Site sem estratégia é vitrine vazia. Link na bio."
+**Tema:** Site não é obrigado a vender. Mas é obrigado a fazer alguma coisa
+**Hook:** "A pergunta certa não é 'seu site vende?'. É 'seu site sabe o que ele deveria estar fazendo?'"
+**Núcleo:** Desconstruir a ideia de que conversão é sinônimo de venda. Todo site tem um objetivo — fechar venda, gerar contato comercial ou aumentar consciência/afinidade — e o erro não é o site "não vender", é ninguém ter decidido qual desses três ele deveria cumprir.
+**BIP:** Diagnóstico de cliente que media o site pelo critério errado (cobrava venda direta de uma página que era institucional).
+**CTA:** "Site com objetivo claro tem método. Link na bio."
 
-### 2. Letra: Crises
-**Tema:** Você paga tráfego pago pra mandar gente pra um site que não conclui a venda
-**Hook:** "Tráfego pago não é o problema. O problema é onde ele cai."
-**Núcleo:** O erro de escalar anúncio sem garantir que a página de destino converte. Balde furado: dinheiro entra, escoa.
-**BIP:** Auditoria de campanha onde o CPL estava alto por causa da LP, não da segmentação.
-**CTA:** "Antes de escalar tráfego, arruma onde ele cai. Link na bio."
+### 2. Letra: Receita
+**Tema:** Conversão não é venda. É a ação que aproxima da venda
+**Hook:** "Ninguém compra clicando em 'saiba mais'. Mas quem clica em 'saiba mais' compra depois."
+**Núcleo:** Diferença prática entre conversão (preencher formulário, mandar WhatsApp, seguir o perfil) e venda (fechar negócio). Exigir venda direta de todo site é medir errado — o objetivo certo depende do ciclo de decisão do produto ou serviço.
+**BIP necessário:** Cliente cujo site converte muito em contato mas fecha pouco na hora — e isso é normal pro ciclo de venda dele.
+**CTA:** "Cada site tem a métrica certa pra ele. A Strig ajuda a descobrir qual. Link na bio."
 
-### 3. Letra: Crises
-**Tema:** Site feito por template genérico não fala com o seu cliente, fala com todo mundo
-**Hook:** "Se o seu site serve pra qualquer negócio do seu segmento, ele não serve pro seu."
-**Núcleo:** Templates genéricos não carregam o diferencial da marca nem respondem à objeção específica do público dela.
-**BIP:** Diagnóstico onde o site parecia com o de três concorrentes.
-**CTA:** "Site com posicionamento não é genérico. Link na bio."
-
-### 4. Letra: Crises
-**Tema:** Seu site custou caro e ainda assim não vende
-**Hook:** "Caro e bonito não é sinônimo de eficiente."
-**Núcleo:** O problema raramente é o valor pago, é a ausência de estratégia de conversão por trás dele.
-**BIP:** Cliente que já tinha site caro e trocou por um menor, mais estratégico, com resultado melhor.
-**CTA:** "Tem método pra fazer o site valer o investimento. Link na bio."
-
-### 5. Letra: Receita
-**Tema:** Como a Strig decide a estrutura de uma landing page antes de escrever uma linha
-**Hook:** "Antes de desenhar qualquer página, a Strig responde uma pergunta: o que essa pessoa precisa acreditar pra comprar?"
-**Núcleo:** A ordem das dobras não é estética, é lógica de convencimento (dor → mecanismo → prova → oferta → objeção → CTA).
-**BIP necessário:** Exemplo real de como esse raciocínio foi aplicado num projeto.
-**CTA:** "É o Método LP da Atração. Link na bio."
-
-### 6. Letra: Evolução
-**Tema:** De site que ninguém preenchia o formulário a site que lota a agenda
-**Hook:** "O formulário sempre esteve lá. O problema era o que vinha antes dele."
-**Núcleo:** Cadeia: mais clareza → mais confiança → mais formulário preenchido → mais agenda cheia.
-**BIP:** Case real (PPD) com dado de antes/depois de preenchimento de formulário.
+### 3. Letra: Evolução
+**Tema:** De site que devia fechar venda sozinho pra site que gera conversa com o time comercial
+**Hook:** "O site parou de tentar fechar sozinho. E foi aí que começou a funcionar."
+**Núcleo:** Case de reestruturação: em vez de forçar fechamento na página (formulário de compra direta, por exemplo), o site passa a gerar interesse qualificado que puxa a pessoa pra falar com um vendedor. Resultado: mais conversas qualificadas, não necessariamente mais cliques em "comprar".
+**BIP:** Case real (PPD) onde a métrica que melhorou foi contato qualificado, não venda direta no site.
 **CTA:** "Isso é o Método LP da Atração. Link na bio."
 
-### 7. Letra: Evolução
-**Tema:** De site que gera dúvida pra site que gera decisão
-**Hook:** "O visitante não sai do seu site sem decidir algo. Ou ele decide comprar, ou decide desconfiar."
-**Núcleo:** Toda página comunica algo, mesmo quando não converte. Mostrar a diferença entre um site que deixa a decisão em aberto e um que conduz.
-**BIP:** Observação de dois sites de clientes com estrutura diferente e resultado diferente.
-**CTA:** "Site que conduz decisão tem método. Link na bio."
+### 4. Letra: Essência
+**Tema:** Site também existe pra fazer a pessoa querer conhecer a marca melhor
+**Hook:** "Nem toda visita no site precisa terminar em contato. Algumas só precisam terminar em 'quero saber mais sobre essa marca'."
+**Núcleo:** Parte do papel do site é aumentar afinidade e curiosidade, não converter na hora — é o que faz alguém seguir o Instagram, salvar o site, voltar depois. Site também trabalha topo de funil, não só fundo.
+**BIP:** Visitante que só seguiu o Instagram depois de visitar o site, sem preencher formulário nenhum.
+**CTA:** "Site que constrói afinidade converte depois. Link na bio."
 
-### 8. Letra: Essência
+### 5. Letra: Essência
 **Tema:** Seu site não existe só pra vender. Existe pra educar quem ainda não sabe que precisa de você
 **Hook:** "Nem todo mundo que chega no seu site já sabe que precisa do que você faz."
-**Núcleo:** A função do site como ferramenta de elevação de nível de consciência, não só de conversão imediata. Site que só empurra oferta perde quem ainda não percebeu a dor.
+**Núcleo:** A função do site como ferramenta de elevação de nível de consciência. Quem chega no topo do funil precisa entender o problema antes de considerar a solução — site que só empurra oferta perde quem ainda não percebeu a dor.
 **BIP:** Lead que "amadureceu" depois de ler o site, mesmo sem converter na hora.
 **CTA:** "Site que educa converte melhor depois. Link na bio."
 
-### 9. Letra: Essência
+### 6. Letra: Essência
 **Tema:** O que seu site comunica sobre você antes mesmo de alguém ler uma palavra
 **Hook:** "Antes de ler qualquer texto, o visitante já decidiu se confia em você. Isso leva menos de 1 segundo."
-**Núcleo:** Credibilidade é comunicada por sinais visuais e estruturais antes do conteúdo. Site é prova de confiança antes de ser página de venda.
+**Núcleo:** Credibilidade é comunicada por sinais visuais e estruturais antes do conteúdo. Site é prova de confiança antes de ser página de venda — às vezes esse é o único trabalho que ele precisa fazer.
 **BIP:** Diagnóstico onde o problema não era a oferta, era a primeira impressão.
 **CTA:** "Credibilidade também é projeto. Link na bio."
 
-### 10. Letra: Resultado
-**Tema:** De site parado a site gerando contato toda semana
-**Hook:** "O site ficou dois anos no ar sem gerar um único contato. Depois de reestruturado, gera toda semana."
-**Núcleo:** Case de LP reformulada (cliente PPD), antes e depois de aplicar o Método LP da Atração.
-**BIP obrigatório:** Dado real do case (anonimizado se necessário).
-**CTA:** "Quer saber se seu site converte? Link na bio."
+### 7. Letra: Resultado
+**Tema:** O site que não vendeu nada naquele mês e ainda assim foi um dos melhores investimentos do cliente
+**Hook:** "O site não vendeu nada naquele mês. E ainda assim foi um dos melhores investimentos que o cliente fez."
+**Núcleo:** Case onde o KPI certo não era venda no clique — era aumento de seguidores qualificados, tempo de permanência, retorno de visitante. Provar que medir certo muda a percepção de sucesso.
+**BIP obrigatório:** Dado real do case.
+**CTA:** "Quer saber qual é o objetivo certo pro seu site? Link na bio."
 
-### 11. Letra: Resultado
+### 8. Letra: Resultado
 **Tema:** A landing page que dobrou a taxa de conversão sem trocar uma imagem
 **Hook:** "Nada mudou visualmente. Só a ordem e o argumento. E a conversão dobrou."
-**Núcleo:** Case de reestruturação de copy e ordem de dobras sem redesign completo. Conversão é sobre argumento, não sobre estética.
+**Núcleo:** Case de reestruturação de copy e ordem de dobras sem redesign completo — esse é o caso em que o objetivo era mesmo fechar venda direto, e o método também resolve. Conversão é sobre argumento, não sobre estética.
 **BIP obrigatório:** Dado real de antes/depois.
 **CTA:** "Quer saber se sua LP converte? Link na bio."
-
-### 12. Letra: Resultado
-**Tema:** Duas versões do mesmo site, dois resultados completamente diferentes
-**Hook:** "Mesmo produto, mesmo público, mesmo preço. Só o site mudou. E o resultado também."
-**Núcleo:** Comparativo direto entre a versão antiga e a nova de um mesmo site/LP, isolando a variável site pra provar o impacto real dela no negócio.
-**BIP obrigatório:** Dados reais das duas versões.
-**CTA:** "Quer um site assim? Link na bio."
 
 ---
 
 ## Eixo 2 — Buscou, Achou (GMB)
 
 ### 1. Letra: Evolução
-**Tema:** O que muda quando o cliente encontra você antes de precisar procurar
-**Hook:** "Tem negócio que espera aparecer. Tem negócio que já apareceu antes de você buscar."
-**Núcleo:** Diferença entre visibilidade passiva e ativa no Google.
-**BIP:** Case de cliente que passou de invisível a topo de busca local.
-**CTA:** "Isso é o Buscou, Achou. Link na bio."
-
-### 2. Letra: Evolução
 **Tema:** De perfil abandonado a fonte de leads recorrente
 **Hook:** "O Google Meu Negócio não estava desatualizado. Estava abandonado."
 **Núcleo:** Cadeia: perfil ativo → mais visualização → mais contato → mais venda.
 **BIP:** Case real de cliente com aumento de cliques/ligações após otimização.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 3. Letra: Evolução
+### 2. Letra: Evolução
 **Tema:** O cliente que trocou "só recebo por indicação" por "recebo mensagem todo dia"
 **Hook:** "Indicação é sorte disfarçada de estratégia. Busca ativa é estrutura."
 **Núcleo:** Transformação real na origem do lead depois da otimização do perfil no Google.
 **BIP:** Case Saturno ou nicho financeiro, foco na origem do lead.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 4. Letra: Evolução
-**Tema:** O que muda na rotina do negócio quando o telefone toca sozinho
-**Hook:** "Antes, alguém precisava indicar. Agora, o telefone toca sozinho."
-**Núcleo:** Menos tempo em prospecção ativa, mais tempo atendendo quem já chega decidido.
-**BIP:** Case real com foco na rotina, não só no número.
-**CTA:** "Isso é o Buscou, Achou. Link na bio."
-
-### 5. Letra: Evolução
+### 3. Letra: Evolução
 **Tema:** De perfil com 3 fotos genéricas pra perfil que já responde a maior objeção do cliente
 **Hook:** "O perfil tinha 3 fotos e nenhuma resposta. Hoje responde antes de tocar o telefone."
 **Núcleo:** O que um perfil completo faz por conta própria: mostra, prova, responde objeção, antes de qualquer contato humano.
 **BIP:** Comparativo real de perfil antes/depois de completo.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 6. Letra: Crises
+### 4. Letra: Crises
 **Tema:** Seu perfil no Google não é atualizado há meses, e isso tem um custo que você não vê
 **Hook:** "Enquanto seu perfil dorme, o do seu concorrente aparece primeiro."
 **Núcleo:** O custo invisível de um perfil parado: cada mês sem atualização é oportunidade de busca perdida.
 **BIP:** Diagnóstico com tempo de inatividade real do perfil.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 7. Letra: Crises
+### 5. Letra: Crises
 **Tema:** Seu perfil no Google recebe visita, mas ninguém liga. Sabe por quê?
 **Hook:** "Aparecer não é o problema. O problema é o que a pessoa vê quando chega."
 **Núcleo:** Visualização alta com conversão baixa é sinal de perfil incompleto ou pouco convincente, não de falta de alcance.
 **BIP:** Diagnóstico com dado de visualização x contato.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 8. Letra: Receita
+### 6. Letra: Receita
 **Tema:** O que a Strig olha primeiro quando audita um perfil de Google Meu Negócio
 **Hook:** "Em menos de 5 minutos, dá pra saber se um perfil de Google tá jogando a favor ou contra o negócio."
 **Núcleo:** O critério de priorização da Strig num diagnóstico de GMB — o que pesa mais, o que resolve rápido, o que exige mais trabalho.
 **BIP necessário:** Exemplo real de auditoria.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
-### 9. Letra: Resultado
+### 7. Letra: Resultado
 **Tema:** De quantos contatos por mês pra quantos, depois da otimização do perfil
 **Hook:** "Antes, o perfil recebia visita e ninguém sabia. Depois, cada visita virou número."
 **Núcleo:** Case fechando com dado comparativo real de cliques/ligações/mensagens antes e depois da otimização.
-**BIP obrigatório:** Dado real do case.
-**CTA:** "Isso é o Buscou, Achou. Link na bio."
-
-### 10. Letra: Resultado
-**Tema:** O cliente que, depois de 60 dias com o perfil otimizado, parou de depender de anúncio local
-**Hook:** "O perfil passou a fazer o trabalho que o anúncio fazia. E custava zero por clique."
-**Núcleo:** Case onde a otimização do GMB reduziu a dependência de tráfego pago pra gerar contato local.
 **BIP obrigatório:** Dado real do case.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
@@ -347,13 +301,13 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 
 ---
 
-## Distribuição do banco (43 temas para 27 posts do período)
+## Distribuição do banco (36 temas para 27 posts do período)
 
-- Sites/LP: 12
-- Buscou, Achou: 10
+- Sites/LP: 8 — reforçado, mas sem repetir o mesmo argumento de crise em quase todo tema
+- Buscou, Achou: 7
+- Ensino/Faça Você Mesmo: 6
 - CRESCER: 5
 - Institucional: 5
-- Ensino/Faça Você Mesmo: 6
 - Estrutura 360: 5
 
 ---
