@@ -28,24 +28,24 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 ## Eixo 1 — Sites/LP (reforçado)
 
 ### 1. Letra: Crises
-**Tema:** Site não é obrigado a vender. Mas é obrigado a fazer alguma coisa
-**Hook:** "A pergunta certa não é 'seu site vende?'. É 'seu site sabe o que ele deveria estar fazendo?'"
-**Núcleo:** Desconstruir a ideia de que conversão é sinônimo de venda. Todo site tem um objetivo — fechar venda, gerar contato comercial ou aumentar consciência/afinidade — e o erro não é o site "não vender", é ninguém ter decidido qual desses três ele deveria cumprir.
-**BIP:** Diagnóstico de cliente que media o site pelo critério errado (cobrava venda direta de uma página que era institucional).
+**Tema:** Você cobra venda do seu site. Mas nunca decidiu se essa era a função dele
+**Hook:** "Quantas vendas seu site fechou esse mês? Antes de responder, pensa: essa era mesmo a pergunta certa?"
+**Núcleo:** A maioria dos donos de negócio mede o site por um único critério (vendeu ou não vendeu), sem nunca ter definido, na hora de construir, se o objetivo era fechar venda, gerar contato comercial ou construir confiança. O erro não é o site não vender — é cobrar de um objetivo que nunca foi definido.
+**BIP:** Diagnóstico de cliente que reclamava do site "não vender" e o problema real era nunca ter existido um objetivo definido pra página.
 **CTA:** "Site com objetivo claro tem método. Link na bio."
 
 ### 2. Letra: Receita
-**Tema:** Conversão não é venda. É a ação que aproxima da venda
-**Hook:** "Ninguém compra clicando em 'saiba mais'. Mas quem clica em 'saiba mais' compra depois."
-**Núcleo:** Diferença prática entre conversão (preencher formulário, mandar WhatsApp, seguir o perfil) e venda (fechar negócio). Exigir venda direta de todo site é medir errado — o objetivo certo depende do ciclo de decisão do produto ou serviço.
+**Tema:** Preencher formulário não é vender. Mas é o que faz a venda acontecer depois
+**Hook:** "Ninguém fecha contrato através de um formulário. Mas sem o formulário, ninguém chega no contrato."
+**Núcleo:** Conversão é a ação que a página consegue gerar (contato, WhatsApp, cadastro); venda é o que acontece depois, quase sempre fora da página, com um vendedor ou um processo comercial. Cobrar venda de uma landing page é cobrar da porta o trabalho que é da recepção.
 **BIP necessário:** Cliente cujo site converte muito em contato mas fecha pouco na hora — e isso é normal pro ciclo de venda dele.
 **CTA:** "Cada site tem a métrica certa pra ele. A Strig ajuda a descobrir qual. Link na bio."
 
 ### 3. Letra: Evolução
-**Tema:** De site que devia fechar venda sozinho pra site que gera conversa com o time comercial
-**Hook:** "O site parou de tentar fechar sozinho. E foi aí que começou a funcionar."
-**Núcleo:** Case de reestruturação: em vez de forçar fechamento na página (formulário de compra direta, por exemplo), o site passa a gerar interesse qualificado que puxa a pessoa pra falar com um vendedor. Resultado: mais conversas qualificadas, não necessariamente mais cliques em "comprar".
-**BIP:** Case real (PPD) onde a métrica que melhorou foi contato qualificado, não venda direta no site.
+**Tema:** O site parou de tentar vender sozinho. Foi aí que começou a gerar venda de verdade
+**Hook:** "Quanto mais o site tentava fechar sozinho, menos gente respondia. Quando parou de tentar, o telefone começou a tocar."
+**Núcleo:** Case de reestruturação: trocar um formulário de "compre agora" por um de "fale com um especialista" mudou o resultado, não porque a venda parou de importar, mas porque o site passou a fazer a parte que era dele — gerar interesse qualificado — e deixou o fechamento pra quem fecha.
+**BIP:** Case real (PPD) onde a métrica que melhorou foi contato qualificado, não clique em "comprar".
 **CTA:** "Isso é o Método LP da Atração. Link na bio."
 
 ### 4. Letra: Essência
