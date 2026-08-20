@@ -176,10 +176,10 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Conteúdo com tese tem método. Conheça o CRESCER. Link na bio."
 
 ### 7. Letra: Evolução
-**Tema:** De perfil que ninguém comentava pra perfil onde o público briga pra dar palpite
-**Hook:** "Engajamento não se pede na legenda. Se constrói com conteúdo que dá o que discutir."
-**Núcleo:** A diferença entre pedir interação ("comenta aqui embaixo") e criar conteúdo que naturalmente convida a opinião, porque toca num ponto de vista real do CRESCER (Crise ou Essência, normalmente).
-**BIP:** Case de post ou perfil que passou a gerar comentário espontâneo depois de assumir um ponto de vista mais forte.
+**Tema:** Rolar e continuar rolando é o padrão. Parar pra comentar é exceção, e tem um motivo
+**Hook:** "Ninguém comenta em post que não dá margem pra concordar ou discordar de verdade."
+**Núcleo:** Comentário espontâneo acontece quando a pessoa se reconhece no post ou discorda dele o suficiente pra registrar isso. Conteúdo consensual demais não dá gancho pra nenhum dos dois — e "comenta aqui embaixo" na legenda não resolve isso, só pede o que o conteúdo não gerou sozinho.
+**BIP:** Observação real comparando um post com ponto de vista claro e outro genérico do mesmo perfil, e a diferença de reação entre eles.
 **CTA:** "É o método CRESCER. Link na bio."
 
 ---
