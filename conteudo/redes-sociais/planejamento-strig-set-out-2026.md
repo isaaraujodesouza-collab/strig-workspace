@@ -194,10 +194,10 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Hoje a Strig começa pela estrutura. O PPD é a porta de entrada. Link na bio."
 
 ### 2. Letra: Essência
-**Tema:** A regra que a Strig nunca quebra, mesmo perdendo proposta
-**Hook:** "Já perdemos proposta por causa disso. E não mudamos a regra."
-**Núcleo:** Uma crença/prática inegociável da Strig — não vender uma peça isolada sem antes diagnosticar a estrutura completa do cliente.
-**BIP obrigatório:** Situação real onde isso aconteceu.
+**Tema:** A Strig não vende o mesmo pacote pra todo mundo. Vende o que o momento digital do cliente pede
+**Hook:** "Duas empresas pedem a mesma coisa. A Strig propõe caminhos diferentes pra cada uma. Depende de onde cada uma já está."
+**Núcleo:** Antes de propor qualquer serviço, a Strig diagnostica em que momento de estrutura digital o cliente está. Se já tem base pronta (GMB, site, Instagram estruturados), faz sentido começar acelerando com social media e tráfego pago. Se não tem, começa pela estrutura — investir em aceleração sem base sólida é queimar dinheiro. Não é sobre vender mais ou vender menos, é sobre vender o certo pro momento.
+**BIP obrigatório:** Situação real de diagnóstico onde a Strig recomendou caminhos diferentes pra dois perfis de cliente.
 **CTA:** "É assim que a Strig trabalha. Link na bio."
 
 ### 3. Letra: Storytelling
