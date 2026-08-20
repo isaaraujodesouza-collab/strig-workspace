@@ -233,18 +233,18 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Se seu site não passou no teste, a Strig mostra como resolver. Link na bio."
 
 ### 2. Letra: Conteúdo Útil
-**Tema:** As 3 dúvidas que sua página precisa responder antes de pedir pra alguém comprar
-**Hook:** "Se sua página não responde essas 3 perguntas, ela tá pedindo confiança demais e provando de menos."
-**Núcleo:** Critério de objeção aplicável na própria página: quem é você, por que confiar, o que acontece depois de comprar.
-**BIP:** Observação real.
-**CTA:** "Quer ajuda pra aplicar isso na prática? Link na bio."
-
-### 3. Letra: Conteúdo Útil
 **Tema:** Como saber se você precisa de site institucional ou de landing page, antes de pedir orçamento
 **Hook:** "Pedir o serviço errado é a forma mais cara de perder tempo."
 **Núcleo:** Critério de escolha pra pessoa aplicar sozinha antes mesmo de conversar com qualquer agência.
 **BIP:** Cliente que pediu o serviço errado pro objetivo que tinha.
 **CTA:** "A Strig ajuda a decidir qual você precisa. Link na bio."
+
+### 3. Letra: Conteúdo Útil
+**Tema:** Monte seu banco de pauta pro mês inteiro usando 7 perguntas
+**Hook:** "Você não precisa de inspiração pra postar. Precisa de 7 perguntas certas."
+**Núcleo:** Passo a passo aplicável na hora: responder uma pergunta por letra do CRESCER (que dor eu resolvo, qual o meu método, que transformação gero, e assim por diante) — cada resposta vira uma pauta. Ensinar de verdade, sem reter o processo.
+**BIP:** Não obrigatório, mas pode citar que é o mesmo processo que a Strig usa pra montar o próprio planejamento.
+**CTA:** "Se travar, o método completo chama CRESCER. Link na bio."
 
 ### 4. Letra: Conteúdo Útil
 **Tema:** O erro mais comum em perfil de Google Meu Negócio que ninguém percebe sozinho
