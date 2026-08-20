@@ -187,11 +187,11 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 ## Eixo 4 — Institucional
 
 ### 1. Letra: Storytelling
-**Tema:** Por que a Strig decidiu vender site e não só conteúdo
-**Hook:** "Durante um tempo, a Strig só vendia conteúdo. Isso mudou. Não por acaso."
-**Núcleo:** Bastidor da decisão de expandir a oferta pra desenvolvimento web. O motivo: conteúdo bom levando pra site ruim quebra o funil.
-**BIP obrigatório:** A decisão real, quando foi tomada e por quê.
-**CTA:** "Hoje a Strig entrega posicionamento de ponta a ponta. Link na bio."
+**Tema:** Por que a Strig parou de vender social media e tráfego pago soltos, e passou a vender estrutura primeiro
+**Hook:** "A Strig vendia social media bom e tráfego pago bem feito. E ainda assim via cliente sem resultado."
+**Núcleo:** Bastidor da decisão de mudar o modelo: em vez de entregar serviços recorrentes pra quem ainda não tinha GMB, site e Instagram estruturados, a Strig passou a exigir a base pronta primeiro. O motivo: social media bom e tráfego pago bem feito não sustentam resultado quando caem em cima de uma estrutura fraca ou inexistente.
+**BIP obrigatório:** A decisão real, quando foi tomada e o que motivou (cliente que investia em social/tráfego sem resultado por falta de base).
+**CTA:** "Hoje a Strig começa pela estrutura. O PPD é a porta de entrada. Link na bio."
 
 ### 2. Letra: Essência
 **Tema:** A regra que a Strig nunca quebra, mesmo perdendo proposta
