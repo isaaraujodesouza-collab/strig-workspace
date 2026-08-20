@@ -286,11 +286,11 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Presença não é estrutura. Estrutura tem método. Link na bio."
 
 ### 4. Letra: Receita
-**Tema:** Por que a Strig entrega GMB, site e Instagram juntos e não separado
-**Hook:** "Separado, cada peça funciona sozinha. Junto, elas se sustentam."
-**Núcleo:** Lógica do PPD como sistema — o cliente busca no Google, valida no Instagram, decide no site. Quebrar um elo quebra o funil inteiro.
-**BIP necessário:** Cliente que tinha só uma parte estruturada e onde isso travava o resultado.
-**CTA:** "É o PPD. Os três pilares juntos. Link na bio."
+**Tema:** Mesmo entregando peça por peça, a Strig nunca pensa peça por peça
+**Hook:** "Você pode contratar só o site. Mas o diagnóstico nunca é só sobre o site."
+**Núcleo:** A Strig entrega GMB, site e Instagram separados quando faz sentido pro momento do cliente — às vezes só uma parte está fraca, às vezes o orçamento é pra uma etapa por vez. O que não muda é o raciocínio: antes de mexer em qualquer peça, olhar pra estrutura completa, pra entender onde ela se encaixa e o que precisa comunicar pros outros canais não perderem força.
+**BIP necessário:** Cliente que contratou uma peça isolada e o diagnóstico completo mudou o que foi entregue nela.
+**CTA:** "Mesmo separado, o raciocínio é sistêmico. Link na bio."
 
 ### 5. Letra: Resultado
 **Tema:** O que muda quando os três canais contam a mesma história
