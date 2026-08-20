@@ -201,17 +201,17 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "É assim que a Strig trabalha. Link na bio."
 
 ### 3. Letra: Storytelling
-**Tema:** O dia que um cliente perguntou "por que vocês não fazem meu site também?"
-**Hook:** "Foi um cliente que fez a pergunta que a Strig ainda não tinha se feito."
-**Núcleo:** Bastidor de como a demanda por sites virou serviço formal.
-**BIP obrigatório:** Relato real da situação, cliente e contexto (anonimizado se necessário).
-**CTA:** "Hoje isso já é parte do que a Strig entrega. Link na bio."
+**Tema:** A Strig começou numa casa, só Isa e Chrys. Hoje é outra empresa. Não foi sorte
+**Hook:** "Em 2023, a Strig era duas pessoas trabalhando de casa. Hoje é outra empresa."
+**Núcleo:** Bastidor real da trajetória da Strig — começou pequena, sem estrutura, só os dois fundadores, e cresceu até ter equipe e estrutura próprias. O crescimento veio de aplicar em si mesma a mesma lógica que vende pro cliente: construir a base antes de escalar. A empresa é prova viva da própria tese que defende.
+**BIP obrigatório:** Detalhes reais da trajetória — fundação em 2023, trabalho de casa, o que mudou até chegar na estrutura de hoje.
+**CTA:** "Hoje a Strig ajuda outros negócios a fazer essa mesma virada. Link na bio."
 
 ### 4. Letra: Essência
-**Tema:** Somos dreammakers, não prestadores de serviço
-**Hook:** "Prestador de serviço entrega o que foi pedido. A Strig entrega o que o negócio precisa pra crescer, mesmo quando não foi pedido."
-**Núcleo:** O que essa crença muda na prática: diagnóstico antes de execução, recusa de trabalho raso, disposição pra discordar do cliente quando o pedido não resolve o problema real.
-**BIP:** Situação real onde a Strig discordou de um pedido e propôs outra coisa.
+**Tema:** O que "dreammaker" significa na prática, não só no slogan
+**Hook:** "Não é sobre ser diferente por ser diferente. É sobre o que a Strig faz antes de aceitar qualquer pedido."
+**Núcleo:** O que essa crença muda na prática: diagnóstico antes de execução, disposição pra discordar de um pedido quando ele não resolve o problema real do negócio, e compromisso com o resultado final do cliente, não só com a entrega do que foi pedido.
+**BIP:** Situação real onde a Strig discordou de um pedido e propôs outra coisa, e por quê.
 **CTA:** "É assim que a Strig trabalha. Link na bio."
 
 ### 5. Letra: Storytelling
