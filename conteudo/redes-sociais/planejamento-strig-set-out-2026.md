@@ -49,34 +49,27 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Isso é o Método LP da Atração. Link na bio."
 
 ### 4. Letra: Essência
-**Tema:** Site também existe pra fazer a pessoa querer conhecer a marca melhor
-**Hook:** "Nem toda visita no site precisa terminar em contato. Algumas só precisam terminar em 'quero saber mais sobre essa marca'."
-**Núcleo:** Parte do papel do site é aumentar afinidade e curiosidade, não converter na hora — é o que faz alguém seguir o Instagram, salvar o site, voltar depois. Site também trabalha topo de funil, não só fundo.
-**BIP:** Visitante que só seguiu o Instagram depois de visitar o site, sem preencher formulário nenhum.
-**CTA:** "Site que constrói afinidade converte depois. Link na bio."
-
-### 5. Letra: Essência
 **Tema:** Seu site não existe só pra vender. Existe pra educar quem ainda não sabe que precisa de você
 **Hook:** "Nem todo mundo que chega no seu site já sabe que precisa do que você faz."
 **Núcleo:** A função do site como ferramenta de elevação de nível de consciência. Quem chega no topo do funil precisa entender o problema antes de considerar a solução — site que só empurra oferta perde quem ainda não percebeu a dor.
 **BIP:** Lead que "amadureceu" depois de ler o site, mesmo sem converter na hora.
 **CTA:** "Site que educa converte melhor depois. Link na bio."
 
-### 6. Letra: Essência
+### 5. Letra: Essência
 **Tema:** O que seu site comunica sobre você antes mesmo de alguém ler uma palavra
 **Hook:** "Antes de ler qualquer texto, o visitante já decidiu se confia em você. Isso leva menos de 1 segundo."
 **Núcleo:** Credibilidade é comunicada por sinais visuais e estruturais antes do conteúdo. Site é prova de confiança antes de ser página de venda — às vezes esse é o único trabalho que ele precisa fazer.
 **BIP:** Diagnóstico onde o problema não era a oferta, era a primeira impressão.
 **CTA:** "Credibilidade também é projeto. Link na bio."
 
-### 7. Letra: Resultado
+### 6. Letra: Resultado
 **Tema:** O site que não vendeu nada naquele mês e ainda assim foi um dos melhores investimentos do cliente
 **Hook:** "O site não vendeu nada naquele mês. E ainda assim foi um dos melhores investimentos que o cliente fez."
 **Núcleo:** Case onde o KPI certo não era venda no clique — era aumento de seguidores qualificados, tempo de permanência, retorno de visitante. Provar que medir certo muda a percepção de sucesso.
 **BIP obrigatório:** Dado real do case.
 **CTA:** "Quer saber qual é o objetivo certo pro seu site? Link na bio."
 
-### 8. Letra: Resultado
+### 7. Letra: Resultado
 **Tema:** A landing page que dobrou a taxa de conversão sem trocar uma imagem
 **Hook:** "Nada mudou visualmente. Só a ordem e o argumento. E a conversão dobrou."
 **Núcleo:** Case de reestruturação de copy e ordem de dobras sem redesign completo — esse é o caso em que o objetivo era mesmo fechar venda direto, e o método também resolve. Conversão é sobre argumento, não sobre estética.
@@ -175,6 +168,20 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **BIP obrigatório:** Dado real ou relato de cliente.
 **CTA:** "É o método CRESCER. Link na bio."
 
+### 6. Letra: Crises
+**Tema:** Você tem um Instagram cheio de post e nenhuma tese
+**Hook:** "Feed cheio não é a mesma coisa que feed com posicionamento."
+**Núcleo:** O problema de acumular posts sem que nenhum deles defenda uma ideia clara. Quem passa pelo perfil não sai sabendo o que a marca defende, só que ela posta.
+**BIP:** Observação de perfil de cliente com bom volume de post e zero clareza de tese ao rolar o feed inteiro.
+**CTA:** "Conteúdo com tese tem método. Conheça o CRESCER. Link na bio."
+
+### 7. Letra: Evolução
+**Tema:** De perfil que ninguém comentava pra perfil onde o público briga pra dar palpite
+**Hook:** "Engajamento não se pede na legenda. Se constrói com conteúdo que dá o que discutir."
+**Núcleo:** A diferença entre pedir interação ("comenta aqui embaixo") e criar conteúdo que naturalmente convida a opinião, porque toca num ponto de vista real do CRESCER (Crise ou Essência, normalmente).
+**BIP:** Case de post ou perfil que passou a gerar comentário espontâneo depois de assumir um ponto de vista mais forte.
+**CTA:** "É o método CRESCER. Link na bio."
+
 ---
 
 ## Eixo 4 — Institucional
@@ -253,13 +260,6 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **BIP:** Cliente que fez sozinho e já viu diferença.
 **CTA:** "Quer ir além do básico? Link na bio."
 
-### 6. Letra: Conteúdo Útil
-**Tema:** Como saber se seu perfil no Google está te fazendo perder cliente
-**Hook:** "Tem um jeito rápido de saber se seu perfil no Google está funcionando contra você."
-**Núcleo:** 3-4 sinais de alerta que qualquer pessoa consegue checar sozinha no próprio perfil.
-**BIP:** Observação de diagnóstico recorrente da Strig.
-**CTA:** "Isso é o Buscou, Achou. Link na bio."
-
 ---
 
 ## Eixo 6 — Estrutura 360
@@ -303,10 +303,10 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 
 ## Distribuição do banco (36 temas para 27 posts do período)
 
-- Sites/LP: 8 — reforçado, mas sem repetir o mesmo argumento de crise em quase todo tema
+- Sites/LP: 7
 - Buscou, Achou: 7
-- Ensino/Faça Você Mesmo: 6
-- CRESCER: 5
+- CRESCER: 7
+- Ensino/Faça Você Mesmo: 5
 - Institucional: 5
 - Estrutura 360: 5
 
