@@ -35,17 +35,17 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Site com objetivo claro tem método. Link na bio."
 
 ### 2. Letra: Receita
-**Tema:** Preencher formulário não é vender. Mas é o que faz a venda acontecer depois
-**Hook:** "Ninguém fecha contrato através de um formulário. Mas sem o formulário, ninguém chega no contrato."
-**Núcleo:** Conversão é a ação que a página consegue gerar (contato, WhatsApp, cadastro); venda é o que acontece depois, quase sempre fora da página, com um vendedor ou um processo comercial. Cobrar venda de uma landing page é cobrar da porta o trabalho que é da recepção.
-**BIP necessário:** Cliente cujo site converte muito em contato mas fecha pouco na hora — e isso é normal pro ciclo de venda dele.
-**CTA:** "Cada site tem a métrica certa pra ele. A Strig ajuda a descobrir qual. Link na bio."
+**Tema:** Por que seu cliente quer falar com alguém antes de comprar, mesmo depois de ver tudo no site
+**Hook:** "Ele já viu o preço, já viu o portfólio, já entendeu a proposta. E mesmo assim quer falar com alguém antes de fechar."
+**Núcleo:** Em decisões de maior risco ou valor, o consumidor quase sempre passa por um contato humano antes de comprar — é isso que reduz a insegurança da decisão. O site não falhou por não vender sozinho: ele fez a parte que era dele, preparar o terreno pra essa conversa acontecer já convencido.
+**BIP necessário:** Observação real de negócio de ticket mais alto ou serviço complexo, onde a decisão sempre passa por conversa antes do fechamento.
+**CTA:** "Cada negócio tem seu jeito de fechar. A Strig ajuda a estruturar o site pro seu. Link na bio."
 
 ### 3. Letra: Evolução
-**Tema:** O site parou de tentar vender sozinho. Foi aí que começou a gerar venda de verdade
-**Hook:** "Quanto mais o site tentava fechar sozinho, menos gente respondia. Quando parou de tentar, o telefone começou a tocar."
-**Núcleo:** Case de reestruturação: trocar um formulário de "compre agora" por um de "fale com um especialista" mudou o resultado, não porque a venda parou de importar, mas porque o site passou a fazer a parte que era dele — gerar interesse qualificado — e deixou o fechamento pra quem fecha.
-**BIP:** Case real (PPD) onde a métrica que melhorou foi contato qualificado, não clique em "comprar".
+**Tema:** Insistir pra fechar no site pode estar afastando quem ia comprar de você
+**Hook:** "Quanto mais a página insiste pra fechar ali, mais gente desiste no meio do caminho."
+**Núcleo:** Pra decisões de maior consideração, forçar o fechamento imediato aumenta a fricção e a desconfiança. Esse tipo de consumidor precisa de um passo intermediário (falar com alguém, tirar dúvida) antes de decidir — pular essa etapa no site afasta, não aproxima.
+**BIP:** Padrão real observado pela Strig em páginas que forçavam fechamento direto e tinham alto abandono nessa etapa.
 **CTA:** "Isso é o Método LP da Atração. Link na bio."
 
 ### 4. Letra: Essência
@@ -63,17 +63,17 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Credibilidade também é projeto. Link na bio."
 
 ### 6. Letra: Resultado
-**Tema:** O site que não vendeu nada naquele mês e ainda assim foi um dos melhores investimentos do cliente
-**Hook:** "O site não vendeu nada naquele mês. E ainda assim foi um dos melhores investimentos que o cliente fez."
-**Núcleo:** Case onde o KPI certo não era venda no clique — era aumento de seguidores qualificados, tempo de permanência, retorno de visitante. Provar que medir certo muda a percepção de sucesso.
-**BIP obrigatório:** Dado real do case.
-**CTA:** "Quer saber qual é o objetivo certo pro seu site? Link na bio."
+**Tema:** Seu cliente pode visitar o site, não converter, e comprar de você duas semanas depois de qualquer jeito
+**Hook:** "Boa parte das vendas não acontece na primeira visita. Acontece na segunda lembrança."
+**Núcleo:** A decisão de compra raramente é linear — o consumidor pesquisa, compara, esquece, lembra de novo (às vezes por indicação, às vezes vendo o nome de novo) antes de agir. Ensinar como funciona essa maturação na cabeça do cliente do negócio, pra ele parar de julgar o site isoladamente pelo contato que ele não gerou na hora.
+**BIP:** Padrão real observado pela Strig — ex: gente que passa a buscar a marca pelo nome no Google depois de visitar o site, sem nunca ter clicado em nada.
+**CTA:** "Entender como o seu cliente decide muda como você mede resultado. Link na bio."
 
 ### 7. Letra: Resultado
-**Tema:** A landing page que dobrou a taxa de conversão sem trocar uma imagem
-**Hook:** "Nada mudou visualmente. Só a ordem e o argumento. E a conversão dobrou."
-**Núcleo:** Case de reestruturação de copy e ordem de dobras sem redesign completo — esse é o caso em que o objetivo era mesmo fechar venda direto, e o método também resolve. Conversão é sobre argumento, não sobre estética.
-**BIP obrigatório:** Dado real de antes/depois.
+**Tema:** O que realmente muda a conversão de uma landing page (nem sempre é o que parece)
+**Hook:** "Trocar a imagem raramente resolve. Trocar a ordem do argumento, quase sempre resolve."
+**Núcleo:** O que pesa mais numa LP costuma ser a lógica de convencimento — ordem em que a informação aparece, resposta à objeção, prova social no momento certo — mais do que estética isolada. Isso não quer dizer que design não importa, quer dizer que design sem argumento não sustenta conversão sozinho.
+**BIP obrigatório:** Observação real de reestruturação de copy/ordem numa LP e o que mudou de fato.
 **CTA:** "Quer saber se sua LP converte? Link na bio."
 
 ---
