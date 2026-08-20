@@ -41,12 +41,12 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **BIP necessário:** Observação real de negócio de ticket mais alto ou serviço complexo, onde a decisão sempre passa por conversa antes do fechamento.
 **CTA:** "Cada negócio tem seu jeito de fechar. A Strig ajuda a estruturar o site pro seu. Link na bio."
 
-### 3. Letra: Evolução
-**Tema:** Insistir pra fechar no site pode estar afastando quem ia comprar de você
-**Hook:** "Quanto mais a página insiste pra fechar ali, mais gente desiste no meio do caminho."
-**Núcleo:** Pra decisões de maior consideração, forçar o fechamento imediato aumenta a fricção e a desconfiança. Esse tipo de consumidor precisa de um passo intermediário (falar com alguém, tirar dúvida) antes de decidir — pular essa etapa no site afasta, não aproxima.
-**BIP:** Padrão real observado pela Strig em páginas que forçavam fechamento direto e tinham alto abandono nessa etapa.
-**CTA:** "Isso é o Método LP da Atração. Link na bio."
+### 3. Letra: Receita
+**Tema:** Nem toda página deveria estar pedindo "compre agora"
+**Hook:** "Pedir pra fechar direto funciona quando a decisão é rápida. Vira ruído quando não é."
+**Núcleo:** O CTA certo depende de quanto o cliente precisa pensar antes de decidir. Pra decisão rápida e de baixo risco, pedir a compra direta funciona bem. Pra decisão mais complexa ou de maior valor, pedir uma ação intermediária (agendar conversa, tirar dúvida) costuma levar mais gente adiante do que insistir num fechamento que ela ainda não está pronta pra fazer.
+**BIP:** Observação real de como negócios diferentes (ticket baixo vs. alto) pedem coisas diferentes no CTA, e por quê.
+**CTA:** "Cada negócio tem o CTA certo pra ele. A Strig ajuda a descobrir qual. Link na bio."
 
 ### 4. Letra: Essência
 **Tema:** Seu site não existe só pra vender. Existe pra educar quem ainda não sabe que precisa de você
@@ -95,10 +95,10 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
 ### 3. Letra: Evolução
-**Tema:** De perfil com 3 fotos genéricas pra perfil que já responde a maior objeção do cliente
-**Hook:** "O perfil tinha 3 fotos e nenhuma resposta. Hoje responde antes de tocar o telefone."
-**Núcleo:** O que um perfil completo faz por conta própria: mostra, prova, responde objeção, antes de qualquer contato humano.
-**BIP:** Comparativo real de perfil antes/depois de completo.
+**Tema:** Antes de ligar, seu cliente já decidiu se vale a pena ligar
+**Hook:** "Ele não liga pra tirar dúvida. Ele liga depois que a dúvida já foi tirada olhando o perfil."
+**Núcleo:** Quem chega no perfil do Google já está comparando e decidindo se aquele negócio parece confiável e resolve o problema dele — fotos reais, avaliações e respostas a comentário fazem esse trabalho antes do primeiro contato. Perfil incompleto ou genérico deixa a decisão em aberto, e quem liga primeiro é o concorrente que respondeu essas perguntas antes.
+**BIP:** Observação real de cliente que mencionou ter visto fotos/avaliações antes de ligar.
 **CTA:** "Isso é o Buscou, Achou. Link na bio."
 
 ### 4. Letra: Crises
