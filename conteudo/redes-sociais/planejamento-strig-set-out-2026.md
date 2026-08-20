@@ -288,7 +288,7 @@ O banco tem mais temas do que os 27 posts do período (5/semana), de propósito 
 ### 4. Letra: Receita
 **Tema:** Mesmo entregando peça por peça, a Strig nunca pensa peça por peça
 **Hook:** "Você pode contratar só o site. Mas o diagnóstico nunca é só sobre o site."
-**Núcleo:** A Strig entrega GMB, site e Instagram separados quando faz sentido pro momento do cliente — às vezes só uma parte está fraca, às vezes o orçamento é pra uma etapa por vez. O que não muda é o raciocínio: antes de mexer em qualquer peça, olhar pra estrutura completa, pra entender onde ela se encaixa e o que precisa comunicar pros outros canais não perderem força.
+**Núcleo:** A Strig entrega GMB, site e Instagram separados quando faz sentido pro momento do cliente — depende do tipo de retorno que ele precisa agora e de onde o público dele já está (buscando ativamente no Google, presente numa rede social, etc.). O que não muda é o raciocínio: antes de mexer em qualquer peça, olhar pra estrutura completa, pra entender onde ela se encaixa e o que precisa comunicar pros outros canais não perderem força.
 **BIP necessário:** Cliente que contratou uma peça isolada e o diagnóstico completo mudou o que foi entregue nela.
 **CTA:** "Mesmo separado, o raciocínio é sistêmico. Link na bio."
 
