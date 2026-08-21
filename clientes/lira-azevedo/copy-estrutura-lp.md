@@ -13,8 +13,6 @@ Fonte principal: briefing. Do site antigo (B2C) só aproveito linguagem pontual 
 
 Logo à esquerda. Menu (âncoras na mesma página): **Início** · **Sobre** · **Áreas de Atuação** · **Como Trabalhamos** · **Equipe** · **Trabalhe Conosco** · **Perguntas Frequentes** · **Contato**
 
-Sem botão de destaque tipo CTA de venda no header. Só "Contato" como último item, estilo neutro.
-
 ---
 
 ## 2. Hero
@@ -24,8 +22,6 @@ Lira Azevedo Advogados
 
 **Subheadline:**
 Segurança jurídica e soluções estratégicas em negociação, quitação e processual, com ética, transparência e comprometimento.
-
-Sem botão de ação. Se quiser um elemento de continuidade visual, uma seta ou indicação sutil de "role para conhecer", sem texto de conversão.
 
 ---
 
@@ -42,8 +38,6 @@ Contamos com uma equipe dedicada e altamente comprometida, desenvolvendo um aten
 
 Trabalhamos de forma organizada e eficiente para garantir qualidade em cada etapa do processo, desde o primeiro contato até a conclusão de cada caso.
 
-*(texto do briefing, praticamente literal — já está no tom certo)*
-
 ---
 
 ## 4. Propósito
@@ -55,16 +49,13 @@ Nosso objetivo é construir relações de confiança, oferecendo um atendimento 
 
 Acreditamos em transformar processos complicados em soluções simples e justas.
 
-*(condensa a "mensagem da empresa" do briefing: "estamos dispostos a ajudar e transformar algo complicado em simples")*
-
 ---
 
 ## 5. Área de atuação — Negociação e Quitação
 
 **Título:** Negociação e Quitação
 
-Descrição institucional, não comercial — não é "como ajudamos você", é "o que fazemos".
-
+**Texto:**
 Atuação voltada à negociação e quitação de débitos, com foco em soluções justas e equilibradas para as partes envolvidas.
 
 ---
@@ -73,9 +64,8 @@ Atuação voltada à negociação e quitação de débitos, com foco em soluçõ
 
 **Título:** Processual
 
+**Texto:**
 Atuação processual completa, acompanhando cada caso do início ao fim com rigor técnico e responsabilidade.
-
-*(as duas áreas, conforme briefing: "setores de negociação/quitação e processual" — sem inventar uma terceira área tipo "revisionais", que não está confirmada no briefing. Cada uma virou dobra própria em vez de dividir uma dobra só em dois blocos)*
 
 ---
 
@@ -83,14 +73,13 @@ Atuação processual completa, acompanhando cada caso do início ao fim com rigo
 
 **Título:** Como trabalhamos
 
-Formato texto corrido ou 4 blocos curtos, sem numerar como "passo a passo de venda":
-
+**Texto:**
 - **Ética** em cada decisão
 - **Transparência** em cada etapa
 - **Comprometimento** com o resultado
 - **Responsabilidade** em cada caso
 
-Texto de apoio:
+**Texto de apoio:**
 Entendemos que cada demanda tem características próprias. Por isso, do primeiro contato até a conclusão, mantemos organização, eficiência e proximidade em todas as etapas do processo.
 
 ---
@@ -101,8 +90,6 @@ Entendemos que cada demanda tem características próprias. Por isso, do primeir
 
 **Texto:**
 Somos uma equipe de aproximadamente 13 profissionais, em constante crescimento, com investimento contínuo no desenvolvimento de cada colaborador e na melhoria dos nossos processos.
-
-*(sem fotos/bios por enquanto — perguntar se o cliente quer expor nomes e cargos, ou manter institucional genérico)*
 
 ---
 
@@ -116,8 +103,6 @@ Estamos em constante crescimento e buscamos profissionais comprometidos com éti
 Se você se identifica com nossos valores e quer fazer parte da nossa equipe, entre em contato.
 
 **CTA (institucional, não comercial):** Enviar currículo / Fale conosco
-
-*(essa dobra existe porque o briefing menciona que a falta de visibilidade atrapalha tanto a prospecção de clientes quanto de candidatos para vagas abertas — é a dobra pedida pelo Chrys)*
 
 ---
 
@@ -146,8 +131,6 @@ A Lira Azevedo tem sede em São Bernardo do Campo, SP, na Rua Carlos Gomes, 306.
 **Como faço pra trabalhar na Lira Azevedo?**
 O escritório busca profissionais alinhados aos seus valores. Quem tiver interesse pode enviar currículo pelos canais de contato.
 
-*(as seis primeiras perguntas respondem o que quem já busca esse tipo de assessoria jurídica realmente pesquisa antes de contratar — diferença entre os dois serviços, como a negociação funciona na prática, garantia de resultado, o que verificar num escritório, localização. Baseado em busca real sobre o assunto, não só nas seções que já existem na página. A última segue servindo quem busca uma vaga, reforçando a dobra "Trabalhe Conosco" de forma pesquisável)*
-
 ---
 
 ## 11. Contato
@@ -158,8 +141,6 @@ O escritório busca profissionais alinhados aos seus valores. Quem tiver interes
 - WhatsApp: (11) 94908-9003
 - LinkedIn: linkedin.com/company/lira-azevedo-advogados
 
-Sem formulário de venda, sem "fale com um especialista". Só os canais, de forma institucional.
-
 ---
 
 ## 12. Footer
@@ -168,8 +149,6 @@ Lira Azevedo Advogados
 CNPJ 59.530.172/0001-10
 São Bernardo do Campo, SP
 LinkedIn
-
-Sem preços em nenhum ponto da página.
 
 ---
 
@@ -180,6 +159,7 @@ Sem preços em nenhum ponto da página.
 - Áreas de atuação voltou a ser só negociação/quitação + processual, como está no briefing, sem reformular pra público específico
 - Áreas de atuação viraram duas dobras separadas (uma pra Negociação e Quitação, outra pra Processual) em vez de uma dobra só dividida em dois blocos
 - Endereço confirmado: Rua Carlos Gomes, 306 (o do Google Meu Negócio), não o do site antigo
+- Removidas todas as notas internas que estavam soltas no meio da copy (justificativas, observações de processo) — o documento agora só tem o que de fato vai pro site
 
 ## Pontos em aberto para você validar
 
