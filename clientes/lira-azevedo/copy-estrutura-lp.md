@@ -125,22 +125,25 @@ Se você se identifica com nossos valores e quer fazer parte da nossa equipe, en
 
 **Título:** Perguntas frequentes
 
-Perguntas institucionais — respondem dúvida real de quem quer entender o escritório, não empurram conversão. Sem "fale com um especialista" nas respostas.
-
 **Quais tipos de assessoria jurídica a Lira Azevedo presta?**
 O escritório atua em duas frentes: negociação e quitação de débitos, e atuação processual completa, acompanhando cada caso do início ao fim.
 
-**A Lira Azevedo atende pessoa física e pessoa jurídica?**
-Sim. O atendimento é personalizado, porque cada demanda tem características próprias e exige uma estratégia específica.
+**Quais valores guiam o trabalho da Lira Azevedo?**
+Ética, transparência, comprometimento e responsabilidade em cada caso.
+
+**Qual é o propósito da Lira Azevedo?**
+Construir relações de confiança, com atendimento humanizado e sem abrir mão da excelência técnica, transformando processos complicados em soluções simples e justas.
+
+**Como a Lira Azevedo trabalha do primeiro contato até a conclusão do caso?**
+Com organização, eficiência e proximidade em todas as etapas, entendendo que cada demanda tem características próprias e exige uma estratégia específica.
 
 **Onde fica o escritório?**
 A Lira Azevedo tem sede em São Bernardo do Campo, SP, na Rua Carlos Gomes, 306.
 
-**Como funciona o primeiro contato com o escritório?**
-O primeiro passo é entrar em contato pelos canais disponíveis na página. A partir daí, o caso é analisado e a equipe define a estratégia mais adequada.
+**Como faço pra trabalhar na Lira Azevedo?**
+O escritório busca profissionais alinhados aos seus valores. Quem tiver interesse pode enviar currículo pelos canais de contato.
 
-**A Lira Azevedo está contratando?**
-O escritório está em constante crescimento e sempre busca profissionais alinhados aos seus valores. Quem tiver interesse pode enviar currículo pelos canais de contato.
+*(as cinco primeiras perguntas servem a quem busca assessoria jurídica — cobrindo área de atuação, valores, propósito e forma de trabalhar, os quatro pilares já validados no resto da copy. A última serve a quem busca uma vaga, reforçando a dobra "Trabalhe Conosco" de forma pesquisável. Nada aqui é fato novo — tudo puxado das seções Sobre, Propósito e Como Trabalhamos já validadas)*
 
 ---
 
