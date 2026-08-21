@@ -128,14 +128,17 @@ Se você se identifica com nossos valores e quer fazer parte da nossa equipe, en
 **Quais tipos de assessoria jurídica a Lira Azevedo presta?**
 O escritório atua em duas frentes: negociação e quitação de débitos, e atuação processual completa, acompanhando cada caso do início ao fim.
 
-**Quais valores guiam o trabalho da Lira Azevedo?**
-Ética, transparência, comprometimento e responsabilidade em cada caso.
+**Qual a diferença entre negociação e quitação de débitos e atuação processual?**
+Negociação e quitação de débitos é a busca por um acordo direto com a parte credora, fora de um processo judicial. Atuação processual é o acompanhamento de um caso dentro da Justiça, do início até a conclusão.
 
-**Qual é o propósito da Lira Azevedo?**
-Construir relações de confiança, com atendimento humanizado e sem abrir mão da excelência técnica, transformando processos complicados em soluções simples e justas.
+**Como funciona a negociação de uma dívida com assessoria jurídica?**
+O escritório conduz a negociação com a parte credora em nome do cliente, buscando uma solução justa e equilibrada pra ambos os lados.
 
-**Como a Lira Azevedo trabalha do primeiro contato até a conclusão do caso?**
-Com organização, eficiência e proximidade em todas as etapas, entendendo que cada demanda tem características próprias e exige uma estratégia específica.
+**Um advogado pode garantir o resultado de um processo ou negociação?**
+Não. Nenhum profissional da advocacia pode garantir resultado — isso é vedado pelo Código de Ética da profissão. O compromisso é com a condução técnica e responsável de cada caso.
+
+**O que verificar antes de contratar um escritório de advocacia?**
+Vale confirmar se o escritório e os profissionais estão regularmente inscritos na OAB e se a contratação é formalizada por contrato, com transparência sobre a atuação em cada etapa.
 
 **Onde fica o escritório?**
 A Lira Azevedo tem sede em São Bernardo do Campo, SP, na Rua Carlos Gomes, 306.
@@ -143,7 +146,7 @@ A Lira Azevedo tem sede em São Bernardo do Campo, SP, na Rua Carlos Gomes, 306.
 **Como faço pra trabalhar na Lira Azevedo?**
 O escritório busca profissionais alinhados aos seus valores. Quem tiver interesse pode enviar currículo pelos canais de contato.
 
-*(as cinco primeiras perguntas servem a quem busca assessoria jurídica — cobrindo área de atuação, valores, propósito e forma de trabalhar, os quatro pilares já validados no resto da copy. A última serve a quem busca uma vaga, reforçando a dobra "Trabalhe Conosco" de forma pesquisável. Nada aqui é fato novo — tudo puxado das seções Sobre, Propósito e Como Trabalhamos já validadas)*
+*(as seis primeiras perguntas respondem o que quem já busca esse tipo de assessoria jurídica realmente pesquisa antes de contratar — diferença entre os dois serviços, como a negociação funciona na prática, garantia de resultado, o que verificar num escritório, localização. Baseado em busca real sobre o assunto, não só nas seções que já existem na página. A última segue servindo quem busca uma vaga, reforçando a dobra "Trabalhe Conosco" de forma pesquisável)*
 
 ---
 
