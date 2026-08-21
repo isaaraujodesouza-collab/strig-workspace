@@ -23,11 +23,13 @@ Site institucional (landing page).
 
 Negociação/quitação e processual. Ajuda financeiras e, em segundo plano, pessoas físicas a resolver dívidas de forma justa, sem abusividade.
 
-## Público-alvo — DECISÃO ESTRATÉGICA (confirmada com a Isa em 21/08/2026)
+## Objetivo da página — DECISÃO ESTRATÉGICA FINAL (confirmada com o Chrys em 21/08/2026)
 
-Briefing original tinha contradição: seção "produtos/serviços" falava com pessoa endividada (B2C), seção "público-alvo" oficial falava em financeiras parceiras (B2B — ex: Idealy, Rooster, Jardini).
+Decisão anterior (21/08, mais cedo) tinha sido foco B2B com canal B2C secundário. **Superada.**
 
-**Decisão:** foco principal é B2B — oferecer serviços de revisionais, negociação/quitação e processual para financeiras. Pessoa física pode encontrar a página e fechar direto, mas é canal secundário, não a mensagem principal da LP.
+**Decisão final:** a página é 100% institucional, zero venda. Sem funil B2B/B2C, sem CTA comercial tipo "fale com um especialista". Objetivo é deixar claro quem é a Lira Azevedo, o que faz, o propósito e como trabalham — e apoiar o processo de contratação de pessoal (dobra dedicada "Quer trabalhar com a Lira Azevedo?").
+
+Referência de estrutura: site institucional da Quatá (qconfidence.com.br) — várias páginas lá, condensado em página única aqui. Do site antigo (B2C, 100% vendas) só aproveitar linguagem pontual já validada pelo cliente, nunca estrutura ou tom.
 
 ## Mensagem e tom
 

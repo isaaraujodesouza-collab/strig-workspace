@@ -1,28 +1,31 @@
 # Landing Page — Lira Azevedo Advogados
-## Estrutura e copy (v1 para validação)
+## Estrutura e copy (v2 — institucional, zero venda)
 
-Baseado no briefing, nas referências (NW Advogados, Elpídio Donizetti) e na decisão de foco B2B com canal B2C secundário.
+**Mudança de direção (confirmada com o Chrys em 21/08/2026):** essa página não é comercial. Não existe CTA de venda, não existe funil B2B/B2C, não existe "fale com um especialista" como gatilho de conversão. O objetivo é 100% institucional: deixar claro quem é a Lira Azevedo, o que ela faz, o propósito e como trabalham — e apoiar o processo de contratação de pessoal (existe uma dobra dedicada a "quer trabalhar com a Lira Azevedo?").
+
+Referência de estrutura: [site da Quatá](https://qconfidence.com.br/) — institucional puro, várias páginas lá, aqui condensado em página única com âncoras. A Quatá evita venda direta usando linguagem consultiva ("saiba mais" em vez de "fale agora"), foco em propósito e valores em vez de benefício transacional, e nenhum CTA de pressão.
+
+Fonte principal: briefing. Do site antigo (B2C) só aproveito linguagem pontual que o cliente já validou, nada de estrutura ou tom — aquele site era 100% vendas, não serve de base aqui.
 
 ---
 
 ## 1. Header / navegação
 
-Logo à esquerda. Menu: **Sobre** · **Áreas de Atuação** · **Para Empresas** · **Equipe** · **Contato**
+Logo à esquerda. Menu (âncoras na mesma página): **Início** · **Sobre** · **Áreas de Atuação** · **Como Trabalhamos** · **Equipe** · **Trabalhe Conosco** · **Contato**
 
-Botão de destaque no header: **Fale com um especialista** (WhatsApp)
+Sem botão de destaque tipo CTA de venda no header. Só "Contato" como último item, estilo neutro.
 
 ---
 
 ## 2. Hero
 
 **Headline:**
-Segurança jurídica para a carteira de negociação e quitação da sua financeira
+Lira Azevedo Advogados
 
 **Subheadline:**
-Atuamos em revisionais, negociação e quitação e contencioso, reduzindo inadimplência com ética, transparência e resultado.
+Segurança jurídica e soluções estratégicas em negociação, quitação e processual, com ética, transparência e comprometimento.
 
-**CTA primário:** Fale com um especialista
-**CTA secundário (discreto, abaixo):** Está com uma dívida em aberto? Fale conosco
+Sem botão de ação. Se quiser um elemento de continuidade visual, uma seta ou indicação sutil de "role para conhecer", sem texto de conversão.
 
 ---
 
@@ -31,93 +34,98 @@ Atuamos em revisionais, negociação e quitação e contencioso, reduzindo inadi
 **Título:** Quem somos
 
 **Texto:**
-A Lira Azevedo Advogados é um escritório com sede em São Bernardo do Campo, SP, atuando nos setores de negociação, quitação e processual.
+Com sede em São Bernardo do Campo, SP, a Lira Azevedo Advogados é um escritório fundado em fevereiro de 2025, atuando com excelência na prestação de serviços jurídicos e oferecendo soluções estratégicas.
 
-Nossa atuação é baseada em ética, transparência, comprometimento e responsabilidade. Buscamos sempre segurança jurídica e o melhor resultado para cada parceiro.
+Nossa atuação é baseada em princípios sólidos, como ética, transparência, comprometimento e responsabilidade, buscando sempre proporcionar segurança jurídica e os melhores resultados.
 
-Contamos com uma equipe de aproximadamente 13 profissionais, em constante desenvolvimento e melhoria contínua dos nossos processos.
+Contamos com uma equipe dedicada e altamente comprometida, desenvolvendo um atendimento personalizado, entendendo que cada demanda possui características próprias e exige estratégias específicas.
 
-Trabalhamos de forma organizada e eficiente, do primeiro contato até a conclusão de cada caso, com atendimento personalizado para cada demanda.
+Trabalhamos de forma organizada e eficiente para garantir qualidade em cada etapa do processo, desde o primeiro contato até a conclusão de cada caso.
 
-*(fonte: texto institucional do briefing, ajustado para remover "cada cliente" genérico e priorizar linguagem de parceria B2B)*
-
----
-
-## 4. Áreas de atuação
-
-**Título:** Como ajudamos sua financeira
-
-Três cards.
-
-**1. Negociação e Quitação**
-Intermediamos a negociação de carteiras em atraso, buscando a quitação em condições justas para as duas partes, com redução de inadimplência sem judicialização desnecessária.
-
-**2. Revisionais de Contratos**
-Analisamos e revisamos contratos financeiros, identificando cláusulas abusivas e ajustando posições antes que se tornem passivo.
-
-**3. Processual**
-Atuação processual completa, do primeiro contato até a conclusão de cada caso, com acompanhamento próximo em todas as etapas.
+*(texto do briefing, praticamente literal — já está no tom certo)*
 
 ---
 
-## 5. Como funciona
+## 4. Propósito
 
-**Título:** Um processo simples, do início ao fim
-
-1. **Diagnóstico** — entendemos a carteira ou o caso e mapeamos o cenário jurídico.
-2. **Estratégia** — definimos o caminho mais rápido e seguro para a quitação ou negociação.
-3. **Negociação** — conduzimos o contato e a intermediação com as partes envolvidas.
-4. **Acompanhamento** — seguimos até a conclusão, com retorno claro em cada etapa.
-
-*(estrutura herdada do site antigo, reescrita em tom formal e sem linguagem emocional)*
-
----
-
-## 6. Por que trabalhar com a Lira Azevedo
-
-**Título:** Comprometimento em cada etapa
-
-- **Ética e transparência** em toda negociação
-- **Atendimento personalizado**, sem processos genéricos
-- **Segurança jurídica** como prioridade em cada decisão
-- **Foco em resultado**, com acompanhamento até a conclusão
-
-*(sem prêmios, sem métricas fabricadas, sem cargos de autoridade que o escritório não tem — diferente de NW e Elpídio, a prova aqui é o processo e os princípios, não credenciais)*
-
----
-
-## 7. Para você (pessoa física) — seção secundária, menor, mais abaixo na página
-
-**Título:** Está com uma dívida em aberto?
+**Título:** Nosso propósito
 
 **Texto:**
-Também ajudamos pessoas a negociar e quitar dívidas em condições justas, sem abusividade, com o mesmo cuidado jurídico que oferecemos às empresas parceiras.
+Nosso objetivo é construir relações de confiança, oferecendo um atendimento humanizado sem abrir mão da excelência técnica que norteia todas as nossas atividades.
 
-**CTA:** Fale com um especialista
+Acreditamos em transformar processos complicados em soluções simples e justas.
+
+*(condensa a "mensagem da empresa" do briefing: "estamos dispostos a ajudar e transformar algo complicado em simples")*
 
 ---
 
-## 8. Equipe
+## 5. Áreas de atuação
 
-**Título:** Quem está por trás
+**Título:** Áreas de atuação
 
-Texto curto institucional (sem fotos ainda, aguardando material do Drive):
+Descrição institucional, não comercial — não é "como ajudamos você", é "o que fazemos".
 
-Somos uma equipe de aproximadamente 13 profissionais dedicados ao desenvolvimento contínuo e à melhoria dos nossos processos, para entregar segurança jurídica em cada demanda.
+**Negociação e Quitação**
+Atuação voltada à negociação e quitação de débitos, com foco em soluções justas e equilibradas para as partes envolvidas.
 
-*(placeholder até definir se vai ter fotos/bios individuais — perguntar se o cliente quer expor nomes e cargos)*
+**Processual**
+Atuação processual completa, acompanhando cada caso do início ao fim com rigor técnico e responsabilidade.
+
+*(dois pilares, conforme briefing: "setores de negociação/quitação e processual" — sem inventar uma terceira área tipo "revisionais", que não está confirmada no briefing)*
+
+---
+
+## 6. Como trabalhamos
+
+**Título:** Como trabalhamos
+
+Formato texto corrido ou 4 blocos curtos, sem numerar como "passo a passo de venda":
+
+- **Ética** em cada decisão
+- **Transparência** em cada etapa
+- **Comprometimento** com o resultado
+- **Responsabilidade** em cada caso
+
+Texto de apoio:
+Entendemos que cada demanda tem características próprias. Por isso, do primeiro contato até a conclusão, mantemos organização, eficiência e proximidade em todas as etapas do processo.
+
+---
+
+## 7. Equipe
+
+**Título:** Nossa equipe
+
+**Texto:**
+Somos uma equipe de aproximadamente 13 profissionais, em constante crescimento, com investimento contínuo no desenvolvimento de cada colaborador e na melhoria dos nossos processos.
+
+*(sem fotos/bios por enquanto — perguntar se o cliente quer expor nomes e cargos, ou manter institucional genérico)*
+
+---
+
+## 8. Trabalhe Conosco
+
+**Título:** Quer trabalhar com a Lira Azevedo?
+
+**Texto:**
+Estamos em constante crescimento e buscamos profissionais comprometidos com ética, excelência técnica e atendimento humanizado.
+
+Se você se identifica com nossos valores e quer fazer parte da nossa equipe, entre em contato.
+
+**CTA (institucional, não comercial):** Enviar currículo / Fale conosco
+
+*(essa dobra existe porque o briefing menciona que a falta de visibilidade atrapalha tanto a prospecção de clientes quanto de candidatos para vagas abertas — é a dobra pedida pelo Chrys)*
 
 ---
 
 ## 9. Contato
 
-**Título:** Fale com a Lira Azevedo
+**Título:** Contato
 
-- WhatsApp: (11) 94908-9003
 - Endereço: São Bernardo do Campo, SP *(confirmar Rua Carlos Gomes, 306 ou Rua Frei Gaspar, 22)*
+- WhatsApp: (11) 94908-9003
 - LinkedIn: linkedin.com/company/lira-azevedo-advogados
 
-**CTA:** Fale com um especialista (abre WhatsApp)
+Sem formulário de venda, sem "fale com um especialista". Só os canais, de forma institucional.
 
 ---
 
@@ -128,16 +136,21 @@ CNPJ 59.530.172/0001-10
 São Bernardo do Campo, SP
 LinkedIn
 
-Sem preços em nenhum ponto da página, conforme padrão de LP da Strig.
+Sem preços em nenhum ponto da página.
 
 ---
 
+## O que mudou da v1 pra v2
+
+- Removido: foco B2B em financeiras, seção "para pessoa física", qualquer CTA de venda ("fale com um especialista" como gatilho comercial), área "Revisionais" (não confirmada no briefing)
+- Adicionado: seção de propósito isolada, seção "Trabalhe Conosco" (recrutamento)
+- Áreas de atuação voltou a ser só negociação/quitação + processual, como está no briefing, sem reformular pra público específico
+
 ## Pontos em aberto para você validar
 
-1. **Ordem das seções** — a estrutura acima é hero > sobre > áreas de atuação (B2B) > como funciona > diferenciais > pessoa física (secundário) > equipe > contato. Faz sentido ou quer reordenar?
-2. **Seção "equipe"** — expõe nomes e fotos ou fica só o texto institucional genérico até ter material?
-3. **CTA principal** — confirmo que é sempre WhatsApp (11 94908-9003), sem formulário?
-4. **"Publicações" e "Vagas"** — o site antigo institucional tinha essas abas no menu. Mantemos fora da v1 (sem conteúdo ainda) ou você quer incluir como placeholder?
-5. **Endereço correto** — Carlos Gomes 306 (GMN) ou Frei Gaspar 22 (site antigo)?
+1. **Equipe** — expõe nomes/fotos ou mantém texto institucional genérico?
+2. **Trabalhe Conosco** — o CTA leva para onde? Email, WhatsApp, formulário simples de envio de currículo?
+3. **Endereço correto** — Rua Carlos Gomes, 306 (GMN) ou Rua Frei Gaspar, 22 (site antigo)?
+4. **"Publicações"** — o site antigo institucional (que existiu antes do B2C) tinha essa aba. Mantém fora da v1 ou entra como seção futura?
 
 Depois de validar texto e estrutura, sigo pro design visual (Tailwind) usando a identidade da logo.
