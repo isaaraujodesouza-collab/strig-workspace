@@ -11,7 +11,7 @@ Fonte principal: briefing. Do site antigo (B2C) só aproveito linguagem pontual 
 
 ## 1. Header / navegação
 
-Logo à esquerda. Menu (âncoras na mesma página): **Início** · **Sobre** · **Áreas de Atuação** · **Como Trabalhamos** · **Equipe** · **Trabalhe Conosco** · **Contato**
+Logo à esquerda. Menu (âncoras na mesma página): **Início** · **Sobre** · **Áreas de Atuação** · **Como Trabalhamos** · **Equipe** · **Trabalhe Conosco** · **Perguntas Frequentes** · **Contato**
 
 Sem botão de destaque tipo CTA de venda no header. Só "Contato" como último item, estilo neutro.
 
@@ -59,23 +59,27 @@ Acreditamos em transformar processos complicados em soluções simples e justas.
 
 ---
 
-## 5. Áreas de atuação
+## 5. Área de atuação — Negociação e Quitação
 
-**Título:** Áreas de atuação
+**Título:** Negociação e Quitação
 
 Descrição institucional, não comercial — não é "como ajudamos você", é "o que fazemos".
 
-**Negociação e Quitação**
 Atuação voltada à negociação e quitação de débitos, com foco em soluções justas e equilibradas para as partes envolvidas.
-
-**Processual**
-Atuação processual completa, acompanhando cada caso do início ao fim com rigor técnico e responsabilidade.
-
-*(dois pilares, conforme briefing: "setores de negociação/quitação e processual" — sem inventar uma terceira área tipo "revisionais", que não está confirmada no briefing)*
 
 ---
 
-## 6. Como trabalhamos
+## 6. Área de atuação — Processual
+
+**Título:** Processual
+
+Atuação processual completa, acompanhando cada caso do início ao fim com rigor técnico e responsabilidade.
+
+*(as duas áreas, conforme briefing: "setores de negociação/quitação e processual" — sem inventar uma terceira área tipo "revisionais", que não está confirmada no briefing. Cada uma virou dobra própria em vez de dividir uma dobra só em dois blocos)*
+
+---
+
+## 7. Como trabalhamos
 
 **Título:** Como trabalhamos
 
@@ -91,7 +95,7 @@ Entendemos que cada demanda tem características próprias. Por isso, do primeir
 
 ---
 
-## 7. Equipe
+## 8. Equipe
 
 **Título:** Nossa equipe
 
@@ -102,7 +106,7 @@ Somos uma equipe de aproximadamente 13 profissionais, em constante crescimento, 
 
 ---
 
-## 8. Trabalhe Conosco
+## 9. Trabalhe Conosco
 
 **Título:** Quer trabalhar com a Lira Azevedo?
 
@@ -117,11 +121,34 @@ Se você se identifica com nossos valores e quer fazer parte da nossa equipe, en
 
 ---
 
-## 9. Contato
+## 10. Perguntas Frequentes
+
+**Título:** Perguntas frequentes
+
+Perguntas institucionais — respondem dúvida real de quem quer entender o escritório, não empurram conversão. Sem "fale com um especialista" nas respostas.
+
+**Quais tipos de assessoria jurídica a Lira Azevedo presta?**
+O escritório atua em duas frentes: negociação e quitação de débitos, e atuação processual completa, acompanhando cada caso do início ao fim.
+
+**A Lira Azevedo atende pessoa física e pessoa jurídica?**
+Sim. O atendimento é personalizado, porque cada demanda tem características próprias e exige uma estratégia específica.
+
+**Onde fica o escritório?**
+A Lira Azevedo tem sede em São Bernardo do Campo, SP, na Rua Carlos Gomes, 306.
+
+**Como funciona o primeiro contato com o escritório?**
+O primeiro passo é entrar em contato pelos canais disponíveis na página. A partir daí, o caso é analisado e a equipe define a estratégia mais adequada.
+
+**A Lira Azevedo está contratando?**
+O escritório está em constante crescimento e sempre busca profissionais alinhados aos seus valores. Quem tiver interesse pode enviar currículo pelos canais de contato.
+
+---
+
+## 11. Contato
 
 **Título:** Contato
 
-- Endereço: São Bernardo do Campo, SP *(confirmar Rua Carlos Gomes, 306 ou Rua Frei Gaspar, 22)*
+- Endereço: Rua Carlos Gomes, 306, São Bernardo do Campo, SP
 - WhatsApp: (11) 94908-9003
 - LinkedIn: linkedin.com/company/lira-azevedo-advogados
 
@@ -129,7 +156,7 @@ Sem formulário de venda, sem "fale com um especialista". Só os canais, de form
 
 ---
 
-## 10. Footer
+## 12. Footer
 
 Lira Azevedo Advogados
 CNPJ 59.530.172/0001-10
@@ -143,14 +170,15 @@ Sem preços em nenhum ponto da página.
 ## O que mudou da v1 pra v2
 
 - Removido: foco B2B em financeiras, seção "para pessoa física", qualquer CTA de venda ("fale com um especialista" como gatilho comercial), área "Revisionais" (não confirmada no briefing)
-- Adicionado: seção de propósito isolada, seção "Trabalhe Conosco" (recrutamento)
+- Adicionado: seção de propósito isolada, seção "Trabalhe Conosco" (recrutamento), seção de Perguntas Frequentes institucional
 - Áreas de atuação voltou a ser só negociação/quitação + processual, como está no briefing, sem reformular pra público específico
+- Áreas de atuação viraram duas dobras separadas (uma pra Negociação e Quitação, outra pra Processual) em vez de uma dobra só dividida em dois blocos
+- Endereço confirmado: Rua Carlos Gomes, 306 (o do Google Meu Negócio), não o do site antigo
 
 ## Pontos em aberto para você validar
 
 1. **Equipe** — expõe nomes/fotos ou mantém texto institucional genérico?
 2. **Trabalhe Conosco** — o CTA leva para onde? Email, WhatsApp, formulário simples de envio de currículo?
-3. **Endereço correto** — Rua Carlos Gomes, 306 (GMN) ou Rua Frei Gaspar, 22 (site antigo)?
-4. **"Publicações"** — o site antigo institucional (que existiu antes do B2C) tinha essa aba. Mantém fora da v1 ou entra como seção futura?
+3. **"Publicações"** — o site antigo institucional (que existiu antes do B2C) tinha essa aba. Mantém fora da v1 ou entra como seção futura?
 
 Depois de validar texto e estrutura, sigo pro design visual (Tailwind) usando a identidade da logo.
