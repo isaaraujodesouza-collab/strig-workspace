@@ -51,7 +51,7 @@ CTA fixo do menu: "Falar no WhatsApp"
 
 Eyebrow: "Buffet de eventos em Araçatuba, SP"
 
-Título: "Sua celebração é única. Fazemos questão que seja inesquecível."
+Título: "O buffet de eventos em Araçatuba que transforma cada celebração em um momento inesquecível."
 
 Subtítulo: "Seja aniversário, casamento, confraternização ou evento corporativo, o LF Buffet está pronto para tornar sua ocasião ainda mais especial."
 
