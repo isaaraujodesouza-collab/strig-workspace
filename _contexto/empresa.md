@@ -59,6 +59,7 @@
 | IBR | Revisão de contratos financeiros | Gestão de tráfego + landing page + social media |
 | Saturno | — | Manutenção de site recorrente |
 | Kit Lanches Express | Fornecimento de lanches para eventos/empresas | Social media recorrente |
+| Zigurax | Jogos de mesa/cartas autorais (ex: Monstros Malignos) | Design, identidade visual e copywriting de produto (verso de caixa, manual) |
 
 **Nicho predominante:** negócios locais, clínicas, profissionais autônomos e PMEs
 
