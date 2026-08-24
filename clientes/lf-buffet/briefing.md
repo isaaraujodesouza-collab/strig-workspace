@@ -51,7 +51,7 @@ Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e evento
 
 Título: "Casamentos, aniversários e eventos corporativos, com o mesmo padrão"
 
-Subtítulo: "Quem fecha com o LF Buffet costuma fechar de novo. Tem cliente que já comemorou seis aniversários seguidos com a gente, e é esse o padrão de entrega que buscamos manter em cada evento."
+Subtítulo: "O LF Buffet cuida de cada detalhe da organização para que casamentos, aniversários e eventos corporativos sejam vividos com tranquilidade, do primeiro contato ao último convidado. É esse padrão que faz quem fecha um evento com a gente voltar a fechar o próximo."
 
 **Casamentos**
 "O casamento acontece uma vez, e o cardápio precisa estar à altura do dia. Cuidamos de cada etapa, do primeiro contato ao último brinde, para que noivos e convidados vivam a festa sem se preocupar com a operação."
