@@ -19,7 +19,7 @@ Agência Strig Lab (Santo André/SP) — marketing digital e consultoria. Ajuda 
 
 ## Clientes ativos
 
-Quatá (M&A/valuation, LinkedIn), IBR (contratos financeiros, tráfego + social), Saturno (manutenção de site), Kit Lanches Express (social media).
+Quatá (M&A/valuation, LinkedIn), IBR (contratos financeiros, tráfego + social), Saturno (manutenção de site), Kit Lanches Express (social media), Jeff Souza Odontologia (social media + PPD).
 
 ## Tom de voz
 
