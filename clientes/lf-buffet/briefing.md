@@ -1,4 +1,4 @@
-# Briefing — LF Buffet
+# LF Buffet
 
 **Segmento:** Buffet de eventos (casamentos, aniversários, festas de 15 anos, eventos corporativos)
 **Cidade:** Araçatuba, SP
@@ -11,7 +11,7 @@
 
 ## Histórico
 
-Desde 2007 no mercado (+19 anos). Já realizou centenas de casamentos, aniversários e festas de 15 anos em Araçatuba e região. Nota 4.9 no Google, +90 avaliações. Já esteve no SBT Interior servindo um café da manhã em um encontro de pré-candidatos a deputados federais e estaduais em Araçatuba (sem registro fotográfico disponível até o momento).
+Desde 2007 no mercado, mais de 19 anos. Já realizou centenas de casamentos, aniversários e festas de 15 anos em Araçatuba e região. Nota 4.9 no Google, mais de 90 avaliações. Já esteve no SBT Interior servindo um café da manhã em um encontro de pré-candidatos a deputados federais e estaduais em Araçatuba, sem registro fotográfico disponível até o momento.
 
 ## Objetivos do projeto
 
@@ -27,7 +27,7 @@ Corporativo, moderno, formal.
 
 ## Por que o cliente compra
 
-Não é só comida. É a experiência que o anfitrião quer proporcionar aos convidados (sabor, apresentação, atendimento), com a segurança de que os detalhes da organização estão cuidados.
+Não é só comida. É a experiência que o anfitrião quer proporcionar aos convidados, com sabor, apresentação e atendimento, e a segurança de que os detalhes da organização estão cuidados.
 
 ## Público-alvo
 
@@ -39,12 +39,43 @@ Varia por quantidade de convidados e localização do evento. Não exibir preço
 
 ---
 
-## Reformulação de copy — 2026-08-24
+## Copy da landing page — reformulação 2026-08-24
 
-Pedido da Isa: separar os 3 tipos de evento (casamentos, aniversários com menção a datas especiais/15 anos, eventos corporativos) como itens de menu próprios; a seção "Serviços" passou a citar os 3 mas focar nos diferenciais de entrega (fidelização, cliente que já fechou 6 aniversários seguidos com o buffet) e trazer a ilha de degustação como diferencial (praticidade + estética), não como um 4º serviço.
+Estrutura de menu: Casamentos, Aniversários, Eventos Corporativos, Depoimentos, Diferenciais, Localização, Dúvidas. Os 3 tipos de evento saem do menu como itens próprios, em vez de um "Serviços" genérico.
 
-A menção ao SBT Interior deixou de ter uma dobra inteira dedicada. Ficou reduzida a uma única menção factual, na seção "Quem somos".
+### Hero
 
-**Observação para o cliente:** o site menciona o SBT Interior em texto em 3 lugares diferentes, mas não existe nenhuma foto desse evento publicada no site. Antes de dar mais destaque a esse ponto de autoridade, pedir pro Luiz Fernando uma foto real do dia (mostrar em vez de só falar).
+Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e eventos corporativos em Araçatuba, com ilhas de degustação, mesa de frios e uma equipe que cuida de cada detalhe do início ao fim."
 
-**Entrega:** `entregas/index-reformulado.html` — versão revisada da landing page, pronta pra revisão e publicação por cima do arquivo atual em striglab.com.br/lf buffet/ (mantém style.css e script.js existentes, só o HTML muda).
+### Serviços
+
+Título: "Casamentos, aniversários e eventos corporativos, com o mesmo padrão"
+
+Subtítulo: "Quem fecha com o LF Buffet costuma fechar de novo. Tem cliente que já comemorou seis aniversários seguidos com a gente, e é esse o padrão de entrega que buscamos manter em cada evento."
+
+**Casamentos**
+"O casamento acontece uma vez, e o cardápio precisa estar à altura do dia. Cuidamos de cada etapa, do primeiro contato ao último brinde, para que noivos e convidados vivam a festa sem se preocupar com a operação."
+
+**Aniversários e datas especiais**
+"De aniversários a festas de 15 anos, o cardápio se adapta ao momento e ao número de convidados. É esse cuidado que faz famílias repetirem o LF Buffet ano após ano."
+
+**Eventos corporativos**
+"Café da manhã, almoço ou coffee break, com a pontualidade e o padrão que uma empresa espera para receber clientes, parceiros ou colaboradores."
+
+**Fechamento** (ilha de degustação como diferencial da entrega, não como um quarto serviço)
+"A ilha de degustação está presente em qualquer um desses eventos. Pratos preparados na hora pelas chefs, com praticidade para quem organiza e um efeito visual que deixa a festa mais bonita e mais especial para os convidados."
+
+### Diferenciais
+
+O card "Já apareceu no SBT Interior" sai da grade. Entra no lugar:
+
+"Clientes que repetem o evento com a gente"
+"Não é raro atender a mesma família em mais de uma celebração. Isso é retorno e recomendação, não coincidência."
+
+Os outros 5 cards ficam como estão: mais de 19 anos de experiência, nota 4.9 no Google, ilhas de degustação exclusivas, cardápio completo e elegante, atendimento presente do início ao fim.
+
+### SBT Interior
+
+Sai a dobra inteira dedicada ao assunto. Fica só a menção que já existe hoje na seção "Quem somos", como nota factual, sem grande peso.
+
+**Observação para o cliente:** o site menciona o SBT Interior em texto em 3 lugares diferentes (hero, diferenciais, quem somos), mas não existe nenhuma foto desse evento publicada no site. É uma coisa de autoridade, mas mostrar pesa mais do que falar. Pedir pro Luiz Fernando uma foto real do dia antes de dar mais destaque a esse ponto.
