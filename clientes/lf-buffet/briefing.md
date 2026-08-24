@@ -45,7 +45,7 @@ Estrutura de menu: Casamentos, Aniversários, Eventos Corporativos, Depoimentos,
 
 ### Hero
 
-Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e eventos corporativos em Araçatuba, com ilhas de degustação, mesa de frios e uma equipe que cuida de cada detalhe do início ao fim."
+Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e eventos corporativos em Araçatuba, com o padrão de atendimento que faz famílias e empresas voltarem a cada nova celebração."
 
 ### Serviços
 
