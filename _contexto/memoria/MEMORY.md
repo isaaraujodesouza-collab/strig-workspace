@@ -7,3 +7,4 @@
 - [Relatório social com posts turbinados](feedback_relatorio-social-turbinado.md) — sempre avisar no kpi_note quando o período tiver impulsionamento, nunca tentar separar
 - [Sem travessão, sem dois-pontos como pausa](feedback_sem-travessao-sem-dois-pontos.md) — nunca usar "—" nem ":" dramático em copy; usar vírgula ou ponto
 - [Strig News nunca copia notícia](feedback_strignews-nunca-copiar.md) — headline, linha fina e legenda sempre reescritos no DNA da Strig News, nunca copiados da fonte
+- [Pautas escolhidas no ClickUp](feedback_pautas-escolhidas-clickup.md) — renomear as 7 subtasks pré-existentes (mantendo campo Editoria), notícia sempre em comentário na subtask
