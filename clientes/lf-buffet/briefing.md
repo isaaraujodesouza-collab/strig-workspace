@@ -47,23 +47,36 @@ Estrutura de menu: Casamentos, Aniversários, Eventos Corporativos, Depoimentos,
 
 Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e eventos corporativos em Araçatuba, com o padrão de atendimento que faz famílias e empresas voltarem a cada nova celebração."
 
-### Serviços
+### Serviços (visão geral)
 
-Título: "Casamentos, aniversários e eventos corporativos, com o mesmo padrão"
+Título: "O que o LF Buffet leva para casamentos, aniversários e eventos corporativos"
 
-Subtítulo: "O LF Buffet cuida de cada detalhe da organização para que casamentos, aniversários e eventos corporativos sejam vividos com tranquilidade, do primeiro contato ao último convidado. É esse padrão que faz quem fecha um evento com a gente voltar a fechar o próximo."
+Subtítulo: "De casamentos a eventos corporativos, a entrega segue o mesmo padrão: cardápio completo, ambientação cuidada e uma equipe presente do início ao fim."
 
-**Casamentos**
-"O casamento acontece uma vez, e o cardápio precisa estar à altura do dia. Cuidamos de cada etapa, do primeiro contato ao último brinde, para que noivos e convidados vivam a festa sem se preocupar com a operação."
+Cards dessa dobra (o que é entregue, não os tipos de evento):
+- Ilha de degustação — "Pratos preparados na hora pelas chefs, parte da experiência do evento."
+- Mesa de frios e tábua de frios — "Seleção de frios e queijos, montada e servida com apresentação impecável."
+- Cardápio completo — "Pratos quentes, salgados e opções variadas para atender todo tipo de convidado."
+- Decoração de mesa — "Ambientação cuidada para compor a estética do evento."
+- Atendimento presente — "Equipe acompanha do primeiro contato ao último convidado ir embora."
 
-**Aniversários e datas especiais**
-"De aniversários a festas de 15 anos, o cardápio se adapta ao momento e ao número de convidados. É esse cuidado que faz famílias repetirem o LF Buffet ano após ano."
+### Casamentos (dobra própria)
 
-**Eventos corporativos**
-"Café da manhã, almoço ou coffee break, com a pontualidade e o padrão que uma empresa espera para receber clientes, parceiros ou colaboradores."
+Título: Casamentos
 
-**Fechamento** (ilha de degustação como diferencial da entrega, não como um quarto serviço)
-"A ilha de degustação está presente em qualquer um desses eventos. Pratos preparados na hora pelas chefs, com praticidade para quem organiza e um efeito visual que deixa a festa mais bonita e mais especial para os convidados."
+Subtítulo: "O casamento acontece uma vez, e o cardápio precisa estar à altura do dia. Cuidamos de cada etapa, do primeiro contato ao último brinde, para que noivos e convidados vivam a festa sem se preocupar com a operação."
+
+### Aniversários e datas especiais (dobra própria)
+
+Título: Aniversários e datas especiais
+
+Subtítulo: "De aniversários a festas de 15 anos, o cardápio se adapta ao momento e ao número de convidados. É esse cuidado que faz famílias repetirem o LF Buffet ano após ano."
+
+### Eventos corporativos (dobra própria)
+
+Título: Eventos corporativos
+
+Subtítulo: "Café da manhã, almoço ou coffee break, com a pontualidade e o padrão que uma empresa espera para receber clientes, parceiros ou colaboradores."
 
 ### Diferenciais
 
