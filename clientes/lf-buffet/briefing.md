@@ -53,7 +53,7 @@ Eyebrow: "Buffet de eventos em Araçatuba, SP"
 
 Título: "Uma experiência gastronômica de alto padrão"
 
-Subtítulo: "Há mais de 19 anos à frente de casamentos, aniversários e eventos corporativos em Araçatuba, com o padrão de atendimento que faz famílias e empresas voltarem a cada nova celebração."
+Subtítulo: "Seja aniversário, casamento, confraternização ou evento corporativo, o LF Buffet está pronto para tornar sua ocasião ainda mais especial."
 
 Selos: "4.9 no Google · +90 avaliações" / "Desde 2007 · +19 anos de mercado"
 
@@ -63,7 +63,7 @@ CTA: "Falar com o LF Buffet no WhatsApp"
 
 Título: "O que o LF Buffet leva para casamentos, aniversários e eventos corporativos"
 
-Subtítulo: "De casamentos a eventos corporativos, a entrega segue o mesmo padrão: cardápio completo, ambientação cuidada e uma equipe presente do início ao fim."
+Subtítulo: "Mais do que um buffet, criamos experiências gastronômicas que transformam cada evento em um momento inesquecível. Cuidamos de cada detalhe para proporcionar sabores marcantes, um atendimento acolhedor e momentos que permanecem na memória."
 
 Cards:
 - Ilha de degustação — "Pratos preparados na hora pelas chefs, parte da experiência do evento."
@@ -97,6 +97,10 @@ Título: Eventos corporativos
 Corpo: "Café da manhã, almoço ou coffee break, com a pontualidade e o padrão que uma empresa espera para receber clientes, parceiros ou colaboradores."
 
 CTA: "Falar no WhatsApp sobre evento corporativo"
+
+**Fechamento** (após as 3 dobras de evento, antes dos Depoimentos)
+
+"Nosso cliente busca muito mais do que alimentação: ele quer proporcionar uma experiência especial aos seus convidados, com sabor, qualidade, apresentação, atendimento e praticidade. O LF Buffet oferece segurança e tranquilidade na organização do evento, cuidando dos detalhes para que o cliente aproveite cada momento da celebração."
 
 ### Depoimentos
 
@@ -149,9 +153,9 @@ CTA: "Traçar rota"
 Título: "Conheça quem vai cuidar do seu evento"
 
 Corpo:
-"Desde 2007 o LF Buffet vem transformando eventos em experiências marcantes em Araçatuba. Ao longo de mais de 19 anos, já fez parte de centenas de casamentos, aniversários e festas de 15 anos na cidade e região."
+"Desde 2007 o LF Buffet vem transformando eventos em experiências inesquecíveis em Araçatuba. Ao longo de mais de 19 anos, já fez parte de centenas de casamentos, aniversários e festas de 15 anos na cidade e região."
 
-"Mais do que servir, a equipe liderada por Luiz Fernando trabalha para criar experiências: das ilhas de degustação preparadas ao vivo pelas chefs à mesa de frios montada com capricho, cada detalhe é pensado para impressionar os convidados."
+"Mais do que servir, a equipe liderada por Luiz Fernando trabalha para criar experiências: das ilhas de degustação preparadas ao vivo pelas chefs à mesa de frios montada com capricho, cada detalhe é pensado para impressionar e emocionar os convidados."
 
 "O LF Buffet já esteve à frente de eventos marcantes, incluindo a cobertura de um encontro no SBT Interior, e mantém hoje nota 4.9 no Google, com mais de 90 avaliações reais de clientes."
 
