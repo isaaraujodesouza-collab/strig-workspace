@@ -140,6 +140,12 @@ Subtítulo: "Uma amostra do que preparamos com cuidado para cada evento."
 
 Galeria de fotos, sem texto adicional: mesa de frios, tábua de frios, pratos gelados, salgados, mesa de convidados decorada, recepção.
 
+### Frase de marca (dobra nova, entre Cardápio/Galeria e Localização)
+
+Dobra pequena, só uma frase centralizada, sem título nem CTA, funcionando como uma pausa visual entre a galeria e a localização.
+
+"Gastronomia, elegância e exclusividade em eventos de alto padrão em Araçatuba, SP."
+
 ### Localização
 
 Título: "Buffet de eventos em Araçatuba, SP"
