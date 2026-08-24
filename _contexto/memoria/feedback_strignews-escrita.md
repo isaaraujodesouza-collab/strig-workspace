@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: 14d322b1-ea34-488f-bffb-a299c98c8189
-  modified: 2026-08-03T20:13:04.181Z
+  modified: 2026-08-24T15:06:11.722Z
 ---
 
 Não usar números de identificação ultra-específicos nos artigos (número do PL, número do processo judicial, código do caso, etc.).
@@ -23,5 +23,9 @@ Quando um nome de empresa ou iniciativa for pouco conhecido, explicar brevemente
 Escrever o fato pelo fato, sem ponte, sem abertura, sem juízo de valor e sem fecho consultivo.
 **Why:** Confirmado pela Isa na edição de 04/08/2026, revisando as sete matérias. Tudo que era ligação entre frases, moldura de contexto, adjetivação ou parágrafo de "o que isso significa para você" foi cortado. O que resta é dado e fato em parágrafo curto.
 **How to apply:** Cortar frases de ponte ("E não parou aí", "A reação política veio rápido", "O movimento não é isolado"), aberturas de contexto ("Os números dão a dimensão"), adjetivação ("as técnicas não foram sofisticadas", "as multas não são simbólicas"), metáforas de síntese ("o creator abre a porta, não fecha a venda") e o parágrafo final de aplicação prática. Exceção: notícia internacional cujo impacto sobre quem trabalha no Brasil não é óbvio (ex: alcance extraterritorial do AI Act sobre agência que atende cliente europeu) pode manter o parágrafo de aplicação. É exceção, não padrão. Expressão da headline não se repete no corpo.
+
+O título da edição (H1 do arquivo, título do post no Beehiiv) é sempre as 3 primeiras notícias combinadas com vírgula e "e", igual ao assunto do e-mail, só sem o "e muito mais!" no final.
+**Why:** Confirmado revisando as 6 últimas edições publicadas em strignews.beehiiv.com — todas seguem exatamente esse padrão (ex: "Apple processa OpenAI, Câmara vota regulação das big techs e OpenAI lança ChatGPT Work"). Errei isso na edição de 25/08/2026, usando um título de tópico único em vez de combinar as 3 primeiras.
+**How to apply:** Nunca usar só a manchete da primeira notícia como título da edição. Sempre combinar as 3 primeiras pautas (na ordem que a Isa confirmar) no formato "A, B e C", sem "e muito mais!".
 
 Relacionado: [[feedback_kit-lanche-tom]], [[feedback_landing-page-sem-preco]], [[feedback_sem-travessao-sem-dois-pontos]]
