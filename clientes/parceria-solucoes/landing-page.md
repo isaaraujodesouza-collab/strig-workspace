@@ -91,9 +91,9 @@ Revisado e testado antes de sair da loja. *(aprofunda na dobra 5)*
 
 **Eyebrow:** Especialidade
 
-**H2:** Um dos poucos laboratórios de Fortaleza equipado pra reparo eletrônico de notebook
+**H2:** Especialista em todo tipo de reparo de notebook
 
-**Corpo:** A Parceria tem laboratório próprio, com maquinário e mão de obra qualificada pra reparo eletrônico de notebook, o tipo de serviço que exige equipamento específico e experiência em placa.
+**Corpo:** A Parceria resolve notebook que não liga, trava, esquenta, desliga sozinho, com tela ou teclado com defeito, bateria que não segura carga, entre outros problemas. Cada caso passa por diagnóstico no laboratório próprio antes do reparo.
 
 **CTA:** Falar com quem entende de notebook
 
@@ -106,6 +106,13 @@ Revisado e testado antes de sair da loja. *(aprofunda na dobra 5)*
 **H2:** Reparo de placa-mãe de notebook, no componente
 
 **Corpo:** Quando a placa dá defeito, a Parceria diagnostica o ponto exato do problema e repara direto no componente, com maquinário próprio pra reparo eletrônico. É o serviço mais técnico da casa, um dos motivos pelos quais cliente indica cliente.
+
+**Sinais de que o problema pode estar na placa-mãe:**
+- Notebook não liga, mesmo na tomada
+- Desliga sozinho, sem aviso
+- Tela azul frequente
+- Esquenta muito, mesmo depois de limpeza
+- Porta USB, som ou vídeo param de funcionar do nada
 
 **CTA:** Falar sobre o defeito da minha placa
 
