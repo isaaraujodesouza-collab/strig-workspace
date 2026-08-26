@@ -211,7 +211,7 @@ A maior parte dos clientes chega pela indicação de quem já foi atendido antes
 Sim, reparo de placa-mãe de notebook é a especialidade da casa. O diagnóstico eletrônico identifica o ponto exato do defeito, e o reparo é feito direto no componente, no laboratório próprio da Parceria em Fortaleza.
 
 **Atendem notebook de qualquer marca?**
-Sim, a Parceria atende notebook de qualquer marca e modelo, com diagnóstico feito no laboratório próprio.
+Sim, a Parceria atende notebook de qualquer marca e modelo, como Dell, HP, Lenovo, Acer, Asus, Samsung e Positivo, com diagnóstico feito no laboratório próprio.
 
 **O notebook seminovo tem garantia?**
 Sim. Todo notebook seminovo passa por revisão completa e teste no laboratório da Parceria antes da venda, com garantia.
