@@ -33,9 +33,9 @@ Regra do Google: o nome no perfil precisa refletir como a empresa é conhecida n
 
 ### Versão 1 — autoridade técnica
 
-Especialista em reparo de placa de notebook em Fortaleza, CE. Há 7 anos, a Parceria Soluções Informática atua com laboratório próprio equipado pra diagnóstico e reparo eletrônico de componente, não apenas troca de peça. Também fazemos troca de tela, teclado e bateria, reparo de carcaça, upgrade de memória e SSD, conserto de impressora e nobreak. Vendemos notebook seminovo revisado e testado, com garantia. Atendemos consumidor final, revenda, técnico e empresa, com condições de preço diferenciadas por perfil. Chame no WhatsApp e traga seu notebook pra diagnóstico.
+Especialista em reparo de placa de notebook no Centro de Fortaleza, CE. Há 7 anos, a Parceria Soluções Informática atua com laboratório próprio equipado pra diagnóstico e reparo eletrônico de hardware, especialistas em placa-mãe. Também fazemos troca de tela, teclado e bateria, reparo de carcaça, upgrade de memória e SSD, conserto de impressora e nobreak. Vendemos notebook seminovo revisado e testado, com garantia. Atendemos o Centro e bairros como Praia de Iracema, Moura Brasil, Jacarecanga, Farias Brito e Benfica, pra consumidor final, revenda, técnico e empresa, com condições de preço diferenciadas por perfil. Chame no WhatsApp e traga seu notebook pra diagnóstico.
 
-*(587 caracteres)*
+*(693 caracteres)*
 
 ### Versão 2 — indicação e confiança
 
