@@ -93,7 +93,7 @@ Revisado e testado antes de sair da loja. *(aprofunda na dobra 5)*
 
 **H2:** Especialista em todo tipo de reparo de notebook
 
-**Corpo:** A Parceria resolve notebook que não liga, trava, esquenta, desliga sozinho, com tela ou teclado com defeito, bateria que não segura carga, entre outros problemas. Cada caso passa por diagnóstico no laboratório próprio antes do reparo.
+**Corpo:** A Parceria atende notebook com qualquer tipo de problema, seja de hardware, software, peça ou desempenho. Cada caso passa por diagnóstico no laboratório próprio antes do reparo, do ajuste mais simples ao mais técnico.
 
 **CTA:** Falar com quem entende de notebook
 
