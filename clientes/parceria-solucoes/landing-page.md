@@ -232,7 +232,7 @@ O prazo depende do problema identificado no diagnóstico. Depois de avaliar o no
 Cartão de crédito, cartão de débito e Pix.
 
 **Qual o horário de atendimento?**
-*(pendente com o cliente)*
+Segunda a sexta, das 8h às 18h. Sábado, das 8h às 12h. *(horário padrão do nicho, confirmar com o cliente antes de publicar)*
 
 ---
 
@@ -282,6 +282,6 @@ Cartão de crédito, cartão de débito e Pix.
 ## Pendências com o cliente
 
 1. Fotos do laboratório, bancada de reparo e equipe
-2. Endereço completo e horário de atendimento (pra FAQ e rodapé)
+2. Endereço completo (pra rodapé) e confirmação do horário padrão usado na FAQ
 3. Nota do Google e depoimentos com nome
 4. Confirmar se pode citar volume/exemplos de reparo de placa já feitos (prova concreta, tipo o caso do PC de R$110k no Connect)
