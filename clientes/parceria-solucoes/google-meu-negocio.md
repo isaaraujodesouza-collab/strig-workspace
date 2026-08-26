@@ -60,17 +60,35 @@ Cadastrar cada um como serviço individual no perfil, não como um bloco só de 
 **Reparo de placa-mãe de notebook**
 Diagnóstico e reparo eletrônico de placa-mãe de notebook em Fortaleza. Reparo no componente, feito em laboratório próprio com maquinário especializado.
 
+**Reparo de placa-mãe de PC**
+Diagnóstico e reparo eletrônico de placa-mãe de computador desktop em Fortaleza. Reparo no componente, feito em laboratório próprio com maquinário especializado.
+
 **Troca de tela de notebook**
 Troca de tela de notebook com peça compatível e instalação no mesmo laboratório que faz o reparo de placa.
 
-**Troca de teclado, bateria e carregador**
-Troca de teclado, bateria e carregador de notebook, com atendimento rápido em Fortaleza.
+**Troca de teclado e periféricos de notebook**
+Troca de teclado e outros periféricos de notebook, como touchpad, com atendimento rápido em Fortaleza.
+
+**Troca de teclado e periféricos de PC**
+Troca de teclado, mouse e outros periféricos de computador desktop, com atendimento rápido em Fortaleza.
+
+**Troca de bateria e carregador**
+Troca de bateria e carregador de notebook, pra recuperar a autonomia e o carregamento do equipamento.
+
+**Troca de fonte de alimentação de PC**
+Troca de fonte de alimentação de computador desktop, resolvendo desligamento e falha de energia no PC.
 
 **Reparo de carcaça de notebook**
 Reparo e troca de peças da carcaça do notebook, recuperando a estrutura do equipamento.
 
+**Reparo de gabinete de PC**
+Reparo e troca de peças do gabinete do computador desktop, recuperando a estrutura do equipamento.
+
 **Upgrade de notebook (memória e SSD)**
 Upgrade de memória RAM e SSD pra deixar o notebook mais rápido, feito por técnico especializado.
+
+**Upgrade de PC (memória e SSD)**
+Upgrade de memória RAM e SSD pra deixar o computador mais rápido, feito por técnico especializado.
 
 **Conserto de impressora**
 Manutenção e reparo de impressora em Fortaleza, com técnico especialista nesse serviço.
@@ -92,3 +110,4 @@ Condições de preço diferenciadas pra revenda, técnico autônomo e empresa, e
 2. Confirmar se "assistência técnica" ou "notebook" já fazem parte do nome usado na fachada/documentos, pra decidir entre as opções de nome
 3. Fotos: fachada, laboratório, bancada, equipe (ver mapa de fotos em [landing-page.md](landing-page.md))
 4. Aplicar o [guia de gestão de reputação](../../dados/guia-gestao-reputacao-google-meu-negocio.md) pra resposta de avaliações, usando "Fortaleza" e "notebook" como termos de SEO local
+5. Confirmar com o cliente se fazem conserto de monitor de PC. Não incluí esse serviço por não ter confirmação, diferente da tela de notebook que é integrada ao equipamento

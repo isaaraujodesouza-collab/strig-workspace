@@ -54,7 +54,7 @@ Palavras-chave trabalhadas nos títulos: assistência técnica notebook Fortalez
 
 **Eyebrow:** Serviços
 
-**H2:** Conserto de notebook e impressora com equipamento próprio
+**H2:** Conserto de notebook, PC e impressora com equipamento próprio
 
 **Corpo:** Todo reparo passa por diagnóstico antes do orçamento. Veja o que fazemos.
 
@@ -64,16 +64,19 @@ Palavras-chave trabalhadas nos títulos: assistência técnica notebook Fortalez
 Diagnóstico completo de notebook e computador, com reparo indicado a partir do resultado.
 
 **Reparo de placa-mãe**
-Diagnóstico e reparo eletrônico no componente. *(aprofunda na dobra 4)*
+Diagnóstico e reparo eletrônico de notebook e PC, direto no componente. *(aprofunda na dobra 4)*
 
 **Tela e periféricos**
-Troca de tela, teclado, bateria e carregador.
+Troca de tela de notebook e periféricos como teclado, touchpad e mouse.
 
-**Reparo de carcaça**
-Troca de peças e ajuste estrutural do notebook.
+**Bateria, carregador e fonte**
+Troca de bateria e carregador de notebook, e fonte de alimentação de PC.
 
-**Upgrade de notebook**
-Memória e SSD pra deixar o notebook mais rápido.
+**Reparo de carcaça e gabinete**
+Reparo e troca de peças da carcaça do notebook e do gabinete do PC.
+
+**Upgrade de notebook e PC**
+Memória e SSD pra deixar o equipamento mais rápido.
 
 **Conserto de impressora**
 Manutenção e reparo, com Miguel, sócio especialista em impressora e nobreak.
