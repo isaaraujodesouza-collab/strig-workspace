@@ -60,6 +60,9 @@ Palavras-chave trabalhadas nos títulos: assistência técnica notebook Fortalez
 
 **Grupo 1, reparo:**
 
+**Diagnóstico e reparo geral**
+Diagnóstico completo de notebook e computador, com reparo indicado a partir do resultado.
+
 **Reparo de placa-mãe**
 Diagnóstico e reparo eletrônico no componente. *(aprofunda na dobra 4)*
 
