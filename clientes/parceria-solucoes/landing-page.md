@@ -146,7 +146,7 @@ Revisado e testado antes de sair da loja. *(aprofunda na dobra 5)*
 
 **Eyebrow:** Quem tá por trás
 
-**H2:** Começou com o que sobrou de um emprego e virou um dos laboratórios mais equipados da cidade
+**H2:** De bancada emprestada a laboratório próprio
 
 **Corpo:**
 
