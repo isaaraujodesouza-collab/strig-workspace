@@ -208,24 +208,30 @@ A maior parte dos clientes chega pela indicação de quem já foi atendido antes
 ## 11. FAQ
 
 **Fazem reparo de placa-mãe mesmo, no componente?**
-Sim, é a especialidade da casa. Diagnóstico primeiro, reparo eletrônico depois, no laboratório próprio.
+Sim, reparo de placa-mãe de notebook é a especialidade da casa. O diagnóstico eletrônico identifica o ponto exato do defeito, e o reparo é feito direto no componente, no laboratório próprio da Parceria em Fortaleza.
 
 **Atendem notebook de qualquer marca?**
-Sim.
+Sim, a Parceria atende notebook de qualquer marca e modelo, com diagnóstico feito no laboratório próprio.
 
 **O notebook seminovo tem garantia?**
-Sim, todo seminovo passa por revisão e teste antes da venda.
+Sim. Todo notebook seminovo passa por revisão completa e teste no laboratório da Parceria antes da venda, com garantia.
 
 **Vocês têm preço diferenciado pra revenda, técnico e empresa?**
-Sim. Fale com a gente pra saber as condições.
+Sim, a Parceria tem condições de preço diferenciadas pra revenda, técnico autônomo e empresa, tanto pra reparo de placa quanto pra compra de notebook seminovo. Fale com a gente pra saber as condições.
 
 **Consertam impressora e nobreak também?**
-Sim, com o Miguel, sócio especialista nesse serviço.
+Sim, a Parceria também faz manutenção e reparo de impressora e nobreak em Fortaleza, com o Miguel, sócio especialista nesse serviço.
+
+**Como funciona pra levar o notebook pra conserto?**
+É simples. Você entra em contato contando o problema, traz o notebook até a Parceria, o time faz o diagnóstico e passa o orçamento, o reparo é feito no prazo combinado e você retira o notebook pronto.
 
 **Qual o prazo médio de reparo?**
-*(pendente com o cliente)*
+O prazo depende do problema identificado no diagnóstico. Depois de avaliar o notebook, a Parceria informa o prazo de reparo antes de começar o serviço.
 
 **Quais formas de pagamento?**
+Cartão de crédito, cartão de débito e Pix.
+
+**Qual o horário de atendimento?**
 *(pendente com o cliente)*
 
 ---
@@ -276,7 +282,6 @@ Sim, com o Miguel, sócio especialista nesse serviço.
 ## Pendências com o cliente
 
 1. Fotos do laboratório, bancada de reparo e equipe
-2. Prazo médio de reparo e formas de pagamento (pra FAQ)
-3. Endereço completo e horário de atendimento
-4. Nota do Google e depoimentos com nome
-5. Confirmar se pode citar volume/exemplos de reparo de placa já feitos (prova concreta, tipo o caso do PC de R$110k no Connect)
+2. Endereço completo e horário de atendimento (pra FAQ e rodapé)
+3. Nota do Google e depoimentos com nome
+4. Confirmar se pode citar volume/exemplos de reparo de placa já feitos (prova concreta, tipo o caso do PC de R$110k no Connect)
