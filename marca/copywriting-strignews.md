@@ -97,8 +97,13 @@ O que mais foi destaque:
   - Link relacionado 1
   - Link relacionado 2
 
+Key: #chave-da-ancora-beehiiv
 [Botão de compartilhamento WhatsApp — pré-texto automático]
 ```
+
+**Links de "O que mais foi destaque" — regra obrigatória:** cada link tem que ir direto pra matéria específica na fonte, nunca pra home do site ou pra uma seção genérica (ex: `exame.com/tecnologia/`, `techcrunch.com/`, `olhardigital.com.br/`). Se não achar a URL exata da matéria numa fonte aprovada, sinalizar com ⚠️ em vez de linkar a home como solução provisória — link errado é pior que ausência de link.
+
+**Compartilhamento WhatsApp:** a linha com a `Key` (âncora do Beehiiv) sempre vem imediatamente antes do link de compartilhamento, logo após cada notícia — não separado numa lista à parte no fim do documento.
 
 **Extensão por notícia:** 1.500 a 2.000 caracteres. O limite superior é para notícias que exigem mais desenvolvimento — contexto histórico, impacto amplo, múltiplos desdobramentos. Notícias mais diretas ficam próximas de 1.500.
 
