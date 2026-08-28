@@ -121,6 +121,40 @@ O template usa YouTube / Instagram / Blog / Google — modelo pensado pra negóc
 
 **Desenho de planejamento com base na personalidade e briefing:** metodologia CRESCER (seção 4 de `posicionamento.md`) — cada tema passa pelas 7 letras como lentes (Crises, Receita, Evolução, Storytelling, Conteúdo, Essência, Resultado), e a distribuição semanal já está definida: 5 Reels + 1 Carrossel + 1 Estático no Instagram, 3-5 posts no LinkedIn, Stories diários planejados à parte.
 
+### Cadência semanal por fase — qual letra do CRESCER pesa mais em cada momento
+
+A distribuição de formato (5+1+1) já estava fechada. O que faltava era o peso de cada letra do CRESCER dentro dela, e isso muda conforme o estágio do perfil. Nesse momento (sem os 3 fixados publicados, sem formulário no ar, T01 travado), o perfil tem pouco ou nenhum awareness. Nessa fase, Crises (identificação) e Essência (clareza de quem é o Chrys, incluindo os 3 posts de apresentação da seção 10) precisam pesar mais do que Receita e Resultado, porque autoridade técnica não converte quem ainda não sabe quem está falando.
+
+**Fase 1 — agora, até os 3 fixados e o formulário estarem publicados**
+
+| Dia | Formato do calendário | Letra CRESCER | Formato de execução (seção 10) | Fonte no banco |
+|---|---|---|---|---|
+| Segunda | Reel | Crises | Explicação de metodologia ou Piada/ironia | T08, T09 ou dor nova |
+| Terça | Reel | **Essência** | Apresentação direta | Conceitos A/B/C ou porquê filosófico (seção 7) |
+| Quarta | Carrossel | Conteúdo | Educativo clássico | T04, T07 ou T20 (já roteirizados) |
+| Quinta | Reel | Storytelling | Contando história / Erro confessado | T02, T03 ou T11 (já produzidos) |
+| Sexta | Reel | Crises | Mesma lógica de segunda, segunda dor da semana | T08, T09 ou dor nova |
+| Sábado | Reel | **Essência** | Pensamento em voz alta | Banco de crenças (`posicionamento.md` seção 8) |
+| Domingo | Estático | Essência / Resultado (alterna por semana) | Frase de impacto ou prova social curta | — |
+
+Total da semana nos 5 reels: **2 Crises + 2 Essência + 1 Storytelling**. LinkedIn (3-5x, dias úteis) reaproveita os reels de Crises e Conteúdo em tom analítico, não é repost 1:1. Stories seguem diários, com a caixinha de pergunta ativa desde já (alimenta o formato 2 da seção 10 assim que começar a gerar pergunta real).
+
+**Fase 2 — depois que a base de identidade estiver publicada** (gatilho é completar o checklist de `perfil.md`, não uma data)
+
+| Dia | Formato do calendário | Letra CRESCER | Muda em relação à Fase 1 |
+|---|---|---|---|
+| Segunda | Reel | Crises | Mantém |
+| Terça | Reel | **Receita** | Era Essência, agora é método/autoridade |
+| Quarta | Carrossel | Receita / Conteúdo | Aprofunda em vez de só ensinar tática solta |
+| Quinta | Reel | Storytelling | Mantém |
+| Sexta | Reel | **Resultado** | Era a segunda Crises, agora é prova social (Resultado + inversão) |
+| Sábado | Reel | Essência | Cai de 2 pra 1, a identidade já está publicada |
+| Domingo | Estático | Resultado | Era Essência/Resultado alternado, agora fixa em Resultado (ladder de produto) |
+
+Total da Fase 2: **1 Crises + 1 Essência + 1 Storytelling + 1 Receita + 1 Resultado**. É a reponderação natural depois que identificação e identidade já fizeram o trabalho delas: autoridade técnica e prova de resultado passam a converter melhor do que continuar se apresentando.
+
+> Essa cadência é uma estrutura pra repetir toda semana, não um calendário de um mês específico com datas e temas atribuídos. Pra virar calendário real (datas, temas exatos do banco, texto pronto), o próximo passo é rodar a skill `/planejamento-editorial` ou puxar direto da árvore da seção 5.
+
 **Começar com um canal e ir expandindo:** Instagram é a base editorial (é onde o CRESCER e a lateralidade são produzidos primeiro); YouTube e TikTok já estão recebendo o mesmo material via reaproveitamento (evidente no `manifesto.json` da semana 2) — ou seja, a expansão já está em andamento, não é mais teórica.
 
 ---
@@ -489,6 +523,7 @@ Esses 3 conceitos estão no nível de gancho + estrutura, prontos pra entrar no 
 - "Por que agora" e "por que com você" nas 5 objeções
 - Árvore de conteúdo completa (seção 5) — ~39 temas encaixados, temões Vendas e Marketing desenvolvidos
 - 10 formatos de reel mapeados (seção 10), com 3 conceitos de post de apresentação prontos pra entrar em produção
+- Cadência semanal por letra do CRESCER, em 2 fases (seção 4)
 
 **Em aberto — perguntas reais pro Chrys, não lacuna de pesquisa:**
 1. **Nome do método próprio** (autoralidade) — escolher entre os 5 candidatos ou iterar (`metodologia.md`)
