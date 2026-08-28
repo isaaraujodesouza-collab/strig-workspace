@@ -1,6 +1,6 @@
 # Posicionamento e Conteúdo — Cristhyan Nunes (@chryscnunes)
 
-Documento único e central de tudo o que já foi mapeado, definido e deixado em aberto sobre o perfil do Chrys. Reúne o framework de posicionamento (seções 1 a 9) e a taxonomia de conteúdo desenvolvida (Anexo A) num só lugar, pra não espalhar informação em vários arquivos. Qualquer atualização futura entra aqui, não em documento novo.
+Documento único e central de tudo o que já foi mapeado, definido e deixado em aberto sobre o perfil do Chrys. Reúne o framework de posicionamento (seções 1 a 9, com a árvore de temão/teminho/recorte desenvolvida dentro da seção 5) num só lugar, pra não espalhar informação em vários arquivos. Qualquer atualização futura entra aqui, não em documento novo.
 
 Fontes usadas no mapeamento: `posicionamento.md` (Positioning Bible, a fonte-mãe), `perfil.md`, `produto.md`, `metodologia.md`, `banco-de-temas.md`, `lateralidade-conteudo.md`, `taxonomia-conteudo.md` original, `social-selling.md`, `referencias-conteudo.md`, `manifesto.json`, as pautas da `semana 2.md` e as respostas diretas do Chrys sobre o porquê fundacional. Onde o material já responde, está fechado. Onde não responde, está marcado como aberto — isso não é um vazio do mapeamento, é o que falta perguntar pro Chrys.
 
@@ -136,7 +136,158 @@ Temão            → Vendas · Comercial · Growth · Marketing
       Tema de vídeo → o fragmento executável (T01, T02... do banco de temas)
 ```
 
-Árvore completa, com os ~39 temas do banco encaixados em cada recorte, está no **Anexo A** ao final deste documento.
+Árvore completa dos 4 temões, com os ~39 temas do banco encaixados em cada recorte:
+
+O `taxonomia-conteudo.md` original estava proposital e explicitamente incompleto ("preencher teminhos, recortes e ângulos ao longo do uso"). O que vem abaixo faz esse preenchimento cruzando `banco-de-temas.md`, `lateralidade-conteudo.md`, `semana 2.md` e `metodologia.md` — e desenvolve os dois temões que estavam vazios (Vendas e Marketing).
+
+O tema de vídeo é sempre um fragmento de um recorte, que vive dentro de um teminho, dentro de um temão. Um mesmo recorte pode gerar mais de um tema de vídeo (é o que já aconteceu: T06 → T21/T38, T07 → T22/T23/T24, T02 → T25/T26/T27, T03 → T34/T35/T36/T37, T04 → T31/T32/T33, T11 → T28/T29/T30).
+
+#### Temão — Comercial
+
+O processo estruturado: como o negócio gera, qualifica, conduz e retém cliente.
+
+**Teminho — Prospecção / geração de demanda**
+- Recorte: continuidade do canal, nunca desligar → T03 (origem, "desligar prospecção foi a pior coisa que já fiz")
+- Recorte: quebra de padrão vs abordagem genérica → T08 (impossível de ser ignorado)
+- Recorte: sequência lógica da prospecção → T09 (standby, pronto pra scaffold)
+
+**Teminho — Qualificação** *(novo, não existia na árvore original)*
+- Recorte: perguntas rápidas que qualificam em 5 minutos → T20 (standby, pronto pra scaffold)
+- Recorte: desqualificar mesmo com lead quente/indicado → tema novo "Dispensei um lead de indicação na qualificação" (bastidor, detalhado em `semana 2.md`, ainda sem número T atribuído)
+
+> Nota: T09, T20 e o tema novo do lead dispensado formam um bloco natural de "antes de aceitar o cliente" que hoje está espalhado em três lugares diferentes do banco de temas. Vale considerar rodá-los como sequência (prospecção → qualificação → desqualificação consciente).
+
+**Teminho — Follow-up e cadência**
+- Recorte: cadência geral, ligação como regra → T07 (origem)
+- Recorte: ligação antes de WhatsApp → T22
+- Recorte: o que mandar em cada toque → T24
+- Recorte: como encerrar sem queimar a ponte → T23
+- Recorte: prazo de validade do "vou pensar" → T21, T06 (origem)
+- Recorte: consciência do gargalo sem ação → T38 (o dono sabe que perde venda e não muda nada)
+
+**Teminho — Fechamento e formalização** *(novo, não existia na árvore original)*
+- Recorte: burocracia vs velocidade comercial → T18 (contrato de 8 páginas mata o interesse do lead)
+
+**Teminho — Indicação estruturada**
+- Recorte: os 3 momentos de pedir indicação (fechamento, entrega, meta batida) → T05
+
+**Teminho — Onboarding e alinhamento de expectativa**
+- Recorte: expectativa como fator de renovação → T28, T11 (origem)
+- Recorte: prometer processo, nunca o número → T29
+- Recorte: prazo de contrato x ciclo de resultado → T30
+
+**Teminho — Relacionamento e geração de valor**
+- Recorte: servir antes de vender (estratégia vs prejuízo) → T25, T02 (origem)
+- Recorte: reativação de base sem verba em tráfego → T26
+- Recorte: em quem investir tempo antes de fechar → T27
+
+**Teminho — Churn em serviço recorrente**
+- Recorte: o lado emocional de perder um cliente em que você se envolveu → T17 *(parcial, Chrys ainda em dúvida se esse ângulo vai ao ar)*
+
+> Esse teminho existia vazio na árvore original. É diferente do "Churn e limites do marketing" do Growth (abaixo): aqui o ângulo é o processo/sentimento de reter e perder cliente dentro do relacionamento comercial; lá embaixo é a tese estrutural de que o cliente cancela independente do resultado que o marketing entrega.
+
+#### Temão — Growth
+
+A tese de que aquisição sem estrutura só acelera o problema, e de que o cliente cancela por motivos que o marketing não resolve.
+
+**Teminho — Estrutura antes do tráfego (motor vs acelerador)**
+- Recorte: as 7 perguntas antes de ligar o tráfego → T32 (série), T04 (origem)
+- Recorte: mesmo gestor, dois resultados → T31 (a variável não é o profissional, é a estrutura)
+- Recorte: motor vs acelerador como conceito proprietário → T33
+
+**Teminho — Escolha de canal de aquisição** *(novo, embrionário, nasceu do aprofundamento de T32 em `semana 2.md`)*
+- Recorte: Google (intenção de busca) vs Meta (atenção) vs conteúdo vs prospecção ativa → sem tema de vídeo próprio ainda. Tese do Chrys: existe demanda e intenção de busca pelo que você faz? Vai pro Google. Precisa chamar atenção ou gerar valor antes de vender? Vai pro Meta.
+
+> Esse recorte apareceu como ideia solta durante a produção de T32 ("isso é até tema novo legal para pensar", nas palavras do próprio Chrys em `semana 2.md`) e ainda não virou tema formal com número T. Vale decidir se ele nasce como novo teminho independente ou se fica como recorte dentro de "Estrutura antes do tráfego".
+
+**Teminho — Churn e limites do marketing**
+- Recorte: o cliente vai cancelar, não importa o resultado → T34
+- Recorte: marketing não salva negócio mal gerido → T35
+- Recorte: estruturar a operação com o carro andando → T36, T03 (origem, cruza com Comercial · Prospecção)
+- Recorte: quando o canal que funcionava para de funcionar → T37
+
+#### Temão — Vendas *(desenvolvido agora, estava "a definir")*
+
+Diferente de Comercial (processo, sistema, cadência), Vendas aqui é a postura individual: como o vendedor/empresário se posiciona na relação de venda, o que aceita e o que recusa.
+
+**Teminho — Postura e autoridade do vendedor**
+- Recorte: servir como princípio, em vendas e em liderança → T12
+- Recorte: se valorizar perante o lead, mesmo precisando do dinheiro → T13
+- Recorte: autoridade do especialista vs cliente que não reconhece o valor → T14
+- Recorte: espírito e consistência (qualidade x quantidade) → T19 ⚠️ ver nota abaixo
+
+> ⚠️ T19 (Fórmula QQE) já foi pesquisado em `metodologia.md`: o conceito "qualidade e quantidade não vencem espírito" **não é original do Chrys**, é de Franco Fonseca, publicado no LinkedIn. Pra usar esse tema em Vendas, ou credita o Franco Fonseca explicitamente, ou o Chrys desenvolve um ângulo próprio que se diferencie da versão existente. Está em standby por isso, não por falta de conteúdo.
+
+> Nota de sobreposição: T20 (qualificação, hoje classificado em Comercial) compartilha a mesma lógica de fundo de T13/T14 ("não aceitar qualquer lead só porque precisa fechar"). Um é processo (Comercial), o outro é mentalidade (Vendas), mas nasceram da mesma convicção. Vale ter isso em mente ao roteirizar pra não repetir o argumento com angulações idênticas.
+
+#### Temão — Marketing *(desenvolvido agora, estava "a definir", ainda o mais fino dos quatro)*
+
+**Teminho — Comunicação de valor**
+- Recorte: termos técnicos (CPL, ROAS, CTR) vs percepção real de valor pro cliente → T10 (standby, pronto pra scaffold)
+
+**Teminho — a definir** (candidatos sem tema de vídeo ainda)
+- Posicionamento e diferenciação de marca (conecta com a busca de nome próprio de método logo abaixo)
+- Copywriting e linguagem de resultado (como transformar entrega técnica em frase que o cliente entende)
+
+> Esse é o temão mais vazio dos quatro. Faz sentido: quase todo o banco de temas hoje fala de vendas/comercial/growth, quase nada fala de marketing como disciplina em si (linguagem, posicionamento, criativo). Ou isso é proposital (Chrys não quer se posicionar como "guru de marketing", só como quem estrutura vendas e growth), ou é um espaço real de expansão pra explorar depois que o método tiver nome fechado.
+
+#### Fora da árvore — bastidor fundacional
+
+**T01 (CLT → empreendedorismo), T15 (erros aos 27), T16 (crescimento sobre dívida)** não são "sobre" nenhum dos quatro temões. São sobre o Chrys como pessoa e fundador, a origem, não um assunto de mercado. `posicionamento.md` já reconhece isso como um quinto pilar editorial próprio ("Empreendedorismo e bastidores"), que não tem correspondente direto nos quatro temões desta árvore. Dado que T01 já ganhou um porquê filosófico fechado (seção 7 abaixo), esses três temas provavelmente merecem tratamento à parte de qualquer forma.
+
+#### Árvore completa (visão condensada)
+
+```
+Comercial
+├── Prospecção / geração de demanda ..... T03, T08, T09
+├── Qualificação (novo) ................. T20, [Dispensei lead]
+├── Follow-up e cadência ................. T06, T07, T21, T22, T23, T24, T38
+├── Fechamento e formalização (novo) .... T18
+├── Indicação estruturada ................ T05
+├── Onboarding e expectativa ............. T11, T28, T29, T30
+├── Relacionamento e geração de valor .... T02, T25, T26, T27
+└── Churn em serviço recorrente ........... T17
+
+Growth
+├── Estrutura antes do tráfego .......... T04, T31, T32, T33
+├── Escolha de canal (novo, embrionário) . (sem tema ainda)
+└── Churn e limites do marketing .......... T03, T34, T35, T36, T37
+
+Vendas
+└── Postura e autoridade do vendedor ..... T12, T13, T14, T19*
+
+Marketing
+├── Comunicação de valor .................. T10
+└── (a definir) ............................ —
+
+Fora da árvore (bastidor fundacional)
+└── T01, T15, T16
+```
+*T19 pendente de decisão sobre originalidade/crédito.
+
+#### Temas de vídeo já produzidos (roteiro completo em `lateralidade-conteudo.md`)
+
+| Tema | Assunto | Temão · Teminho | Semana |
+|------|---------|------------------|--------|
+| T02 | Vender é relacionamento | Comercial · Relacionamento | 1ª |
+| T03 | Desligar a prospecção foi a pior coisa que já fiz | Comercial · Prospecção / Growth · Churn | 1ª e 2ª (derivados) |
+| T04 | Por que tráfego pago não dá resultado | Growth · Estrutura antes do tráfego | 1ª e 2ª (derivados) |
+| T05 | Indicação estruturada | Comercial · Indicação | 1ª |
+| T06 | Venda adiada é venda perdida | Comercial · Follow-up | 1ª |
+| T07 | Follow-up estruturado | Comercial · Follow-up | 1ª |
+| T08 | Prospecção impossível de ignorar | Comercial · Prospecção | 2ª |
+| T11 | Prometer demais | Comercial · Onboarding | 1ª |
+| T12 | Liderança e vendas é sobre servir | Vendas · Postura | 1ª |
+| T13 | Se valorizar perante o lead | Vendas · Postura | 1ª |
+| T14 | Lead que quer tudo do jeito dele | Vendas · Postura | 1ª |
+| T22 | Ligação antes de WhatsApp | Comercial · Follow-up | 2ª |
+| T26 | Faturar sem tráfego reativando a base | Comercial · Relacionamento | 2ª |
+| T32 | Antes de anunciar (7 perguntas) | Growth · Estrutura antes do tráfego | 2ª |
+| T35 | Marketing não salva negócio mal gerido | Growth · Churn | 2ª |
+| T38 | Saber onde perde venda não resolve nada | Comercial · Follow-up | 2ª |
+| — | Dispensei lead de indicação | Comercial · Qualificação | 2ª |
+
+Roteiro completo (hook + carrossel + reel + thread + LinkedIn) dos temas da 2ª semana em `estatico.md`, `estrutura.md`, `legenda.md`, `linkedin.md` e nos slides HTML (`capa.html`, `slide-02.html` a `slide-07.html`) de T07 e T11. Publicação e distribuição cross-plataforma em `manifesto.json`.
 
 **Recorte específico de mercado:** a combinação de **aquisição + conversão integradas**, com foco em previsibilidade e método — sem hype, sem fórmula mágica. Pesquisa de mercado (`metodologia.md`) confirma que esse recorte não tem nome dominante no mercado brasileiro hoje (termos vizinhos como "Tração Comercial" e "Motor de Vendas" já são usados por outras marcas).
 
@@ -230,161 +381,6 @@ Cruzando as objeções esperadas (`posicionamento.md` seção 2) com o framework
 | **Por que eu não vou me ferrar?** | Resposta direta à objeção "já investi e não tive retorno": T04 mostra que o problema normalmente é estrutura, não o gestor/canal | 🔴 Aberto — falta reversão de risco explícita (garantia, teste, critério de saída). Não aparece em nenhum material, nem no ladder de produto |
 | **Por que com você (e não outro)?** | Resposta direta à objeção "meu problema é comercial, não é marketing": é exatamente a diferenciação central — integração aquisição + conversão que a concorrência não entrega junta | 🟢 Fechado — é o argumento mais forte e mais repetido em todo o material |
 | **Por que isso é uma pechincha?** | Ladder de preço existe (`produto.md`: pílula R$97, curso R$997-1997) | 🔴 Aberto — nenhum material conecta preço a valor entregue (ex: "custo de 1 lead perdido > preço da pílula"). É um ângulo de conteúdo que ainda não foi escrito, mesmo com o dado pronto (T07 já fala de "faz as contas de quanto você já queimou" — dá pra puxar esse fio pro produto) |
-
----
-
-## Anexo A — Taxonomia de conteúdo desenvolvida
-
-Versão expandida da árvore de nicho (seção 5). O `taxonomia-conteudo.md` original estava proposital e explicitamente incompleto ("preencher teminhos, recortes e ângulos ao longo do uso"). Este anexo faz esse preenchimento cruzando `banco-de-temas.md`, `lateralidade-conteudo.md`, `semana 2.md` e `metodologia.md` — todos os ~39 temas mapeados (T01 a T38 + o tema novo "Dispensei um lead") foram encaixados na árvore, e os dois temões que estavam vazios (Vendas e Marketing) ganharam conteúdo real.
-
-O tema de vídeo é sempre um fragmento de um recorte, que vive dentro de um teminho, dentro de um temão. Um mesmo recorte pode gerar mais de um tema de vídeo (é o que já aconteceu: T06 → T21/T38, T07 → T22/T23/T24, T02 → T25/T26/T27, T03 → T34/T35/T36/T37, T04 → T31/T32/T33, T11 → T28/T29/T30).
-
-### Comercial
-
-O processo estruturado: como o negócio gera, qualifica, conduz e retém cliente.
-
-**Teminho — Prospecção / geração de demanda**
-- Recorte: continuidade do canal, nunca desligar → T03 (origem, "desligar prospecção foi a pior coisa que já fiz")
-- Recorte: quebra de padrão vs abordagem genérica → T08 (impossível de ser ignorado)
-- Recorte: sequência lógica da prospecção → T09 (standby, pronto pra scaffold)
-
-**Teminho — Qualificação** *(novo, não existia na árvore original)*
-- Recorte: perguntas rápidas que qualificam em 5 minutos → T20 (standby, pronto pra scaffold)
-- Recorte: desqualificar mesmo com lead quente/indicado → tema novo "Dispensei um lead de indicação na qualificação" (bastidor, detalhado em `semana 2.md`, ainda sem número T atribuído)
-
-> Nota: T09, T20 e o tema novo do lead dispensado formam um bloco natural de "antes de aceitar o cliente" que hoje está espalhado em três lugares diferentes do banco de temas. Vale considerar rodá-los como sequência (prospecção → qualificação → desqualificação consciente).
-
-**Teminho — Follow-up e cadência**
-- Recorte: cadência geral, ligação como regra → T07 (origem)
-- Recorte: ligação antes de WhatsApp → T22
-- Recorte: o que mandar em cada toque → T24
-- Recorte: como encerrar sem queimar a ponte → T23
-- Recorte: prazo de validade do "vou pensar" → T21, T06 (origem)
-- Recorte: consciência do gargalo sem ação → T38 (o dono sabe que perde venda e não muda nada)
-
-**Teminho — Fechamento e formalização** *(novo, não existia na árvore original)*
-- Recorte: burocracia vs velocidade comercial → T18 (contrato de 8 páginas mata o interesse do lead)
-
-**Teminho — Indicação estruturada**
-- Recorte: os 3 momentos de pedir indicação (fechamento, entrega, meta batida) → T05
-
-**Teminho — Onboarding e alinhamento de expectativa**
-- Recorte: expectativa como fator de renovação → T28, T11 (origem)
-- Recorte: prometer processo, nunca o número → T29
-- Recorte: prazo de contrato x ciclo de resultado → T30
-
-**Teminho — Relacionamento e geração de valor**
-- Recorte: servir antes de vender (estratégia vs prejuízo) → T25, T02 (origem)
-- Recorte: reativação de base sem verba em tráfego → T26
-- Recorte: em quem investir tempo antes de fechar → T27
-
-**Teminho — Churn em serviço recorrente**
-- Recorte: o lado emocional de perder um cliente em que você se envolveu → T17 *(parcial, Chrys ainda em dúvida se esse ângulo vai ao ar)*
-
-> Esse teminho existia vazio na árvore original. É diferente do "Churn e limites do marketing" do Growth (abaixo): aqui o ângulo é o processo/sentimento de reter e perder cliente dentro do relacionamento comercial; lá embaixo é a tese estrutural de que o cliente cancela independente do resultado que o marketing entrega.
-
-### Growth
-
-A tese de que aquisição sem estrutura só acelera o problema, e de que o cliente cancela por motivos que o marketing não resolve.
-
-**Teminho — Estrutura antes do tráfego (motor vs acelerador)**
-- Recorte: as 7 perguntas antes de ligar o tráfego → T32 (série), T04 (origem)
-- Recorte: mesmo gestor, dois resultados → T31 (a variável não é o profissional, é a estrutura)
-- Recorte: motor vs acelerador como conceito proprietário → T33
-
-**Teminho — Escolha de canal de aquisição** *(novo, embrionário, nasceu do aprofundamento de T32 em `semana 2.md`)*
-- Recorte: Google (intenção de busca) vs Meta (atenção) vs conteúdo vs prospecção ativa → sem tema de vídeo próprio ainda. Tese do Chrys: existe demanda e intenção de busca pelo que você faz? Vai pro Google. Precisa chamar atenção ou gerar valor antes de vender? Vai pro Meta.
-
-> Esse recorte apareceu como ideia solta durante a produção de T32 ("isso é até tema novo legal para pensar", nas palavras do próprio Chrys em `semana 2.md`) e ainda não virou tema formal com número T. Vale decidir se ele nasce como novo teminho independente ou se fica como recorte dentro de "Estrutura antes do tráfego".
-
-**Teminho — Churn e limites do marketing**
-- Recorte: o cliente vai cancelar, não importa o resultado → T34
-- Recorte: marketing não salva negócio mal gerido → T35
-- Recorte: estruturar a operação com o carro andando → T36, T03 (origem, cruza com Comercial · Prospecção)
-- Recorte: quando o canal que funcionava para de funcionar → T37
-
-### Vendas *(temão desenvolvido, estava "a definir")*
-
-Diferente de Comercial (processo, sistema, cadência), Vendas aqui é a postura individual: como o vendedor/empresário se posiciona na relação de venda, o que aceita e o que recusa.
-
-**Teminho — Postura e autoridade do vendedor**
-- Recorte: servir como princípio, em vendas e em liderança → T12
-- Recorte: se valorizar perante o lead, mesmo precisando do dinheiro → T13
-- Recorte: autoridade do especialista vs cliente que não reconhece o valor → T14
-- Recorte: espírito e consistência (qualidade x quantidade) → T19 ⚠️ ver nota abaixo
-
-> ⚠️ T19 (Fórmula QQE) já foi pesquisado em `metodologia.md`: o conceito "qualidade e quantidade não vencem espírito" **não é original do Chrys**, é de Franco Fonseca, publicado no LinkedIn. Pra usar esse tema em Vendas, ou credita o Franco Fonseca explicitamente, ou o Chrys desenvolve um ângulo próprio que se diferencie da versão existente. Está em standby por isso, não por falta de conteúdo.
-
-> Nota de sobreposição: T20 (qualificação, hoje classificado em Comercial) compartilha a mesma lógica de fundo de T13/T14 ("não aceitar qualquer lead só porque precisa fechar"). Um é processo (Comercial), o outro é mentalidade (Vendas), mas nasceram da mesma convicção. Vale ter isso em mente ao roteirizar pra não repetir o argumento com angulações idênticas.
-
-### Marketing *(temão desenvolvido, estava "a definir", ainda o mais fino dos quatro)*
-
-**Teminho — Comunicação de valor**
-- Recorte: termos técnicos (CPL, ROAS, CTR) vs percepção real de valor pro cliente → T10 (standby, pronto pra scaffold)
-
-**Teminho — a definir** (candidatos sem tema de vídeo ainda)
-- Posicionamento e diferenciação de marca (conecta com a busca de nome próprio de método em `metodologia.md`)
-- Copywriting e linguagem de resultado (como transformar entrega técnica em frase que o cliente entende)
-
-> Esse é o temão mais vazio dos quatro. Faz sentido: quase todo o banco de temas hoje fala de vendas/comercial/growth, quase nada fala de marketing como disciplina em si (linguagem, posicionamento, criativo). Ou isso é proposital (Chrys não quer se posicionar como "guru de marketing", só como quem estrutura vendas e growth), ou é um espaço real de expansão pra explorar depois que o método tiver nome fechado.
-
-### Fora da árvore — bastidor fundacional
-
-**T01 (CLT → empreendedorismo), T15 (erros aos 27), T16 (crescimento sobre dívida)** não são "sobre" nenhum dos quatro temões. São sobre o Chrys como pessoa e fundador, a origem, não um assunto de mercado. `posicionamento.md` já reconhece isso como um quinto pilar editorial próprio ("Empreendedorismo e bastidores"), que não tem correspondente direto nos quatro temões desta árvore. Dado que T01 já ganhou um porquê filosófico fechado (seção 7), esses três temas provavelmente merecem tratamento à parte de qualquer forma.
-
-### Árvore completa (visão condensada)
-
-```
-Comercial
-├── Prospecção / geração de demanda ..... T03, T08, T09
-├── Qualificação (novo) ................. T20, [Dispensei lead]
-├── Follow-up e cadência ................. T06, T07, T21, T22, T23, T24, T38
-├── Fechamento e formalização (novo) .... T18
-├── Indicação estruturada ................ T05
-├── Onboarding e expectativa ............. T11, T28, T29, T30
-├── Relacionamento e geração de valor .... T02, T25, T26, T27
-└── Churn em serviço recorrente ........... T17
-
-Growth
-├── Estrutura antes do tráfego .......... T04, T31, T32, T33
-├── Escolha de canal (novo, embrionário) . (sem tema ainda)
-└── Churn e limites do marketing .......... T03, T34, T35, T36, T37
-
-Vendas
-└── Postura e autoridade do vendedor ..... T12, T13, T14, T19*
-
-Marketing
-├── Comunicação de valor .................. T10
-└── (a definir) ............................ —
-
-Fora da árvore (bastidor fundacional)
-└── T01, T15, T16
-```
-*T19 pendente de decisão sobre originalidade/crédito.
-
-### Temas de vídeo já produzidos (roteiro completo em `lateralidade-conteudo.md`)
-
-| Tema | Assunto | Temão · Teminho | Semana |
-|------|---------|------------------|--------|
-| T02 | Vender é relacionamento | Comercial · Relacionamento | 1ª |
-| T03 | Desligar a prospecção foi a pior coisa que já fiz | Comercial · Prospecção / Growth · Churn | 1ª e 2ª (derivados) |
-| T04 | Por que tráfego pago não dá resultado | Growth · Estrutura antes do tráfego | 1ª e 2ª (derivados) |
-| T05 | Indicação estruturada | Comercial · Indicação | 1ª |
-| T06 | Venda adiada é venda perdida | Comercial · Follow-up | 1ª |
-| T07 | Follow-up estruturado | Comercial · Follow-up | 1ª |
-| T08 | Prospecção impossível de ignorar | Comercial · Prospecção | 2ª |
-| T11 | Prometer demais | Comercial · Onboarding | 1ª |
-| T12 | Liderança e vendas é sobre servir | Vendas · Postura | 1ª |
-| T13 | Se valorizar perante o lead | Vendas · Postura | 1ª |
-| T14 | Lead que quer tudo do jeito dele | Vendas · Postura | 1ª |
-| T22 | Ligação antes de WhatsApp | Comercial · Follow-up | 2ª |
-| T26 | Faturar sem tráfego reativando a base | Comercial · Relacionamento | 2ª |
-| T32 | Antes de anunciar (7 perguntas) | Growth · Estrutura antes do tráfego | 2ª |
-| T35 | Marketing não salva negócio mal gerido | Growth · Churn | 2ª |
-| T38 | Saber onde perde venda não resolve nada | Comercial · Follow-up | 2ª |
-| — | Dispensei lead de indicação | Comercial · Qualificação | 2ª |
-
-Roteiro completo (hook + carrossel + reel + thread + LinkedIn) dos temas da 2ª semana em `estatico.md`, `estrutura.md`, `legenda.md`, `linkedin.md` e nos slides HTML (`capa.html`, `slide-02.html` a `slide-07.html`) de T07 e T11. Publicação e distribuição cross-plataforma em `manifesto.json`.
 
 ---
 
