@@ -384,6 +384,91 @@ Cruzando as objeções esperadas (`posicionamento.md` seção 2) com o framework
 
 ---
 
+## 10. Formatos de post — a estrutura, não o assunto
+
+A árvore da seção 5 (temão → teminho → recorte → tema) responde **o quê**. Esta seção responde **como**: a mecânica de execução do post, independente do assunto. O mesmo tema pode rodar em formatos diferentes — é o que `lateralidade-conteudo.md` já faz ao desdobrar T02 em Estático/Carrossel/Reel/Thread/LinkedIn. Aqui o recorte é mais fundo, dentro do próprio Reel, que é o formato dominante (5 dos 7 posts semanais) e onde o crescimento de fato acontece.
+
+### Tentativa de puxar os 5 reels de melhor entrega que o Chrys indicou
+
+Antes da lista de formatos, um registro de transparência. O Chrys mandou 4 links de reels + o perfil como os melhores em entrega. Tentei ler os 4 direto via fetch:
+
+- 2 não retornaram conteúdo nenhum (Instagram bloqueia acesso sem login, o conteúdo é renderizado via JS)
+- 1 voltou texto corrompido, tipo OCR ruim, sem confiabilidade
+- 1 (o do carro, sobre prospecção) voltou um resumo que bate tematicamente com o T03 já documentado no banco de temas ("churn embutido", "estruturar com o carro andando", 2025) — mas não dá pra garantir que é a legenda real e não o modelo de fetch reconstruindo em cima do que já sabia do contexto
+
+❓ **Gap real, não de pesquisa:** pra fazer a análise de "o que funcionou e por quê" direito, preciso da legenda de cada um dos 4 (texto puro, print ou cola aqui) e, se tiver, os números do Insights (visualizações, curtidas, comentários, salvamentos, retenção). Sem isso eu estaria especulando em cima de scraping capenga, o que quebra a própria regra de fidelidade que rege esse sistema inteiro (nunca inventar case). Assim que tiver esse input, essa seção ganha um bloco de "por que esses 5 entregaram mais que a média", com formato + gancho + motivo cravados, não chutados.
+
+### Formatos de Reels validados
+
+Baseado em `referencias-conteudo.md` (padrões de @rodvincenzi e @eu.gabrielamelo) cruzado com os 5 formatos que você já reconhece como válidos, mais 3 que apareceram nas referências mas ainda não tinham nome formal.
+
+**1. Apresentação direta** *(novo — prioridade agora, ver subseção abaixo)*
+Mecânica: hook com afirmação direta de identidade/proposta, sem rodeio → 2-3 frases de prova (case ou número) → CTA claro de próximo passo. Curto, 15-30s.
+Quando usar: Essência/Resultado do CRESCER, qualquer momento em que o objetivo é ser entendido rápido por quem nunca viu o perfil.
+Por que ainda não existe no banco: é exatamente o buraco que você apontou. Os posts fixados (perfil.md) dependiam do T01 (entrevista pendente), mas apresentação direta **não precisa de história pessoal**, só da positioning statement e de uma prova já fechada (seção 6 e 8 deste documento).
+
+**2. Caixinha de pergunta respondida**
+Mecânica: mostra a pergunta recebida (print da caixinha do stories) → responde direto, sem enrolar → fecha com reforço da resposta.
+Quando usar: Conteúdo (C) do CRESCER, formato mais rápido de produzir, gera sensação de proximidade e resposta real.
+Referência: padrão "bastidor de DM" da Gabi Melo — mostrar a pergunta real em vez de só falar sobre o assunto em abstrato.
+
+**3. Pensamento em voz alta**
+Mecânica: gatilho do pensamento (algo que aconteceu no dia, uma reunião, um print) → raciocínio em tempo real, não decorado → conclusão/crença no fim.
+Quando usar: Essência (E) do CRESCER. Não é roteirizado linha a linha, é estrutura de raciocínio, não de frase pronta.
+Referência: tom "de quem já sabe, não de quem quer impressionar" da Gabi Melo, e o "sem intro, direto no ponto" do Rodrigo Vincenzi.
+
+**4. Explicação de metodologia**
+Mecânica: problema nomeado → passo a passo (numerado, tipo as "7 perguntas" do T04/T32) → resultado esperado.
+Quando usar: Conteúdo (C) do CRESCER. Já é o formato mais usado hoje no banco (T04, T07, T20, T32).
+Referência: nenhuma das duas referências usa isso como formato principal (os dois preferem bastidor a explicação pura) — vale notar que é o formato mais fácil de produzir, mas não necessariamente o que mais viraliza pros dois criadores estudados.
+
+**5. Contando história**
+Mecânica: framework BUT/THEREFORE do storytelling (`spec-framework-reel.md`): contexto → complicação (BUT) → resolução (THEREFORE) → lição.
+Quando usar: Storytelling (S) do CRESCER. É o formato de T02, T03, T11, já produzidos e com case real.
+
+**6. Vídeos aleatórios + fala por trás (b-roll narrado)**
+Mecânica: não é talking head parado, é imagem do dia a dia (tela do CRM, rua, reunião, carro, tráfego rodando) com narração por cima.
+Quando usar: qualquer letra do CRESCER, é uma escolha visual, não temática. Bom pra variar o visual sem perder cadência, e pra quem não quer estar 100% do tempo de frente pra câmera.
+Referência: "bastidor real, mostra a ferramenta, o celular, o print, a tela" da Gabi Melo + lo-fi puro do Rodrigo Vincenzi. O reel do carro que o Chrys mandou parece se encaixar aqui (ambiente real, não estúdio).
+
+**7. Resultado + inversão** *(estava nas referências, sem nome formal ainda)*
+Mecânica: abre pelo resultado contra-intuitivo ("dobramos X sem aumentar Y") e desenrola de trás pra frente, não em ordem cronológica.
+Quando usar: Resultado (R) do CRESCER. Diferente de "contando história" porque não segue a ordem em que os fatos aconteceram, começa pelo final chocante.
+Referência: padrão "Resultado + inversão" da Gabi Melo, citado literalmente em `referencias-conteudo.md`.
+
+**8. Erro confessado** *(subtipo de "contando história", vale nomear separado)*
+Mecânica: abre admitindo um erro, não uma vitória. Cria vulnerabilidade calculada, ensina a partir da falha.
+Quando usar: Storytelling (S), muda o hook completamente em relação ao "contando história" padrão (autocrítica em vez de conquista). T03 já usa esse ângulo.
+Referência: "vulnerabilidade calculada" da Gabi Melo.
+
+**9. Script/mensagem demonstrada**
+Mecânica: mostra literalmente o texto que mandou (print de WhatsApp, DM, proposta) e explica por que funcionou.
+Quando usar: Conteúdo (C), utilidade alta, gera pedido de template na DM (alimenta o social selling, `social-selling.md`).
+Referência: "o que eu mandei pra esse lead que não respondia" da Gabi Melo.
+
+### Prioridade agora: posts de apresentação
+
+Três conceitos prontos pra produzir, sem depender da entrevista do T01 (que ainda está travada). Usam só material já fechado neste documento: a positioning statement (seção 1), o porquê filosófico (seção 7) e as provas de autoridade (seção 8). Formato de execução recomendado: **Apresentação direta** (curto) ou **Pensamento em voz alta** (se quiser mais textura).
+
+**A. Quem sou e o que eu faço**
+Gancho: "Eu estruturo sistemas de vendas e growth pra empresário parar de crescer no susto."
+Corpo: não vende aula, não vende motivação. Entra na operação, acha onde a engrenagem trava (growth, marketing, branding, vendas, inovação) e resolve o que está travando. Cofundador da Strig Lab, mais de 30 empresas, 15 nichos.
+Fecho: "Se seu negócio já vende mas cresce de forma desorganizada, é pra você que eu falo."
+
+**B. O que eu resolvo que ninguém resolve junto**
+Gancho: "Marketing bom não segura negócio com venda fraca. Venda boa não segura negócio sem posicionamento."
+Corpo: versão curta do porquê filosófico (seção 7) — cada peça sozinha parece o problema, nenhuma é, o problema é tratar como departamento o que é engrenagem.
+Fecho: "É por isso que eu resolvo a engrenagem inteira, não uma peça."
+
+**C. Pra quem eu falo**
+Gancho: "Se o marketing melhorou e a venda continua do mesmo jeito, é pra você que eu falo."
+Corpo: nomeia a dor específica da Persona A (seção 2) — sobrecarga do dono, dependência de indicação, marketing e vendas desconectados.
+Fecho: CTA direto pro formulário/DM.
+
+Esses 3 conceitos estão no nível de gancho + estrutura, prontos pra entrar no loop de produção (`spec-framework-reel.md`: gerar 3 versões, julgar pela régua, sintetizar, checkpoint com o Chrys) quando quiserem virar roteiro final palavra por palavra.
+
+---
+
 ## Resumo — o que está fechado vs. o que precisa do Chrys
 
 **Fechado e utilizável hoje:**
@@ -393,7 +478,8 @@ Cruzando as objeções esperadas (`posicionamento.md` seção 2) com o framework
 - Voz, tom, regras de produção
 - Porquê filosófico (seção 7) — crença fundacional em rascunho, falta só validação de voz do Chrys
 - "Por que agora" e "por que com você" nas 5 objeções
-- Árvore de conteúdo completa (Anexo A) — ~39 temas encaixados, temões Vendas e Marketing desenvolvidos
+- Árvore de conteúdo completa (seção 5) — ~39 temas encaixados, temões Vendas e Marketing desenvolvidos
+- 9 formatos de reel mapeados (seção 10), com 3 conceitos de post de apresentação prontos pra entrar em produção
 
 **Em aberto — perguntas reais pro Chrys, não lacuna de pesquisa:**
 1. **Nome do método próprio** (autoralidade) — escolher entre os 5 candidatos ou iterar (`metodologia.md`)
@@ -407,3 +493,4 @@ Cruzando as objeções esperadas (`posicionamento.md` seção 2) com o framework
 9. **T19 (QQE)** — creditar Franco Fonseca ou abandonar o conceito
 10. **Investimento editorial em Marketing** — desenvolver o temão ou mantê-lo fino por design
 11. **Destino de T01/T15/T16** — quinto temão próprio ("Fundador"/"Bastidor") ou tratamento fora da árvore
+12. **Legendas + métricas dos 4 reels de melhor entrega** (seção 10) — sem isso não dá pra cravar por que eles funcionaram, só especular
