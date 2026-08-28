@@ -364,7 +364,9 @@ O porquê filosófico explica a crença. Falta a origem pessoal por trás dela, 
 
 **Anti-posicionamento (o que ele rejeita, e isso também é diferenciação):** improviso operacional, marketing de promessa ("fature 100 mil em 30 dias"), dependência de plataforma/algoritmo, métrica de vaidade, guru/influencer de motivação vazia, gatilho manipulativo.
 
-**Referências de execução estudadas** (não de posicionamento, de formato): Rodrigo Vincenzi (hooks de crença/correção, lo-fi puro), Gabriela Melo (demonstração > explicação, bastidor de DM). Mapeamento completo de padrões de hook em `referencias-conteudo.md`.
+**Referências de execução estudadas** (não de posicionamento, de formato): Rodrigo Vincenzi (hooks de crença/correção, lo-fi puro), Gabriela Melo (demonstração > explicação, bastidor de DM), Tay Dantas / @tay.ldantas (mix carrossel + reel, humor como gancho de identificação — ver seção 10, formato 10). Mapeamento completo de padrões de hook em `referencias-conteudo.md`.
+
+> Nota sobre @tay.ldantas: o Chrys pediu explicitamente pra usar essa referência só de **formato** (estrutura de post), não de **tom**. O tom do perfil (motivacional, espiritual, humor como pilar) contradiz regras já fechadas na seção 1 (proibido hype, motivação vazia, tom de coach/guru) e não deve ser importado.
 
 ❓ **Gap:** a autoralidade (nome do método) ainda não está fechada — é o maior buraco na diferenciação hoje, porque "criador do [método]" é o tipo de frase que deveria estar na bio e ainda não pode, por falta de nome definido.
 
@@ -446,6 +448,13 @@ Mecânica: mostra literalmente o texto que mandou (print de WhatsApp, DM, propos
 Quando usar: Conteúdo (C), utilidade alta, gera pedido de template na DM (alimenta o social selling, `social-selling.md`).
 Referência: "o que eu mandei pra esse lead que não respondia" da Gabi Melo.
 
+**10. Piada/ironia como gancho de identificação** *(novo, referência @tay.ldantas)*
+Mecânica: abre com uma afirmação irônica ou engraçada sobre uma dor real do público (ex: "agora tenho liberdade, posso escolher quais 16h do dia vou trabalhar"), a piada já carrega a crítica dentro, sem precisar explicar depois. Diferente de "pensamento em voz alta", que é sério e reflexivo, aqui o gancho é cômico de propósito.
+Quando usar: Crises (C) do CRESCER, pra quebrar o padrão sério dos outros 9 formatos. Usar com moderação: humor não é pilar de tom do Chrys (que é racional, anti-hype), então funciona melhor como gancho pontual de um post específico, não como característica recorrente da voz.
+Referência: @tay.ldantas, importado só como mecânica de gancho. **O tom motivacional/espiritual desse perfil não entra** — ver nota na seção 8 sobre o porquê disso ficar de fora.
+
+> ⚠️ Confiabilidade da fonte @tay.ldantas: os dados vieram de fetch direto do perfil (bio, destaques, exemplos de gancho), sem confirmação humana. Instagram bloqueia scraping sem login, então há risco de imprecisão nos exemplos citados. Tratar como direção de mecânica, não como citação literal garantida.
+
 ### Prioridade agora: posts de apresentação
 
 Três conceitos prontos pra produzir, sem depender da entrevista do T01 (que ainda está travada). Usam só material já fechado neste documento: a positioning statement (seção 1), o porquê filosófico (seção 7) e as provas de autoridade (seção 8). Formato de execução recomendado: **Apresentação direta** (curto) ou **Pensamento em voz alta** (se quiser mais textura).
@@ -479,7 +488,7 @@ Esses 3 conceitos estão no nível de gancho + estrutura, prontos pra entrar no 
 - Porquê filosófico (seção 7) — crença fundacional em rascunho, falta só validação de voz do Chrys
 - "Por que agora" e "por que com você" nas 5 objeções
 - Árvore de conteúdo completa (seção 5) — ~39 temas encaixados, temões Vendas e Marketing desenvolvidos
-- 9 formatos de reel mapeados (seção 10), com 3 conceitos de post de apresentação prontos pra entrar em produção
+- 10 formatos de reel mapeados (seção 10), com 3 conceitos de post de apresentação prontos pra entrar em produção
 
 **Em aberto — perguntas reais pro Chrys, não lacuna de pesquisa:**
 1. **Nome do método próprio** (autoralidade) — escolher entre os 5 candidatos ou iterar (`metodologia.md`)
