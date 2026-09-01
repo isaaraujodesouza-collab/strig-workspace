@@ -40,6 +40,22 @@ templates/skills/   — templates de skills prontos pra personalizar com /mapear
 templates/ferramentas/catalogo.md — APIs e ferramentas disponíveis pra usar em skills
 ```
 
+**Organização dentro de `clientes/[nome]/` (clientes com produção recorrente de social media):**
+
+```
+briefing.md         — dados e tom do cliente (raiz)
+design-guide.md      — identidade visual, se houver (raiz)
+pesquisa/            — pesquisa-social.md e afins
+planejamento/        — planejamento-[mes]-[ano].md
+copy/                — copies-[mes]-[ano].md, diretrizes de copy, réguas de CRM
+artes/[mes]/         — artes geradas localmente por post, usadas pelo /publicar-social
+relatorio/           — relatorio-[periodo]-config.json, .html e .pdf
+```
+
+Clientes só com projeto pontual (PPD, landing page) continuam com os arquivos soltos na raiz —
+essa divisão de pasta é só pra quem tem produção mensal recorrente (pesquisa + planejamento +
+copy + artes + relatório se acumulando todo mês).
+
 ## Comandos disponíveis
 
 | Comando | Quando usar |

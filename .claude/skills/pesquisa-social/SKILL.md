@@ -52,7 +52,7 @@ Usar WebSearch para coletar dados reais. Buscar em etapas:
 
 ### Passo 3 — Montar o documento completo
 
-Gerar o documento nas seções abaixo e salvar em `clientes/[nome-do-cliente]/pesquisa-social.md`.
+Gerar o documento nas seções abaixo e salvar em `clientes/[nome-do-cliente]/pesquisa/pesquisa-social.md`.
 
 ---
 
@@ -246,7 +246,7 @@ Listar todas as fontes consultadas:
 ## Ao salvar
 
 Informar:
-> "Pesquisa salva em `clientes/[nome]/pesquisa-social.md`. Quer que eu já monte o planejamento editorial com base nisso? Chama `/planejamento-editorial`."
+> "Pesquisa salva em `clientes/[nome]/pesquisa/pesquisa-social.md`. Quer que eu já monte o planejamento editorial com base nisso? Chama `/planejamento-editorial`."
 
 ---
 

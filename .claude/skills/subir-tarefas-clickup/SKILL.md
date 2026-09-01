@@ -19,8 +19,8 @@ Essa skill não gera conteúdo, ela pega o que já existe em disco e sobe pro Cl
 
 ## Dependências
 
-- `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` — calendário e direcionamento criativo de cada post
-- `clientes/[nome-do-cliente]/copies/copies-[mes]-[ano].md` — copy completa de cada post
+- `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md` — calendário e direcionamento criativo de cada post
+- `clientes/[nome-do-cliente]/copy/copies-[mes]-[ano].md` — copy completa de cada post
 - MCP ClickUp — para localizar o espaço do cliente e criar as tasks
 
 ---
@@ -32,7 +32,7 @@ Essa skill não gera conteúdo, ela pega o que já existe em disco e sobe pro Cl
 Se não informado, perguntar em bloco único:
 > "Qual cliente e qual mês? E quem fica como responsável pelas tasks desse lote (Isa, Chrys, Marina ou Ryan)?"
 
-Ler `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` e `clientes/[nome-do-cliente]/copies/copies-[mes]-[ano].md` por completo (arquivos longos, usar offset/limit se necessário — nunca sumir com posts por falta de leitura).
+Ler `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md` e `clientes/[nome-do-cliente]/copy/copies-[mes]-[ano].md` por completo (arquivos longos, usar offset/limit se necessário — nunca sumir com posts por falta de leitura).
 
 Se algum dos dois arquivos não existir, avisar e parar:
 > "Não encontrei [arquivo]. Preciso do planejamento e das copies validados antes de subir pro ClickUp."

@@ -13,7 +13,7 @@ description: >
 
 - `_contexto/empresa.md` — contexto da Strig
 - `clientes/[nome-do-cliente]/briefing.md` — dados do cliente
-- `clientes/[nome-do-cliente]/pesquisa-social.md` — persona e OKRs (se existir)
+- `clientes/[nome-do-cliente]/pesquisa/pesquisa-social.md` — persona e OKRs (se existir)
 - `conteudo/redes-sociais/CRESCER.md` — método editorial
 
 ---
@@ -80,7 +80,7 @@ Verificar se há datas comemorativas relevantes para o nicho do cliente no mês 
 
 ### Passo 5 — Salvar
 
-Salvar em `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md`.
+Salvar em `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md`.
 
 Estrutura do arquivo:
 

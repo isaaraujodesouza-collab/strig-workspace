@@ -180,8 +180,8 @@ quantidade de mídia, data de agendamento) e mostra o preview sem enviar nada.
 node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
   --cliente quata \
   --redes "instagram,instagram-stories,facebook,linkedin" \
-  --media "clientes/quata/agosto/slide-01.png,clientes/quata/agosto/slide-02.png" \
-  --media-stories "clientes/quata/agosto/story.png" \
+  --media "clientes/quata/artes/agosto/slide-01.png,clientes/quata/artes/agosto/slide-02.png" \
+  --media-stories "clientes/quata/artes/agosto/story.png" \
   --caption "legenda do post" \
   --agendar "2026-08-10 09:00" \
   --dry-run
@@ -230,7 +230,7 @@ Sem `--agendar`, publica na hora.
 ```bash
 node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
   --cliente quata --redes linkedin \
-  --media "clientes/quata/agosto/post-01.png" \
+  --media "clientes/quata/artes/agosto/post-01.png" \
   --caption "texto do post"
 ```
 
@@ -238,7 +238,7 @@ node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
 ```bash
 node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
   --cliente ibr --redes "instagram,facebook,linkedin" \
-  --media "clientes/ibr/agosto/slide-01.png,clientes/ibr/agosto/slide-02.png" \
+  --media "clientes/ibr/artes/agosto/slide-01.png,clientes/ibr/artes/agosto/slide-02.png" \
   --caption "texto do carrossel" \
   --agendar "2026-08-12 08:30"
 ```
@@ -247,8 +247,8 @@ node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
 ```bash
 node --env-file=.env .claude/skills/publicar-social/scripts/publicar-social.js \
   --cliente kit-lanche-express --redes "instagram,instagram-stories" \
-  --media "clientes/kit-lanche-express/agosto/slide-01.png,clientes/kit-lanche-express/agosto/slide-02.png" \
-  --media-stories "clientes/kit-lanche-express/agosto/story.png" \
+  --media "clientes/kit-lanche-express/artes/agosto/slide-01.png,clientes/kit-lanche-express/artes/agosto/slide-02.png" \
+  --media-stories "clientes/kit-lanche-express/artes/agosto/story.png" \
   --caption "legenda do carrossel" \
   --agendar "2026-08-11 12:00"
 ```

@@ -82,7 +82,7 @@ no KPI e não inventar — mas sempre perguntar antes de assumir que não tem.
 ### Passo 3 — Montar o config.json
 
 Usar `exemplos/config-exemplo-social.json` como base. Preencher com os dados do cliente.
-Salvar o config em `clientes/[cliente]/relatorio-[periodo]-config.json`.
+Salvar o config em `clientes/[cliente]/relatorio/relatorio-[periodo]-config.json`.
 
 Ver **Schema do config** abaixo. Pontos de atenção:
 - `plataforma` define o texto do header ("Instagram", "LinkedIn", "Instagram + Facebook").
@@ -133,7 +133,7 @@ bombando". Adaptar a linguagem ao cliente (não usar a voz combativa da Strig no
 ### Passo 5 — Rodar o gerador
 
 Rodar o comando do bloco Dependências apontando pro config. Salvar a saída em
-`clientes/[cliente]/`. Conferir o PDF antes de entregar.
+`clientes/[cliente]/relatorio/`. Conferir o PDF antes de entregar.
 
 ### Passo 6 — Entregar
 

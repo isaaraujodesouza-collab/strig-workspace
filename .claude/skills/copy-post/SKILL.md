@@ -13,8 +13,8 @@ description: >
 ## Dependências
 
 - `clientes/[nome-do-cliente]/briefing.md` — dados e tom do cliente
-- `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` — tema e formato do post (se existir)
-- `clientes/[nome-do-cliente]/banco-crescer.md` — banco de ideias do cliente (se existir)
+- `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md` — tema e formato do post (se existir)
+- `clientes/[nome-do-cliente]/copy/banco-crescer.md` — banco de ideias do cliente (se existir)
 - `conteudo/redes-sociais/CRESCER.md` — referência de método e formatos
 
 ---
@@ -83,9 +83,9 @@ Entregar tela a tela com texto sugerido para cada slide.
 Entregar a copy formatada na conversa.
 
 Perguntar se quer salvar:
-> "Quer que eu salve esse copy em `clientes/[nome]/copies/`?"
+> "Quer que eu salve esse copy em `clientes/[nome]/copy/`?"
 
-Se sim, salvar em `clientes/[nome-do-cliente]/copies/copy-[tema]-[YYYY-MM-DD].md`.
+Se sim, salvar em `clientes/[nome-do-cliente]/copy/copy-[tema]-[YYYY-MM-DD].md`.
 
 ---
 

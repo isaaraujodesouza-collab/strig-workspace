@@ -11,8 +11,8 @@ description: >
 
 ## Dependências
 
-- `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` — calendário do mês
-- `clientes/[nome-do-cliente]/copies/` — legendas de cada post
+- `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md` — calendário do mês
+- `clientes/[nome-do-cliente]/copy/` — legendas de cada post
 - Google Drive MCP — para acessar as artes enviadas pela Marina
 - Canva MCP — para criar e popular a apresentação
 
@@ -25,7 +25,7 @@ description: >
 Se não informado, perguntar em bloco único:
 > "Para qual cliente e qual mês é a apresentação de aprovação?"
 
-Ler `clientes/[nome-do-cliente]/planejamento-[mes]-[ano].md` para ter o calendário completo.
+Ler `clientes/[nome-do-cliente]/planejamento/planejamento-[mes]-[ano].md` para ter o calendário completo.
 
 ---
 
@@ -58,7 +58,7 @@ Se algum post do planejamento não tiver pasta de arte no Drive, informar:
 ### Passo 3 — Coletar legendas
 
 Para cada post com arte disponível:
-1. Buscar o arquivo de copy correspondente em `clientes/[nome-do-cliente]/copies/`
+1. Buscar o arquivo de copy correspondente em `clientes/[nome-do-cliente]/copy/`
 2. Extrair: legenda completa (sem hashtags) + CTA
 
 Se não houver copy salvo para algum post, sinalizar e perguntar se quer gerar agora com `/copy-post` antes de continuar.
