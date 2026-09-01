@@ -57,7 +57,7 @@ Antes de qualquer procedimento, existe um processo. Ele é o mesmo pra todo paci
 **Etapas (linha do tempo ou cards numerados):**
 
 **1. Anamnese**
-Conversa aprofundada sobre rotina, trabalho, alimentação e histórico de saúde.
+Conversa aprofundada sobre rotina, trabalho, alimentação e histórico de saúde. Quando o caso pede um diagnóstico mais aprofundado, exames complementares são solicitados já nesta etapa.
 
 **2. Documentação do caso**
 Fotos completas da condição atual, moldagem quando necessário, estudo do caso.
@@ -116,6 +116,7 @@ Cada uma dessas condições muda a forma como o tratamento é conduzido e como a
 - Anamnese aprofundada de rotina, trabalho, alimentação e histórico de saúde
 - Documentação fotográfica completa do caso
 - Moldagem e estudo do caso, quando necessário
+- Solicitação de exames complementares, quando o caso exige um diagnóstico mais aprofundado
 - Entrega de documento de diagnóstico com o plano de tratamento explicado
 
 *[Espaço para fotos de diagnóstico: como o paciente chega antes de qualquer avaliação]*
