@@ -9,6 +9,7 @@
 4. **Fotos de diagnóstico e de tratamento (antes e depois).** O Código de Ética Odontológica veda expor ao público leigo artifício de propaganda com finalidade de captar clientela, incluindo fotos de antes/durante/depois. Só entram fotos com autorização por escrito específica pra uso em site (não vale a autorização verbal caso a caso mencionada em reunião), com legenda que descreve o procedimento sem prometer resultado equivalente pra quem visualiza. Ideal o Jeff revisar cada imagem antes de subir.
 5. **Nenhum valor (R$) foi usado em nenhuma dobra**, inclusive no FAQ. A mensagem "odontologia de qualidade não é barata" fica no campo do posicionamento, não em número.
 6. **E-mail de contato** ainda pendente, usar só WhatsApp até lá.
+7. **Biópsia como procedimento oferecido pela clínica.** Retirei da lista de Cirurgia (dobra 3D) até confirmar se o cirurgião parceiro realiza ou se o encaminhamento é externo, pra análise anatomopatológica.
 
 Tom: direto, técnico e acessível, educativo, sem papas na língua, combativo contra odontologia comercial, honesto sobre processo. Não é humor, aspiracional, lifestyle, agenda cheia, escassez, promoção ou preço.
 
@@ -183,9 +184,10 @@ Quando o caso exige cirurgia, o paciente é encaminhado ao cirurgião parceiro d
 - Cirurgia para instalação de implante
 - Enxerto ósseo, quando indicado
 - Frenectomia
-- Biópsia, quando necessário
 
 *[Espaço para fotos: casos cirúrgicos documentados, apenas com autorização por escrito]*
+
+*Nota: biópsia é tecnicamente um procedimento cirúrgico menor, mas costuma envolver encaminhamento específico (às vezes fora da equipe, pra análise anatomopatológica). Tirei da lista até confirmar com o Jeff se isso faz parte do escopo oferecido pelo cirurgião parceiro ou se é encaminhado separadamente.*
 
 **CTA:** nenhum nesta dobra.
 
