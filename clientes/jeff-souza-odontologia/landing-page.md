@@ -69,7 +69,7 @@ Entrega de um documento de diagnóstico com o que foi encontrado e o plano de tr
 Quando o tratamento exige cirurgia, ortodontia ou endodontia, o paciente é encaminhado ao especialista da equipe responsável por aquele procedimento.
 
 **5. Agendamento**
-Consultas marcadas com intervalo entre pacientes. Rotação controlada, não volume.
+Com o plano de tratamento já traçado, os horários são organizados pra caber na rotina do paciente e garantir que o tratamento seja concluído do jeito certo, sem etapa pulada ou apressada.
 
 **6. Realização do tratamento**
 Cada etapa explicada antes de acontecer.
@@ -241,7 +241,7 @@ O que muda no atendimento com o Dr. Jeff
 - **Equipe com um especialista por área.** Cirurgia, ortodontia e endodontia com profissionais dedicados, cada um na sua especialidade.
 - **26 anos de domínio técnico em prótese.** Leitura de caso construída desde o laboratório, antes mesmo da graduação em odontologia.
 - **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento.
-- **Rotação de agenda controlada.** Consultas de hora em hora, com intervalo mínimo entre pacientes, não é atendimento em série.
+- **Agendamento pensado pro seu tratamento, não pra agenda da clínica.** Os horários são organizados em cima do plano traçado pro seu caso, pra garantir que o tratamento seja concluído por completo, sem etapa pulada.
 
 **CTA:** nenhum nesta dobra.
 
