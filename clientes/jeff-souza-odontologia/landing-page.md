@@ -1,10 +1,10 @@
 # Landing Page Institucional — Jeff Souza Odontologia
 
-**Contexto:** página institucional (não campanha), 100% informativa. O objetivo não é vender consulta, é fazer o visitante entender como o Dr. Jeff trabalha antes de decidir procurar a clínica. Por isso não existe CTA de "agende agora" em nenhuma dobra, só "entre em contato para contar sobre seu caso", e botão de contato aparece só no FAQ e na dobra de contato, não em todas as dobras como no padrão Strig de LP de campanha.
+**Contexto:** página institucional (não campanha), 100% informativa. O objetivo não é vender consulta, é fazer o visitante entender como o dentista Jeff trabalha antes de decidir procurar a clínica. Por isso não existe CTA de "agende agora" em nenhuma dobra, só "entre em contato para contar sobre seu caso", e botão de contato aparece só no FAQ e na dobra de contato, não em todas as dobras como no padrão Strig de LP de campanha.
 
 **Antes de publicar, confirmar com o Jeff:**
 1. **Endereço físico da clínica.** Não foi coletado em nenhuma reunião até agora. Sem isso não dá pra montar a dobra de Localização nem o embed do Google Maps.
-2. **Número de inscrição no CRO-SP do Dr. Jeff** (e do cirurgião e endodontista parceiros, se forem citados nominalmente). Exigência legal pro rodapé, não é opcional.
+2. **Número de inscrição no CRO-SP do cirurgião e do endodontista parceiros**, se forem citados nominalmente. O do Jefferson Souza já está confirmado (167440) e preenchido no rodapé.
 3. **Nome e formação completa do cirurgião e do endodontista da equipe**, e se ele quer que apareçam nominalmente ou só por especialidade ("cirurgião parceiro", "endodontista parceiro"). Por ora o texto trata os dois de forma genérica.
 4. **Fotos de diagnóstico e de tratamento (antes e depois).** O Código de Ética Odontológica veda expor ao público leigo artifício de propaganda com finalidade de captar clientela, incluindo fotos de antes/durante/depois. Só entram fotos com autorização por escrito específica pra uso em site (não vale a autorização verbal caso a caso mencionada em reunião), com legenda que descreve o procedimento sem prometer resultado equivalente pra quem visualiza. Ideal o Jeff revisar cada imagem antes de subir.
 5. **Nenhum valor (R$) foi usado em nenhuma dobra**, inclusive no FAQ. A mensagem "odontologia de qualidade não é barata" fica no campo do posicionamento, não em número.
@@ -19,7 +19,7 @@ Tom: direto, técnico e acessível, educativo, sem papas na língua, combativo c
 Jeff Souza Odontologia em [Cidade/Região] | Diagnóstico Documentado, Sem Tratamento Desnecessário
 
 ## [Meta descrição]
-Conheça o trabalho do Dr. Jeff Souza em [Cidade/Região]. Anamnese aprofundada, diagnóstico documentado e uma equipe de especialistas comprometida com odontologia como promoção de saúde.
+Conheça o trabalho de Jefferson Souza em [Cidade/Região]. Anamnese aprofundada, diagnóstico documentado e uma equipe de especialistas comprometida com odontologia como promoção de saúde.
 
 *Nota: título e meta description dependem da cidade/bairro da clínica, que ainda não foi informado. Ajustar assim que o endereço for confirmado.*
 
@@ -36,7 +36,7 @@ HERO · Tratamentos · Diferenciais · Depoimentos · Localização e contato ·
 Odontologia bem feita e humana é possível.
 
 **SUBHEADLINE:**
-O Dr. Jeff Souza não realiza tratamento que não seja necessário. Cada caso passa por anamnese completa, diagnóstico documentado e um plano construído em cima da rotina real do paciente.
+Jefferson Souza não realiza tratamento que não seja necessário. Cada caso passa por anamnese completa, diagnóstico documentado e um plano construído em cima da rotina real do paciente.
 
 **PROVA RÁPIDA (badges):**
 - 26 anos de domínio técnico em odontologia e prótese
@@ -102,7 +102,7 @@ Cada área abaixo tem um propósito. Todos os tratamentos são realizados a part
 O ponto de partida de todo tratamento
 
 **TEXTO:**
-Antes de indicar qualquer procedimento, o Dr. Jeff faz uma anamnese que vai além do dente. Rotina de sono, jornada de trabalho, alimentação, histórico de saúde da família, tudo isso entra na conversa, porque tudo isso influencia o diagnóstico e o plano de cuidado.
+Antes de indicar qualquer procedimento, o dentista Jeff faz uma anamnese que vai além do dente. Rotina de sono, jornada de trabalho, alimentação, histórico de saúde da família, tudo isso entra na conversa, porque tudo isso influencia o diagnóstico e o plano de cuidado.
 
 Itens que fazem parte do histórico de saúde levantado na anamnese:
 
@@ -156,7 +156,7 @@ Reabilitação oral é um termo amplo. Vai desde restaurar um único dente até 
 O tratamento que evita todos os outros
 
 **TEXTO:**
-Prevenção é o melhor negócio pros dois lados. Menos tempo de cadeira e menos gasto pro paciente, resultado mais estável pra clínica. O objetivo declarado do Dr. Jeff é fazer o paciente mudar de hábito o suficiente pra precisar cada vez menos de intervenção.
+Prevenção é o melhor negócio pros dois lados. Menos tempo de cadeira e menos gasto pro paciente, resultado mais estável pra clínica. O objetivo declarado do dentista Jeff é fazer o paciente mudar de hábito o suficiente pra precisar cada vez menos de intervenção.
 
 **Cards (tratamentos dentro desta frente):**
 - Limpeza profissional (profilaxia) e remoção de tártaro
@@ -199,7 +199,7 @@ Quando o caso exige cirurgia, o paciente é encaminhado ao cirurgião parceiro d
 Alinhamento conduzido pelo ortodontista da equipe
 
 **TEXTO:**
-O acompanhamento ortodôntico é feito pelo especialista da equipe, sempre a partir do diagnóstico inicial do Dr. Jeff.
+O acompanhamento ortodôntico é feito pelo especialista da equipe, sempre a partir do diagnóstico inicial do dentista Jeff.
 
 **Cards (tratamentos dentro desta frente):**
 - Aparelho fixo, metálico ou estético
@@ -235,15 +235,15 @@ Quando o caso é de canal, o paciente é encaminhado ao endodontista da equipe. 
 ## DOBRA 4 — DIFERENCIAIS
 
 **TÍTULO DA DOBRA:**
-O que muda no atendimento com o Dr. Jeff
+O que muda no atendimento com o dentista Jeff
 
 - **Anamnese que vai além do dente.** Mapeia rotina real, trabalho, alimentação e histórico de saúde antes de montar qualquer plano.
 - **Diagnóstico documentado.** Todo paciente sai com um documento explicando o que foi encontrado e o que será feito, com comprovação fotográfica do início ao fim.
-- **Recusa formal de procedimento desnecessário.** Se não precisa ser feito, o Dr. Jeff fala isso, mesmo que o paciente esteja disposto a pagar.
+- **Recusa formal de procedimento desnecessário.** Se não precisa ser feito, o dentista Jeff fala isso, mesmo que o paciente esteja disposto a pagar.
 - **Material indicado pela necessidade clínica do caso.** A escolha segue o que o diagnóstico pede, as melhores práticas recomendadas pela odontologia e o que faz sentido pra cada paciente.
 - **Equipe com um especialista por área.** Cirurgia, ortodontia e endodontia com profissionais dedicados, cada um na sua especialidade.
 - **26 anos de domínio técnico em prótese.** Leitura de caso construída desde o laboratório, antes mesmo da graduação em odontologia.
-- **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento pra saber como você está, se a recuperação está indo bem e se surgiu alguma dúvida.
+- **Acompanhamento pessoal pós-consulta.** O próprio dentista Jeff entra em contato depois do atendimento pra saber como você está, se a recuperação está indo bem e se surgiu alguma dúvida.
 - **Agendamento pensado pro seu tratamento.** Os horários são organizados em cima do plano traçado pro seu caso, garantindo que o tratamento seja concluído por completo.
 
 **CTA:** nenhum nesta dobra.
@@ -256,7 +256,7 @@ O que muda no atendimento com o Dr. Jeff
 Cada consulta também é uma aula sobre a sua própria rotina
 
 **SUBTÍTULO:**
-O Dr. Jeff ensina o processo antes, durante e depois de qualquer procedimento. E parte desse ensino já começa na anamnese, com orientação sobre hábitos que ninguém costuma explicar em detalhe.
+O dentista Jeff ensina o processo antes, durante e depois de qualquer procedimento. E parte desse ensino já começa na anamnese, com orientação sobre hábitos que ninguém costuma explicar em detalhe.
 
 **TEXTO:**
 Um exemplo real de como isso funciona na prática: uma rotina alimentar mais espaçada ao longo do dia pode elevar o pH da saliva, o que compromete a proteção natural que ela oferece aos dentes. Nesse cenário, a orientação passa por aumentar a ingestão de água pra manter a saliva equilibrada, evitar alimentos muito ácidos entre as refeições, e ajustar a forma como o paciente escova os dentes e usa o fio dental, reduzindo o acúmulo de tártaro e o risco dos problemas que ele causa.
@@ -269,7 +269,7 @@ Esse tipo de orientação não é padrão em todo consultório. Aqui, faz parte 
 - Relação entre alimentação, hidratação e saúde bucal
 - Sinais de alerta pra procurar acompanhamento antes de virar urgência
 
-*Resultado declarado pelo próprio Dr. Jeff: o objetivo não é o tratamento, é a autonomia. O paciente aprender a cuidar da própria rotina é o que sustenta o resultado a longo prazo.*
+*Resultado declarado pelo próprio dentista Jeff: o objetivo não é o tratamento, é a autonomia. O paciente aprender a cuidar da própria rotina é o que sustenta o resultado a longo prazo.*
 
 **CTA:** nenhum nesta dobra.
 
@@ -278,7 +278,7 @@ Esse tipo de orientação não é padrão em todo consultório. Aqui, faz parte 
 ## DOBRA 6 — DEPOIMENTOS
 
 **TÍTULO DA DOBRA:**
-O que dizem os pacientes atendidos pelo Dr. Jeff
+O que dizem os pacientes atendidos pelo dentista Jeff
 
 **SUBTÍTULO:**
 Avaliações reais, coletadas no Google e no WhatsApp.
@@ -308,12 +308,12 @@ Atendimento em [Cidade/Região]
 ## DOBRA 8 — QUEM SOMOS
 
 **TÍTULO DA DOBRA:**
-Quem é o Dr. Jeff Souza
+Quem é Jefferson Souza
 
 **TEXTO:**
 Jefferson Souza é protético há 26 anos. Começou a estudar prótese dentária ainda no colegial, em 1999, e construiu a carreira dentro de laboratório, com laboratório próprio desde 2008. A graduação em odontologia veio depois, e foi ali que se apaixonou pela área clínica e pela possibilidade de transformar a vida dos pacientes através da odontologia humanizada, tanto quanto já era apaixonado pela experiência de laboratório.
 
-Hoje o Dr. Jeff atua na reabilitação e na prevenção, junto de uma equipe de especialistas parceiros para cirurgia, ortodontia e endodontia. A missão é simples de dizer e difícil de sustentar: odontologia bem feita e humana é possível.
+Hoje o Jeff atua na reabilitação e na prevenção, junto de uma equipe de especialistas parceiros para cirurgia, ortodontia e endodontia. A missão é simples de dizer e difícil de sustentar: odontologia bem feita e humana é possível.
 
 **Valores que guiam o atendimento:**
 - Não fazer no paciente o que não faria na própria família
@@ -324,7 +324,7 @@ Hoje o Dr. Jeff atua na reabilitação e na prevenção, junto de uma equipe de 
 - Encaminhar cada procedimento pra quem faz melhor
 - Todo paciente sai com diagnóstico documentado
 
-*[Foto real do Dr. Jeff]*
+*[Foto real do Jeff]*
 
 **CTA:** nenhum nesta dobra.
 
@@ -362,7 +362,7 @@ Se a sua dúvida não está aqui, fale direto com a clínica.
 O agendamento é feito por WhatsApp. O recomendado é marcar com pelo menos 15 dias de antecedência, principalmente pra consulta de diagnóstico, que já envolve anamnese completa e documentação fotográfica.
 
 **Posso agendar diretamente com um profissional específico da clínica?**
-A consulta de diagnóstico é sempre feita com o Dr. Jeff, que mapeia o caso completo. Se o tratamento exigir cirurgia, ortodontia ou endodontia, você é encaminhado pro especialista da equipe responsável por aquele procedimento.
+A consulta de diagnóstico é sempre feita com o dentista Jeff, que mapeia o caso completo. Se o tratamento exigir cirurgia, ortodontia ou endodontia, você é encaminhado pro especialista da equipe responsável por aquele procedimento.
 
 **Quais são as formas de pagamento aceitas?**
 Dinheiro, Pix, boleto bancário ou cartão de crédito e débito.
@@ -371,10 +371,10 @@ Dinheiro, Pix, boleto bancário ou cartão de crédito e débito.
 A clínica ainda não possui acessibilidade. Há estacionamento disponível.
 
 **O que a clínica faz para minimizar a ansiedade de pacientes com medo de dentista?**
-Tudo começa na anamnese, que mapeia não só o dente, mas a rotina e o histórico do paciente numa conversa prévia. Isso evita procedimento surpresa, você sabe exatamente o que vai ser feito antes de sentar na cadeira, e o Dr. Jeff nunca indica algo que não seja necessário. O atendimento em si é conduzido de forma gradual, pra gerar o maior conforto possível.
+Tudo começa na anamnese, que mapeia não só o dente, mas a rotina e o histórico do paciente numa conversa prévia. Isso evita procedimento surpresa, você sabe exatamente o que vai ser feito antes de sentar na cadeira, e o dentista Jeff nunca indica algo que não seja necessário. O atendimento em si é conduzido de forma gradual, pra gerar o maior conforto possível.
 
 **A clínica oferece algum tipo de pós-tratamento ou garantia nos serviços realizados?**
-Sim. O acompanhamento não termina na consulta, o próprio Dr. Jeff entra em contato depois do atendimento pra saber como está a recuperação e se surgiu alguma dúvida. A garantia de cada tratamento é específica ao procedimento realizado.
+Sim. O acompanhamento não termina na consulta, o próprio dentista Jeff entra em contato depois do atendimento pra saber como está a recuperação e se surgiu alguma dúvida. A garantia de cada tratamento é específica ao procedimento realizado.
 
 **Já estou em tratamento com outro dentista, mas gostaria de uma segunda opinião ou de trocar de clínica. Como vocês lidam com meu histórico?**
 Todo paciente novo passa pela mesma anamnese e diagnóstico documentado, independente do histórico anterior. Vale tanto pra quem nunca fez tratamento quanto pra quem já está em acompanhamento em outro lugar e quer uma segunda opinião.
@@ -395,13 +395,13 @@ Não. Recusar tratamento desnecessário é um dos valores centrais da clínica, 
 ## DOBRA 11 — FOOTER
 
 **Jeff Souza Odontologia**
-CRO-SP nº [PENDENTE]
+CRO-SP nº 167440
 
 📍 [Endereço completo — pendente]
 📱 WhatsApp: (11) 99483-0380
 📷 Instagram: [@jeffsouzaodontologia](https://www.instagram.com/jeffsouzaodontologia/)
 
-Dr. Jefferson Souza — Cirurgião-Dentista, CRO-SP nº [PENDENTE]
+Jefferson Souza — Cirurgião-Dentista, CRO-SP nº 167440
 
 *As informações deste site têm caráter educativo e não substituem uma avaliação odontológica presencial. Resultados de tratamento variam conforme a condição clínica de cada paciente.*
 
