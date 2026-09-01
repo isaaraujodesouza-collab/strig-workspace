@@ -18,7 +18,7 @@ Tom: direto, técnico e acessível, educativo, sem papas na língua, combativo c
 Jeff Souza Odontologia em [Cidade/Região] | Diagnóstico Documentado, Sem Tratamento Desnecessário
 
 ## [Meta descrição]
-Conheça o trabalho do Dr. Jeff Souza em [Cidade/Região]: anamnese aprofundada, diagnóstico documentado e equipe de especialistas. Odontologia como promoção de saúde, não como venda de procedimento.
+Conheça o trabalho do Dr. Jeff Souza em [Cidade/Região]. Anamnese aprofundada, diagnóstico documentado e uma equipe de especialistas comprometida com odontologia como promoção de saúde.
 
 *Nota: título e meta description dependem da cidade/bairro da clínica, que ainda não foi informado. Ajustar assim que o endereço for confirmado.*
 
@@ -35,7 +35,7 @@ HERO · Tratamentos · Diferenciais · Depoimentos · Localização e contato ·
 Odontologia bem feita e humana é possível.
 
 **SUBHEADLINE:**
-O Dr. Jeff Souza não realiza tratamento que não seja necessário. Cada caso passa por anamnese completa, diagnóstico documentado e um plano construído em cima da rotina real do paciente, não de um procedimento padrão.
+O Dr. Jeff Souza não realiza tratamento que não seja necessário. Cada caso passa por anamnese completa, diagnóstico documentado e um plano construído em cima da rotina real do paciente.
 
 **PROVA RÁPIDA (badges):**
 - 26 anos de domínio técnico em odontologia e prótese
@@ -57,7 +57,7 @@ Antes de qualquer procedimento, existe um processo. Ele é o mesmo pra todo paci
 **Etapas (linha do tempo ou cards numerados):**
 
 **1. Anamnese**
-Conversa aprofundada sobre rotina, trabalho, alimentação e histórico de saúde, não só sobre o dente que dói.
+Conversa aprofundada sobre rotina, trabalho, alimentação e histórico de saúde.
 
 **2. Documentação do caso**
 Fotos completas da condição atual, moldagem quando necessário, estudo do caso.
@@ -69,7 +69,7 @@ Entrega de um documento de diagnóstico com o que foi encontrado e o plano de tr
 Quando o tratamento exige cirurgia, ortodontia ou endodontia, o paciente é encaminhado ao especialista da equipe responsável por aquele procedimento.
 
 **5. Agendamento**
-Com o plano de tratamento já traçado, os horários são organizados pra caber na rotina do paciente e garantir que o tratamento seja concluído do jeito certo, sem etapa pulada ou apressada.
+Com o plano de tratamento já traçado, os horários são organizados pra caber na rotina do paciente e garantir que o tratamento seja concluído do jeito certo.
 
 **6. Realização do tratamento**
 Cada etapa explicada antes de acontecer.
@@ -89,7 +89,7 @@ Registro fotográfico do resultado e orientação de manutenção.
 Áreas de atuação
 
 **SUBTÍTULO:**
-Cada área abaixo tem um propósito. Nenhum tratamento listado aqui é feito por padrão, só quando o diagnóstico indica que é necessário.
+Cada área abaixo tem um propósito. Todos os tratamentos são realizados a partir da real necessidade, seguindo as melhores práticas da odontologia humana e as condições de saúde do paciente.
 
 *(Espaço reservado pra galeria com fotos de diagnóstico, como os pacientes chegam ao consultório antes de qualquer avaliação. Fotos genéricas do ambiente/atendimento, sem exposição de casos específicos nesta dobra de abertura.)*
 
@@ -110,7 +110,7 @@ Itens que fazem parte do histórico de saúde levantado na anamnese:
 - HPV e HIV
 - Gravidez
 
-Cada uma dessas condições muda a forma como o tratamento é conduzido e como a rotina de prevenção é orientada. É um acompanhamento clínico completo, não uma consulta de dor de dente.
+Cada uma dessas condições muda a forma como o tratamento é conduzido e como a rotina de prevenção é orientada. É um acompanhamento clínico completo.
 
 **Cards do que está incluso:**
 - Anamnese aprofundada de rotina, trabalho, alimentação e histórico de saúde
@@ -130,7 +130,7 @@ Cada uma dessas condições muda a forma como o tratamento é conduzido e como a
 De uma restauração simples a uma reabilitação completa
 
 **TEXTO:**
-Reabilitação oral é um termo amplo. Vai desde restaurar um único dente até devolver a função de uma arcada inteira. O que muda é o tamanho do caso, não o cuidado no planejamento.
+Reabilitação oral é um termo amplo. Vai desde restaurar um único dente até devolver a função de uma arcada inteira. O cuidado no planejamento é o mesmo em qualquer tamanho de caso.
 
 **Cards (tratamentos dentro desta frente):**
 - Restauração (obturação) em resina
@@ -153,7 +153,7 @@ Reabilitação oral é um termo amplo. Vai desde restaurar um único dente até 
 O tratamento que evita todos os outros
 
 **TEXTO:**
-Prevenção é o melhor negócio pros dois lados. Menos tempo de cadeira e menos gasto pro paciente, resultado mais estável pra clínica. O objetivo declarado do Dr. Jeff não é ver o paciente toda semana, é que ele mude de hábito o suficiente pra precisar cada vez menos de intervenção.
+Prevenção é o melhor negócio pros dois lados. Menos tempo de cadeira e menos gasto pro paciente, resultado mais estável pra clínica. O objetivo declarado do Dr. Jeff é fazer o paciente mudar de hábito o suficiente pra precisar cada vez menos de intervenção.
 
 **Cards (tratamentos dentro desta frente):**
 - Limpeza profissional (profilaxia) e remoção de tártaro
@@ -237,11 +237,11 @@ O que muda no atendimento com o Dr. Jeff
 - **Anamnese que vai além do dente.** Mapeia rotina real, trabalho, alimentação e histórico de saúde antes de montar qualquer plano.
 - **Diagnóstico documentado.** Todo paciente sai com um documento explicando o que foi encontrado e o que será feito, com comprovação fotográfica do início ao fim.
 - **Recusa formal de procedimento desnecessário.** Se não precisa ser feito, o Dr. Jeff fala isso, mesmo que o paciente esteja disposto a pagar.
-- **Material adequado ao caso, não o mais caro.** A indicação segue a necessidade clínica, não a margem do procedimento.
+- **Material indicado pela necessidade clínica do caso.** A escolha segue sempre o que o diagnóstico pede.
 - **Equipe com um especialista por área.** Cirurgia, ortodontia e endodontia com profissionais dedicados, cada um na sua especialidade.
 - **26 anos de domínio técnico em prótese.** Leitura de caso construída desde o laboratório, antes mesmo da graduação em odontologia.
 - **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento.
-- **Agendamento pensado pro seu tratamento, não pra agenda da clínica.** Os horários são organizados em cima do plano traçado pro seu caso, pra garantir que o tratamento seja concluído por completo, sem etapa pulada.
+- **Agendamento pensado pro seu tratamento.** Os horários são organizados em cima do plano traçado pro seu caso, garantindo que o tratamento seja concluído por completo.
 
 **CTA:** nenhum nesta dobra.
 
@@ -316,9 +316,9 @@ Hoje o Dr. Jeff atua na reabilitação e na prevenção, junto de uma equipe de 
 - Não fazer no paciente o que não faria na própria família
 - Bem-estar do paciente acima do faturamento
 - Recusar tratamento desnecessário, mesmo que o paciente esteja disposto a pagar
-- Indicar o material adequado ao caso, não o mais caro
+- Indicar o material adequado à necessidade do caso
 - Prevenção como melhor investimento pros dois lados
-- Encaminhar pra quem faz melhor, em vez de tentar fazer tudo
+- Encaminhar cada procedimento pra quem faz melhor
 - Todo paciente sai com diagnóstico documentado
 
 *[Foto real do Dr. Jeff]*
