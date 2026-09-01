@@ -16,7 +16,7 @@
     { "lbl": "Taxa de engaj. por alcance", "val": "25,79%", "consolidado": "1,91%", "delta": { "txt": "25,8%", "dir": "down", "good": false }, "note": "faixa saudável de mercado (consolidado): 1,5% a 4%" },
     { "lbl": "Taxa de engaj. por seguidor", "val": "12,18%", "consolidado": "15,35%", "delta": { "txt": "1,4%", "dir": "down", "good": false } }
   ],
-  "resumo": "No período de <strong>29/07 a 29/08</strong>, o consolidado (orgânico + distribuição paga) somou <strong>49.448 contas alcançadas</strong> (+45,0%) e <strong>153.189 visualizações</strong> (+44,3%) frente ao mês anterior. O orgânico isolado, medido pela primeira vez separado do pago nesse formato, respondeu por <strong>2.900 contas</strong> e <strong>32.751 visualizações</strong> desse total. Os <strong>477 novos seguidores</strong> do consolidado mais que dobraram o resultado do mês anterior (+109,2%), mas a taxa de engajamento por alcance do consolidado caiu de 2,57% para <strong>1,91%</strong>: o crescimento veio puxado por distribuição paga, que traz alcance maior e proporcionalmente menos engajamento que o orgânico.",
+  "resumo": "No período de <strong>29/07 a 29/08</strong>, o consolidado (orgânico + distribuição paga) somou <strong>49.448 contas alcançadas</strong> (+45,0%) e <strong>153.189 visualizações</strong> (+44,3%) frente ao mês anterior. O orgânico isolado, medido pela primeira vez separado do pago nesse formato, respondeu por <strong>2.900 contas</strong> e <strong>32.751 visualizações</strong> desse total. Os <strong>477 novos seguidores</strong> do consolidado mais que dobraram o resultado do mês anterior (+109,2%) e o perfil chega hoje a <strong>6.143 seguidores</strong> no total. Os stories também geraram saída de tráfego direto: <strong>9 cliques no link por story</strong> no período (fonte: GA4). A taxa de engajamento por alcance do consolidado caiu de 2,57% para <strong>1,91%</strong>: o crescimento veio puxado por distribuição paga, que traz alcance maior e proporcionalmente menos engajamento que o orgânico.",
   "acoes": [
     "<strong>3 reels de tráfego pago</strong> publicados no período (Criativos 03, 04 e 05), com o Criativo 03 (\"Seu fornecedor sumiu faltando 12 horas pro evento?\") sendo o post de maior alcance do mês",
     "Bloco de <strong>9 carrosséis de SEO/busca</strong>, título de cada um replicando literalmente a pergunta de busca mais comum sobre planejamento de evento corporativo",
@@ -58,7 +58,6 @@
   ],
   "rodape": [
     { "strong": "84,7%", "text": "das visualizações vieram de não seguidores" },
-    { "strong": "6.143", "text": "seguidores no total" },
-    { "strong": "9", "text": "cliques no link por story (fonte: GA4)" }
+    { "strong": "6.143", "text": "seguidores no total" }
   ]
 }
