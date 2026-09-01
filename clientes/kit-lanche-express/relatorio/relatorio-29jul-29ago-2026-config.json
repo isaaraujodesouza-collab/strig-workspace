@@ -1,0 +1,64 @@
+{
+  "cliente": "Kit Lanche Express",
+  "cliente_slug": "kit-lanche-express",
+  "plataforma": "Instagram",
+  "periodo": "29/07/2026 - 29/08/2026",
+  "periodo_slug": "29jul-29ago-2026",
+  "comparado": "29/06/2026 - 28/07/2026 (consolidado)",
+  "kpi_note": "O número grande de cada card é orgânico. Embaixo, em cinza, o valor consolidado (orgânico + distribuição paga) do mesmo período, com a variação percentual sempre calculada sobre esse consolidado (não existe consolidado do período anterior quebrado por orgânico pra comparar isolado). Metodologia por métrica: Alcance e Visualizações vêm do Business Suite (que já separa nativamente), Interações/Seguidores/Visitas ao perfil vêm da diferença entre o consolidado e o tráfego das campanhas de distribuição, e Toques no link da bio vêm do GA4.",
+  "kpis": [
+    { "lbl": "Contas alcançadas", "val": "2.900", "consolidado": "49.448", "delta": { "txt": "45,0%", "dir": "up", "good": true } },
+    { "lbl": "Visualizações", "val": "32.751", "consolidado": "153.189", "delta": { "txt": "44,3%", "dir": "up", "good": true } },
+    { "lbl": "Total de interações", "val": "748", "consolidado": "943", "delta": { "txt": "7,5%", "dir": "up", "good": true } },
+    { "lbl": "Novos seguidores", "val": "267", "consolidado": "477", "delta": { "txt": "109,2%", "dir": "up", "good": true } },
+    { "lbl": "Visitas ao perfil", "val": "1.601", "consolidado": "2.998", "delta": { "txt": "25,6%", "dir": "up", "good": true } },
+    { "lbl": "Toques no link da bio", "val": "55", "consolidado": "253", "delta": { "txt": "26,5%", "dir": "up", "good": true } },
+    { "lbl": "Taxa de engaj. por alcance", "val": "25,79%", "consolidado": "1,91%", "delta": { "txt": "25,8%", "dir": "down", "good": false }, "note": "faixa saudável de mercado (consolidado): 1,5% a 4%" },
+    { "lbl": "Taxa de engaj. por seguidor", "val": "12,18%", "consolidado": "15,35%", "delta": { "txt": "1,4%", "dir": "down", "good": false } }
+  ],
+  "resumo": "No período de <strong>29/07 a 29/08</strong>, o consolidado (orgânico + distribuição paga) somou <strong>49.448 contas alcançadas</strong> (+45,0%) e <strong>153.189 visualizações</strong> (+44,3%) frente ao mês anterior. O orgânico isolado, medido pela primeira vez separado do pago nesse formato, respondeu por <strong>2.900 contas</strong> e <strong>32.751 visualizações</strong> desse total. Os <strong>477 novos seguidores</strong> do consolidado mais que dobraram o resultado do mês anterior (+109,2%), mas a taxa de engajamento por alcance do consolidado caiu de 2,57% para <strong>1,91%</strong>: o crescimento veio puxado por distribuição paga, que traz alcance maior e proporcionalmente menos engajamento que o orgânico.",
+  "acoes": [
+    "<strong>3 reels de tráfego pago</strong> publicados no período (Criativos 03, 04 e 05), com o Criativo 03 (\"Seu fornecedor sumiu faltando 12 horas pro evento?\") sendo o post de maior alcance do mês",
+    "Bloco de <strong>9 carrosséis de SEO/busca</strong>, título de cada um replicando literalmente a pergunta de busca mais comum sobre planejamento de evento corporativo",
+    "Série <strong>\"Como funciona o pedido\"</strong> (3 episódios: Select, Express, Prime) e continuação de <strong>\"Garanta seu melhor evento\"</strong> (episódios 6, 7 e 8)",
+    "Investimento de <strong>R$ 2.347,28</strong> em mídia paga no período, entre campanhas de distribuição de conteúdo e conversão",
+    "Série <strong>Zona de Entrega pausada</strong> no período (depende de cobertura de evento ao vivo, gravação ainda não agendada)"
+  ],
+  "audiencia": [
+    { "titulo": "Gênero", "tipo": "pie", "items": [["Mulheres", 75.4], ["Homens", 24.6]] },
+    { "titulo": "Faixa etária", "tipo": "pie", "items": [["35-44", 38.8], ["45-54", 28.2], ["25-34", 22.2], ["55-64", 6.7], ["18-24", 3.0], ["65+", 1.1]] },
+    { "titulo": "Principais cidades (% dos seguidores)", "tipo": "bar", "items": [["São Paulo, SP", 42.1], ["Guarulhos, SP", 4.4], ["São Bernardo do Campo, SP", 2.9], ["Santo André, SP", 2.5], ["Osasco, SP", 2.4]] },
+    { "titulo": "Melhores horários", "tipo": "horarios",
+      "items": [["0h", 30], ["3h", 8], ["6h", 22], ["9h", 55], ["12h", 60], ["15h", 58], ["18h", 70], ["21h", 62]],
+      "melhores": [ { "dia": "Segunda", "faixa": "18h-21h" }, { "dia": "Terça", "faixa": "18h-21h" }, { "dia": "Quinta", "faixa": "18h-21h" } ] }
+  ],
+  "posts": [
+    { "titulo": "Seu fornecedor sumiu faltando 12 horas pro evento? (Você já escolheu pelo preço. E se arrependeu.)", "formato": "Reel", "taxa": "—", "alcance": 12400, "visualizacoes": 15600, "curtidas": 61, "comentarios": 0, "salvos": 12, "compart": 15, "seguir": 109 },
+    { "titulo": "Kit lanche não é tudo igual (O que muda quando você para de escolher pelo preço e começa a escolher pelo que está dentro)", "formato": "Carrossel", "taxa": "—", "alcance": 0, "visualizacoes": 5800, "curtidas": 13, "comentarios": 0, "salvos": 0, "compart": 3, "seguir": 0 },
+    { "titulo": "Do pedido à entrega: como funciona na prática (Como funciona um pedido com a KLE)", "formato": "Carrossel", "taxa": "—", "alcance": 0, "visualizacoes": 3900, "curtidas": 9, "comentarios": 0, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Procurando kit lanche para o seu evento corporativo?", "formato": "Reel", "taxa": "—", "alcance": 1700, "visualizacoes": 2000, "curtidas": 10, "comentarios": 0, "salvos": 6, "compart": 5, "seguir": 18 },
+    { "titulo": "Você já escolheu pelo preço. E se arrependeu. Quem organiza paga o preço", "formato": "Reel", "taxa": "—", "alcance": 772, "visualizacoes": 1247, "curtidas": 8, "comentarios": 0, "salvos": 3, "compart": 1, "seguir": 0 },
+    { "titulo": "Enquanto você dorme, a alimentação do seu evento já está pronta", "formato": "Reel", "taxa": "—", "alcance": 562, "visualizacoes": 744, "curtidas": 9, "comentarios": 0, "salvos": 1, "compart": 2, "seguir": 0 },
+    { "titulo": "Antecedência ideal não é regra única. Ela muda com o tamanho e o risco do seu evento", "formato": "Carrossel", "taxa": "—", "alcance": 312, "visualizacoes": 712, "curtidas": 2, "comentarios": 0, "salvos": 1, "compart": 0, "seguir": 0 },
+    { "titulo": "Petiscos, coffee break ou kit lanche: qual é a melhor opção pro seu evento?", "formato": "Carrossel", "taxa": "—", "alcance": 361, "visualizacoes": 621, "curtidas": 11, "comentarios": 1, "salvos": 6, "compart": 3, "seguir": 0 },
+    { "titulo": "Trabalhar em RH é apagar incêndio o dia inteiro. Só uma coisa não devia precisar disso", "formato": "Reel", "taxa": "—", "alcance": 461, "visualizacoes": 611, "curtidas": 12, "comentarios": 1, "salvos": 0, "compart": 0, "seguir": 0 },
+    { "titulo": "Qual é o checklist para um evento corporativo?", "formato": "Carrossel", "taxa": "—", "alcance": 392, "visualizacoes": 600, "curtidas": 4, "comentarios": 0, "salvos": 2, "compart": 0, "seguir": 0 }
+  ],
+  "insights": [
+    { "cat": "Conteúdo Top 1", "text": "O reel <strong>\"Seu fornecedor sumiu faltando 12 horas pro evento?\"</strong> (Criativo 03, tráfego pago) foi disparado o mais forte do período: 12,4 mil contas, 61 curtidas, 15 compartilhamentos e <strong>109 novos seguidores</strong>, mais do que qualquer outro post isolado trouxe. É o gancho de urgência/crise funcionando tanto pago quanto puxando engajamento orgânico." },
+    { "cat": "Conteúdo Top 2", "text": "O carrossel <strong>\"Kit lanche não é tudo igual\"</strong> foi o post orgânico de maior alcance de views (5,8 mil visualizações), reforçando que comparação direta (preço vs. conteúdo do kit) é o território que mais performa, mesmo sem impulsionamento." },
+    { "cat": "Conteúdo Top 3", "text": "\"Do pedido à entrega: como funciona na prática\" (3,9 mil visualizações) mostra que o conteúdo de processo/transparência operacional continua com tração relevante mesmo sem mídia paga por trás." },
+    { "cat": "Publicações", "text": "Os <strong>3 reels de tráfego pago (Criativos 03, 04 e 05) ocupam 3 das 5 primeiras posições</strong> da tabela, e o Criativo 03 é o post do mês. Isso confirma o padrão: quando a mesma peça criativa roda como conteúdo + anúncio, o resultado consolidado passa longe do que o orgânico sozinho entregaria." },
+    { "cat": "Publicações", "text": "Fora os 3 reels pagos, os melhores orgânicos do período são <strong>carrosséis de comparação e utilidade prática</strong> (kit vs. preço, checklist, antecedência por tipo de evento, petisco x coffee break x kit lanche): mesmo padrão identificado no mês anterior, reforçado aqui." },
+    { "cat": "Alcance", "text": "O consolidado alcançou <strong>49.448 contas</strong> (+45,0%) e <strong>153.189 visualizações</strong> (+44,3%) frente ao mês anterior. Do total de visualizações, <strong>32.751 (21,4%) são orgânicas</strong>: a maior parte do crescimento do período veio de distribuição paga, não de alcance orgânico espontâneo." },
+    { "cat": "Engajamento", "text": "A taxa de engajamento por alcance do consolidado <strong>caiu de 2,57% para 1,91%</strong>, abaixo da faixa saudável de mercado (1,5% a 4%, ainda dentro, mas na base). Alcance maior via mídia paga dilui a taxa: é o trade-off esperado de quem passa a impulsionar, não um sinal de piora de conteúdo." },
+    { "cat": "Crescimento", "text": "<strong>477 novos seguidores no consolidado</strong>, mais que o dobro do mês anterior (+109,2%). O reel pago \"Seu fornecedor sumiu...\" sozinho trouxe 109 desses seguidores, quase um quarto do total do mês." },
+    { "cat": "Audiência", "text": "Público segue <strong>75,4% mulher, concentrado entre 35 e 54 anos</strong> (67% do total) e 42,1% em São Paulo capital. Perfil consistente com o ICP de gestora de RH/eventos corporativos mapeado na pesquisa." },
+    { "cat": "Horários", "text": "Pico de atividade dos seguidores segue <strong>segunda, terça e quinta entre 18h e 21h</strong>, mesma janela do mês anterior. Vale manter os posts âncora (carrosséis e reels principais) publicados nesse horário." }
+  ],
+  "rodape": [
+    { "strong": "84,7%", "text": "das visualizações vieram de não seguidores" },
+    { "strong": "6.143", "text": "seguidores no total" },
+    { "strong": "9", "text": "cliques no link por story (fonte: GA4)" }
+  ]
+}

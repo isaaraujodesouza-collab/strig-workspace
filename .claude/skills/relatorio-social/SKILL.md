@@ -155,7 +155,16 @@ Informar o caminho do HTML e do PDF, e um resumo de 2 linhas do que os números 
   "kpis": [                            // grid da visão geral
     { "lbl": "Alcance", "val": "157.130", "delta": { "txt": "98,91%", "dir": "up", "good": true },
       "anterior": "79.020",            // opcional; valor do período de comparação, mostrado abaixo do delta
-      "trend": [61200, 70400, 79020, 157130] }  // opcional; últimos 3-6 períodos, vira sparkline no card
+      "trend": [61200, 70400, 79020, 157130] },  // opcional; últimos 3-6 períodos, vira sparkline no card
+    { "lbl": "Alcance", "val": "2.900", "delta": { "txt": "45,0%", "dir": "up", "good": true },
+      "consolidado": "49.448" }       // opcional, ALTERNATIVO a "anterior": pro cliente que tem tráfego
+                                       // pago misturado ao orgânico (ex: campanha de distribuição de
+                                       // conteúdo). Nesse caso o "val" grande do card já é só o orgânico;
+                                       // "consolidado" é o valor com pago+orgânico do MESMO período,
+                                       // mostrado pequeno em cinza, com o delta (sempre calculado sobre
+                                       // o consolidado, nunca sobre o orgânico isolado — não existe
+                                       // orgânico isolado do período anterior pra comparar) logo abaixo.
+                                       // Não usar "anterior" e "consolidado" no mesmo card.
   ],
   "daily": [ ["01/06", 3200, 12] ],    // [data, alcance, novos_seguidores(opcional)]
   "resumo": "texto com <strong>negritos</strong>",   // opcional (~14px, conclusão factual do mês)

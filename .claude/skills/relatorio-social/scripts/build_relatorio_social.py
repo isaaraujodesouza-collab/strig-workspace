@@ -214,10 +214,22 @@ def kpi_grid_html(kpis, cols):
     trailing_start = n - remainder if remainder else n
     out = []
     for idx, k in enumerate(kpis):
-        foot = delta_html(k.get("delta"))
         note = f'<span class="kpi-note">{k["note"]}</span>' if k.get("note") else ""
-        anterior = (f'<div class="kpi-prev">período anterior: {k["anterior"]}</div>'
-                    if k.get("anterior") is not None else "")
+        foot_and_prev = ""
+        if k.get("consolidado") is not None:
+            # Caso com tráfego pago misturado ao orgânico: o "val" grande do card é só o
+            # orgânico. Embaixo mostramos o consolidado (orgânico + pago) em cinza pequeno,
+            # e logo abaixo dele a % de crescimento — sempre calculada sobre o consolidado
+            # (não existe orgânico isolado do período anterior pra comparar). Nessa ordem
+            # (consolidado, depois %) fica claro que o crescimento é do consolidado, não do
+            # número grande do card.
+            foot_and_prev = (f'<div class="kpi-prev">Consolidado: {k["consolidado"]}</div>'
+                              f'<div class="kpi-foot">{delta_html(k.get("delta"))}{note}</div>')
+        else:
+            # Caso normal: delta + "período anterior" embaixo do valor, nessa ordem.
+            anterior = (f'<div class="kpi-prev">período anterior: {k["anterior"]}</div>'
+                        if k.get("anterior") is not None else "")
+            foot_and_prev = f'<div class="kpi-foot">{delta_html(k.get("delta"))}{note}</div>{anterior}'
         spark = ""
         if k.get("trend"):
             d = k.get("delta") or {}
@@ -232,8 +244,7 @@ def kpi_grid_html(kpis, cols):
             style = f' style="grid-column:span {span}"'
         out.append(
             f'<div class="kpi"{style}><div class="kpi-top"><div class="kpi-lbl">{k["lbl"]}</div>{spark}</div>'
-            f'<div class="kpi-val">{k["val"]}</div>'
-            f'<div class="kpi-foot">{foot}{note}</div>{anterior}</div>')
+            f'<div class="kpi-val">{k["val"]}</div>{foot_and_prev}</div>')
     return "".join(out)
 
 def rodape_html(items):
@@ -379,6 +390,13 @@ CSS = """
   .note-box { background:#FEF7E6; border:1px solid #F5E4B8; border-radius:9px; padding:11px 16px; font-size:12px; color:#8A6D1B; flex-shrink:0; }
   /* KPIs */
   .kpi-grid { display:grid; gap:14px; flex:1 1 0; min-height:0; }
+  /* Quando resumo e ações sobem para o slide 1, os blocos ganham altura fixa para que todos os
+     cards do slide fechem no mesmo ritmo vertical. Alturas fixas de propósito: com flex-grow os
+     blocos brigam pela sobra, encolhem abaixo do conteúdo e um monta sobre o outro. */
+  .kpi-grid.kpi-fixed { flex:0 0 auto; grid-auto-rows:180px; }
+  /* Único bloco elástico do slide quando há resumo/ações: fecha a altura restante. */
+  .ov-split { display:flex; gap:16px; flex:1 1 auto; min-height:260px; }
+  .ov-split > .card { flex:1 1 0; min-width:0; }
   .kpi { background:#fff; border-radius:14px; border:1px solid #E2E8F0; padding:16px 24px; display:flex; flex-direction:column; justify-content:center;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
   .kpi-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; margin-bottom:8px; }
@@ -408,8 +426,10 @@ CSS = """
   .melhores-list { display:flex; flex-wrap:wrap; gap:8px 12px; justify-content:center; margin-top:12px; flex-shrink:0; }
   .melhor-item { font-size:12px; color:#4A5568; background:#F5F0FF; border-radius:8px; padding:6px 12px; white-space:nowrap; }
   .melhor-item strong { color:#1C1C1C; font-weight:600; }
-  /* Rodapé destaques */
-  .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex:1 1 0; min-height:0; gap:14px; }
+  /* Rodapé destaques — faixa de altura fixa. NÃO usar flex-grow aqui: o rodapé tem tamanho de
+     conteúdo (3 números curtos) e, se crescer, disputa a sobra vertical em pé de igualdade com o
+     grid de KPIs ou o ov-split e vira um bloco vazio de centenas de pixels. */
+  .footer-h { display:grid; grid-auto-flow:column; grid-auto-columns:1fr; flex:0 0 auto; gap:14px; }
   .fh-item { background:#fff; border:1px solid #E2E8F0; border-radius:12px; padding:18px 22px;
     display:flex; flex-direction:column; justify-content:center; gap:8px; border-left:4px solid #7F00FF;
     box-shadow:0 1px 2px rgba(16,24,40,0.04), 0 1px 3px rgba(16,24,40,0.06); }
@@ -464,36 +484,42 @@ def build_html(cfg, logo_tag):
     slides = []
 
     # ── Slide 1: Visão geral (KPIs) ──
+    # Resumo/Ações sobem pro mesmo slide da Visão Geral (padrão do modelo fechado): o grid de KPI
+    # ganha altura fixa (kpi-fixed) e os dois cards entram embaixo, lado a lado (ov-split), pra não
+    # brigar por espaço com o resto do slide.
     kpis = cfg.get("kpis", [])
     cols = kpi_cols(len(kpis))
     note = f'<div class="note-box">{cfg["kpi_note"]}</div>' if cfg.get("kpi_note") else ""
     comp = f'· Comparado com {cfg["comparado"]}' if cfg.get("comparado") else ""
     rod = f'<div class="footer-h">{rodape_html(cfg["rodape"])}</div>' if cfg.get("rodape") else ""
+    has_summary = bool(cfg.get("resumo") or cfg.get("acoes"))
+    grid_cls = "kpi-grid kpi-fixed" if has_summary else "kpi-grid"
+    summary_html = ""
+    if has_summary:
+        resumo_card = (f'<div class="card"><div class="card-title">Resumo do período</div>'
+                        f'<div class="resumo">{cfg["resumo"]}</div></div>') if cfg.get("resumo") else ""
+        acoes_card = (f'<div class="card"><div class="card-title">Ações realizadas no período</div>'
+                      f'<ul class="acoes">{acoes_html(cfg["acoes"])}</ul></div>') if cfg.get("acoes") else ""
+        summary_html = f'<div class="ov-split">{resumo_card}{acoes_card}</div>'
     slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
       <div class="slide-h">Visão geral {comp}</div>
       {note}
-      <div class="kpi-grid" style="grid-template-columns:repeat({cols},1fr)">{kpi_grid_html(kpis, cols)}</div>
+      <div class="{grid_cls}" style="grid-template-columns:repeat({cols},1fr)">{kpi_grid_html(kpis, cols)}</div>
       {rod}
+      {summary_html}
     </div></div>""")
 
-    # ── Slide 2: Evolução diária + resumo ──
+    # ── Slide (opcional): Evolução diária — só quando houver série dia a dia ──
     if cfg.get("daily"):
         labels = [d[0] for d in cfg["daily"]]
         alcance = [d[1] for d in cfg["daily"]]
         series = [{"name": "Alcance", "values": alcance, "color": "#7F00FF"}]
         if len(cfg["daily"][0]) > 2:
             series.append({"name": "Novos seguidores", "values": [d[2] for d in cfg["daily"]], "color": "#0369A1", "dashed": True})
-        chart = svg_line(labels, series, W=1780, H=480)
-        resumo = (f'<div class="card"><div class="card-title">Resumo do período</div>'
-                  f'<div class="resumo">{cfg["resumo"]}</div></div>') if cfg.get("resumo") else ""
-        acoes = (f'<div class="card"><div class="card-title">Ações realizadas no período</div>'
-                 f'<ul class="acoes">{acoes_html(cfg["acoes"])}</ul></div>') if cfg.get("acoes") else ""
+        chart = svg_line(labels, series, W=1780, H=780)
         slides.append(f"""<div class="slide">{header(cfg, logo_tag)}<div class="body">
-          <div class="slide-h">Evolução e leitura do período</div>
-          <div class="evo-col">
-            <div class="card evo-top"><div class="card-title">Alcance diário</div><div class="chart-box">{chart}</div></div>
-            <div class="evo-bottom">{resumo}{acoes}</div>
-          </div>
+          <div class="slide-h">Evolução diária</div>
+          <div class="card" style="flex:1;min-height:0;"><div class="card-title">Alcance diário</div><div class="chart-box">{chart}</div></div>
         </div></div>""")
 
     # ── Slide 3: Audiência ──
