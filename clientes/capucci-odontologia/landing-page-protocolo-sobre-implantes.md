@@ -74,13 +74,19 @@ O que é o Protocolo Sobre Implantes?
 **TEXTO:**
 O Protocolo Sobre Implantes (também chamado de prótese protocolo) é uma prótese fixa, apoiada sobre implantes dentários, indicada pra pacientes que perderam grande parte ou todos os dentes de uma arcada, ou que convivem com prótese removível e buscam uma solução fixa.
 
-Diferente do implante unitário, que substitui um dente por vez, o Protocolo substitui uma arcada inteira apoiada em um número menor de implantes (geralmente entre 4 e 6, a depender da avaliação), distribuídos de forma estratégica pra sustentar a prótese fixa.
+Diferente do implante unitário, que substitui um dente por vez, o Protocolo substitui uma arcada inteira apoiada em um número menor de implantes, geralmente 4 ou 6 por arcada, distribuídos de forma estratégica pra sustentar a prótese. A quantidade exata é definida pela Capucci Odontologia a partir de exames de imagem e da condição óssea de cada paciente.
+
+**Por dentro do procedimento:**
+1. **Avaliação e planejamento** — exames de imagem, como a tomografia, definem a quantidade e a posição dos implantes.
+2. **Cirurgia de instalação dos implantes** — geralmente 4 ou 6 implantes por arcada, conforme o planejamento do caso.
+3. **Carga imediata, quando indicada** — em casos com boa estabilidade óssea, é possível instalar uma prótese provisória fixa em até 24 a 48 horas após a cirurgia. Essa possibilidade é avaliada individualmente e não se aplica a todos os pacientes.
+4. **Osseointegração** — período de cicatrização em que o osso se une aos implantes, geralmente alguns meses, avaliado caso a caso.
+5. **Prótese definitiva** — confeccionada sob medida e instalada após a osseointegração completa.
 
 **Possibilidades avaliadas caso a caso:**
-- Protocolo na arcada superior, na inferior, ou nas duas
-- Prótese provisória instalada em um prazo reduzido após a cirurgia, quando as condições ósseas permitem — essa avaliação é sempre individual, feita pela Capucci Odontologia a partir de exames de imagem
-- Prótese definitiva, confeccionada após o período de cicatrização
-- Substituição de prótese removível já existente
+- Protocolo com 4 ou 6 implantes, na arcada superior, na inferior, ou nas duas
+- Carga imediata, com prótese provisória fixa logo após a cirurgia, quando as condições ósseas permitem
+- Substituição de prótese removível já existente pela prótese fixa definitiva
 
 Cada etapa é explicada antes de começar, incluindo prazos, exames necessários e o que esperar do pós-operatório.
 
@@ -285,7 +291,7 @@ Se a sua dúvida não está aqui, fale com a nossa equipe.
 O Protocolo é uma prótese fixa que substitui uma arcada inteira, apoiada em um número menor de implantes (geralmente entre 4 e 6, definido caso a caso). O implante unitário substitui um dente por vez. A indicação de cada um depende da quantidade de dentes perdidos e da condição óssea do paciente.
 
 **Dá pra colocar uma prótese fixa em um dia?**
-Em alguns casos, com as condições ósseas favoráveis, é possível instalar uma prótese provisória fixa em um prazo reduzido após a cirurgia. Essa possibilidade é avaliada individualmente, com exames de imagem, e não se aplica a todos os pacientes.
+É a chamada carga imediata: em casos com boa estabilidade óssea, é possível instalar uma prótese provisória fixa em até 24 a 48 horas após a cirurgia de implantes. Essa possibilidade é avaliada individualmente, com exames de imagem, e não se aplica a todos os pacientes — a prótese definitiva só é confeccionada depois do período de osseointegração.
 
 **Quem já usa prótese removível pode fazer o Protocolo?**
 Sim, é uma das situações mais comuns. A avaliação começa com uma consulta e exames pra entender a condição óssea atual e planejar a substituição da prótese removível pela fixa.
