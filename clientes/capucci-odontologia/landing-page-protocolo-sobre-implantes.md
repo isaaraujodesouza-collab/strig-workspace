@@ -10,6 +10,36 @@ Tom: informativo, educativo, sem promessa de resultado, sem urgência artificial
 
 ---
 
+## ESTRUTURA VISUAL SUGERIDA POR DOBRA
+
+**Regras gerais de hierarquia de texto (SEO):**
+- **H1** — só existe um na página inteira: a headline da Dobra 1.
+- **H2** — o título de cada dobra (o que hoje está como "TÍTULO DA DOBRA" em cada seção).
+- **H3** — subtítulos dentro da dobra: título de cada card, cada etapa da timeline, cada pergunta do FAQ, o label de cada número na faixa de estatísticas.
+- **Texto normal** — corpo, listas, legendas, disclaimers.
+
+**Um ponto de atenção antes da tabela:** as Dobras 6 e 9 hoje pedem a mesma coisa (carrossel de avaliações do Google). Sugiro diferenciar de propósito pra não repetir: Dobra 6 mistura casos com reviews específicas de implante/protocolo (prova de que o tratamento funciona), e a Dobra 9 vira uma faixa de reputação mais geral — ou, se preferir simplificar, dá pra fundir as duas em uma dobra só e usar o espaço que sobra pra reforçar a Dobra 8 (números da Dra. Thalita).
+
+| Dobra | Estrutura visual | Hierarquia | Elementos visuais | Por quê |
+|---|---|---|---|---|
+| **1. Hero** | Split 2 colunas: texto à esquerda, foto à direita | H1 + subheadline (texto normal) + badges em pills horizontais | Foto real da Dra. Thalita ou do consultório — nunca banco de imagens | É a primeira impressão e o que o Google Ads mais valoriza pra Quality Score: precisa parecer institucional, não genérico |
+| **2. Rotina antes/depois** | Tabela comparativa de 2 colunas lado a lado (empilha no mobile, com um divisor "com o Protocolo" entre elas) | H2 + texto normal nas linhas | Ícone consistente por linha (⚠️ coluna 1 / ✅ coluna 2), sem fotos | É uma comparação direta ponto a ponto — card separado quebraria a leitura em paralelo |
+| **3. O que é o tratamento** | Texto introdutório (2 parágrafos) + **timeline/stepper horizontal de 5 passos** (Avaliação → Cirurgia → Carga imediata → Osseointegração → Prótese definitiva) | H2 + texto normal + H3 em cada etapa da timeline | Ícone numerado por etapa; ilustração/diagrama esquemático do protocolo, não foto clínica real (evita choque visual) | É a dobra mais técnica da página — uma timeline é o formato que melhor explica um processo sequencial com prazos |
+| **4. É pra você que...** | Lista única em card contêiner (2 colunas no desktop, 1 no mobile), sem card por item | H2 + texto normal | Ícone de check discreto por linha | É autoidentificação, não comparação nem processo — não precisa do peso visual de cards individuais |
+| **5. O que muda com o tratamento** | **Grid de cards com ícone + título + texto** (3 colunas desktop / 1 mobile) | H2 + H3 por card + texto normal | Ícone customizado por card (não repetir o dente genérico 5x) | Cada bullet já tem formato "título: descrição" — encaixa perfeitamente em card, e o grid dá escaneabilidade |
+| **6. Casos acompanhados** | 2 carrosséis empilhados: (a) cards de caso com foto + legenda curta, (b) cards de avaliação do Google | H2 + H3 pequeno acima de cada carrossel | Fotos reais com autorização; estrelas nos cards de review | Carrossel evita empilhar muitas fotos verticalmente e deixa claro que são itens comparáveis entre si |
+| **7. Diferenciais** | Grid de cards com ícone + texto (5 itens, 3+2 no desktop) | H2 + H3 por card + texto normal | Ícones de linha (line icons), sem foto | Mesmo padrão da Dobra 5 — mantém consistência visual entre as duas dobras de "prova" |
+| **8. Números da Dra. Thalita** | **Faixa de estatísticas** (stat band): números grandes em linha horizontal, com legenda pequena embaixo de cada um | Números em destaque tipográfico grande (não H2/H3, é elemento de display) + legenda em texto normal pequeno | Foto da Dra. Thalita ao lado ou como fundo sutil da faixa | Autoridade se comunica melhor com números grandes escaneáveis do que em cards — é o padrão de "social proof bar" |
+| **9. Depoimentos do Google** | Carrossel de review cards (nome, estrelas, texto, data) | H2 + texto normal dentro de cada card | Selo/logo do Google em destaque no topo da dobra | Reforça confiança com o visual reconhecível do Google, útil logo antes do formulário de contato |
+| **10. Quem é a Dra. Thalita** | Split texto + foto (foto grande de um lado, texto corrido do outro) | H2 + texto normal (2-3 parágrafos) | Foto grande e pessoal da Dra. Thalita | É a dobra de conexão humana — carrossel ou card fragmentaria a narrativa pessoal |
+| **11. Garantias durante e após** | 3 cards curtos com ícone + texto (ex: plano de tratamento claro / mesma profissional em cada retorno / acompanhamento pós-tratamento) | H2 + H3 por card + texto normal | Ícones simples (documento, calendário, coração) | Quebra o bloco de texto corrido em 3 promessas de processo, mais fácil de escanear que um parágrafo único |
+| **12. Contato e localização** | Split: mapa embed de um lado, informações de contato do outro | H2 + texto normal | Mapa interativo do Google Maps | Padrão consolidado de dobra de contato — mapa dá contexto geográfico sem precisar de texto extra |
+| **13. Formulário** | Formulário centralizado dentro de um card com fundo destacado (cor de contraste com o resto da página) | H2 + subtítulo em texto normal | Ícone de cadeado no aviso de privacidade | Isolar visualmente o formulário sinaliza "aqui é onde a ação acontece" sem parecer um bloco a mais de texto |
+| **14. FAQ** | **Accordion** (perguntas que expandem ao clicar) | H2 + cada pergunta como H3 (trigger do accordion) + resposta em texto normal | Ícone de "+" que vira "–" ao abrir | Com 11 perguntas, accordion evita rolagem infinita e ainda favorece o schema FAQPage pro Google |
+| **15. Footer** | Footer multi-coluna (institucional / contato / redes sociais / aviso legal) | Sem H1-H3, só labels em texto normal com peso maior | Logo da clínica, ícones de redes sociais | Padrão de footer — não compete por atenção com o resto da página |
+
+---
+
 ## [TAG SEO — título da página]
 Protocolo Sobre Implantes em Santo André | Capucci Odontologia — Dra. Thalita Capucci, Especialista em Implantes
 
@@ -91,7 +121,7 @@ Diferente do implante unitário, que substitui um dente por vez, o Protocolo sub
 Cada etapa é explicada antes de começar, incluindo prazos, exames necessários e o que esperar do pós-operatório.
 
 **CTA:**
-"Fale com a clínica e entenda qual opção se aplica ao meu caso" → WhatsApp
+"Entender qual opção se aplica ao meu caso" → WhatsApp
 
 ---
 
@@ -174,7 +204,7 @@ Reputação construída consulta a consulta, com pacientes que confiaram no trat
 Cada etapa do Protocolo é registrada, com exames, plano de tratamento e acompanhamento formalizados.
 
 **CTA:**
-"Falar com a clínica" → WhatsApp
+"Avaliar meu caso com quem é especialista em Implantes" → WhatsApp
 
 ---
 
@@ -200,12 +230,12 @@ Quem vai planejar e acompanhar o seu caso
 O que dizem os pacientes que já passaram pela Capucci Odontologia
 
 **SUBTÍTULO:**
-Avaliações reais do Google Meu Negócio. Sempre que possível, priorizar depoimentos de pacientes que fizeram implantes ou o Protocolo.
+Avaliações reais de pacientes atendidos pela Capucci Odontologia, direto do Google Meu Negócio.
 
 *(Carrossel de prints de avaliações do Google — selecionar prioritariamente relatos sobre implantes, protocolo ou prótese fixa)*
 
 **CTA:**
-"Ver mais avaliações e falar com a clínica" → WhatsApp
+"Ler mais avaliações e tirar minhas dúvidas" → WhatsApp
 
 ---
 
@@ -224,7 +254,7 @@ Especialista em Implantes pela FUNDECTO/USP, com formação em Endodontia e Est�
 *[Foto real da Dra. Thalita]*
 
 **CTA:**
-"Falar com a clínica" → WhatsApp
+"Saber se a Dra. Thalita pode acompanhar o meu caso" → WhatsApp
 
 ---
 
@@ -255,7 +285,7 @@ Atendimento especializado em Santo André
 🌿 Consultório bem localizado, com vagas gratuitas nas proximidades
 
 **CTA:**
-"Falar com a clínica pelo WhatsApp" → WhatsApp
+"Tirar dúvidas com a equipe pelo WhatsApp" → WhatsApp
 
 ---
 
@@ -270,7 +300,7 @@ Preencha os dados abaixo e a nossa equipe entra em contato pra entender melhor a
 - **FORMULÁRIO PADRÃO** (seguir o modelo já usado no site da clínica)
 
 **CTA do formulário:**
-"Enviar e falar com a clínica"
+"Enviar e conversar sobre o meu caso"
 
 🔒 Seus dados estão seguros. Não fazemos spam.
 
@@ -283,7 +313,7 @@ Dúvidas comuns sobre o Protocolo Sobre Implantes
 
 **CTA FINAL:**
 Se a sua dúvida não está aqui, fale com a nossa equipe.
-"Falar com a clínica" → WhatsApp
+"Tirar minha dúvida com a equipe" → WhatsApp
 
 ---
 
