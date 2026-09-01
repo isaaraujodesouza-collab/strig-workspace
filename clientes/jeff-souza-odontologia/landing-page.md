@@ -240,7 +240,7 @@ O que muda no atendimento com o Dr. Jeff
 - **Anamnese que vai além do dente.** Mapeia rotina real, trabalho, alimentação e histórico de saúde antes de montar qualquer plano.
 - **Diagnóstico documentado.** Todo paciente sai com um documento explicando o que foi encontrado e o que será feito, com comprovação fotográfica do início ao fim.
 - **Recusa formal de procedimento desnecessário.** Se não precisa ser feito, o Dr. Jeff fala isso, mesmo que o paciente esteja disposto a pagar.
-- **Material indicado pela necessidade clínica do caso.** A escolha segue sempre o que o diagnóstico pede.
+- **Material indicado pela necessidade clínica do caso.** A escolha segue o que o diagnóstico pede, as melhores práticas recomendadas pela odontologia e o que faz sentido pra cada paciente.
 - **Equipe com um especialista por área.** Cirurgia, ortodontia e endodontia com profissionais dedicados, cada um na sua especialidade.
 - **26 anos de domínio técnico em prótese.** Leitura de caso construída desde o laboratório, antes mesmo da graduação em odontologia.
 - **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento.
