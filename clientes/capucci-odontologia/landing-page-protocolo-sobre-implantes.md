@@ -14,7 +14,7 @@ Tom: informativo, educativo, sem promessa de resultado, sem urgência artificial
 Protocolo Sobre Implantes em Santo André | Capucci Odontologia — Dra. Thalita Capucci, Especialista em Implantes
 
 ## [Meta descrição]
-Entenda como funciona o Protocolo Sobre Implantes com a Dra. Thalita Capucci, especialista em Implantes pela FUNDECTO/USP. Atendimento humanizado em Santo André, do diagnóstico ao acompanhamento pós-tratamento.
+Entenda como funciona o Protocolo Sobre Implantes com a Capucci Odontologia, especializada em Implantes pela FUNDECTO/USP. Atendimento humanizado em Santo André, do diagnóstico ao acompanhamento pós-tratamento.
 
 ---
 
@@ -24,10 +24,11 @@ Entenda como funciona o Protocolo Sobre Implantes com a Dra. Thalita Capucci, es
 Protocolo Sobre Implantes em Santo André: dentes fixos, com quem é especialista em Implantes
 
 **SUBHEADLINE:**
-A Dra. Thalita Capucci avalia cada caso individualmente e acompanha o Protocolo Sobre Implantes do diagnóstico ao pós-tratamento, pra quem quer trocar a prótese removível por uma solução fixa.
+A Capucci Odontologia avalia cada caso individualmente e acompanha o Protocolo Sobre Implantes do diagnóstico ao pós-tratamento, pra quem quer trocar a prótese removível por uma solução fixa.
 
 **PROVA RÁPIDA (badges):**
 - 4.9 no Google
+- Dra. Thalita Capucci — CRO-SP 109242
 - Especialista em Implantes pela FUNDECTO/USP
 - Atendendo Santo André desde 2016
 
@@ -77,7 +78,7 @@ Diferente do implante unitário, que substitui um dente por vez, o Protocolo sub
 
 **Possibilidades avaliadas caso a caso:**
 - Protocolo na arcada superior, na inferior, ou nas duas
-- Prótese provisória instalada em um prazo reduzido após a cirurgia, quando as condições ósseas permitem — essa avaliação é sempre individual, feita pela Dra. Thalita a partir de exames de imagem
+- Prótese provisória instalada em um prazo reduzido após a cirurgia, quando as condições ósseas permitem — essa avaliação é sempre individual, feita pela Capucci Odontologia a partir de exames de imagem
 - Prótese definitiva, confeccionada após o período de cicatrização
 - Substituição de prótese removível já existente
 
@@ -118,7 +119,7 @@ Sempre a partir de um planejamento individual, feito com exames e conversa franc
 - 🦷 **Prótese fixa:** sem precisar remover pra dormir ou higienizar como na prótese removível
 - 🦷 **Mastigação mais estável:** conforme o planejamento aprovado pra cada caso
 - 🦷 **Mais segurança pra sorrir e falar:** sem o receio de a prótese se soltar
-- 🦷 **Rotina de higiene orientada:** a Dra. Thalita ensina como cuidar da prótese e dos implantes no dia a dia
+- 🦷 **Rotina de higiene orientada:** a Capucci Odontologia orienta sobre os cuidados com a prótese e os implantes no dia a dia
 - 🦷 **Acompanhamento contínuo:** consultas de retorno pra manter a saúde bucal a longo prazo
 
 **CTA:**
@@ -129,14 +130,14 @@ Sempre a partir de um planejamento individual, feito com exames e conversa franc
 ## DOBRA 6 — RESULTADOS / CASOS ACOMPANHADOS
 
 **TÍTULO DA DOBRA:**
-Casos reais, acompanhados pela Dra. Thalita
+Casos reais, acompanhados pela Capucci Odontologia
 
 **SUBTÍTULO:**
 Cada tratamento tem seu próprio planejamento. Os casos abaixo foram documentados e divulgados com autorização dos pacientes.
 
 **Formato sugerido:**
 - Galeria com casos de Protocolo Sobre Implantes já concluídos (somente com autorização por escrito do paciente)
-- Legenda de cada caso limitada a descrever o que foi feito, sem prometer resultado equivalente pra quem visualiza (ex: "Protocolo Sobre Implantes na arcada inferior, planejamento e acompanhamento completo com a Dra. Thalita")
+- Legenda de cada caso limitada a descrever o que foi feito, sem prometer resultado equivalente pra quem visualiza (ex: "Protocolo Sobre Implantes na arcada inferior, planejamento e acompanhamento completo com a Capucci Odontologia")
 - Carrossel de avaliações reais do Google de pacientes que passaram por implantes ou protocolo
 
 *Os resultados variam de acordo com a condição clínica de cada paciente, avaliada individualmente antes de qualquer procedimento.*
@@ -305,7 +306,7 @@ Essas e outras condições de saúde geral são avaliadas antes do planejamento,
 O prazo varia conforme o planejamento de cada caso, incluindo eventuais extrações, cicatrização óssea e confecção da prótese definitiva. Esses prazos são apresentados na consulta de avaliação.
 
 **Como é feita a manutenção do Protocolo depois de pronto?**
-A Dra. Thalita orienta sobre a higienização diária e agenda retornos periódicos pra acompanhar a saúde dos implantes e da prótese ao longo do tempo.
+A Capucci Odontologia orienta sobre a higienização diária e agenda retornos periódicos pra acompanhar a saúde dos implantes e da prótese ao longo do tempo.
 
 **A clínica aceita convênio pra esse procedimento?**
 Não. O atendimento é exclusivamente particular. As formas de pagamento e condições são apresentadas na consulta, junto com o plano de tratamento completo — o valor depende inteiramente do que cada caso exige, por isso não é definido sem avaliação prévia.
