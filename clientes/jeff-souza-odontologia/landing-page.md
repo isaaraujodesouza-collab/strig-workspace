@@ -117,6 +117,7 @@ Cada uma dessas condições muda a forma como o tratamento é conduzido e como a
 - Documentação fotográfica completa do caso
 - Moldagem e estudo do caso, quando necessário
 - Solicitação de exames complementares, quando o caso exige um diagnóstico mais aprofundado
+- Orientação individual de escovação e uso de fio dental
 - Entrega de documento de diagnóstico com o plano de tratamento explicado
 
 *[Espaço para fotos de diagnóstico: como o paciente chega antes de qualquer avaliação]*
@@ -160,7 +161,6 @@ Prevenção é o melhor negócio pros dois lados. Menos tempo de cadeira e menos
 - Limpeza profissional (profilaxia) e remoção de tártaro
 - Aplicação tópica de flúor
 - Clareamento dental
-- Orientação individual de escovação e uso de fio dental
 - Acompanhamento periódico personalizado, com prazos definidos caso a caso
 
 *[Espaço para fotos: antes e depois de limpeza/clareamento, apenas com autorização por escrito]*
