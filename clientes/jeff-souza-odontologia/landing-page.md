@@ -311,7 +311,7 @@ Atendimento em [Cidade/Região]
 Quem é o Dr. Jeff Souza
 
 **TEXTO:**
-Jefferson Souza é protético há 26 anos. Começou a estudar prótese dentária ainda no colegial, em 1999, e construiu a carreira dentro de laboratório, com laboratório próprio desde 2008. A graduação em odontologia veio depois, por sugestão da esposa. A ideia era não gostar tanto da clínica quanto do laboratório. Não foi o que aconteceu.
+Jefferson Souza é protético há 26 anos. Começou a estudar prótese dentária ainda no colegial, em 1999, e construiu a carreira dentro de laboratório, com laboratório próprio desde 2008. A graduação em odontologia veio depois, e foi ali que se apaixonou pela área clínica e pela possibilidade de transformar a vida dos pacientes através da odontologia humanizada, tanto quanto já era apaixonado pela experiência de laboratório.
 
 Hoje o Dr. Jeff atua na reabilitação e na prevenção, junto de uma equipe de especialistas parceiros para cirurgia, ortodontia e endodontia. A missão é simples de dizer e difícil de sustentar: odontologia bem feita e humana é possível.
 
