@@ -3,7 +3,7 @@
 **Contexto:** página institucional (não campanha), 100% informativa. O objetivo não é vender consulta, é fazer o visitante entender como o dentista Jeff trabalha antes de decidir procurar a clínica. Por isso não existe CTA de "agende agora" em nenhuma dobra, só "entre em contato para contar sobre seu caso", e botão de contato aparece só no FAQ e na dobra de contato, não em todas as dobras como no padrão Strig de LP de campanha.
 
 **Antes de publicar, confirmar com o Jeff:**
-1. **Endereço físico da clínica.** Não foi coletado em nenhuma reunião até agora. Sem isso não dá pra montar a dobra de Localização nem o embed do Google Maps.
+1. ~~Endereço físico da clínica.~~ Confirmado: Av. Pedro Bueno, 1149, Sala 3, Jabaquara, São Paulo, SP, 04342-010. Falta gerar o embed do Google Maps com esse endereço.
 2. **Número de inscrição no CRO-SP do cirurgião e do endodontista parceiros**, se forem citados nominalmente. O do Jefferson Souza já está confirmado (167440) e preenchido no rodapé.
 3. **Nome e formação completa do cirurgião e do endodontista da equipe**, e se ele quer que apareçam nominalmente ou só por especialidade ("cirurgião parceiro", "endodontista parceiro"). Por ora o texto trata os dois de forma genérica.
 4. **Fotos de diagnóstico e de tratamento (antes e depois).** O Código de Ética Odontológica veda expor ao público leigo artifício de propaganda com finalidade de captar clientela, incluindo fotos de antes/durante/depois. Só entram fotos com autorização por escrito específica pra uso em site (não vale a autorização verbal caso a caso mencionada em reunião), com legenda que descreve o procedimento sem prometer resultado equivalente pra quem visualiza. Ideal o Jeff revisar cada imagem antes de subir.
@@ -16,12 +16,10 @@ Tom: direto, técnico e acessível, educativo, sem papas na língua, combativo c
 ---
 
 ## [TAG SEO — título da página]
-Jeff Souza Odontologia em [Cidade/Região] | Diagnóstico Documentado, Sem Tratamento Desnecessário
+Jeff Souza Odontologia em Jabaquara, São Paulo | Diagnóstico Documentado, Sem Tratamento Desnecessário
 
 ## [Meta descrição]
-Conheça o trabalho de Jefferson Souza em [Cidade/Região]. Anamnese aprofundada, diagnóstico documentado e uma equipe de especialistas comprometida com odontologia como promoção de saúde.
-
-*Nota: título e meta description dependem da cidade/bairro da clínica, que ainda não foi informado. Ajustar assim que o endereço for confirmado.*
+Conheça o trabalho de Jefferson Souza em Jabaquara, São Paulo. Anamnese aprofundada, diagnóstico documentado e uma equipe de especialistas comprometida com odontologia como promoção de saúde.
 
 ---
 
@@ -39,6 +37,7 @@ Odontologia bem feita e humana é possível.
 Jefferson Souza não realiza tratamento que não seja necessário. Cada caso passa por anamnese completa, diagnóstico documentado e um plano construído em cima da rotina real do paciente.
 
 **PROVA RÁPIDA (badges):**
+- 5,0 ⭐ no Google
 - 26 anos de domínio técnico em odontologia e prótese
 - Equipe com um especialista por procedimento
 - Todo paciente sai com diagnóstico documentado
@@ -281,7 +280,7 @@ Esse tipo de orientação não é padrão em todo consultório. Aqui, faz parte 
 O que dizem os pacientes atendidos pelo dentista Jeff
 
 **SUBTÍTULO:**
-Avaliações reais, coletadas no Google e no WhatsApp.
+5,0 ⭐ no Google. Avaliações reais, coletadas no Google e no WhatsApp.
 
 *(Carrossel de prints de avaliações reais. Sem depoimento fabricado ou reescrito além da correção ortográfica.)*
 
@@ -292,11 +291,11 @@ Avaliações reais, coletadas no Google e no WhatsApp.
 ## DOBRA 7 — LOCALIZAÇÃO E CONTATO
 
 **TÍTULO DA DOBRA:**
-Atendimento em [Cidade/Região]
+Atendimento em Jabaquara, São Paulo
 
-*[Embed Google Maps — pendente endereço]*
+*[Embed Google Maps com o endereço abaixo]*
 
-📍 [Endereço completo — pendente]
+📍 Av. Pedro Bueno, 1149, Sala 3, Jabaquara, São Paulo, SP, 04342-010
 📱 WhatsApp: (11) 99483-0380
 📷 Instagram: [@jeffsouzaodontologia](https://www.instagram.com/jeffsouzaodontologia/)
 
@@ -395,9 +394,8 @@ Não. Recusar tratamento desnecessário é um dos valores centrais da clínica, 
 ## DOBRA 11 — FOOTER
 
 **Jeff Souza Odontologia**
-CRO-SP nº 167440
 
-📍 [Endereço completo — pendente]
+📍 Av. Pedro Bueno, 1149, Sala 3, Jabaquara, São Paulo, SP, 04342-010
 📱 WhatsApp: (11) 99483-0380
 📷 Instagram: [@jeffsouzaodontologia](https://www.instagram.com/jeffsouzaodontologia/)
 
