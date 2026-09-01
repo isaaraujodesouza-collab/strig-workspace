@@ -2,10 +2,9 @@
 
 **Contexto:** página de campanha (Google Ads) pedida pela Dra. Thalita em áudio, focada no Protocolo Sobre Implantes, de agora até o fim do ano. Como é tráfego pago pra quem já está pesquisando o procedimento, a página precisa aprofundar o conhecimento de quem chega, não vender.
 
-**Antes de publicar, checar 3 pontos com a Dra. Thalita:**
-1. **Número de inscrição no CRO-SP** — falta em todo o documento (marcado como `[CRO-SP nº ______]`). É exigência do Código de Ética pra qualquer peça de comunicação, física ou digital.
-2. **Dobra 6 (Resultados / Antes e Depois)** — o Código de Ética veda "expor ao público leigo artifícios de propaganda... antes, durante e depois" com finalidade de atrair clientela. O site atual da clínica já tem uma dobra assim, então mantive o padrão, mas com fotos só podem entrar casos com autorização por escrito do paciente, sem legenda que prometa resultado, e o ideal é a Dra. revisar cada imagem antes de subir.
-3. Nenhum valor (R$) foi usado em nenhuma dobra, nem no FAQ — o protocolo varia demais de caso pra caso pra generalizar preço, e evita a leitura de "propaganda enganosa" por valor fora de contexto.
+**Antes de publicar, checar 2 pontos com a Dra. Thalita:**
+1. **Dobra 6 (Resultados / Antes e Depois)** — o Código de Ética veda "expor ao público leigo artifícios de propaganda... antes, durante e depois" com finalidade de atrair clientela. O site atual da clínica já tem uma dobra assim, então mantive o padrão, mas com fotos só podem entrar casos com autorização por escrito do paciente, sem legenda que prometa resultado, e o ideal é a Dra. revisar cada imagem antes de subir.
+2. Nenhum valor (R$) foi usado em nenhuma dobra, nem no FAQ — o protocolo varia demais de caso pra caso pra generalizar preço, e evita a leitura de "propaganda enganosa" por valor fora de contexto.
 
 Tom: informativo, educativo, sem promessa de resultado, sem urgência artificial. CTAs sempre de "entender o caso" ou "tirar dúvida", nunca de "agendar agora".
 
@@ -319,13 +318,13 @@ O primeiro passo é agendar uma avaliação com a Dra. Thalita, que vai pedir os
 ## DOBRA 15 — FOOTER
 
 **Capucci Odontologia**
-CRO-SP nº ______ *(preencher)*
+CRO-SP nº 109242
 
 📍 R. Batávia, 259 — Parque Novo Oratório, Santo André - SP, 09260-020
 📱 WhatsApp: (11) 94829-3976
 📷 Instagram: @capucciodontologia
 
-Dra. Thalita Capucci Quintela — Cirurgiã-Dentista, CRO-SP nº ______ *(preencher)*
+Dra. Thalita Capucci Quintela — Cirurgiã-Dentista, CRO-SP nº 109242
 Especialista em Implantes pela FUNDECTO/USP
 
 *As informações deste site têm caráter educativo e não substituem uma avaliação odontológica presencial. Resultados de tratamento variam conforme a condição clínica de cada paciente.*
