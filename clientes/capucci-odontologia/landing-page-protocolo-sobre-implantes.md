@@ -50,14 +50,14 @@ Perder dentes muda hábitos simples. Entenda o que costuma incomodar e o que o P
 🦷 Precisar tirar a prótese todos os dias pra dormir e higienizar
 🦷 Evitar certos alimentos por medo de desconforto
 🦷 Cobrir a boca ao rir ou evitar fotos de perto
-🦷 Adiar o tratamento por anos, com medo de cirurgia ou do custo
+🦷 Adiar o tratamento por anos, com medo da cirurgia ou de não entender bem o processo
 
 **COLUNA 2 — O que o Protocolo se propõe a resolver:**
 🦷 Prótese fixa, sem tirar para dormir
 🦷 Mastigação mais estável no dia a dia, conforme o planejamento do caso
 🦷 Menos tempo de adaptação, com acompanhamento em cada etapa
 🦷 Mais liberdade pra sorrir e falar sem pensar na prótese
-🦷 Um plano de tratamento explicado antes de qualquer decisão
+🦷 Segurança de ter o mesmo acompanhamento do início ao fim do tratamento
 
 *Cada caso é avaliado individualmente. O que muda na prática depende da condição bucal e geral de cada paciente.*
 
@@ -309,7 +309,7 @@ O prazo varia conforme o planejamento de cada caso, incluindo eventuais extraç�
 A Capucci Odontologia orienta sobre a higienização diária e agenda retornos periódicos pra acompanhar a saúde dos implantes e da prótese ao longo do tempo.
 
 **A clínica aceita convênio pra esse procedimento?**
-Não. O atendimento é exclusivamente particular. As formas de pagamento e condições são apresentadas na consulta, junto com o plano de tratamento completo — o valor depende inteiramente do que cada caso exige, por isso não é definido sem avaliação prévia.
+Não. O atendimento é exclusivamente particular. As condições de pagamento são apresentadas durante a consulta, junto com o plano de tratamento completo, definido a partir da avaliação individual de cada caso.
 
 **Como faço pra saber se sou candidato ao Protocolo?**
 O primeiro passo é agendar uma avaliação com a Dra. Thalita, que vai pedir os exames necessários e conversar sobre o seu histórico antes de indicar qualquer tratamento.
