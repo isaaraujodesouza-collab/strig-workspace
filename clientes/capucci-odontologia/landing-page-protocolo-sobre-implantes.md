@@ -35,7 +35,7 @@ Tom: informativo, educativo, sem promessa de resultado, sem urgência artificial
 | **11. Garantias durante e após** | 3 cards curtos com ícone + texto (ex: plano de tratamento claro / mesma profissional em cada retorno / acompanhamento pós-tratamento) | H2 + H3 por card + texto normal | Ícones simples (documento, calendário, coração) | Quebra o bloco de texto corrido em 3 promessas de processo, mais fácil de escanear que um parágrafo único |
 | **12. Contato e localização** | Split: mapa embed de um lado, informações de contato do outro | H2 + texto normal | Mapa interativo do Google Maps | Padrão consolidado de dobra de contato — mapa dá contexto geográfico sem precisar de texto extra |
 | **13. Formulário** | Formulário centralizado dentro de um card com fundo destacado (cor de contraste com o resto da página) | H2 + subtítulo em texto normal | Ícone de cadeado no aviso de privacidade | Isolar visualmente o formulário sinaliza "aqui é onde a ação acontece" sem parecer um bloco a mais de texto |
-| **14. FAQ** | **Accordion** (perguntas que expandem ao clicar) | H2 + cada pergunta como H3 (trigger do accordion) + resposta em texto normal | Ícone de "+" que vira "–" ao abrir | Com 11 perguntas, accordion evita rolagem infinita e ainda favorece o schema FAQPage pro Google |
+| **14. FAQ** | **Accordion dividido em 2 grupos lado a lado ou empilhados** (tabs ou 2 colunas): "Sobre o Protocolo Sobre Implantes" e "Sobre a Capucci Odontologia e a Dra. Thalita" | H2 (título da dobra) + H3 pequeno por grupo + cada pergunta como H3/trigger do accordion + resposta em texto normal | Ícone de "+" que vira "–" ao abrir; opcional um pequeno ícone diferenciando os dois grupos (dente vs. prédio/clínica) | Separar clínico de institucional ajuda quem já decidiu sobre o tratamento e só quer saber "como funciona aqui" — e mantém as duas famílias de keyword (protocolo x clínica) organizadas pro schema FAQPage |
 | **15. Footer** | Footer multi-coluna (institucional / contato / redes sociais / aviso legal) | Sem H1-H3, só labels em texto normal com peso maior | Logo da clínica, ícones de redes sociais | Padrão de footer — não compete por atenção com o resto da página |
 
 ---
@@ -306,16 +306,14 @@ Preencha os dados abaixo e a nossa equipe entra em contato pra entender melhor a
 
 ---
 
-## DOBRA 14 — FAQ (Protocolo Sobre Implantes)
+## DOBRA 14 — FAQ (Protocolo Sobre Implantes + Capucci Odontologia)
 
 **TÍTULO DA DOBRA:**
 Dúvidas comuns sobre o Protocolo Sobre Implantes
 
-**CTA FINAL:**
-Se a sua dúvida não está aqui, fale com a nossa equipe.
-"Tirar minha dúvida com a equipe" → WhatsApp
-
 ---
+
+### Grupo 1 — Sobre o Protocolo Sobre Implantes
 
 **O que é o Protocolo Sobre Implantes e em que ele difere do implante unitário?**
 O Protocolo é uma prótese fixa que substitui uma arcada inteira, apoiada em um número menor de implantes (geralmente entre 4 e 6, definido caso a caso). O implante unitário substitui um dente por vez. A indicação de cada um depende da quantidade de dentes perdidos e da condição óssea do paciente.
@@ -344,11 +342,39 @@ O prazo varia conforme o planejamento de cada caso, incluindo eventuais extraç�
 **Como é feita a manutenção do Protocolo depois de pronto?**
 A Capucci Odontologia orienta sobre a higienização diária e agenda retornos periódicos pra acompanhar a saúde dos implantes e da prótese ao longo do tempo.
 
-**A clínica aceita convênio pra esse procedimento?**
-Não. O atendimento é exclusivamente particular. As condições de pagamento são apresentadas durante a consulta, junto com o plano de tratamento completo, definido a partir da avaliação individual de cada caso.
-
 **Como faço pra saber se sou candidato ao Protocolo?**
 O primeiro passo é agendar uma avaliação com a Dra. Thalita, que vai pedir os exames necessários e conversar sobre o seu histórico antes de indicar qualquer tratamento.
+
+---
+
+### Grupo 2 — Sobre a Capucci Odontologia e a Dra. Thalita
+
+**Como funciona a consulta de avaliação?**
+A avaliação é feita pessoalmente com a Dra. Thalita, que analisa seu histórico, solicita os exames de imagem necessários e explica as possibilidades pro seu caso antes de qualquer decisão.
+
+**A clínica aceita convênio odontológico?**
+Não. O atendimento da Capucci Odontologia é exclusivamente particular. As condições de pagamento são apresentadas durante a consulta, junto com o plano de tratamento completo.
+
+**Onde fica a clínica e tem estacionamento por perto?**
+A Capucci Odontologia fica na R. Batávia, 259, no Parque Novo Oratório, em Santo André. Não há estacionamento privativo, mas há vagas gratuitas nas proximidades.
+
+**Qual a formação da Dra. Thalita?**
+A Dra. Thalita Capucci é especialista em Implantes pela FUNDECTO/USP, com atualizações em Endodontia e Estética Dental, e atuação como Perita Judicial em Odontologia.
+
+**Depois que o Protocolo fica pronto, quem continua acompanhando o caso?**
+A mesma profissional que planejou o tratamento. A Dra. Thalita mantém os retornos de acompanhamento, sem passar o caso pra outro dentista.
+
+**Já sou paciente de outro dentista. Posso trazer meu caso pra Capucci Odontologia?**
+Sim. A Capucci Odontologia solicita os exames já realizados, faz uma anamnese completa e registra tudo antes de dar continuidade ao caso.
+
+**Onde posso ver mais avaliações da Capucci Odontologia?**
+No perfil do Google Meu Negócio da clínica e nos destaques do Instagram @capucciodontologia.
+
+---
+
+**CTA FINAL:**
+Se a sua dúvida não está aqui, fale com a nossa equipe.
+"Tirar minha dúvida com a equipe" → WhatsApp
 
 ---
 
