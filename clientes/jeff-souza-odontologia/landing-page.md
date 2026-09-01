@@ -243,7 +243,7 @@ O que muda no atendimento com o Dr. Jeff
 - **Material indicado pela necessidade clínica do caso.** A escolha segue o que o diagnóstico pede, as melhores práticas recomendadas pela odontologia e o que faz sentido pra cada paciente.
 - **Equipe com um especialista por área.** Cirurgia, ortodontia e endodontia com profissionais dedicados, cada um na sua especialidade.
 - **26 anos de domínio técnico em prótese.** Leitura de caso construída desde o laboratório, antes mesmo da graduação em odontologia.
-- **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento.
+- **Acompanhamento pessoal pós-consulta.** O próprio Dr. Jeff entra em contato depois do atendimento pra saber como você está, se a recuperação está indo bem e se surgiu alguma dúvida.
 - **Agendamento pensado pro seu tratamento.** Os horários são organizados em cima do plano traçado pro seu caso, garantindo que o tratamento seja concluído por completo.
 
 **CTA:** nenhum nesta dobra.
@@ -374,7 +374,7 @@ A clínica ainda não possui acessibilidade. Há estacionamento disponível.
 Tudo começa na anamnese, que mapeia não só o dente, mas a rotina e o histórico do paciente numa conversa prévia. Isso evita procedimento surpresa, você sabe exatamente o que vai ser feito antes de sentar na cadeira, e o Dr. Jeff nunca indica algo que não seja necessário. O atendimento em si é conduzido de forma gradual, pra gerar o maior conforto possível.
 
 **A clínica oferece algum tipo de pós-tratamento ou garantia nos serviços realizados?**
-Sim. O acompanhamento não termina na consulta, o próprio Dr. Jeff entra em contato depois do atendimento. A garantia de cada tratamento é específica ao procedimento realizado.
+Sim. O acompanhamento não termina na consulta, o próprio Dr. Jeff entra em contato depois do atendimento pra saber como está a recuperação e se surgiu alguma dúvida. A garantia de cada tratamento é específica ao procedimento realizado.
 
 **Já estou em tratamento com outro dentista, mas gostaria de uma segunda opinião ou de trocar de clínica. Como vocês lidam com meu histórico?**
 Todo paciente novo passa pela mesma anamnese e diagnóstico documentado, independente do histórico anterior. Vale tanto pra quem nunca fez tratamento quanto pra quem já está em acompanhamento em outro lugar e quer uma segunda opinião.
