@@ -104,6 +104,50 @@ Condições de preço diferenciadas pra revenda, técnico autônomo e empresa, e
 
 ---
 
+## 5. Descrições dos itens de serviço sugeridos pelo Google
+
+Itens padrão que o painel do Google Meu Negócio sugere pra categoria de assistência técnica e ficam sem descrição por padrão. Prontos pra colar.
+
+**Assistência para aparelhos da Dell**
+Diagnóstico e reparo de notebook e computador Dell, incluindo reparo de placa-mãe, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Assistência para produtos Acer**
+Diagnóstico e reparo de notebook e computador Acer, incluindo reparo de placa-mãe, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Atualizações de computador**
+Upgrade de memória RAM e SSD em notebook e computador, pra deixar o equipamento mais rápido, feito por técnico especializado.
+
+**Conserto de laptop**
+Diagnóstico e reparo de notebook, do ajuste mais simples ao reparo eletrônico de placa-mãe, feito no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Instalação**
+Instalação de peças, periféricos e sistema operacional em notebook e computador, feita pela equipe técnica da Parceria Soluções.
+
+**Loja de TI**
+Venda de notebook seminovo revisado e testado, com garantia, na Parceria Soluções Informática em Fortaleza.
+
+**MacBook**
+Diagnóstico e reparo de MacBook, incluindo troca de tela, teclado e bateria, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+*(confirmar com o cliente se atendem Apple antes de publicar, não veio no briefing)*
+
+**Reparo e manutenção**
+Reparo e manutenção de notebook e computador, com diagnóstico completo antes do orçamento, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Samsung**
+Diagnóstico e reparo de notebook e computador Samsung, incluindo reparo de placa-mãe, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Serviço de conserto de aparelhos HP**
+Diagnóstico e reparo de notebook e computador HP, incluindo reparo de placa-mãe, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Serviço de conserto de aparelhos Positivo**
+Diagnóstico e reparo de notebook e computador Positivo, incluindo reparo de placa-mãe, no laboratório próprio da Parceria Soluções em Fortaleza.
+
+**Troca de tela**
+Troca de tela de notebook com peça compatível, feita no mesmo laboratório que faz o reparo de placa-mãe.
+
+---
+
 ## Pendências pra publicar
 
 1. Confirmar categorias exatas disponíveis no painel do Google Meu Negócio
