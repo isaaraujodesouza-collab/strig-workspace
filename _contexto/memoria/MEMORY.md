@@ -10,3 +10,4 @@
 - [Copy sem código](feedback_copy-sem-codigo.md) — pedido de reformulação de copy é só texto, nunca HTML/implementação junto
 - [Pautas escolhidas no ClickUp](feedback_pautas-escolhidas-clickup.md) — renomear as 7 subtasks pré-existentes (mantendo campo Editoria), notícia sempre em comentário na subtask
 - [Legenda: um tópico por linha](feedback_legenda-topico-por-linha.md) — quebrar tópicos/listas em linhas separadas, sem "erro comum:" seco
+- [Stories sobe na mão](feedback_stories-upload-manual.md) — nunca incluir stories no agendamento do /publicar-social, mesmo com arte pronta
