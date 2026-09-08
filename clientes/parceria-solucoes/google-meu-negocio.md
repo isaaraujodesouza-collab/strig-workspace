@@ -148,6 +148,33 @@ Troca de tela de notebook com peça compatível, feita no mesmo laboratório que
 
 ---
 
+## 6. Itens de serviço quase duplicados (Google sugere várias variações do mesmo termo)
+
+Descrições usando quase o limite de 300 caracteres, cada uma com um ângulo diferente pra não repetir texto entre itens parecidos.
+
+**Assistência Técnica de Informática** *(299 caracteres)*
+Assistência técnica de informática em Fortaleza, especialista em notebook. Reparo de placa-mãe, tela, teclado, bateria e carregador, upgrade de memória e SSD, além de conserto de PC e impressora, tudo feito no laboratório próprio da Parceria Soluções, com diagnóstico antes do orçamento.
+
+**Assistência Técnica de Notebook** *(291 caracteres)*
+Assistência técnica especializada em notebook em Fortaleza, com laboratório próprio equipado pra diagnóstico e reparo eletrônico de placa-mãe. Também fazemos troca de tela, teclado, bateria e carregador, reparo de carcaça e upgrade de memória e SSD, com prazo combinado e cumprido.
+
+**Assistência Técnica de Computadores** *(298 caracteres)*
+Assistência técnica de computador desktop em Fortaleza, com diagnóstico completo antes do orçamento. Reparo de placa-mãe, troca de periféricos, fonte de alimentação e gabinete, upgrade de memória e SSD, feito no laboratório próprio da Parceria Soluções, pra consumidor final e empresa.
+
+**Reparo de Computadores** *(286 caracteres)*
+Reparo de computador em Fortaleza, do diagnóstico à solução final. Reparo eletrônico de placa-mãe no componente, troca de fonte de alimentação, periféricos e gabinete, upgrade de memória e SSD, feito pela equipe técnica da Parceria Soluções, com prazo combinado e cumprido.
+
+**Reparo de Notebook** *(287 caracteres)*
+Reparo de notebook em Fortaleza, com diagnóstico completo antes do orçamento. Reparo eletrônico de placa-mãe no componente, troca de tela, teclado, bateria e carregador, upgrade de memória e SSD, feito no laboratório próprio da Parceria Soluções, com prazo combinado e cumprido.
+
+**Conserto de Notebook** *(289 caracteres)*
+Conserto de notebook em Fortaleza, com prazo combinado e cumprido. Da troca de tela, teclado, bateria e carregador ao reparo eletrônico de placa-mãe no componente, feito no laboratório próprio da Parceria Soluções, com diagnóstico antes do orçamento e atendimento a qualquer marca.
+
+**Conserto de Computador** *(294 caracteres)*
+Conserto de computador em Fortaleza, com diagnóstico completo antes do orçamento. Reparo de placa-mãe, troca de periféricos, fonte de alimentação e gabinete, upgrade de memória e SSD, feito pela equipe técnica da Parceria Soluções, com prazo combinado, pra consumidor final e empresa.
+
+---
+
 ## Pendências pra publicar
 
 1. Confirmar categorias exatas disponíveis no painel do Google Meu Negócio
